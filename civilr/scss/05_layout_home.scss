@@ -1,0 +1,40 @@
+.home {
+	padding-top: $spacing-large;
+	min-height: 100vh;
+	background: linear-gradient($color-primary, $color-secondary);
+	color: $color-background;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+	position: relative;
+	text-shadow: 1px 1px 1px $color-foreground;
+	margin-bottom: $spacing-large;
+}
+
+.home div,
+.home p {
+	z-index: 1;
+}
+
+.homeSplash {
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	opacity: .15;
+	z-index: 0;
+	pointer-events: none;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.homeProjectsSlider {
+	margin-top: $spacing-large;
+	padding: $spacing-normal;
+	width: 100%;
+	overflow: hidden;
+	overflow-x: auto;
+	white-space: nowrap;
+	text-shadow: none;
+}

@@ -1,0 +1,17 @@
+.header .contentBlock {
+	position: relative;
+}
+
+.logo {
+	position: absolute;
+	top: 50%;
+	left: $spacing-normal;
+	transform: translateY(-50%);
+}
+
+.header .contentBlock {
+	display: flex;
+	justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+}

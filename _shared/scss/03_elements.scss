@@ -1,0 +1,57 @@
+html {
+  font-size: $font-size-base;
+}
+
+body {
+  background: $color-background;
+  text: $color-foreground;
+  font-family: $font-family;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+  font-family: $font-family-heading;
+  line-height: 1;
+  margin: 0;
+  padding: 0;
+  a {
+    color: $color-foreground;
+    text-decoration: none;
+  }
+  a:hover, a:focus {
+    color: $color-primary;
+    text-decoration: underline;
+  }
+  * + & {
+    margin-top: $spacing-large;
+  }
+}
+
+h1, h2 {
+  font-size: $font-size-largest;
+}
+
+h3 {
+  font-size: $font-size-large;
+
+}
+
+p {
+  max-width: $max-paragraph-line-width;
+}
+
+* + p {
+  margin-top: $spacing-normal;
+}
+
+a {
+  color: $color-primary;
+  text-decoration: underline;
+}
+
+a:hover, a:focus {
+  color: $color-foreground;
+}

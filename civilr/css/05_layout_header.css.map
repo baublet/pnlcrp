@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,OAAQ,CACP,UAAU,CAAE,KAAK",
+"sources": ["../scss/05_layout_header.scss"],
+"names": [],
+"file": "05_layout_header.css"
+}

@@ -1,0 +1,38 @@
+.navigation {
+	margin: $spacing-small 0 0 $spacing-normal;
+	text-align: center;
+	overflow: hidden;
+	overflow-x: auto;
+	white-space: nowrap;
+	max-width: calc(100% - #{$spacing-normal} - #{$logo-width});
+}
+
+.navigation a {
+	font-size: $font-size-small;
+	display: inline-block;
+	padding: 0 0 $spacing-small;
+	text-decoration: none;
+	font-weight: bold;
+	color: $color-foreground;
+	position: relative;
+	margin: $spacing-smaller;
+	&:after {
+		display: block;
+		content: "";
+		position: absolute;
+		right: 0;
+		bottom: 0;
+		left: 0;
+		height: 3px;
+		background: $color-primary;
+		opacity: 0;
+		transform: translateY(15px);
+		transition: all .15s ease-in-out;
+	}
+}
+
+.navigation a:hover:after,
+.navigation a:focus:after {
+	opacity: 1;
+	transform: translateY(0);
+}

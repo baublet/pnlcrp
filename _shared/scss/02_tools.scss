@@ -1,0 +1,23 @@
+@mixin onDesktop() {
+  @media screen and (min-width: $mobile-breakpoint) {
+    @content;
+  }
+}
+
+@mixin onMobile() {
+  @media screen and (max-width: $mobile-breakpoint) {
+    @content;
+  }
+}
+
+.hideOnMobile {
+	@include onMobile() {
+		display: none;
+	}
+}
+
+.hideOnDesktop {
+	@include onDesktop() {
+		display: none;
+	}
+}

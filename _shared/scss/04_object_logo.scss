@@ -1,0 +1,21 @@
+.logoH1 {
+	font-size: $font-size-normal;
+	line-height: 1;
+	text-transform: uppercase;
+	display: inline-block;
+	width: $logo-width;
+}
+
+.logoLink {
+	display: block;
+	border: 3px solid $color-foreground;
+	line-height: 0;
+}
+
+.logoImage {
+	max-width: 100%;
+}
+
+.logo svg {
+	fill: fillCurrent;
+}

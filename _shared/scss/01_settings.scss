@@ -1,0 +1,27 @@
+$color-primary: #D50000;
+
+$font-size-base: 1.1em;
+$font-size-largest: 2.8rem;
+$font-size-large: 1.3rem;
+$font-size-normal: $font-size-base;
+$font-size-small: .8rem;
+
+$font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+
+$font-family-long-copy: "Roboto Slab", serif, $font-family;
+$font-family-heading: Roboto, + $font-family;
+
+$max-paragraph-line-width: 50em;
+
+$spacing-large: 2.5rem;
+$spacing-normal: 1rem;
+$spacing-small: .5rem;
+$spacing-smaller: .25rem;
+
+$max-body-width: 1280px;
+$mobile-breakpoint: 640px;
+
+$logo-width: 9rem;
+
+$color-foreground: #333;
+$color-background: #fcfcfc;

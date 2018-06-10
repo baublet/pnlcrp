@@ -1,0 +1,32 @@
+input,
+button,
+select {
+	font-size: $font-size-normal;
+	font-family: $font-family;
+}
+
+input {
+	border: 1px solid $color-foreground;
+	padding: $spacing-small;
+	font-size: $font-size-normal;
+	font-family: $font-family;
+	border-radius: 3px;
+}
+
+button {
+	color: $color-background;
+	padding: $spacing-small;
+	background: $color-primary;
+	border: 1px solid transparent;
+	border-radius: 3px;
+	font-weight: bold;
+}
+
+button:hover{
+	cursor: pointer;
+}
+
+button:hover,
+button:focus {
+	background: $color-foreground;
+}
