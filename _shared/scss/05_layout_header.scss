@@ -1,17 +1,30 @@
-.header .contentBlock {
-	position: relative;
+@include onMobile() {
+	.header {
+		background: linear-gradient(transparent 75%, rgba($color-foreground, .1));
+	}
 }
 
-.logo {
-	position: absolute;
-	top: 50%;
-	left: $spacing-normal;
-	transform: translateY(-50%);
+.header .contentBlock {
+	position: relative;
+	min-height: 100px;
+}
+
+@include onDesktop() {
+	.logo {
+		position: absolute;
+		top: 50%;
+		left: $spacing-normal;
+		transform: translateY(-50%);
+	}
 }
 
 .header .contentBlock {
 	display: flex;
-	justify-content: flex-end;
-    align-items: flex-end;
-    flex-direction: column;
+	flex-wrap: wrap;
+	@include onDesktop() {
+		justify-content: flex-end;
+	    align-items: flex-end;
+	    flex-direction: column;
+	    flex-wrap: nowrap;
+    }
 }

@@ -8,17 +8,16 @@
 }
 
 .header {
-  margin-top: $spacing-normal;
-  margin-bottom: $spacing-normal;
+  padding-top: $spacing-normal;
+  padding-bottom: $spacing-normal;
 }
 
 .body {
-  min-height: 100vh;
+  margin-top: $spacing-large;
   font-family: $font-family-long-copy;
 }
 
 .footer {
-  min-height: 100vh;
   background: $color-foreground;
   color: $color-background;
   padding: $spacing-large 0;

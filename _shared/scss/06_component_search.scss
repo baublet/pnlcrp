@@ -2,3 +2,25 @@
 .search--top button {
 	font-size: $font-size-small;
 }
+
+.search--top {
+	flex-grow: 1;
+	display: flex;
+	justify-content: flex-end;
+}
+
+.search--top .searchInput {
+	display: block;
+	margin-bottom: $spacing-smaller;
+	@include onDesktop() {
+		display: inline-block;
+		margin-bottom: 0;
+	}
+}
+
+.search--top .searchButton {
+	float: right;
+	@include onDesktop() {
+		float: none;
+	}
+}

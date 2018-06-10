@@ -1,38 +1,107 @@
 .navigation {
-	margin: $spacing-small 0 0 $spacing-normal;
-	text-align: center;
-	overflow: hidden;
-	overflow-x: auto;
+	width: 100%;
+	margin: $spacing-small 0;
+	position: relative;
+	@include onDesktop() {
 	white-space: nowrap;
-	max-width: calc(100% - #{$spacing-normal} - #{$logo-width});
+		margin: $spacing-small 0 0 $spacing-normal;
+		text-align: right;
+		overflow: hidden;
+		overflow-x: auto;
+		max-width: calc(100% - #{$spacing-normal} - #{$logo-width});
+	}
+}
+
+.navigation input {
+	display: none;
+}
+
+.navigation label {
+	position: absolute;
+	right: $spacing-normal;
+	bottom: -$spacing-normal;
+	z-index: 1;
+}
+
+@include onMobile() {
+	.navigation a {
+		margin: 0;
+		opacity: 0;
+		position: absolute;
+		+ a {
+			border-top: 1px solid rgba($color-foreground, .5);
+		}
+	}
+
+	.navigation input + label:after {
+		display: inline-block;
+		content: "\25bc";
+		padding-left: $spacing-small;
+		font-size: $font-size-small;
+		opacity: .5;
+	}
+
+	.navigation input:checked + label:after {
+		content: "\25b2";
+	}
+
+	.navigation input:checked ~ a {
+		opacity: 1;
+		position: relative;
+	}
 }
 
 .navigation a {
 	font-size: $font-size-small;
-	display: inline-block;
-	padding: 0 0 $spacing-small;
+	display: block;
+	padding: $spacing-small;
 	text-decoration: none;
 	font-weight: bold;
 	color: $color-foreground;
-	position: relative;
-	margin: $spacing-smaller;
-	&:after {
-		display: block;
-		content: "";
-		position: absolute;
-		right: 0;
-		bottom: 0;
-		left: 0;
-		height: 3px;
-		background: $color-primary;
-		opacity: 0;
-		transform: translateY(15px);
-		transition: all .15s ease-in-out;
+	@include onDesktop() {
+		position: relative;
+		display: inline-block;
+		padding: 0 0 $spacing-small;
+		margin: $spacing-smaller;
+		&:after {
+			display: block;
+			content: "";
+			position: absolute;
+			right: 0;
+			bottom: 0;
+			left: 0;
+			height: 3px;
+			background: $color-primary;
+			opacity: 0;
+			transform: translateY(15px);
+			transition: all .15s ease-in-out;
+		}
 	}
 }
 
-.navigation a:hover:after,
-.navigation a:focus:after {
-	opacity: 1;
-	transform: translateY(0);
+@include onDesktop() {
+	.navigation input,
+	.navigation label {
+		display: none;
+	}
+
+	.navigation a {
+		max-height: none;
+		opacity: 1;
+	}
+}
+
+navigation a:active,
+navigation a:focus {
+	background: $color-primary;
+	color: $color-background;
+}
+
+@include onDesktop() {
+	.navigation a:hover:after,
+	.navigation a:focus:after {
+		opacity: 1;
+		transform: translateY(0);
+		border: transparent;
+	}
 }

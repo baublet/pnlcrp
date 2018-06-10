@@ -1,5 +1,11 @@
 html {
   font-size: $font-size-base;
+  min-width: 320px;
+  overflow-x: auto;
+
+  @include onDesktop() {
+    font-size: $font-size-base-desktop;
+  }
 }
 
 body {
@@ -31,7 +37,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1, h2 {
-  font-size: $font-size-largest;
+  font-size: $font-size-larger;
+  @include onDesktop() {
+    font-size: $font-size-largest;
+  }
 }
 
 h3 {

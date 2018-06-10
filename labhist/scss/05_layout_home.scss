@@ -1,6 +1,5 @@
 .home {
 	padding-top: $spacing-large;
-	min-height: 100vh;
 	background: linear-gradient($color-primary, $color-secondary);
 	color: $color-background;
 	display: flex;
@@ -8,7 +7,9 @@
 	justify-content: flex-end;
 	position: relative;
 	text-shadow: 1px 1px 1px $color-foreground;
-	margin-bottom: $spacing-large;
+	@include onDesktop() {
+		min-height: 100vh;
+	}
 }
 
 .home div,
