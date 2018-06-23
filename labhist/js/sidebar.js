@@ -1,12 +1,17 @@
 var sidebar = document.querySelector(".sidebar"),
 	hammertime = new Hammer(sidebar)
 
-hammertime.on('swiperight', function(ev) {
+hammertime.on("swiperight", function(ev) {
 	if(!sidebar.classList) return
 	sidebar.classList.remove("shown")
 })
 
-hammertime.on('swipeleft', function(ev) {
+hammertime.on("swipeleft", function(ev) {
+	if(!sidebar.classList) return
+	sidebar.classList.add("shown")
+})
+
+hammertime.on("tap", function(ev) {
 	if(!sidebar.classList) return
 	sidebar.classList.add("shown")
 })

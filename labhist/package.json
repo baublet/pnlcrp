@@ -12,5 +12,6 @@
   "license": "BSD-2-Clause",
   "devDependencies": {
     "node-sass": "^4.9.0"
-  }
+  },
+  "dependencies": {}
 }

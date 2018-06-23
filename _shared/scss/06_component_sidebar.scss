@@ -1,3 +1,5 @@
+$sidebarOffset: 180px;
+
 .sidebar {
 	background: $color-background;
 	padding: $spacing-small;
@@ -11,7 +13,7 @@
 	width: 250px;
 
 	margin-top: -$spacing-large - $spacing-large;
-	margin-right: calc(-200px - #{$spacing-normal});
+	margin-right: calc(-#{$sidebarOffset} - #{$spacing-normal});
 	margin-left: $spacing-normal;
 
 	transition: all .075s ease-in-out;
@@ -30,7 +32,7 @@
 			pointer-events: none;
 		}
 		&.shown {
-			transform: translateX(-200px);
+			transform: translateX(-$sidebarOffset);
 			* {
 				pointer-events: auto;
 			}
