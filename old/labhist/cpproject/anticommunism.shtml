@@ -1,0 +1,67 @@
+<!--#include file="metaheader2.html"-->
+<title>Canwell UnAmerican Actitivities Hearings</title>
+
+</head>
+<body id="canwell">
+<table id="pagetable" border="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="http://depts.washington.edu/labhist/cpproject/logos/divide_rule6.jpg" usemap="#Map">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;">
+			<div id="navigation">
+			<!--#include file="menu.html"-->
+			</div>
+		</td>
+		<td>
+			<div id="content">
+			<h4>The 1948 Canwell UnAmerican Activities Hearings and Mark Jenkins' <em>All Powers Necessary and Convenient</em></h4>
+			<p><img src="/labhist/cpproject/images/canwell/all%20powers%20flag%20scene.jpg" width="356" height="225" class="right">Shortly after 10:00 a.m. on July  19, 1948, Albert F. Canwell, state representative from Spokane and chair of the Joint Legislative Fact-Finding Committee on Un-American Activities, called the session to order: &ldquo;Before we proceed, I wish to state that we will proceed with proper dignity here; no demonstrations will be tolerated, no speeches from the audience; any violation of that...will be summarily dealt with.&rdquo; So began five days of hearings on the issue of Communist activities at the University of Washington. The Canwell hearings would have wide and lasting consequences. Six tenured faculty members would  face sanctions from the University and three would lose their jobs. Other legislatures and other universities  followed the Washington example and began to look for radicals in the halls of academe. The Cold War Red Scare gained momentum.</p>
+			
+	
+			
+			<img src="/labhist/cpproject/images/canwell/canwell003.jpg" width="370" height="227" class="right">
+			<p>Fifty years later, in February, 1998, Seattle once again watched Albert Canwell and his committee hunt communists at the University of Washington, this time as part of a remarkable play written by Mark Jenkins. <em>All Powers Necessary and Convenient</em> took its title from the enabling legislation that created the Joint Legislative Fact-Finding Committee on Un-American Activities. Produced by the UW School of Drama and featuring a cast of nearly 30 actors, the play used actual testimony to recreate the tense drama of accusation, intimidation, and courage that had unfolded a half century earlier. Large audiences filled the playhouse theater for each performance and attended the lectures and other public events that accompanied the play. And it was quickly apparent  that something unique was happening. All Powers had brought history to life at an important moment, helping several generations come to terms with an important episode in their collective past.</p>
+			<h1>&nbsp;</h1>
+			
+			<p>
+<img src="/labhist/cpproject/images/headshots/canwell-vidpanel.jpg" width="283" height="231" class="right">This special section of the Communism in Washington State History and Memory Project focuses jointly on 1948 and 1998, on Albert Canwell and the hearings and also on Mark Jenkins and the play.  The links below include a videotaped 1994 interview with Albert Canwell; reports, documents, and photos of the 1948 Canwell hearings; materials about the the play; and videotaped &ldquo;survivor stories&rdquo; by those who lived through the events of 1948.</p>
+
+<ul style="list-style-type: square;">
+<li>	
+<a href="canwell_interview.shtml">Albert Canwell Interview: </a>In 1994 as he was beginning research for All Powers, Professor Jenkins videotaped an extensive  and revealing interview with Albert Canwell. That interview is presented here in excerpts delivered as streaming video.<br>
+</li>
+<li><a href="caughlan_interview.shtml">John Caughlan Interview: </a>The lead attorney for the defendants, Caughlan was a founder of the Seattle chapter of the Civil Rights Congress and devoted most of his legal career to defending radicals and civil rights activists. Mark Jenkins interviewed him in 1994. That interview is presented here in excerpts delivered as streaming video.<br>
+</li>
+<li>Canwell Hearings History: Here are reports and materials about the events of 1948<br>
+</li>
+ 
+
+<li>All Powers Necessary and Convenient: Here is the story of the remarkable play that touched lives and reawakened history. Read the preface and see photos and other materials from the performance and associated events.<br>
+</li>
+ 
+
+<li>Survivor Stories: An important discussion followed the February 15, 1998 performance. Mark Jenkins spoke briefly and then the audience talked, including many who took part in the events of 1948. Filmmakers Richard and ? Bartlett made a short video which we present here.</li></ul>
+		  </div>
+		</td>
+	</tr>
+	
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.shtml"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

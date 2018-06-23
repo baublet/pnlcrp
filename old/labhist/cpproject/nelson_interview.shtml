@@ -1,0 +1,50 @@
+<!--#include file="metaheader2.html"-->
+<title>Lonnie Nelson oral history</title>
+
+</head>
+<body id="about">
+<table id="pagetable" border="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="http://depts.washington.edu/labhist/cpproject/logos/divide_rule6.jpg" usemap="#Map">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;">
+			<div id="navigation">
+			<!--#include file="menu.html"-->
+			</div>
+		</td>
+		<td>
+			<div id="content">
+				<h1>Lonnie Nelson </h1>
+				<img src="images/banner790.png" id="x"  style="border:0px !important;" alt="Click to view other segments of this interview" title="Click to view other segments of this interview"><br>
+      			<iframe width="790" height="445" src="https://www.youtube.com/embed/tb7LS9ocnrI?list=PLrnclw6j_Mi9hNWpPelFPlvPUemrZ_Mwn" frameborder="0" allowfullscreen></iframe>
+ 	  			<p>Lonnie Nelson was born in Seattle in 1932. Her father was a union longshoreman and a member of the Communist Party. During the 1930s he organized unemployed workers through the CP's Unemployed Councils, participated in the 1934 West Coast maritime strike, and helped organize striking longshoremen in New Orleans. Nelson was witness to these and other struggles and credits that experience with inspiring her own activism on behalf of working peoples in later years. As a high school student in the late 1940s Nelson joined the Young Progressives and campaigned for Henry Wallace. In 1951, she too joined the Communist Party and has remained a dedicated communist throughout her life.</p>
+			  	<p>Nelson also became involved in civil rights activism in the late 1940s and early 1950s, protesting segregated housing, employment, and education. In 1966 she moved her family into Seattle's predominantly African American Central District in order to expose her children to interracial schooling and promote desegregation. While living in the Central District, Nelson organized community support for the Black Panthers. During the 1970s, Nelson was also involved in civil rights activism on behalf of Native Americans. Working as a news correspondent for the Communist Party's <em>The People's World</em> and the <em>Daily Worker</em>, she participated in the 1972 takeover of the Bureau of Indian Affairs building in Washington, D.C. and in the occupation of Wounded Knee the following year. In addition, she was a member of the CP's Commission on Indian Liberation and was active at the local level in the Nisqually's campaign to protect its treaty fishing rights in the late 1960s and early 1970s.    </p>
+			  	<p>Over the course of her professional life, Nelson has been a staunch advocate of unionization and the rights of workers. She worked in the food packing industry in the 1950s and 1960s and was an organizer for the Teamsters and the United Food and Commercial Workers. Later in her career, Nelson worked in the infant care center at Providence Hospital and was a member of the Service Employees International Union. She is also active in the national Coalition of Labor Union Women, founded in 1974. Retired since 1993, Nelson continued her activism through such organizations as Mothers for Police Accountability, Jobs with Justice, and the Communist Party until her death in 2014.</p>
+			  	<p>Lonnie Nelson shared memories of her activism in an interview
+				with Brian Grijalva and Gordon Black February 26, 2002. Video
+				editing by Daren Salter.</p>
+			<div style="clear:both;"></div>
+			</div>
+		</td>
+	</tr>
+
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.shtml"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

@@ -1,0 +1,97 @@
+<!--#include file="metaheader.html"-->
+<title>Lawcha conference</title>
+<link rel="stylesheet" type="text/css" href="xfade2_o.css" />
+<script type="text/javascript" src="xfade2.js"></script>
+<style type="text/css">
+<!--
+.greyboxnew {
+	background-color:#666;color:white;
+	padding:5px;
+	margin-bottom:5px;
+}
+
+.greyboxnew a, .redbox a:visited 
+{color:white;
+}
+.redboxnew {
+	background-color:#780000;color:white;
+	padding:5px;
+		margin-bottom:5px;
+}
+.redboxnew a, .redbox a:visited 
+{color:white;
+}
+.style20 {
+	font-size: xx-large;
+	font-weight: bold;
+}
+
+
+-->
+</style>
+</head>
+<body id="home">
+<table id="pagetable" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			  <a href="index.shtml"><img src="banner.jpg" width="100%" height="200" border="0"></a>
+			</div>
+		</td>
+	</tr>
+
+		<td>
+			<div id="content">
+			
+        	
+        
+
+			<div align="center">
+			  <p class="style20">Lodging options			</p>
+			</div>
+				<h2>Accommodations</h2>
+
+<p><strong>Lander Hall guests:</strong> The location is <a href="https://www.google.com/maps/place/Lander+Hall,+1201+NE+Campus+Pkwy,+Seattle,+WA+98105/@47.6556596,-122.3171995,17z/data=!3m1!4b1!4m5!3m4!1s0x549014f3ba755af3:0x942b03c21f9cc45e!8m2!3d47.655826!4d-122.3148976">1201 NE Campus Pkwy</a> in the University District, a short walk from the conference.  Rooms have towels, linens, and free wireless.  Lander Hall has dining facilities.  Here is more  about <a href="images/InfoSheet PLANNERS (1).pdf"> Lander hall accommodations</a>.</p>
+<p>Transportation instructions are <a href="arriving.shtml">here</a>. If you are driving, find a metered parking space near the Conference check-in Desk. You can purchase parking permits valid for  the entire stay  in nearby lots during check-in. The daily rate for parking in UW lots  is $15 Monday through Friday and $5  on Saturday from 7 am to noon. There is no charge to park after noon on  Saturday all day on Sunday.   Disability parking permits or other special parking accommodations should be  arranged in advance through Conference Services</p>
+
+<h2>Nearby Hotels
+</h2>
+<p>Nearby hotels are not unionized and rates will start around $200 per night plus 15.6% tax. They include the Watertown, and Hotel Deca, University Inn. There are several downtown hotels which operate under union contracts. They are about 20 minutes away by light rail or car. For a list, see UNITE HERE <a href="https://www.unitehere8.org/hotels/" target="_blank">Local 8’s listings</a>. </p>
+ 
+ <h2>Transportation
+</h2>
+<p>Here is <a href="arriving.shtml">information about how to get to Lander Hall and the UW campus</a>. </p>
+  
+</p>
+<div style="margin-bottom:10px;">
+			
+			
+       		
+			
+			
+   		  <p>&nbsp;</p>
+            
+			
+</div>
+
+  
+         
+		
+</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.html"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Seattle General Strike: Video Footage</title>
+<link href="strikestyles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" media="print" href="strikeprintstyles.css">
+</head><!-- OUTER PAGE TABLE-->
+<CENTER>
+
+<body>
+
+<div><img src="headerimages/strike-logo.jpg" alt="The 1919 Seattle General Strike" width="829" height="152" border="0" usemap="#pnlcrhp">
+  <map name="pnlcrhp">
+    <area shape="rect" coords="406,3,826,27" href="http://depts.washington.edu/labhist">
+  </map>
+</div>
+<!--#include file="menu.html" -->
+
+
+<div class="content">
+<p>Two videos narrate the strike. The first is a nine minute segment produced and shown on KCTS Channel 9 in 2012. Below that is an excerpt from <i>Witness to Revolution: The Story of Anna Louis Strong</i> </p>
+	
+	<div class="subheading"> KCTS 9: History Making--The Seattle General Strike </a>(9 min) </div>
+	 <p>
+     <iframe width="650" height="380" src="https://www.youtube.com/embed/nv1TOtm3CGE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+ </p>
+	 <p>Produced by<a href="http://video.kcts9.org/video/2319380112/"> KCTS Channel 9, Seattle,</a> initially broadcast December 28, 2012</p>
+
+	
+
+<div class="subheading"> Witness to Revolution: The Story of Anna Louise Strong </a>(excerpt) </div>
+<p>
+
+
+<iframe width="650" height="380" src="https://www.youtube.com/embed/efM5EsZPfbA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	
+	<p>
+ Produced and directed by Lucy Ostrander, the excerpt is part of an award-winning  documentary film biography of Seattle's most famous radical. <em>Witness to Revolution: The Anna Louise Strong Story</em> is available from <a href="http://stourwater.com/films/witness-to-revolution/">Stourwater Pictures</a>.</p>
+</div>
+
+
+ 
+
+     
+ 
+  <div><p>&nbsp;</p>
+  </div>
+
+
+
+
+
+</div>
+<div id="bottom"><!--#include file="footer.html" --></div>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+</html>

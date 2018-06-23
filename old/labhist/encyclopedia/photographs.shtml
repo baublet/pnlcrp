@@ -1,0 +1,114 @@
+<!--#include file="metaheader.html"-->
+<title>Photographs &amp; Films</title>
+<link rel="stylesheet" type="text/css" href="xfade2_o.css" />
+<script type="text/javascript" src="xfade2.js"></script>
+
+</head>
+<body id="photographs">
+<table id="pagetable" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="header_logo.jpg" width="1000" height="189" border="0" usemap="#pnlcrp">
+			<map name="pnlcrp">
+              <area shape="rect" coords="326,5,847,33" href="http://depts.washington.edu/labhist">
+            </map>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td width="201" style="vertical-align:top;background-color:black;">
+			<div id="navigation">
+			  <!--#include file="menu.html"-->
+			</div>
+		</td>
+		<td width="799">
+			<div id="content">
+			<h1>Photographs &amp; Films </h1>
+        <p>Here are collections of photographs, newsreels, and films depicting important aspects of the labor history of the Pacific Northwest. Click on an image below to be taken to a special thematic album.</p>
+    <table id="phototable">
+      <tr>
+        <td width="50%" ><a href="http://depts.washington.edu/labpics/zenPhoto/The-ILWU-and-Longshore-Workers/" target="_self"><img src="mages/photospage/1907%20loading%20masts308.jpg" alt="" width="308" height="235" border="0" /></a><br>
+          <p><br>
+          <a href="http://depts.washington.edu/labpics/zenPhoto/The-ILWU-and-Longshore-Workers/" target="_self"><strong>Waterfront Workers  Collections</strong></a><br>
+          <span class="summary">Here are more than 350 images from the private collections of Ronald Magden, ILWU Local 23, Ross Rieder, Lonnie Nelson, and Jean Gundlach. </span></p>
+        </td>
+        <td>
+		<div id="toprightvideo" style="float:none;">
+<!--[if !IE]> -->
+<object data="depress_newsreel.swf" type="application/x-shockwave-flash" width="315" height="240">
+<!-- <![endif]-->
+
+<!--[if IE]>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+  codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0"
+  width="315" height="240">
+  <param name="movie" value="depress_newsreel.swf" />
+<!--><!---->
+  <param name="loop" value="true" />
+  <param name="menu" value="false" />
+
+  <a href="http://www.adobe.com/go/getflashplayer"><img src="images/introvideo-noflash.jpg" alt="This video requires the Flash player." style="border:0px;margin-bottom:-3px;" title="This video requires the Flash player." /></a>
+
+</object>
+<!-- <![endif]-->
+<div style="font-family:Verdana, Arial, Helvetica, sans-serif;font-size:7pt;background-color:black;height:50px;margin:2px;color:#fff;">National Guard troops use tear gas on picketers in Tacoma during the 1935 timber workers strike (near what is today the University of Washington campus). Universal Newsreel, National Archives. Courtesy Ronald Magden </div>
+</div>
+         
+          <p><strong><a href="http://depts.washington.edu/dock/film1934.shtml" target="_blank">Films and Newsreel footage</a></strong>
+                          
+                <br>
+            <span class="summary">Here are two newsreel clips from Tacoma and Seattle and a short film about the 1934 Longshoreman's strike. Courtesy Ronald Magden. </span></p></td>
+      </tr>
+      <tr>
+        <td><p><a href="http://depts.washington.edu/dock/photos_canneries.shtml" target="_blank"><img src="mages/photospage/to-alaska-1939_372.jpg" alt="" width="307" height="245" border="0" /></a></p>
+          <p><a href="http://depts.washington.edu/dock/photos_canneries.shtml" target="_blank"><strong>Filipino Cannery Workers Collections</strong></a> <br>
+            <span class="summary">More than 200 photographs and documents from the Fred and Dorothy Cordova Pinoy Archives, Inland Boatman's Union collection, and Cindy Domingo Collection </span><span class="summary"></span></p></td>
+        <td><p><a href="http://depts.washington.edu/depress/hooverville_photographs.shtml"><img src="mages/photospage/hooverville307.jpg" alt="" width="307" height="245" border="0" /></a> </p>
+          <p><br>
+              <a href="http://depts.washington.edu/depress/hooverville_photographs.shtml" target="_blank"><strong>Photographs of Hoovervilles in Seattle and Tacoma</strong></a><br>
+              <span class="summary">Here are dozens of images of shanytowns and of the large Hoovervilles in Seattle and Tacoma</span>.</p></td>
+      </tr>
+      <tr>
+        <td><p><span class="summary">.</span>
+            <a href="http://depts.washington.edu/labpics/zenPhoto/1919_strike/" target="_blank"><img src="mages/photospage/strikersprepare307.jpg" alt="" width="307" height="239" border="0" /></a></p>
+          <p><a href="http://depts.washington.edu/labpics/zenPhoto/1919_strike/" target="_blank"><strong>Seattle General Strike photographs</strong></a><br>
+              <span class="summary"> 32 images of the events surrounding the Seattle General Strike of 1919 from Museum of History and Industry and University of Washington Library </span></p>
+          <p>&nbsp;           </p></td>
+        <td>
+          <a href="http://depts.washington.edu/labpics/zenPhoto/farmwork/" target="_blank"><img src="mages/photospage/Guillen-307.jpg" alt="" width="307" height="238" border="0" /></a>
+         <p><br>
+         <a href="http://depts.washington.edu/labpics/zenPhoto/farmwork/" target="_blank"><strong>Farm Workers Campaigns </strong></a><br>
+          <span class="summary">144 images of farm workers and union campaigns from the 1930s to the present. </span></p></td>
+      </tr>
+   <tr>
+        <td>
+          <p><a href="http://depts.washington.edu/labpics/zenPhoto/communism/" target="_blank"><img src="mages/photospage/wto.jpg" width="307" height="240" border="0"></a></p>
+       <p><a href="http://depts.washington.edu/labpics/zenPhoto/communism/" target="_blank"><strong>Communist Party Images and Documents</strong></a><br> 
+    <span class="summary">More than 600 photographs, artwork, documents and newspaper articles about the history of communism in the Pacific Northwest.</span></p></td>
+        <td>
+          <a href="http://depts.washington.edu/labpics/zenPhoto/depress/" target="_blank"><img src="mages/photospage/Lange_girl_240.jpg" alt="" width="312" height="240" border="0" /></a>
+         <p>
+         <a href="http://depts.washington.edu/labpics/zenPhoto/depress/" target="_blank"><strong>The <em>Great Depression in Washington State</em></strong></a><br>
+          <span class="summary">Hundreds of images from the 1930s</span></p></td>
+      </tr>
+    </table>
+            
+</div>
+	  </td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.html"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

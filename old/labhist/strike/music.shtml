@@ -1,0 +1,99 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Seattle General Strike: Music</title>
+<link href="strikestyles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" media="print" href="strikeprintstyles.css">
+<script type="text/javascript" src="swfobject.js"></script>
+<style type="text/css">
+<!--
+.style3 {font-size: 11pt}
+-->
+</style>
+</head><!-- OUTER PAGE TABLE-->
+<CENTER>
+
+<body>
+
+<div><img src="headerimages/strike-logo.jpg" alt="The 1919 Seattle General Strike" width="829" height="152" border="0" usemap="#pnlcrhp">
+  <map name="pnlcrhp">
+    <area shape="rect" coords="406,3,826,27" href="http://depts.washington.edu/labhist">
+  </map>
+</div>
+<!--#include file="menu.html" -->
+
+
+<div class="content">
+
+ <div class="heading"><em>Seattle 1919</em> - Musical Documentary </div>
+ <div class="intro">
+   <div class="style3" style="float:right;margin-top:7px;margin-left:7px;">   <p id="player1"><a href="http://www.macromedia.com/go/getflashplayer">Get the Flash Player</a> to see this player.</p>
+<script type="text/javascript">
+	var s1 = new SWFObject("mp3player.swf", "single", "240", "240", "7");
+	s1.addVariable("file","nothingmoves.mp3");
+	s1.addVariable("image","cover.jpg");
+	s1.addVariable("showdownload","true");
+	s1.addVariable("link","nothingmoves.mp3")
+	s1.addVariable("autostart","true")
+	s1.addVariable("alt","Album Cover")
+	
+	s1.write("player1");
+</script></div>
+    <span class="style3">The story of the Seattle General Strike has been told in many ways, but none more unique than the rock opera, <em>Seattle 1919</em>, recorded by The Fuse in 1985. Composed by Rob Rosenthal and produced by Mike Rawson and Rob Rosenthal, the album tells the story in 21 songs of a young Midwesterner, Peter Rinearson, who rides the rails to Seattle looking for work in the World War I shipyards. As the songs narrate his fictional but historically plausible tale, Peter explores working-class Seattle, meeting gamblers, sailors, and Wobblies and developing a friendship with Anna Louise Strong. He becomes involved first in the life of Seattle's Skid Road, then in the labor movement, joining in the great strike that shuts down the shipyards and the city. When the strike fails, Anna Louise Strong leaves Seattle while Peter stays on. He bids her goodbye and contemplates the future in  the final song (<i>'Til the High Tide Comes Again</i>) :
+     
+    </span>    <img style="float:left;margin-right:10px;margin-top:25px;" alt="The Songs" src="new_pa3.jpg" width="259" height="457" hspace="10" border="0" >
+   <p><br>
+     <i>Sometimes you stand and fight them<br>
+       And sometimes you have to bend<br>
+       But hold on to your sweet dreams<br>
+       'til the high tide comes again<br>
+    'til the high tide comes again.    </i></p>
+   
+    <p>&nbsp;    </p>
+    <p>&nbsp; </p>
+    <table width="400" border="1" align="center" cellpadding="4">
+      <tr>
+        <td><span class="style3">The double album rock opera can be purchased from Fuse Music, 14 Red Glen Road, Middletown, CT 06459 (email: Rob Rosenthal rrosenthal@mail.wesleyan.edu). </span></td>
+      </tr>
+    </table>
+    <p>&nbsp;    </p>
+    <div style="clear:both;"></div>
+ 
+
+  
+ 
+  </div> 
+ <div class="subheading">The Story Behind the Music </div>
+ 
+ 
+ 
+ 
+  <div><br><div class="img-shadow">
+  <img src="new_pa2.jpg" width="408" height="278" border="0" alt="Band Lineup">
+  <div class="caption" style="width:406px;">The FUSE: (left to right) Billy Bowne, Stephen Molle, Terry Neal Barham, Rob Rosenthal, Jonathan Paulk, Diane Matsinger, Michael Ledbetter.</div>
+   </div>
+    <p><em>Seattle 1919</em> grew out of research that Rob Rosenthal had undertaken for an MA thesis in Sociology at the University of California, Santa Barbara. Completed in 1980, &quot;After the Deluge: The Seattle General Strike of 1919 and its Aftermath&quot; explores the legacy of the great strike. Rosenthal went on to complete his PhD and currently is a Professor of Sociology at Wesleyan University.
+</p>
+    <p>But in the early 1980s he decided to create a musical documentary of the strike. Here he tells the story of how the songs were written and the album produced:
+    
+    </p>
+    <p align="left">&quot;I began thinking about the Strike as a topic for songs almost from the moment I first read about it while in college. I was academically and politically interested in working-class struggles, and general strikes in particular, and so completely taken by the SGS as the most successful general strike in US history. It seemed to embody the (best) qualities I found in rock 'n' roll: defiance, excitement, rebellion, etc.<a href="rosenthal.shtml"> [more] </a></p>
+    <div style="clear:both;"></div>
+  </div>
+<div class="subheading">The Songs </div>
+<font face="arial,helvetica"></font>Here are the lyrics of three songs as they appear on the album
+<p><img src="images/running1-300.jpg" alt="Lyrics" width="299" height="522" border="1"> <img src="images/shut12-300.jpg" width="301" alt="Lyrics" height="301" hspace="4" border="1" align="top"></p>
+<p><img src="images/caught19-300.jpg" alt="Lyrics" width="301" height="516" border="1"></p>
+ <div></div>
+
+</div>
+<div id="bottom"><!--#include file="footer.html" --></div>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+</html>

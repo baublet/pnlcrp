@@ -1,0 +1,67 @@
+<!--#include file="metaheader2.html"-->
+<title>Red Scare in Washington State</title>
+
+<style type="text/css">
+.style1 {	color: #000000;
+	font-style: italic;
+}
+</style>
+</head>
+<body id="redscare">
+<table id="pagetable" border="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="http://depts.washington.edu/labhist/cpproject/logos/divide_rule6.jpg" usemap="#Map">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;">
+			<div id="navigation">
+			<!--#include file="menu.html"-->
+			</div>
+		</td>
+		<td>
+		  <div id="content">
+			<h1>Red Scare Campaigns, Surveillance, Hearings, and Anti-communist Investigations</h1>
+			<p>The Communist Party was under surveillance from the moment of its birth. No other organization in the history of the United States or in the history of Washington State has been subjected to the same level of official hostility, fanned by the double fear that Communists were not only dangerous radicals but also might be working for a foreign power. From 1920 through the 1960s,the Communist Party was the number one public enemy, targeted by law enforcement from the FBI to local police, targeted by prosecutors who jailed Party members by the hundreds, targeted by politicians who  launched endless investigations, and by right-wing groups who encouraged  violence and intimitation. </p>
+			<p>Washington State shares this  history of anti-communist campaigns, beginning in the 1920s when state officials and local police  took  steps to supress the young communist movement. The links below lead to official transcripts of three different sets of government investigations. They provide a window into the tactics of investigators and also information (not necessarily accurate) about the communist movement and real and alleged members. </p>
+			
+			<h2> <a href="fish-hearings.shtml">The U.S. Congress Special Committee on Communist Activities in Washington State Hearings (1930) </a></h2>
+			<p>Two decades before the more notorious Congressional hearings on “un-American activities” led by Senator Joseph McCarthy, U.S. Representative Hamilton Fish organized a special Congressional committee to investigate Communism in states and cities across the nation. In October 1930, the Fish committee held hearings in Seattle. They called sixteen witnesses including representatives of the Seattle police department, King County prosecutor, and employers and timber industry officials who claimed that Communists were a threat to public safety in Washington state. In addition, the committee subpoened five members or suspected members of the Communist Party. <a href="fish-hearings.shtml">Here are tthe transcripts.</a> </p>
+			<p>&nbsp;</p>
+			<h2><a href="canwell_hearings.shtml">Canwell Hearings and Investigations by the Legislature's UnAmerican Activities Committee (1948) </a></h2>
+			<ul style="list-style-type: square;">
+
+              <p>In 1948, a joint committee of the Washington State Legislature chaired by Albert F. Canwell (R-Spokane) held public hearings intended to expose the activities of communists in Washington State. The Committee compelled testimony from more than eighty witnesses in two sets of hearings held in Seattle. The initial sessions  focused on communist influence in the Washington Commonwealth Federation and the Washington Pension Union, an advocacy group that had won increased social security benefits for seniors and pensions for single mothers. Six months later the  Canwell committee recovened to investigate communists at the University of Washington. Here are <a href="canwell_testimony.shtml">full transcripts and witness list</a>s from the hearings, <a href="canwell_photos.php">photographs and documents</a>, and key oral histories including videotaped interviews with <a href="canwell_interview.shtml">Albert Canwell </a>and defendant's attorney <a href="caughlan_interview.shtml">John Caughlan</a>.</p>
+              <p>&nbsp;</p>
+			</ul>
+		  
+		  <h2><a href="HUAC%20hearings.shtml">Seattle HUAC Hearings 1954, 1955, 1956 </a></h2>
+		  <p>U.S. Congress House Unamerican Activities Committee travelled to Seattle for three sets of hearings in the mid 1950s, demanding testimony from suspected Communists and threatening to imprison those who refused to answer questions about their own political activities and the lives of others. Here is the complete record of these investigations including testimony by Eugene Dennett, Barbara Hartle, Burt Nelson, Howard Costigan, and many others: <a href="HUAC%20hearings.shtml">The transcripts</a>. </p>
+		  <p>&nbsp;</p>
+		  <h2><a href="SmithAct.shtml">Smith Act Trials: The Seattle Seven Prosecutions
+			</a></h2>
+		  
+          <p> In an attempt to destroy the leadership of the Communist Party, the Justice Department initiated a wave of prosecutions under the Smith Act which made it a crime to advocate the overthrow of the US government. In 1952 seven suspected leaders of the Washington Communist Party were charged and after a six month long trial most were convicted and sentenced to long prison terms. This report by Jesse DeLauder details the trial and constitutional issues. </p>
+          <p>&nbsp;</p>
+			</div>
+		</td>
+	</tr>
+	
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.shtml"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

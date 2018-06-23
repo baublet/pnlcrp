@@ -1,0 +1,232 @@
+html, body, p,  font, 
+  {
+	
+line-height: 1.4;
+}
+
+
+.outerbackground { background-color: #D8D8D8; } 
+
+.vidnavlinks {
+	padding:10px;
+	color:black;
+	background-color:#E8E8E8;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	width: 300px;
+	height:306px; 
+	overflow:auto;
+}
+
+* html .vidnavlinks{
+width:320px; /* msie5 (include padding and borders) */
+	w\idth: 320px; /* msie6 */
+}
+
+
+.vidnavdividers {
+	font-weight:bold;
+	color:black;
+	background-color:#E8E8E8;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+
+.vidnavlinks img {
+	border-width:0px;
+	vertical-align:middle;
+	margin-right:5px;
+	
+}
+
+.vidnavlinks a,
+.vidnavlinks a:link {
+	color:black;
+	text-decoration:none;
+	border-bottom:none;
+}
+
+.bio { 
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	text-align:justify;
+}
+
+.caption { 
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	margin-left:2px;
+	text-align:left;
+}
+
+.indent { 
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	margin-left:20px;
+	
+}
+
+.horizontallinks {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:8pt;
+	}
+	
+.leftnavbox {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height:18px;
+	background-color: #F5D2A3;
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-left:5px;
+	width: 147px;
+	color:#000000;
+	text-decoration:none;
+}
+.leftnavbox a, .leftnavbox a:link, .leftnavbox a:visited, .leftnavbox a:active {
+	text-decoration:none;
+	color:#000000;
+
+	}
+.leftnavbox a:hover {
+	text-decoration:underline;
+        color:#800000;
+}
+.leftnavsearch {
+	height:18px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color:#ffffff;
+	border-color:#800000;
+	border-width:1px; 
+	border-style:solid;
+	width:100px;	
+}
+.leftnavbutton {
+	height:18px;
+	background-color:#F5D2A3;
+	border:1px solid #800000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	filter:progid:DXImageTransform.Microsoft.Gradient (GradientType=0,StartColorStr='#ffffffff',EndColorStr='#ffeeddaa');
+}
+
+input.leftnavbuttonhover {
+   border-top-color:#c63;
+   border-left-color:#c63;
+   border-right-color:#930;
+   border-bottom-color:#930;
+   }
+
+
+.leftnavbox hr { 
+      border-top: 1px  #800000;
+      color:#800000;
+      background-color: #F5D2A3;
+      height: 1px;
+	  position:relative;
+	  right:3px;
+} 
+
+.content120 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-style: normal;
+	line-height: 120%;
+}
+
+.arial8 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	font-style: normal;
+	line-height: normal;
+}
+
+.arial9 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	font-style: normal;
+	line-height: normal;
+}
+
+
+.arial10 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-style: normal;
+	line-height: normal;
+}
+.arial10_red {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	line-height: normal;
+	color: #800000;
+}
+
+.arial-11 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+	font-style: normal;
+	line-height: normal;
+}
+.arial12 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	font-style: normal;
+	line-height: 120%;
+}
+.head14 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14pt;
+	line-height: normal;
+}
+.head18 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18pt;
+	font-style: normal;
+	line-height: normal;
+}
+.head24 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24pt;
+	font-style: normal;
+	line-height: normal;
+}
+.arial12_red {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	line-height: normal;
+	color: #800000;
+}
+
+
+
+.rightcap {
+text-align: left;
+text-indent: 0px;
+position:relative;
+float:right;
+font-size:12px;
+background-color:black;
+color:white;
+line-height:120%;
+padding:5px;
+margin-bottom:5px;
+margin-left:5px;
+-moz-border-radius-bottomleft: 5px;
+-moz-border-radius-bottomright: 5px;
+-webkit-border-bottom-left-radius: 8px;
+-webkit-border-bottom-right-radius: 8px;
+border-bottom-left-radius: 8px;
+border-bottom-right-radius: 8px;
+-webkit-box-shadow: 5px 5px 5px #888;
+box-shadow: 5px 5px 5px #888;
+-moz-box-shadow: 5px 5px 5px #888;
+}
+
+
+.rightcap a, .rightcap a:visited {
+color:white;
+text-decoration:none;
+border-bottom:1px solid #780000;
+}

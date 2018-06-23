@@ -1,0 +1,145 @@
+<!--#include file="metaheader.html"-->
+<title>Communism in Washington State: Marc Brodine Oral History</title>
+
+<script type="text/javascript" language="JavaScript">
+function swap(url){ 
+
+var vidurls=new Array();
+vidurls[0]=""
+vidurls[1]="bro_1born_256k.wmx";
+vidurls[2]="bro_2youth_256k.wmx";
+vidurls[3]="";
+vidurls[4]="bro_6sixties_256k.wmx"
+vidurls[5]="bro_3early_256k.wmx";
+vidurls[6]="bro_4cuba_256k.wmx";
+vidurls[7]="bro_5war_256k.wmx";
+vidurls[8]="";
+vidurls[9]="bro_9topdown_256k.wmx";
+vidurls[10]="bro_8structure_256k.wmx";
+vidurls[11]="";
+vidurls[12]="bro_10press_256k.wmx";
+vidurls[13]="bro_7unity_256k.wmx";
+
+	document.getElementById("oralvid").innerHTML= '<embed type="application/x-mplayer2" src="/labhist/vid/' + vidurls[url] + '" showStatusBar="true" showControls="true" height="305" width="320"><\/embed>';
+	}
+</script>
+
+
+</head>
+<body id="oralhistory">
+<table id="pagetable" border="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="http://depts.washington.edu/labhist/cpproject/logos/divide_rule6.jpg" usemap="#Map" alt="Communism in Washington State">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;">
+			<div id="navigation">
+			<!--#include file="menu.html"-->
+			</div>
+		</td>
+		<td>
+			<div id="content">
+			<h1>Marc Brodine</h1>
+			
+			
+			
+		  <div style="float:right; margin-left:10px; width:320px;">   
+
+		  <div style="width:320px; height:305px;" id="oralvid"><img src="/labhist/cpproject/images/brodine-vidpanel.JPG" alt="Interviewee" width="320" height="306"></div>
+
+		  <div class="vidnavlinks">
+
+		  
+
+		 
+
+	<script type="text/javascript">
+
+
+
+var vidtitles=new Array()
+
+
+vidtitles[0]="+Early Life"
+
+vidtitles[1]="&quot;I grew up with a political bent.&quot;"
+
+vidtitles[2]="Brodine was officially introduced to the party through political youth organizations."
+
+vidtitles[3]="+Early Party Activities"
+
+vidtitles[4]="Political consciousness in the 1960s, Brodine says, created many different ideologies and strategies within the left."
+
+vidtitles[5]="As a young party member, Brodine helped organize youth political movements, anti-war demonstrations, and civil rights activities."
+
+vidtitles[6]="In 1970, Brodine traveled to Cuba as part of the Venceremos Brigade."
+
+vidtitles[7]="In the late 1960s and early 1970s, Brodine became active in the anti-war movement."
+
+vidtitles[8]="+Communist Party Structure"
+
+vidtitles[9]="&quot;There&rsquo;s been lots of room for argument and discussion, and there&rsquo;s been a heavyhand...and you can&rsquo;t say it&rsquo;s one or the other, or one is prevalent...they're both part of what we've been.;"
+
+vidtitles[10]="&quot;There's a saying I have...unity is not unanimity.:&quot;"
+
+vidtitles[11]="+Afterthoughts"
+
+vidtitles[12]="Through his political activism, Brodine has learned that the press can&rsquo;t always be counted on to be accurate."
+
+vidtitles[13]="&quot;There's still today a strain in this country, of liberal thought, that says what was wrong about McCarthyism was that a lot of innocent people got targeted...as if it was o.k. for the communists to get targeted:&quot;"
+
+
+
+for (i=0;i<vidtitles.length;i++)
+
+{
+
+	if (vidtitles[i].indexOf('+') !=-1)
+
+			{
+
+			document.write("<span class=\"vidnavdividers\">" + vidtitles[i].substring(1) + "<\/span><br /><br />")
+
+			}
+
+		else
+
+			{
+
+			document.write("<a href=\"javascript:swap('" + i + "')\"><img style=\"border:none;\" src=\"/labhist/cpproject/images/speakericon.gif\" alt=\"Film Icon\">" + vidtitles[i] + "<\/a><br /><br />")
+
+			}
+
+	
+
+}
+
+
+
+                      </script>
+       	      </div></div>
+
+		  	<p>Marc Brodine has been a member of the Communist Party of Washington State for over 40 years.  
+</p><p>
+
+ He was born in St.Louis in 1962 and raised in an activist family headed by his parents, Virginia and Russell Brodine. In 1968, Brodine moved to Seattle. Two years later, in 1970, he visited Cuba as part of the 2nd Venceremos Brigade. Brodine was a conscientious objector during the Vietnam War and worked in hospitals as an alternative to military service. During this time he co-chaired the Seattle People's Coaltion for Peace and Justice and was active in the Young Worker's Liberation League. He also joined  Local 1488 of the Washington Federation of State Employees. In 1980, Brodine was campaign manager for Marion Kinney in her run for the state legislature on the Communist Party ticket. He succeeded BJ Mangoang as chair of the Washington State Communist Party  in 2001 and that same year was elected to the CPUSA National Committee at the Party's 27th annual convention.
+</p><p>Today, Brodine remains Chair of the Washington State CP. He is a contributor to <em>Political Affairs</em> and the <em>People's Weekly World</em> and serves on the CP National Committee's Environmental Commission.</p><P>           
+		  	Marc shared his memories of the Communist Party, McCarthyism, the New Left, and other topics in a videotaped interview conducted by Paul Landis and Marian Spath on February 25, 2002. To the right are streaming video clips from the interview available in windows media format. A high speed connection is recommended for viewing them.            
+  </p>       
+	          <div style="clear:both;"></div>   
+		  </div>
+	</td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.shtml"-->	</div>
+		</td>
+	</tr>
+</table>
+</body>
+<!--#include file="metafooter.html"-->

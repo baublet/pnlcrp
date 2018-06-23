@@ -1,0 +1,109 @@
+<!--#include file="metaheader.html"-->
+<title>Mapping Labor History</title>
+<link rel="stylesheet" type="text/css" href="xfade2_o.css" />
+<script type="text/javascript" src="xfade2.js"></script>
+</head>
+<body id="maps">
+<table id="pagetable" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="header_logo.jpg" width="1000" height="189">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;background-color:black;">
+			<div id="navigation">
+			  <!--#include file="menu.html"-->
+			</div>
+		</td>
+		<td>
+			<div id="content">
+			<h1>Mapping the Labor History of the Pacific Northwest</h1>
+        <p>&nbsp;</p>
+        <table width="760" border="0" cellspacing="0" cellpadding="0">
+		<tr>
+            <td>
+			<h2>&nbsp;</h2>
+			<h3><span class="rightcap" style="width:402px;"><a href="map_Seattle_race.shtml"><img src="images/maps/combined-402.jpg" width="402" height="216"border="0"></a></span><a href="http://depts.washington.edu/labhist/strike/map.php">Seattle's General Strike of 1919 </a></h3>
+            <p>Many of the events of January and February 1919 took place in the downtown and waterfront sections of Seattle. Click on the map below to see photographs of strike events, and to see the offices and headquarters of the Central Labor Council, Union Record, Metal Trades Council, IWW, Socialist Party, Cooperative Union Market, Japanese Labor Association, and other unions and cooperatives. <BR> 
+              </p></td>
+          </tr>
+          <tr>
+            <td><h3><span class="rightcap" style="width:402px;"><a href="hooverville_map.shtml"><img src="images/maps/map_hoovervilles400.JPG" width="400" height="250" border="0"></a><br>
+  Click to see map and photos </span><a href="hooverville_map.shtml">Seattle's Hoovervilles and shack towns</a> </h3>
+              <p>Here are the locations of eight shack towns that housed homeless people in the Seattle area in the 1930s. The largest, known as &quot;Hooverville,&quot; was on Elliot Bay near the present site of Qwest stadium. Click to see this interactive google map and accompanying photos and descriptions of each site. </p></td>
+          </tr>
+		    <tr>
+            <td>
+			<h2>&nbsp;</h2>
+			<h3><span class="rightcap" style="width:402px;"><a href="map_Seattle_race.shtml"><img src="images/maps/combined-402.jpg" width="402" height="216"border="0"></a></span><a href="map_Seattle_race.shtml">Seattle's Racial and Ethnic Populations</a></h3>
+            <p>Here are maps showing the residential distribution of African Americans, Japanese Americans, Norwegian Americans, Italian Americans, German Americans, and several other ethnic groups in Seattle. Click to see maps and read about each population. </p></td>
+          </tr>
+          <tr>
+            <td>
+			<h2>&nbsp;</h2>
+			<h3><span class="rightcap" style="width:402px;"><a href="map_Seattle_race.shtml"><img src="images/maps/combined-402.jpg" width="402" height="216"border="0"></a></span><a href="http://depts.washington.edu/labhist/strike/map.php">Seattle's General Strike of 1919 </a></h3>
+            <p>Many of the events of January and February 1919 took place in the downtown and waterfront sections of Seattle. Click on the map below to see photographs of strike events, and to see the offices and headquarters of the Central Labor Council, Union Record, Metal Trades Council, IWW, Socialist Party, Cooperative Union Market, Japanese Labor Association, and other unions and cooperatives. <BR> 
+              </p></td>
+          </tr>
+		    <tr>
+            <td>
+			<h2>&nbsp;</h2>
+			<h3><span class="rightcap" style="width:402px;"><a href="map_Seattle_race.shtml"><img src="images/maps/combined-402.jpg" width="402" height="216"border="0"></a></span><a href="http://depts.washington.edu/labhist/strike/map.php">Seattle's Longshore Workers History 1886 to 1972</a></h3>
+            <p>This interactive map shows the location of key events in the history of Seattle waterfront workers beginning in 1886. Click the markers to see photos and descriptions of each event. <BR> 
+              </p></td>
+          </tr>
+		   <tr>
+            <td>
+			<h2>&nbsp;</h2>
+			<h3><span class="rightcap" style="width:403px;"><span class="rightcap" style="width:403px;"><a href="map_WPA.shtml"><img src="images/maps/wpa%20map400.JPG" width="399" height="252" border="0"></a></span></span><a href="map_WPA.shtml">Major Public Works Projects in Washington State </a></h3>
+            <p>This interactive map shows the location of a selection of bridges, dams, highways, airports, and other major construction projects built by the Public Works Administration and the Works Progress Administration during the 1930s. Click the pins to see pictures and learn about projects Zoom closer using the google tools. </p></td>
+          </tr>
+               
+		 
+		    <tr>
+            <td>
+			<h2>&nbsp;</h2>
+			<h3><span class="rightcap" style="width:403px;"><a href="map_public_works.shtml"><img src="images/maps/map_public_works400.JPG" width="400" height="250" border="0"></a></span><a href="map_public_works.shtml">New Deal Public Works Projects in King County</a></h3>
+            <p>This interactive map shows the locations and photos of  federally funded public works projects in King County in 1933 and 1934. Included are construction projects, food and clothing banks, park and landscaping work. Click to see this map and accompanying photos and descriptions of each site. </p></td>
+          </tr>
+		  <tr>
+            <td>
+			<h2>&nbsp;</h2>
+			<h3><span class="rightcap" style="width:399px;"><a href="map_UCL.shtml"><img src="images/maps/UCL%20branches400x260.JPG" width="399" height="260" border="0"></a></span></span><a href="map_UCL.shtml">Unemployed Citizens League Seattle Branches </a></h3>
+            <p>This interactive map shows the Seattle locations of the  the Unemployed Citizens League which established self-help commissaries and demanded jobs and relief services for the unemployed.  The politically powerful organization enrolled thousands of members from 1931-1934. Click to see this map and accompanying photos and descriptions of each site. </p></td>
+          </tr>
+		     <tr>
+            <td>&nbsp;</td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+       
+  
+		
+		  <DIV closure_hashCode_3b6fok="7">
+              <DIV closure_hashCode_3b6fok="6">
+                <DIV class=msMapTitle closure_hashCode_3b6fok="5">
+                  <DIV dir=ltr class=title align=left>
+                    <h2>&nbsp;</h2>
+                  </DIV>
+                </DIV>
+              </DIV>
+            </DIV>
+            <DIV></DIV>
+            <DIV class=flag></DIV>
+            <p>&nbsp;</p>
+          </div>
+	  </td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.html"-->			</div>
+		</td>
+	</tr>
+</table>
+</body>
+<!--#include file="metafooter.html"-->

@@ -1,0 +1,107 @@
+<!--#include file="metaheader.html"-->
+<title>Mapping Washington Labor and Civil Rights Movements</title>
+<link rel="stylesheet" type="text/css" href="xfade2_o.css" />
+<script type="text/javascript" src="xfade2.js"></script>
+<style type="text/css">
+<!--
+.greyboxnew {
+	background-color:#666;color:white;
+	padding:5px;
+	margin-bottom:5px;
+}
+
+.greyboxnew a, .redbox a:visited 
+{color:white;
+}
+.redboxnew {
+	background-color:#780000;color:white;
+	padding:5px;
+		margin-bottom:5px;
+}
+.redboxnew a, .redbox a:visited 
+{color:white;
+}
+.style20 {
+	font-size: xx-large;
+	font-weight: bold;
+}
+.style21 {font-size: 10pt}
+
+
+-->
+</style>
+</head>
+<body id="home">
+<table id="pagetable" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			  <a href="index.shtml"><img src="banner.jpg" width="1000" height="190" border="0"></a>
+			</div>
+			 <!--#include file="menu-top.shtml" -->
+		</td>
+	</tr>
+
+		<td>
+			<div id="content">
+			
+        	
+        
+
+			<div align="center">
+			   <p class="style20">Washington State Votes by  Counties 1892-1968</p>
+		  </div>
+			  <div>
+ 
+            
+            <p>Independent radical or progressive parties have at times been influential in Washington State. In the 1890s, the People's Party elected candidates to local and state offices, most importantly John R. Rogers who was elected governor in 1896 on a Populist-Democratic fusion ticket. The Socialist Party became increasingly effective in elections after 1904, winning some local offices and securing more than 40,000 votes for Eugene Debs in the 1912 presidential campaign. In that same election, Teddy Roosevelt, running as a candidate of the Progressive Party, carried the state. In 1920, radicals launched a the Farmer Labor Party in Washington and several other states. Running for governor, Seattle labor leader Jimmy Duncan gained more than 120,000 votes, coming in second ahead of the Democratic candidate. Four years later, with Socialist Party backing, Senator Robert LaFollette secured 146,000 votes running under the Progressive Party banner for President. Socialist and Communist candidates continued to appear on the ballot though the 1940s but the electoral energies of radicals had shifted to the Washington Commonwealth Federation and its campaign to take over the Democratic Party. The last significant third party effort took shape in 1944 when former Vice President Henry Wallace challenged Harry Truman and Wendel Wilkie with a new Progressive Party that was energetically backed by the Communist Party. He gained only 31,000 votes in Washington. Also disappointing was the attempt to win votes for the Peace and Freedom Party, that had been launched in California in 1968. Less than 2,000 voters responded to the last minute campaign. </p>
+            <p>These and other campaigns are captured in the maps below that combine votes for all progressive and radical parties to assess the strength of radical support from 1892 to 1968. Another map moves shows the shifting balance between Republicans and Democrats across the same decades. These maps are hosted by <a href="https://public.tableau.com/profile/mapping.social.movements#!/">Tableau Public</a> and may take a few seconds to respond. If slow, refresh the page.</p>
+		  <h3><center>Move between six maps below</center></h3>
+<div class='tableauPlaceholder' id='viz1525802959150' style='position: relative'><noscript><a href='http:&#47;&#47;depts.washington.edu&#47;labhist&#47;maps-votes.shtml'><img alt='Story 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wa&#47;Washingtonvotes1892-1968&#47;Story1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Washingtonvotes1892-1968&#47;Story1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wa&#47;Washingtonvotes1892-1968&#47;Story1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1525802959150');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+<p><strong>Notes:</strong>   </p>
+<p><strong>Sources:</strong> Vote charts and maps are based on data from Inter-university Consortium for Political and Social Research. United States Historical Election Returns, 1824-1968 [Computer File]. ICPSR00001-v3. Ann Arbor, MI: Inter-university Consortium for Political and Social Research [distributor], 1999-04-26. http://doi.org/10.3886/ICPSR00001.v3.</p>
+<p><strong>Research and data compilation:</strong> James Gregory</p>
+          </p>
+<p><strong>Maps:</strong> James Gregory</p>
+  
+		
+
+		</table>
+		</td>
+	</tr>
+		
+			 
+			
+			
+			<div style="margin-bottom:10px;">
+			
+			
+       		
+			
+			
+       		
+			
+</div>
+
+  
+         
+		
+
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.html"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

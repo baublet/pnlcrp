@@ -1,0 +1,50 @@
+<xml xmlns:v="urn:schemas-microsoft-com:vml"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:p="urn:schemas-microsoft-com:office:powerpoint"
+ xmlns:oa="urn:schemas-microsoft-com:office:activation">
+ <p:presentation sizeof="screen" gridspacingx="49152" gridspacingy="49152">
+  <p:master id="3" slidesn="0,0" type="main" href="master03.htm"
+   xmlhref="master03.xml" template="Office Theme" layout="title_body"
+   slots="title,body,dateTime,footer,slideNumber">
+   <p:schemes>
+    <p:colorscheme
+     colors="#000000,#ffffff,#464646,#def5fa,#2da2bf,#da1f28,#ff8119,#44b9e8"/>
+   </p:schemes>
+  </p:master>
+  <p:master id="1" slidesn="1C9DA58,CFFE0C40" type="notes" href="master01.htm"
+   layout="notes" slots="header,dateTime,slideImage,body,footer,slideNumber"/>
+  <p:slide id="2" slidesn="0,0" href="slide0002.htm"/>
+  <p:slide id="1" slidesn="0,0" href="slide0001.htm"/>
+  <p:slide id="3" slidesn="0,0" href="slide0003.htm"/>
+  <p:slide id="5" slidesn="0,0" href="slide0005.htm"/>
+  <p:slide id="15" slidesn="0,0" href="slide0015.htm"/>
+  <p:slide id="16" slidesn="0,0" href="slide0016.htm"/>
+  <p:slide id="17" slidesn="0,0" href="slide0017.htm"/>
+  <p:slide id="20" slidesn="0,0" href="slide0020.htm"/>
+  <p:slide id="9" slidesn="0,0" href="slide0009.htm"/>
+  <p:slide id="14" slidesn="0,0" href="slide0014.htm"/>
+  <p:slide id="18" slidesn="0,0" href="slide0018.htm"/>
+  <p:slide id="19" slidesn="0,0" href="slide0019.htm"/>
+  <p:slide id="7" slidesn="0,0" href="slide0007.htm"/>
+  <p:slide id="8" slidesn="0,0" href="slide0008.htm"/>
+  <p:slide id="21" slidesn="0,0" href="slide0021.htm"/>
+  <p:slide id="10" slidesn="0,0" href="slide0010.htm"/>
+  <p:slide id="11" slidesn="0,0" href="slide0011.htm"/>
+  <p:slide id="22" slidesn="0,0" href="slide0022.htm"/>
+  <p:slide id="12" slidesn="0,0" href="slide0012.htm"/>
+  <p:slide id="13" slidesn="0,0" href="slide0013.htm"/>
+  <p:viewstate type="slideView" snaptoshape="t" restoredleft="156"
+   restoredtop="946" manualadjustleft="t" manualadjusttop="t"
+   hideoutlineicons="t"/>
+  <p:tag name="___PPT12" type="binary" datasize="9" dataoffset="0"/>
+  <p:font name="Arial" charset="0" type="4"/>
+  <p:font name="Calibri" charset="0" type="4" family="34"/>
+  <p:headersfooters nouserdate="t" nofooter="t" noheader="t" nodate="t"
+   todaydate="t"/>
+  <p:headersfooters notes="t" nouserdate="t" nofooter="t" noheader="t"
+   nodate="t" todaydate="t"/>
+  <p:pptdocumentsettings framecolors="WhiteTextOnBlack" hideslideanimation="t"
+   browsersupport="v4"/>
+ </p:presentation>
+ <o:shapedefaults v:ext="edit" spidmax="34820"/>
+</xml>

@@ -1,0 +1,60 @@
+<div style="width:1000px; height:24px;
+
+background-color:#FFFFFF;
+
+color:#FF0000;
+
+padding-left:2px;
+
+_padding-top:2px;
+
+_padding-bottom:2px;
+
+border-top:1px black solid;
+
+border-bottom:1px black solid;">
+
+<div align="center">
+ 
+
+<a style="font-family:Arial, monospace;
+
+font-size:10pt;" href="index.shtml">Home</a> <span style="font-family:Courier, monospace;
+
+font-size:10pt;"> |  <a style="font-family:Arial, monospace;
+
+font-size:10pt;" href="about.shtml">About</a> <span style="font-family:Courier, monospace;
+
+font-size:10pt;"> | </span><a style="font-family:Arial, monospace;
+font-size:10pt;" href="projects.shtml">Projects</a> <span style="font-family:Courier, monospace;
+
+font-size:10pt;"> | </span><a style="font-family:Arial, monospace;
+font-size:10pt;" href="oralhistory.shtml">Oral Histories</a> <span style="font-family:Courier, monospace;
+
+font-size:10pt;"> | </span><a style="font-family:Arial, monospace;
+
+
+
+font-size:10pt;" href="maps-intro.shtml">Maps and Data</a> <span style="font-family:Courier, monospace;
+
+font-size:10pt;"> | </span><a style="font-family:Arial, monospace;
+
+font-size:10pt;" href="http://depts.washington.edu/labpics/zenPhoto/">Photos</a> <span style="font-family:Courier, monospace;
+
+font-size:10pt;"> | </span>
+
+
+<a style="font-family:Arial, monospace;
+font-size:10pt;" href="lesson_plans.shtml"target="_blank">For Teachers</a> <span style="font-family:Courier, monospace;
+
+font-size:10pt;"> | </span><a style="font-family:Arial, monospace;
+
+font-size:10pt;" href="browse.shtml">Browse site</a> <span style="font-family:Courier, monospace;
+
+font-size:10pt;"> </span>
+
+
+	
+	</div>
+
+	</div>

@@ -1,0 +1,55 @@
+<!--#include file="metaheader2.html"-->
+<title>John Caughlan oral history</title>
+
+</head>
+<body id="about">
+<table id="pagetable" border="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="http://depts.washington.edu/labhist/cpproject/logos/divide_rule6.jpg" usemap="#Map">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;">
+			<div id="navigation">
+			<!--#include file="menu.html"-->
+			</div>
+		</td>
+		<td>
+			<div id="content">
+			<h1>John Caughlan </h1>
+			<img src="images/banner790.png" id="x"  style="border:0px !important;" alt="Click to view other segments of this interview" title="Click to view other segments of this interview"><br>
+			<iframe width="790" height="445" src="https://www.youtube.com/embed/Lp1ErEoCO0A?list=PLrnclw6j_Mi9M9fxOxlPtM404nZCBxpv8" frameborder="0" allowfullscreen></iframe>
+
+		 <p>With a career that spanned more than six decades, John Caughlan became one of Seattle&rsquo;s most prominent and dedicated civil rights attorneys.  Born in 1909 to a radical Methodist family in Missouri, Caughlan graduated from Harvard Law School in 1935 and came to Seattle shortly thereafter.</p>
+		  	<p>Caughlan first became involved in progressive causes when he represented the Communist Party in 1937 and defended their right to hold a rally in the Seattle Civic Auditorium.  In the 1940s, Caughlan provided legal council to many people brought before the Canwell Committee and represented many UW professors and affiliates fired for alleged ties to the Communist Party.
+		  	</p><p>In his latter years, Caughlan represented civil rights activists in Mississippi, members of the Black Panther Party, and many others who had faced legal prosecution based on radical beliefs.
+		  	</p><p>In 1987, Caughlan received the ACLU&rsquo;s William O. Douglas award for &ldquo;outstanding and sustained contributions to the cause of civil liberties and freedom.&rdquo;
+		  	<p>Caughlan passed away in 1999.  In 2003, the ACLU established a fellowship for law students in his honor.</p>
+
+			 <p>In 1994 as he was beginning research for his play <em>All Powers Necessary and Convenient</em>, Professor Mark Jenkins videotaped an extensive and revealing interview with John Caughlan. To the right are streaming video clips from the interview.  </p>
+             <P>&nbsp;</p>
+<h5><strong>Scroll for more interview segments</strong></h5>
+
+			  <div style="clear:both;"></div>
+			</div>
+		</td>
+	</tr>
+
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.shtml"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

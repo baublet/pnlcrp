@@ -1,0 +1,11 @@
+
+<!--#config timefmt="%Y" -->
+
+     
+
+<div style="font-size:10pt;padding-left:190px;"><hr size="1" noshade="noshade">
+&copy;2002 &ndash; 
+
+<!--#echo var="DATE_LOCAL" -->
+
+ &nbsp;|&nbsp;<a href="copyright.shtml">How to cite and copyright information</a> &nbsp;| &nbsp;<a href="about.shtml">About project</a>&nbsp;| &nbsp;<a href="mailto:civilr@u.washington.edu">Contact James Gregory &nbsp;|&nbsp; University of Washington</a></div>

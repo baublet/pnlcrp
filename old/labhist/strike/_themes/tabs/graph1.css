@@ -1,0 +1,82 @@
+.mstheme
+{
+	nav-banner-image: url(atabbanr.gif);
+	separator-image: url(atabrule.gif);
+	list-image-1: url(atabbul1.gif);
+	list-image-2: url(atabbul2.gif);
+	list-image-3: url(atabbul3.gif);
+	navbutton-horiz-pushed: url(atabhsel.gif);
+	navbutton-horiz-normal: url(atabhbtn.gif);
+	navbutton-horiz-hovered: url(atabhhov.gif);
+	navbutton-vert-pushed: url(atabvsel.gif);
+	navbutton-vert-normal: url(atabvbtn.gif);
+	navbutton-vert-hovered: url(atabvhov.gif);
+	navbutton-home-normal: url(atabhom.gif);
+	navbutton-home-hovered: url(atabhomh.gif);
+	navbutton-home-pushed: url(atabhom.gif);
+	navbutton-up-normal: url(atabup.gif);
+	navbutton-up-hovered: url(atabuph.gif);
+	navbutton-up-pushed: url(atabup.gif);
+	navbutton-prev-normal: url(atabbck.gif);
+	navbutton-prev-hovered: url(atabbckh.gif);
+	navbutton-prev-pushed: url(atabbck.gif);
+	navbutton-next-normal: url(atabnxt.gif);
+	navbutton-next-hovered: url(atabnxth.gif);
+	navbutton-next-pushed: url(atabnxt.gif);
+}
+.mstheme-bannertxt
+{
+	font-family: "Times New Roman", "Times New Roman", Times;
+	font-size: 6;
+	color: rgb(0,0,0);
+}
+.mstheme-horiz-navtxt
+{
+	font-family: "Times New Roman", "Times New Roman", Times;
+	font-size: 2;
+	text-align: left;
+	color: rgb(102,102,0);
+}
+.mstheme-vert-navtxt
+{
+	font-family: "Times New Roman", "Times New Roman", Times;
+	font-size: 2;
+	text-align: left;
+	color: rgb(102,102,0);
+}
+.mstheme-navtxthome
+{
+	font-family: "Times New Roman", "Times New Roman", Times;
+	font-size: 1;
+	color: rgb(102,102,0);
+}
+.mstheme-navtxtup
+{
+	font-family: "Times New Roman", "Times New Roman", Times;
+	font-size: 1;
+	color: rgb(102,102,0);
+}
+.mstheme-navtxtprev
+{
+	font-family: "Times New Roman", "Times New Roman", Times;
+	font-size: 1;
+	color: rgb(102,102,0);
+}
+.mstheme-navtxtnext
+{
+	font-family: "Times New Roman", "Times New Roman", Times;
+	font-size: 1;
+	color: rgb(102,102,0);
+}
+UL
+{
+	list-style-image:url(atabbul1.gif);
+}
+UL UL
+{
+	list-style-image:url(atabbul2.gif);
+}
+UL UL UL
+{
+	list-style-image:url(atabbul3.gif);
+}

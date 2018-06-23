@@ -1,0 +1,234 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	font-family: inherit;
+	vertical-align: baseline;
+}
+/* remember to define focus styles! */
+:focus {
+	outline: 0;
+}
+strong {font-weight:bold;}
+body {
+	line-height: 1;
+	color: black;
+	background: black;
+}
+ol, ul {
+	list-style-type: square;
+	list-style-position: inside;
+}
+li {
+	right:5px;
+	}
+em {
+	font-style:italic;
+	}
+
+
+/* tables still need 'cellspacing="0"' in the markup */
+table {
+	border-collapse: separate;
+	border-spacing: 0;
+}
+caption, th, td {
+	text-align: left;
+	font-weight: normal;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: "";
+}
+blockquote, q {
+	quotes: "" "";
+}
+
+body,td,li,p {
+font: 1.0em helvetica,sans-serif;
+}
+
+#header img {
+border-bottom:1px solid black;
+}
+
+#pagetable {height:100%;width:1000px;margin-left:auto; margin-right:auto;}
+#footer {padding:10px;vertical-align: bottom;background:white;font-size: 0.6em;font-style:italic;}
+#footer a {color:#780000;}
+#navigation {width:190px;font-size: 0.9em;padding:0px;color:white;font-weight:bold;text-shadow: 0px -1px 0px #393939;background-image: url(logostampbottom.jpg);background-repeat: no-repeat;background-position-x: 29px;}
+
+
+#navigation div {padding:5px 0px 5px 5px;}
+#navigation img {vertical-align: middle;margin-right:5px;height:24px;width:24px;}
+
+
+body#about div#menu_about,
+body#home div#menu_home,
+body#canwell div#menu_canwell,
+body#history div#menu_history,
+body#oralhistory div#menu_oralhistory,
+body#artjournalism div#menu_artjournalism,
+body#timeline div#menu_timeline,
+body#whoswho div#menu_whoswho,
+body#video div#menu_video
+{
+background-image: url(menu-position.gif); 
+background-position-y: 12px;
+background-position: 165px;
+background-repeat: no-repeat;
+color:#780000;
+}
+
+div#menu_about:hover,
+div#menu_home:hover,
+div#menu_canwell:hover,
+div#menu_history:hover,
+div#menu_oralhistory:hover,
+div#menu_artjournalism:hover,
+div#menu_timeline:hover,
+div#menu_whoswho:hover,
+div#menu_video:hover {
+background-image: url(menu-position-dark.gif); 
+background-position-y: 12px;
+background-position: 165px;
+background-repeat: no-repeat;
+}
+
+div#submenu_history {
+display:none;}
+
+body#history div#submenu_history {
+display:block;
+font-size:11px;
+font-weight: normal;
+margin-left:30px;
+margin-top:-10px;}
+
+
+#navigation a {text-decoration: none;color:white;}
+#navigation a:visited {color:white;}
+#navigation a:hover {color: gray;}
+
+
+#content { background:#e6e6e6;padding:10px; height:100%;}
+#content img {border:1px solid black;}
+#content img.right {margin-left:10px; float:right;-webkit-box-shadow: 5px 5px 5px #888;
+box-shadow: 5px 5px 5px #888;
+-moz-box-shadow: 5px 5px 5px #888;}
+
+
+.rightcap {
+text-align: left;
+text-indent: none;
+position:relative;
+float:right;
+font-size:10px;
+background-color:black;
+color:white;
+line-height:120%;
+padding:5px;
+margin-bottom:5px;
+margin-left:5px;
+-moz-border-radius-bottomleft: 5px;
+-moz-border-radius-bottomright: 5px;
+-webkit-border-bottom-left-radius: 8px;
+-webkit-border-bottom-right-radius: 8px;
+border-bottom-left-radius: 8px;
+border-bottom-right-radius: 8px;
+-webkit-box-shadow: 5px 5px 5px #888;
+box-shadow: 5px 5px 5px #888;
+-moz-box-shadow: 5px 5px 5px #888;
+}
+
+.rightcap img {margin-left:-17px;}
+
+.rightcap a {
+color:white;
+text-decoration: none;
+border-bottom:1px solid #780000;
+}
+
+#content p, ul {margin-bottom:1em;text-indent: 1em;line-height:140%;}
+a {color:#780000; }
+#content h1 {margin-bottom: 3px; color:#780000;font-weight: bold;font-size:1.3em;border-bottom:1px solid grey;}
+#content h2 {margin-bottom: 3px; color:#780000;font-size:1.1em;border-bottom:1px solid grey;}
+
+
+.interviewtable a {
+text-decoration: none;
+font-weight:bold;
+}
+.interviewtable p {
+font-size:12px;
+padding-right:10px;
+}
+
+.interviewtable img {
+margin:0px 5px 5px 0px;
+}
+
+.byline {
+font-style: italic;
+font-size:11px;
+margin-bottom:15px;}
+
+.oralcol {
+	float:right; 
+	margin-left:10px; 
+	width:320px;
+}
+
+#oralvid {
+	width:320px; height:305px;
+}
+
+.vidnavlinks {
+	font-family:Helvetica, Arial, sans-serif;
+	padding:10px;
+	background-color:white;
+	font-size: .8em;
+	line-height:110%;
+	width:300px;
+	height:306px; 
+	overflow:auto;
+}
+
+.vidnavlinks img {
+	border-width:0px;
+	margin-right:5px;
+	border:none;
+}
+
+.vidnavlinks a {
+text-decoration: none;
+border:none;
+}
+
+
+.vidnavdividers {
+	font-weight:bold;
+	color:black;
+	font-size: 1.1em;
+}
+
+.quote {
+font-family:serif;
+font-style:italic;
+line-height: 110%;
+font-size:1 em;
+margin:0px 90px 0px 90px;
+text-indent: 0px;
+text-align:justify;
+}
+

@@ -1,0 +1,21 @@
+# BEGIN Gallery section
+# (Automatically generated.  Do not edit this section)
+# Note: still under development, so format may change.
+# If you edit this file, make a backup before runnng the Config. Wizard.
+
+
+Options -Indexes +FollowSymLinks
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /labhist/strike/gallery/
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^\.\?/]+)/([0-9]+)$	/labhist/strike/gallery/view_photo.php?set_albumName=$1&index=$2	[QSA]
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^\.\?/]+)/([A-Za-z_0-9\-]+)$	/labhist/strike/gallery/view_photo.php?set_albumName=$1&id=$2	[QSA]
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^\.\?/]+)/$	/labhist/strike/gallery/$1	[R]
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^\.\?/]+)$	/labhist/strike/gallery/view_album.php?set_albumName=$1	[QSA]
+</IfModule>
+# END Gallery section.  Add User changes below this line

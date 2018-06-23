@@ -1,0 +1,180 @@
+<!--#include file="metaheader.html"-->
+<title>Communism in Washington State: Art Mink Oral History</title>
+
+<script type="text/javascript" language="JavaScript">
+function swap(url){ 
+
+var vidurls=new Array();
+
+
+vidurls[0]=""
+vidurls[1]="mink-oneroomschool01";
+// vidurls[2]="mink-radicalidaho02";
+vidurls[2]="mink-depression03";
+vidurls[3]="mink-navyreject04";
+vidurls[4]=""
+vidurls[5]="mink-joiningparty05";
+vidurls[6]="mink-marxisteconomics06";
+// vidurls[7]="mink-russianrevolution07";
+vidurls[7]="mink-co-op08";
+vidurls[8]=""
+vidurls[9]="mink-imperialistwar09";
+vidurls[10]="mink-discharged10";
+vidurls[11]="mink-drafted11";
+vidurls[12]=""
+vidurls[13]="mink-lawschool12";
+vidurls[14]="mink-delegate13";
+vidurls[15]=""
+// vidurls[16]="mink-smithact14";
+vidurls[16]="mink-paulbowen15";
+vidurls[17]=""
+// vidurls[18]="mink-warehouseman16";
+vidurls[18]="mink-longshoreman17";
+vidurls[19]="mink-industrialaccident18";
+vidurls[20]="mink-interracialunion19";
+vidurls[21]="mink-local19vp20";
+vidurls[22]="mink-71strike21";
+vidurls[23]="mink-71strikeoutcome22";
+vidurls[24]="mink-craneoperators23";
+vidurls[25]=""
+vidurls[26]="mink-leavingparty24";
+vidurls[27]="mink-partypicnic25";
+vidurls[28]=""
+// vidurls[29]="mink-ussr26";
+vidurls[29]="mink-labortheoryofvalue27";
+vidurls[30]="mink-radical28";
+
+
+
+	document.getElementById("oralvid").innerHTML= '<embed type="application/x-mplayer2" src="/labhist/vid/' + vidurls[url] + '_256k.wmx" showStatusBar="true" showControls="true" height="305" width="320"><\/embed>';
+	}
+</script>
+
+
+</head>
+<body id="oralhistory">
+<table id="pagetable" border="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="http://depts.washington.edu/labhist/cpproject/logos/divide_rule6.jpg" usemap="#Map" alt="Communism in Washington State">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;">
+			<div id="navigation">
+			<!--#include file="menu.html"-->
+			</div>
+		</td>
+		<td>
+			<div id="content">
+			<h1>Art Mink</h1>
+			
+			
+			
+		  <div style="float:right; margin-left:10px; width:320px;">   
+
+		  <div style="width:320px; height:305px;" id="oralvid"><img src="/labhist/cpproject/images/mink-vidpanel.JPG" alt="Interviewee" width="320" height="306"></div>
+
+		  <div class="vidnavlinks">
+
+		  
+
+		 
+
+	<script type="text/javascript">
+
+
+
+var vidtitles=new Array()
+
+
+
+
+
+
+vidtitles[0]="+Idaho"
+vidtitles[1]="Mink <b>grew up in rural Idaho</b> and attended a one-room schoolhouse."
+// vidtitles[2]="&ldquo;People look at Idaho today and they have no idea of the state that I grew up in.&rdquo;: The Idaho of Mink's youth was <b>fertile ground for radical politics</b>."
+vidtitles[2]="Mink's father, a traveling salesman, died tragically in an automobile accident when Art was a teenager. The loss of his father's income as well as the general hardship of the Great Depression plunged the family into <b>poverty</b>."
+vidtitles[3]="&ldquo;I was going to be a general&rdquo;: After high school, Mink planned to attend <b>Annapolis Naval Academy</b>, but was rejected because of poor vision."
+vidtitles[4]="+Joining the Communist Party"
+vidtitles[5]="&ldquo;Those were the years of the Spanish invasion by the Nazis, and I got very interested in that&rdquo;: Mink <b>joined the Communist Party</b> as a student at Boise Junior College in 1940."
+vidtitles[6]="Mink's <b>initial attraction</b> to the Communist Party was based on &ldquo;ideology&rdquo; and &ldquo;economics&rdquo;"
+// vidtitles[7]="&ldquo;I didn't join the communist Party because of the <b>Russian Revolution</b>. I joined the Communist Party because I thought it was a way Ð seemed to be at the time I joined Ð the leading way in this country to get to socialism&rdquo;: Mink on American Communism and the Soviet Union."
+vidtitles[7]="After leaving Idaho, Mink and his wife moved into a <b>cooperative home</b> on Main Street in Seattle with several other leaders of the local Communist Party."
+vidtitles[8]="+World War II"
+vidtitles[9]="&ldquo;As long as the Nazis honored their agreement not to attack the Soviet Union, we figured, and I think rightly, that <b>it was a war between Germany and Britain over the colonies</b>&ldquo;: Mink discusses the Communist Party's shifting position on the United States' participation in World War II."
+vidtitles[10]="Mink enlisted in the U.S. Army Reserve in 1940. He was <b>discharged</b>, ostensibly for marrying without the consent of his commanding officer, but suspects the real reason was because he was a member of the Communist Party."
+vidtitles[11]="&ldquo;'The presence of this soldier in the United States Army does not constitute a threat.'&rdquo; Just a short while later, despite Mink's open acknowledgment of his membership in the Communist Party, he was <b>drafted</b> into the Air Force and deployed to the Philippines."
+vidtitles[12]="+Back Home"
+vidtitles[13]="&ldquo;We agreed that it was more important to have Party activists at the University than it was to have lawyers four years later&rdquo;: Mink <b>withdrew from the University of Washington Law School</b> in order to concentrate on organizing on campus for the Communist Party."
+vidtitles[14]="&ldquo;I had the honor of being thrown down three flights of stairs.&rdquo; In 1948, Mink was a delegate to the Washington State Labor Council convention from the Bookbinders Union. He was <b>beaten and thrown out of the convention for being a Communist</b>."
+vidtitles[15]="+Smith Act"
+// vidtitles[16]="&ldquo;The only two people that were there to greet her was my wife and I. And so I think she paid us back.&rdquo; Mink was not among the Seattle Communist Party leaders indicted under the <b>Smith Act</b> in 1953. He suspects this was because he and his wife were still on good terms with the government's chief witness, Barbara Hartle, who chose not to identify him."
+vidtitles[16]="Mink was a <b>close friend of Paul Bowen</b>, an African American Party leader who was convicted in the Seattle Smith Act trials. When Bowen was released from jail, Mink signed over his home in Leshi to him free of charge."
+vidtitles[17]="+On the Waterfront"
+// vidtitles[18]="Mink started his career on the waterfront as a <b>casual laborer</b> in a fish warehouse."
+vidtitles[18]="&ldquo;I knew who was what on the waterfront at this time Ð and warehousemen were not it&rdquo;:  here Mink describes how he became a longshoreman and <b>joined Local 19</b> of the International Longshore and Warehousmen Union." 
+vidtitles[19]="Longshoring was dangerous work, and workplace safety was a constant concern for the union. Here <b>Mink recounts a deadly industrial accident</b> and its aftermath." 
+vidtitles[20]="&ldquo;We had the whole struggle for equal rights, and laws were passed. And the net result in this local of the ILWU is that when new people are chosen by the laws of equality, minorities are a smaller proportion of the newcomers than were minorities in the days when it was a family operation&rdquo;: Mink on the mixed legacy and unintended consequences of <b>interracial unionism</b> on the docks." 
+vidtitles[21]="&ldquo;He knew I would work. And he also knew that I was a radical.&rdquo; Mink was <b>elected vice president of ILWU Local 19</b> in 1971. Here he describes how he owed the position to the endorsement of former Teamster and then ILWU Local 19 president Shaun (Jack) Maloney." 
+vidtitles[22]="Mink was vice president of Local 19 during the <b>1971 waterfront strike</b>. Here he describes an early episode in the strike involving the union's agreement to unload military cargo but not commercial cargo."
+vidtitles[23]="The <b>'71 strike achieved mixed results</b>. After being forced back to work under the Taft-Hartley Act, the longshoremen walked off again 90 days later. Following another 1 day walkout the next year, the union finally won a wage increase."
+vidtitles[24]="&ldquo;This was a very bad tactical move on our part. I thought at the time that we were probably being bigger than our britches&rdquo;: Mink recounts a failed struggle involving <b>crane operators</b> in the aftermath of the 1971 strike." 
+vidtitles[25]="+Leaving the Party"
+vidtitles[26]="&ldquo;The Party was becoming totally incapable of doing what the Party had always done, which was to reach out and bring in people with common interests and join up. É It was totally bound up in keeping itself alive.&rdquo; <b>Mink left the Communist Party</b> in the mid 1950s."
+vidtitles[27]="Mink disagreed with the Party's sectarian turn in the 1950s. The final straw for him was when <b>a group of Communists attacked a group of Trotskyites</b> at a Party fundraising event in 1957."
+vidtitles[28]="+Closing Thoughts"
+// vidtitles[29]="&ldquo;It turned out that whoever it was said that 'you can't build socialism in one country' was right&rdquo;:  Mink reflects on the <b>failure of the Soviet Union</b>."vidtitles[32]="&ldquo;The labor movement is a reflection of the level of political understanding of the working class&rdquo;:  Mink on <b>class, political economy, and the weakness of today's labor movement</b>." 
+vidtitles[29]="&ldquo;I don't think I was ever a radical. I was just a labor theory of value economist working as a longshoreman.&rdquo;"
+
+
+for (i=0;i<vidtitles.length;i++)
+
+{
+
+	if (vidtitles[i].indexOf('+') !=-1)
+
+			{
+
+			document.write("<span class=\"vidnavdividers\">" + vidtitles[i].substring(1) + "<\/span><br /><br />")
+
+			}
+
+		else
+
+			{
+
+			document.write("<a href=\"javascript:swap('" + i + "')\"><img style=\"border:none;\" src=\"/labhist/cpproject/images/speakericon.gif\" alt=\"Film Icon\">" + vidtitles[i] + "<\/a><br /><br />")
+
+			}
+
+	
+
+}
+
+
+
+                      </script>
+       	      </div></div>
+
+		<p>
+An activist, labor leader, and former member of the Communist Party USA, Art Mink was born and raised in rural Idaho. As a young man, he joined the ROTC and planned a career in military service. He was radicalized in the late 1930s by the apparent collapse of capitalism and by the Spanish Civil War, and joined the Communist Party in 1940 while a student at Boise Junior College. Mink moved with his wife to Seattle in 1942 where he served as a member of the executive board of the Northwest District Young Communist League and as a Party organizer in the Boilermaker's Union before being drafted into the Air Force.  He was stationed in the Philippines during World War II as a 1st Sergeant in a military hospital. From 1946-1948 Mink attended law school at the University of Washington and was campus organizer for the Communist Party. During this time he was also a member of the Bookbinders Union. He moved briefly to Los Angeles to work as an editor in a small publishing firm and to conduct Party work in southern California.</p>
+		    <p>Back in the Pacific Northwest, Mink began a new career on the waterfront, first as a warehouseman at a Seattle fish plant and ultimately as a longshoreman and a member of ILWU Local 19. He was active in union politics throughout his career. He worked on the Local 19 Stevedore Safety Committee for 5 years and served multiple terms as chairman of the Labor Relations Committee. In the mid 1950s Mink broke with the Communist Party and helped organize the rival Freedom Socialist Party. In 1971 he was elected Vice President of Local 19 and played an instrumental role in the union's historic strike that same year. Mink is now retired and lives in West Seattle.</p>
+		    <p>Art Mink shared his memories of the Northwest District Communist Party and the ILWU in an interview with Daren Salter and Steve Beda on May 7, 2008. To the right are streaming-video excerpts of the interview in windows media format. A high speed connection is recommended for viewing them.  Video editing by Daren Salter.</p>
+		
+				  		          <div style="clear:both;"></div>   
+		  </div>
+	</td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.shtml"-->	</div>
+		</td>
+	</tr>
+</table>
+</body>
+<!--#include file="metafooter.html"-->

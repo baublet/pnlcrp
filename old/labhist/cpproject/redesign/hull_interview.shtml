@@ -1,0 +1,184 @@
+<!--#include file="metaheader.html"-->
+<title>Communism in Washington State: Irene Hull Oral History</title>
+
+<script type="text/javascript" language="JavaScript">
+function swap(url){ 
+
+var vidurls=new Array();
+vidurls[0]=""
+
+vidurls[1]="feist_01early_256k.wmx";
+
+vidurls[2]="feist_02parents_256k.wmx";
+
+vidurls[3]="feist_03school_256k.wmx";
+
+vidurls[4]="feist_04wa_256k.wmx";
+
+vidurls[5]="feist_05seattle_256k.wmx";
+
+vidurls[6]="";
+
+vidurls[7]="feist_06ycl_256k.wmx";
+
+vidurls[8]="feist_07march_256k.wmx";
+
+vidurls[9]="feist_08paper_256k.wmx";
+
+vidurls[10]="feist_10jail_256k.wmx";
+
+vidurls[11]="";
+
+vidurls[12]="feist_09scottsboro_256k.wmx";
+
+vidurls[13]="feist_11ue_256k.wmx";
+
+vidurls[14]="feist_12alien_256k.wmx";
+
+vidurls[15]="feist_13huac_256k.wmx";
+
+vidurls[16]="feist_14adc_256k.wmx";
+
+vidurls[17]="";
+
+vidurls[18]="feist_15stalin_256k.wmx";
+
+vidurls[19]="feist_16communism_256k.wmx";
+
+
+	document.getElementById("oralvid").innerHTML= '<embed type="application/x-mplayer2" src="/labhist/vid/' + vidurls[url] + '" showStatusBar="true" showControls="true" height="305" width="320"><\/embed>';
+	}
+</script>
+
+
+</head>
+<body id="oralhistory">
+<table id="pagetable" border="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="http://depts.washington.edu/labhist/cpproject/logos/divide_rule6.jpg" usemap="#Map" alt="Communism in Washington State">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;">
+			<div id="navigation">
+			<!--#include file="menu.html"-->
+			</div>
+		</td>
+		<td>
+			<div id="content">
+			<h1>Irene Hull</h1>
+			
+			
+			
+		  <div style="float:right; margin-left:10px; width:320px;">   
+
+		  <div style="width:320px; height:305px;" id="oralvid"><img src="/labhist/cpproject/images/hull-vidpanel.JPG" alt="Interviewee" width="320" height="306"></div>
+
+		  <div class="vidnavlinks">
+
+		  
+
+		 
+
+	<script type="text/javascript">
+
+
+
+var vidtitles=new Array()
+
+
+
+
+
+vidtitles[0]="+Early Life"
+
+vidtitles[1]="After graduating from UCLA, Hull married and soon became pregnant.  But in the midst of the depression, money for hospital care was difficult to come by."
+
+vidtitles[2]="With work scarce at the height of the depression, Hull and her new family crisscrossed the Northwest in search of work, often living in trailers and cabins."
+
+vidtitles[3]="Finally settling in Vancouver, WA, Hull took a job in the shipyards as a carpenter."
+
+vidtitles[4]="+Communism"
+
+vidtitles[5]="Irene learned about socialism and communism, as well as women&lsquo;s rights, from her father-in-law, Bill Hull."
+
+vidtitles[6]="After hearing Earl Browder, an influential American Communist, speak in Portland, Hull and her husband joined the Communist Party"
+
+vidtitles[7]="&quot;Being a Communist at that time—even before the McCarthy period—it wasn't a thing you talked about.&quot;"
+
+vidtitles[8]="In the mid-1940s, Hull and her family moved to Seattle.  She worked various jobs, as well as did political work for the Democratic Party."
+
+vidtitles[9]="In additon to the Communist Party, Hull was also active in the Progressive Party&lsquo;s political campaigns."
+
+vidtitles[10]="During the Canwell Hearings, Hull and other Seattle women organized the Congress of American Women (CAW) to protest the persecution of communists and fight for price controls."
+
+vidtitles[11]="+The McCarthy Era"
+
+vidtitles[12]="Because of her affiliations, Hull was fired from many jobs."
+
+vidtitles[13]="&quot;It was such a shame. Here we were all separated from each other by this terrible attitude towards Communism.&quot; Though she had left the pary in the late 1950s, after being urged by her friends, Hull rejoined the party."
+
+vidtitles[14]="+Coalition of Labor Union Women and Jobs with Justice"
+
+vidtitles[15]="In the mid-1970s, Hull became active in the Coalition of Labor Union Women, and fought for women's rights, as well as affirmative action."
+
+vidtitles[16]="Today, Hull continues her activities with the CLUW."
+
+vidtitles[17]="Hull has also been an activist with Jobs with Justice, a national organization that brings together religious, community, and labor organizations."
+
+vidtitles[18]="+Recent Activism"
+
+vidtitles[19]="Today, Hull continues to attend meetings and events of the Washington State Communist Party."
+
+vidtitles[20]="&quot;We've got a hard road to hoe, and I don't know when or how, but one of these days I'm convinced, we will have a socialist form of government.&quot;"
+
+
+for (i=0;i<vidtitles.length;i++)
+
+{
+
+	if (vidtitles[i].indexOf('+') !=-1)
+
+			{
+
+			document.write("<span class=\"vidnavdividers\">" + vidtitles[i].substring(1) + "<\/span><br /><br />")
+
+			}
+
+		else
+
+			{
+
+			document.write("<a href=\"javascript:swap('" + i + "')\"><img style=\"border:none;\" src=\"/labhist/cpproject/images/speakericon.gif\" alt=\"Film Icon\">" + vidtitles[i] + "<\/a><br /><br />")
+
+			}
+
+	
+
+}
+
+
+
+                      </script>
+       	      </div></div>
+
+		<p>For more than 60 years, Irene Hull has been a Communist Party member and dedicated activist. Born in Kansas in 19__, Hull moved to California when she was 7.            
+		  	<p> Hull graduated from UCLA with an education degree, but in the midst of the Great Depression, work was hard to come by. After crisscrossing the Northwest with her husband and growing family in search of work, Hull finally came to settle in Vancouver, WA where she worked as a carpenter in the shipyards.</p>
+		  	<p>In 1942, Hull joined the Communist Party. Since that time she has been active in a host of progressive causes. During the infamous Canwell hearings, Hull helped organize the Congress of American Women to protest communist persecution. Throughout the 1940s and 1950s, she undertook political work for the Democratic Party and Progressive Party. In the 1970s, she was influential in founding the Coalition of Labor Union women, and recently she has been active with Jobs with Justice, a national coalition of religious, labor, and community organizations.</p>
+		  	<p>Today, Hull remains an active member of the Washington State Communist Party.</p>
+		  		          <div style="clear:both;"></div>   
+		  </div>
+	</td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.shtml"-->	</div>
+		</td>
+	</tr>
+</table>
+</body>
+<!--#include file="metafooter.html"-->

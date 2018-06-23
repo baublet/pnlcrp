@@ -1,0 +1,117 @@
+<!--#include file="metaheader.html"-->
+<title>Mapping Tacoma Race and Segregation</title>
+<link rel="stylesheet" type="text/css" href="xfade2_o.css" />
+<script type="text/javascript" src="xfade2.js"></script>
+<style type="text/css">
+<!--
+.greyboxnew {
+	background-color:#666;color:white;
+	padding:5px;
+	margin-bottom:5px;
+}
+
+.greyboxnew a, .redbox a:visited 
+{color:white;
+}
+.redboxnew {
+	background-color:#780000;color:white;
+	padding:5px;
+		margin-bottom:5px;
+}
+.redboxnew a, .redbox a:visited 
+{color:white;
+}
+.style20 {
+	font-size: xx-large;
+	font-weight: bold;
+}
+.style21 {font-size: 10pt}
+
+
+-->
+</style>
+</head>
+<body id="home">
+<table id="pagetable" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			  <a href="index.shtml"><img src="banner.jpg" width="1000" height="190" border="0"></a>
+			</div>
+			 <!--#include file="menu-top.shtml" -->
+		</td>
+	</tr>
+
+		<td>
+			<div id="content">
+			
+        	
+        
+
+			<div align="center">
+			   <p class="style20">Interactive Map of Race Tacoma/Pierce County 1950-2010</p>
+		  </div>
+			  <div>
+ 
+        <table width="100%" valign="top">
+       <tr><td width="730">
+        
+ <div class='tableauPlaceholder' id='viz1501892986984' style='position: relative'><noscript><a href='#'><img alt='Story 4 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;C7&#47;C7NBK475R&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='path' value='shared&#47;C7NBK475R' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;C7&#47;C7NBK475R&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1501892986984');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='724px';vizElement.style.height='1069px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+	   
+         </td><td width="270" valign="top">
+		    <p>Explore patterns of segregation and desegregation in this sequence of interactive maps. Move through the decades.  Click a census tract for detailed information about a neighborhood. Select a race category, either by percentage or number of residents. These maps are hosted by <a href="https://public.tableau.com/profile/mapping.social.movements#!/">Tableau Public</a> and may take a few seconds to respond. If slow, refresh the page.</span></p>
+		   <p>Pierce County's population has tripled in the sixty years since 1950 with Asian American and African American numbers growing rapidly.
+		   </td></tr></table>
+         
+          <p>&nbsp;</p>
+			
+
+			<p class="arial10" style="margin-left: 0px">These maps and tables were created by <strong>Anna Yoon, Brian Lam, Gihoon Du, Jiang Wu, </strong>and<strong> Yurika Harada</strong> using data and shape files from the National Historical Geographic Information System (NHGIS). The work was a class project for Geography 469 GIS Workshop taught by Professor Sarah Elwood-Faustino Spring 2017. </font>
+          
+		  <p><strong> <span class="arial10">Source:</span></strong><span class="arial10"> calculated from Steven Manson, Jonathan Schroeder, David Van Riper, and Steven Ruggles. IPUMS National Historical Geographic Information System: Version 12.0 [Database]. Minneapolis: University of Minnesota. 2017. http://doi.org/10.18128/D050.V12.0</font></span></p>
+			<p class="arial10" style="margin-left: 0px"><strong>Glossary: </strong>The Census Bureau adds and adjusts the boundaries of census tracts nearly every decade. It also changes the data it reports and often the racial categories. We have changed some labels for the sake of consistency and brevity. Below are the labels used in these visualizations and the actual terms used by census takers.</p>
+			<p class="arial10" style="margin-left: 0px">Asian: For 1940 all nonwhites were reported as a combined category. In 1950, this became two categories, &quot;Negroes&quot; and &quot;Other races.&quot; Since most of the &quot;others&quot; would have been Japanese, Chinese, and Filipinos with small numbers of Native Americans, we relabeled this as &quot;Asian/other races.&quot; From 1960 on the, census reported each Asian</p>
+          
+          
+          
+          
+          
+    
+		</table>
+		</td>
+	</tr>
+		
+			 
+			
+			
+			<div style="margin-bottom:10px;">
+			
+			
+       		
+			
+			
+       		
+			
+</div>
+
+  
+         
+		
+
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.html"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

@@ -1,0 +1,94 @@
+.mstheme
+{
+	separator-image: url(clarule.gif);
+	list-image-1: url(clabul1.gif);
+	list-image-2: url(clabul2.gif);
+	list-image-3: url(clabul3.gif);
+	nav-banner-image: url(clabanr.gif);
+	navbutton-horiz-normal: url(clahsel.gif);
+	navbutton-horiz-hovered: url(clahsel.gif);
+	navbutton-horiz-pushed: url(clahsel.gif);
+	navbutton-vert-normal: url(clavbtn.gif);
+	navbutton-vert-hovered: url(clavbtn.gif);
+	navbutton-vert-pushed: url(clavsel.gif);
+	navbutton-home-normal: url(clahom.gif);
+	navbutton-home-hovered: url(clahom.gif);
+	navbutton-home-pushed: url(clahom.gif);
+	navbutton-next-normal: url(clanxt.gif);
+	navbutton-next-hovered: url(clanxt.gif);
+	navbutton-next-pushed: url(clanxt.gif);
+	navbutton-prev-normal: url(clabck.gif);
+	navbutton-prev-hovered: url(clabck.gif);
+	navbutton-prev-pushed: url(clabck.gif);
+	navbutton-up-normal: url(claup.gif);
+	navbutton-up-hovered: url(claup.gif);
+	navbutton-up-pushed: url(claup.gif);
+}
+.mstheme-bannertxt
+{
+	font-family: Book Antiqua, Times New Roman, Times;
+	color: rgb(128, 0, 0);
+	font-size: 6;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Arial, Arial, Helvetica;
+	color: rgb(255, 255, 255);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-vert-navtxt
+{
+	font-family: Arial, Arial, Helvetica;
+	color: rgb(255, 255, 255);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxthome
+{
+	font-family: Arial, Arial, Helvetica;
+	color: rgb(255, 255, 255);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtnext
+{
+	font-family: Arial, Arial, Helvetica;
+	color: rgb(255, 255, 255);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtprev
+{
+	font-family: Arial, Arial, Helvetica;
+	color: rgb(255, 255, 255);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtup
+{
+	font-family: Arial, Arial, Helvetica;
+	color: rgb(255, 255, 255);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+ul
+{
+	list-style-image: url(clabul1.gif);
+}
+ul ul
+{
+	list-style-image: url(clabul2.gif);
+}
+ul ul ul
+{
+	list-style-image: url(clabul3.gif);
+}

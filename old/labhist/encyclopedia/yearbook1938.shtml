@@ -1,0 +1,787 @@
+<!--#include file="metaheader.html"-->
+<title>Labor Yearbook 1938</title>
+<link rel="stylesheet" type="text/css" href="xfade2_o.css" />
+<script type="text/javascript" src="xfade2.js"></script>
+<style type="text/css">
+<!--
+.style1 {color: #FFFFFF}
+-->
+</style>
+</head>
+<body id="home">
+<table id="pagetable" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="header_logo.jpg" width="1000" height="189" border="0" usemap="#pnlcrp">
+			<map name="pnlcrp">
+              <area shape="rect" coords="326,5,847,33" href="http://depts.washington.edu/labhist">
+            </map>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td bordercolor="#000000" style="vertical-align:top;background-color:black;">
+			<div id="navigation">
+			  <!--#include file="menu.html"-->
+			</div>
+	  </td>
+		<td>
+			<div id="content">
+			<h1>Labor Events Yearbook: 1938</h1>
+			<div class="redboxsm">
+    <h2 align="center" style="color:white;"><strong><a href="yearbook_introduction.shtml">Yearbook Home</a></strong></h2>
+	
+	<table id="redtable" border="0" cellpadding="0" cellspacing="3">
+	<tr>
+              <td><div align="center"><a href="yearbook1915.shtml"><strong>1915</strong></a></div></td>
+              <br>
+              <td><a href="yearbook1915.shtml"><img src="mages/yearbook-ufw2/1915-100x30.jpg" width="101" height="30" border="0"></a></a></span></td>
+            </tr>
+		<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1918.shtml"><strong>1918</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1918.shtml"><img src="mages/yearbook-ufw2/1918-100x30.jpg" width="100" height="30" border="0"></a></td>
+        </tr>
+		<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1919.shtml"><strong>1919</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1919.shtml"><img src="mages/yearbook-ufw2/1919-100x31.jpg" width="101" height="31" border="0"></a></td>
+        </tr>
+		 <tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1930.shtml"><strong>1930</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1930.shtml"><img src="mages/yearbook-ufw2/1930-100x30.jpg" width="100" height="30" border="0"></a></td>
+        </tr>
+        <tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1931.shtml"><strong>1931</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1931.shtml"><img src="mages/yearbook-ufw2/1931-100x30.jpg" width="101" height="30"></a></td>
+        </tr>
+			<tr>
+       <td style="width:75px;"><div align="center"><a href="yearbook1932.shtml"><strong>1932</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1932.shtml"><img src="mages/yearbook-ufw2/1932-100x30.jpg" width="100" height="31" border="0"></a></td>
+			</tr>
+			<tr>
+			  <td style="width:75px;"><div align="center"><a href="yearbook1933.shtml"><strong>1933</strong></a></div></td>
+			  <td style="vertical-align:top;"><a href="yearbook1933.shtml"><img src="mages/yearbook-ufw2/1933-100x30.jpg" width="101" height="30" border="0"></a></td>
+		    </tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1934.shtml"><strong>1934</strong></a></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1934.shtml"><img src="mages/yearbook-ufw2/1934-100x30.jpg" width="99" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1935.shtml"><strong>1935</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1935.shtml"><img src="mages/yearbook-ufw2/1935-100x30.jpg" width="100" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1936.shtml"><strong>1936</strong></a></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1936.shtml"><img src="mages/yearbook-ufw2/laborday100x30.jpg" width="100" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><strong><a href="yearbook1937.shtml">1937</a></strong></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1937.shtml"><img src="mages/yearbook-ufw2/1937-100x30.jpg" width="100" height="29" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><strong><a href="yearbook1938.shtml">1938</a></strong></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1938.shtml"><img src="mages/yearbook-ufw2/1938-100x30.jpg" width="100" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><strong><a href="yearbook1939.shtml">1939</a></strong></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1939.shtml"><img src="mages/yearbook-ufw2/1939-100x29.jpg" width="100" height="29" border="0"></a></td>
+			</tr>
+		</table>
+	
+   </div>
+        <p>This is a database of campaigns, strikes, and labor related events as recorded in the <em>Sunday News</em> published by the <a href="Washington_Commonwealth_Federation.shtml">Washington Commonwealth Federation</a> during 1938. It was researched by Nick Manos. Start by reading his labor highlights report. Below that is the database. Click the links to read the  articles. 
+       
+        <h2>Highlights 1938 by Nick Manos</h2>
+        
+<p>The principle fight for labor in Washington this year was electoral; State Initiative 130 threatened to restrict unions’ ability to strike, and in response AFL and CIO unions were able to temporarily overcome their differences and work together to defeat the measure.&nbsp; Other electoral campaigns - for the Mayor’s office, and local, state and federal offices - also brought unions out to the polls.&nbsp; With the untimely death of business-friendly Mayor John Dore, Seattle’s mayoral contest in ’38 pitted the well connected Arthur Langlie against labor’s favorite Victor Meyers.&nbsp; Meanwhile, strikes and lockouts at the Port and the <i>Seattle Star</i> were settled through lawsuits and worker direct action.&nbsp; While other strikes and direct actions gripped the Lumber, Auto, Cannery, Culinary, Marine, Metal, and Building industries.&nbsp; At the University of Washington, working married women battled to keep their jobs after an art instructor was fired, ostensibly because she was married.&nbsp; And finally, the state Teamsters and union leader David Beck struggled with a series of racketeering and similar criminal scandals.&nbsp;</p>
+
+        <p>On the waterfront, a labor dispute between the Port of Seattle and the CIO’s International Longshoremen and Warehousemen&#39;s Union was ongoing. Workers were locked out by the Port which refused to meet union demands to restore the terms of the previous year’s labor agreement. After months of tensions, a brief sitdown strike at the port led to a victory for the union, and in January the Longshoremen and Warehousemen&#39;s Union went back to work.&nbsp; Port authorities accepted the union’s terms over the disputed points of the 1937 waterfront agreement.<a name="_ednref1" title href="#_edn1"><span class="MsoEndnoteReference"><span style="font-size: 12.0pt; font-family: Times New Roman">[1]</span></span></a></p>
+  <a href="#" onclick="toggleview('desc');return false;">[read full report/close report]</a></p>   <dr>     
+        <div id="desc" style="display:none;"></p> <p></p>     
+	   
+	    <p>In March the Seattle Newspaper Guild’s eight month strike against the <i>Seattle Star</i> was concluded in favor of the union. The lawsuit which had been filed against <i>The Star</i> came to a conclusion when an appeals court upheld a prior decision forcing the paper to return 19 unionized employees to work. Mayor Dore’s big business allies had vigorously backed <i>The Star</i> and seemed confidant that they would come out on top right until the very end.<a name="_ednref2" title href="#_edn2"><span class="MsoEndnoteReference"><span style="font-size: 12.0pt; font-family: Times New Roman">[2]</span></span></a></p>
+        <p>Meanwhile, a series of scandals surfaced that the head of the Teamster’s union was involved in racketeering.&nbsp; Threatened with pickets and strikes if they did not pay monthly protection money, many local businesses came forward with charges against David Beck. Mr. Beck fired back, saying that he did not operate goon squads and never received “a cent of tribute.”&nbsp; In another scandal, charges were brought against a number of coal and wood companies by the Seattle Labor Unity coordinating committee for their involvement in price-fixing schemes. David Beck was again named for involvement with the fuel companies for personal profit.<a name="_ednref3" title href="#_edn3"><span class="MsoEndnoteReference"><span style="font-size: 12.0pt; font-family: Times New Roman">[3]</span></span></a> </p>
+        <p>These problems for the Teamsters were complicated by clashes between the AFL and CIO that made headlines at the beginning of February. In Portland, 32 men had been arrested in connection with bombings and terrorist acts in an ongoing jurisdictional dispute with CIO woodworkers. An article in <i>The Sunday News </i>warned that goon squads had already been seen in Seattle and that locals there must work together to ensure that violence did not spill into Seattle as it had farther south.<a name="_ednref4" title href="#_edn4"><span class="MsoEndnoteReference"><span style="font-size: 12.0pt; font-family: Times New Roman">[4]</span></span></a></p>
+        <p>Unionists also struggled to help the state’s unemployed.&nbsp; On January 15<sup>th</sup> letters were sent to 800 local members of the AFL and CIO to attend meetings on unemployment in Washington. The Relief Council wanted to discuss the worsening problem regarding relief for the unemployed as well as what could be done in the near future to aid those in need. A mass meeting was called at the county civic auditorium on February 24<sup>th</sup> to discuss the problem with representatives from the major unions attending. Another was called at the Coliseum Auditorium Feb. 27<sup>th</sup>. Delegates urged Governor Clarence D. Martin to convene a special session of the state legislature to address the problem.<a name="_ednref5" title href="#_edn5"><span class="MsoEndnoteReference"><span style="font-size: 12.0pt; font-family: Times New Roman">[5]</span></span></a></p>
+        <p>At the University of Washington a struggle had erupted over the firing of married women.&nbsp; Protests by the Church of the People argued against the dismissal of an arts teacher, fired because she was a “working wife”. The Church contended that employment should be based solely on ability, and sex or marital status should have nothing to do with it. Working class women were also engaged in other political activity.&nbsp; Early March saw the women of the Worker&#39;s Alliance having an all county meeting where they planned how to combat housing projects, cutbacks in state aid to children, and consolidation of sewing rooms.<a name="_ednref6" title href="#_edn6"><span class="MsoEndnoteReference"><span style="font-size: 12.0pt; font-family: Times New Roman">[6]</span></span></a></p>
+        <p>In a rare bit of interorganizational solidarity, the CIO lent its support to AFL construction workers when 400 men were locked out of work in March after workers refused to work more than a 6 hour day. Fifteen-hundred men in the local industry worked on 6 hour shifts. Contractors attempted to impose the eight hour day for two weeks but by the end of March they gave in to the union’s demands and embraced the union terms.<a name="_ednref7" title href="#_edn7"><span class="MsoEndnoteReference"><span style="font-size: 12.0pt; font-family: Times New Roman">[7]</span></span></a></p>
+        <p>From the start of July, there were many strikes that kept cropping up through the end of summer as unions fought back against employer’s attempts to reduce their wages. Unions representing workers in the Lumber, Auto, Culinary, Marine, Metal, and Building industries all successfully resisted attempts to reduce their wages or undermine working conditions.&nbsp; At Boeing a government mediator was called in to arbitrate the disputes that arose after mechanics voted unanimously to walk out before suffering any cuts.&nbsp; And April saw the resolution of a conflict between Cannery Workers and five other labor organizations when the cannery workers agreed to settle through the National Labor Relations Board.<a name="_ednref8" title href="#_edn8"><span class="MsoEndnoteReference"><span style="font-size: 12.0pt; font-family: Times New Roman">[8]</span></span></a></p>
+        <p>Throughout the year labor placed great resources toward defeating anti-union candidates and measures in general elections.&nbsp; The Washington Commonwealth Federation, fearing a concentrated effort to defeat New Deal congressmen and liberal backers by more conservative elements of the electorate, announced plans for unity and to support the policies of President Roosevelt. The AFL and CIO announced that they would seek common ground on these campaigns.&nbsp; They would work with farmers to fight private power companies, and put forth a common list of candidates in the upcoming fall elections.&nbsp; But it was Initiative 130, the anti-strike bill, that was the hot topic of discussion. Leaders of the major unions vowed to fight the bill and build as large a coalition as possible to fight against the measure which would eliminate a fundamental tactic of organized labor.<a name="_ednref9" title href="#_edn9"><span class="MsoEndnoteReference"><span style="font-size: 12.0pt; font-family: Times New Roman">[9]</span></span></a></p>
+        <p>Indeed, the AFL and CIO were able to increase cooperation on the eve of the election.&nbsp; Business friendly mayor John Dore’s ticket was defeated in the primaries and most of his former backers swung in favor of Victor Meyers, the leading labor candidate. However, after Dore’s untimely death when the elections were held in March labor lost the final vote by a narrow margin to the more conservative Arthur B. Langlie. </p>
+        <p>Within the AFL, internal disputes rocked the local federation chapter in March when the executive and political welfare committees of the organization called for the defeat of two pro-labor city council candidates. This action was viewed unfavorably by many AFL delegates and dissenting members of the committees who voiced their support of the men. Ten different unions immediately spoke up in support of the candidates. With the elections near at hand, divisions amongst the leadership of a major labor organization hindered their effectiveness at the polls.<a name="_ednref10" title href="#_edn10"><span class="MsoEndnoteReference"><span style="font-size: 12.0pt; font-family: Times New Roman">[10]</span></span></a></p>
+        <p>However labor candidates caught a break in September when the Democratic League had a spilt within its leadership. This was a body organized by associates of the conservative governor for the purpose of undermining New Deal political candidates in the fall elections. Three of the top members repudiated the group after it endorsed candidates that were running campaigns in opposition to the league’s stated values.<sup> <a name="_ednref11" title href="#_edn11"> <span class="MsoEndnoteReference"> <span style="font-size: 12.0pt; font-family: Times New Roman">[11]</span></span></a></sup> </p>
+        <p>According to polls, New Deal candidates who had the backing of labor were in very good position going into the primaries as late as mid September. Labor organizations all across the state were gearing up for a showdown over Initiative 130 and began working more closely with liberal elements of the Democratic Party to get their candidates elected and defeat the anti-strike bill. Liberal Democrats were elected to 3 out of 4 top posts in the state party hierarchy at the October convention. A statement was released that same month by the heads of the Washington AFL and CIO urging all labor movements in the state to vote Democratic and defeat 130. The Woman’s Labor Council petitioned City Councils across the state to designate one of the last weeks in October as “defeat 130 week”.<a name="_ednref12" title href="#_edn12"><span class="MsoEndnoteReference"><span style="font-size: 12.0pt; font-family: Times New Roman">[12]</span></span></a></p>
+        <p>Their efforts were worthwhile.&nbsp; The headlines on November 12<sup>th</sup> 1938 heralded a tremendous victory for workers, declaring: &quot;Washington Gives New Deal Huge Confidence Vote; &#39;130&#39; Defeated. King County Rejects Agnew, Demos Make Clean Sweep.&quot; and &quot;Anti-Strike Initiative Buried By 20,000 Votes.&quot; New Deal politicians had done extremely well in the elections and had the labor movement of Washington to thank for much of their success. 22 out of 39 counties voted to strike down Initiative 130 and thus, the massive organizing drive by labor organizations across the state had resulted in victory! Those that had been elected showed their appreciation with appearances at the WCF’s year end convention and praised the successful effort to turn out the vote on their behalf.<a name="_ednref13" title href="#_edn13"><span class="MsoEndnoteReference"><span style="font-size: 12.0pt; font-family: Times New Roman">[13]</span></span></a></p>
+        <p>1938 was a hard year by all accounts for people across the nation. It ended on a high note for the workers of Washington, but even as the dust settled from the November elections the unions were already gearing up for another fight in the upcoming state legislative sessions of early 1939. The battle for increased relief for the unemployed was partially won due to the passage of president Roosevelt’s 3.5 billion dollar spending package and strong local efforts played a part in that fight. In the end, 1938 was an inspiring year. It showed how people banded together in the face of adversity, putting aside past differences for the sake of forging a better future for themselves and their children.</p>
+        <p class="MsoNormal" style="text-indent:.5in">&nbsp;</p>
+        <div style="mso-element:endnote-list">
+          <hr align="left" size="1" width="33%">
+  <div style="mso-element:endnote" id="edn1">
+    <p class="MsoEndnoteText"><span class="references"><a name="_edn1" title href="#_ednref1">  <span style="font-size: 10.0pt; font-family: Times New Roman">[1]</span></a> &quot;Longshoremen Ask Shipping Resume: Urge Arbitration in Dock Lockout&quot;, 1/8/1938, pg. 4; &quot;Dock Employers&#39; Sitdown Strike Broken: Union&#39;s Terms Accepted.&quot;, 1/15/1938, pg. 4.    <a name="_edn1" title href="#_ednref1"></a></span>        
+  </div>
+  <div style="mso-element:endnote" id="edn2">
+    <p class="MsoEndnoteText"><span class="references"><a name="_edn2" title href="#_ednref2">  <span style="font-size: 10.0pt; font-family: Times New Roman">[2]</span></a> &quot;Feb. 12-Feb 22 Set By WCF Youth as &#39;10 Days for Peace, Democracy.&quot;, 2/12/1938, pg. 1;&nbsp; &quot;Labor United on Political Field At WCF Parley&quot;, 2/12/1938, pg. 4; &quot;W.C.F to Endorse Candidates at Convention Feb. 6&quot;, 1/8/1938, pg. 1; &quot;WCF Backs Mike Smith, Sullivan, Mrs. Norie, Kennedy in Elections.&quot;, 2/12/1938, pg. 1; &quot;Guild Wins Sweeping Victory In &#39;Star&#39; Strike Despite Beck-Dore Support of Scripps Publishers.&quot;, 2/12/1938, pg. 4;&nbsp; &quot;Courts Sustain Labor-Board In &#39;Star&#39; Decision.&quot;, 6/18/1938, pg. 1.
+        <a name="_edn2" title href="#_ednref2"></a></span>        
+  </div>
+  <div style="mso-element:endnote" id="edn3">
+    <p class="MsoEndnoteText"><span class="references"><a name="_edn3" title href="#_ednref3">  <span style="font-size: 10.0pt; font-family: Times New Roman">[3]</span></a> &quot;Thousands paid by Merchants to Stay in Business, Charge&quot;, 1/15/1938, pg. 1; &quot;CIO Union Raps Price-Fixing by Fuel Firms, Beck&quot;, 1/22/1938, pg. 1.
+        <a name="_edn3" title href="#_ednref3"></a></span>        
+  </div>
+  <div style="mso-element:endnote" id="edn4">
+    <p class="MsoEndnoteText"><span class="references"><a name="_edn4" title href="#_ednref4">  <span style="font-size: 10.0pt; font-family: Times New Roman">[4]</span></a> &quot;Portland Terrorism Should Sound Alarm to Seattle&quot;, 2/5/1938, pg. 1
+        <a name="_edn4" title href="#_ednref4"></a></span>        
+  </div>
+  <div style="mso-element:endnote" id="edn5">
+    <p class="MsoEndnoteText"><span class="references"><a name="_edn5" title href="#_ednref5">  <span style="font-size: 10.0pt; font-family: Times New Roman">[5]</span></a> &quot;Relief Council Calls Unemployment Meet For Feb. 7 at Olympia&quot;, 1/15/1938, pg. 3; &quot;Demand for Extra Session Renewed at Mass Meeting: Martin Attacked.&quot;, 2/26/1938, pg. 4;&nbsp; &quot;County, City Unions Call Unemployment Mass Meeting.&quot;, 2/19/1938, pg. 5.
+        <a name="_edn5" title href="#_ednref5"></a></span>        
+  </div>
+  <div style="mso-element:endnote" id="edn6">
+    <p class="MsoEndnoteText"><span class="references"><a name="_edn6" title href="#_ednref6">  <span style="font-size: 10.0pt; font-family: Times New Roman">[6]</span></a> &quot;Church Protests Dismissal of &#39;Working Wife&#39; From U.W. Job.&quot;, 1/22/1938, pg. 2; &quot;Worker&#39;s Alliance Women will meet.&quot;, 2/26/1938, pg. 4.
+        <a name="_edn6" title href="#_ednref6"></a></span>        
+  </div>
+  <div style="mso-element:endnote" id="edn7">
+    <p class="MsoEndnoteText"><span class="references"><a name="_edn7" title href="#_ednref7">  <span style="font-size: 10.0pt; font-family: Times New Roman">[7]</span></a> &quot;CIO Backing of AFL Group Features Building Lockout. Unions Determined to Maintain 6-hour Working Day&quot;, 3/12/1938, pg. 4; &quot;Building Lockout Crumbles Under AFL-CIO Unity.&quot;, 3/26/1938, pg. 4.
+        <a name="_edn7" title href="#_ednref7"></a></span>        
+  </div>
+  <div style="mso-element:endnote" id="edn8">
+    <p class="MsoEndnoteText"><span class="references"><a name="_edn8" title href="#_ednref8">  <span style="font-size: 10.0pt; font-family: Times New Roman">[8]</span></a> &quot;AFL-CIO Unions Hold Out Against Canners&#39; Attempt to Reduce Wages.&quot;, 3/26/1938, pg. 4; &quot;Cannery Workers End NLRB Vote; Fleets Will Sail&quot;, 5/7/1938, pg. 1 ; &quot;Unions Fight Pay Cuts to Insure FR Recovery Plan.&quot;, 6/11/1938, pg. 1; &quot;No Wage Cuts- Metal Unions.&quot;, 7/2/1938, pg. 2; “Marine Unions Prepare to War on Wage Cuts.&quot;, 6/18/1938, pg. 2; &quot;Auto mechanics Win Strike; No Wage Cuts in New Agreement.&quot;, 7/2/1938, pg.4; &quot;N.W. Unions Stop Pay Reductions, Help FDR Build Purchasing Power.&quot;, 7/9/1938,&nbsp; pg. 1; &quot;Union Summons U.S. to Act in Boeing Fight.&quot;, 8/6/1938, pg. 1
+        <a name="_edn8" title href="#_ednref8"></a></span>        
+  </div>
+  <div style="mso-element:endnote" id="edn9">
+    <p class="MsoEndnoteText"><span class="references"><a name="_edn9" title href="#_ednref9">  <span style="font-size: 10.0pt; font-family: Times New Roman">[9]</span></a> &quot;More AFL Unions Enter Campaign to Elect Meyers. Labor Rift Fades as CIO, AFL back New Dealer&quot;, 3/5/1938, pg. 4; &quot;WCF Outlines Plan for New Deal Unity&quot;, 6/4/1938, pg. 1; &quot;AFL, CIO Will Both Seek Unity With Farmers in Coming Election&quot;, 6/4/1938, pg. 1; &quot;Both Labor Houses to Fight Against 130.&quot;, 5/28/1938, pg. 1.
+        <a name="_edn9" title href="#_ednref9"></a></span>        
+  </div>
+  <div style="mso-element:endnote" id="edn10">
+    <p class="MsoEndnoteText"><span class="references"><a name="_edn10" title href="#_ednref10">  <span style="font-size: 10.0pt; font-family: Times New Roman">[10]</span></a> &quot;AFL Delegates Irate Over Council Action&quot;, 3/5/1938, pg. 1.
+        <a name="_edn10" title href="#_ednref10"></a></span>        
+  </div>
+  <div style="mso-element:endnote" id="edn11">
+    <p class="MsoEndnoteText"><span class="references"><a name="_edn11" title href="#_ednref11">  <span style="font-size: 10.0pt; font-family: Times New Roman">[11]</span></a> &quot;Anti-W.C.F League Splits Over New Deal&quot;, 9/3/1938, pg. 1.
+        <a name="_edn11" title href="#_ednref11"></a></span>        
+  </div>
+  <div style="mso-element:endnote" id="edn12">
+    <p class="MsoEndnoteText"><span class="references"><a name="_edn12" title href="#_ednref12">  <span style="font-size: 10.0pt; font-family: Times New Roman">[12]</span></a> &quot;New Deal Candidates Favored to Win in Primary Election Contest Tuesday.&quot;, 9/10/1938, pg. 1; &quot;King County Demos Pick New Dealers to Head Party.&quot;, 10/1/1938, pg. 1; &quot;Vote Democratic, &#39;No&#39; on &#39;130&#39;, Urge CIO; AFL.&quot;, 10/8/1938, pg. 1; &quot;Women Ask Cities to Call &#39;Anti-130 Week&#39;.&quot;, 10/8/1938, pg. 1;
+        <a name="_edn12" title href="#_ednref12"></a></span>        
+  </div>
+  <div style="mso-element:endnote" id="edn13">
+    <p class="MsoEndnoteText"><span class="references"><a name="_edn13" title href="#_ednref13">  <span style="font-size: 10.0pt; font-family: Times New Roman">[13]</span></a> &quot;Washington Gives New Deal Huge Confidence Vote; &#39;130&#39; Defeated. King County Rejects Agnew, Demos Make Clean Sweep.&quot;, 11/12/1938, pg. 1; &quot;Anti-Strike Initiative Buried By 20,000 Votes.&quot;, 11/12/1938, pg. 1; &quot;Patterson, Schwellenbach, Coffee, Magnuson to address WCF/Meet.&quot;, 12/3/1938, pg. 1.
+    </span><span class="endnote"><a name="_edn13" title href="#_ednref13"></a></span></div>
+        </div>
+        </div>
+        <p></p>
+        <table id="datatable">
+            <tr>
+              <td class="byline">Date</td>
+              <td class="byline">Article</td>
+              <td class="byline">Paper</td>
+              <td class="byline">Abstract</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">January, 8</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Jan%208,%20pg%201.jpg"> &quot;W.C.F to Endorse Candidates at Convention Feb. 6&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The Washington Commonwealth federation will endorse it's candidates at a city convention it will hold in the near future. Representatives from the AFL and CIO are expected to attend as well.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">January, 8</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Jan%208,%20pg%204.jpg"> &quot;Longshoremen Ask Shipping Resume: Urge Arbitration in Dock Lockout&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The Port of Seattle Remained embroiled in a dispute this week as the Lockout against the CIO's International Longshoremen and Warehousemen's unions continued.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">January, 15</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Jan%2015,%20pg%201.jpg"> &quot;Goon Squad Invades City Hall, Beats, Mauls Welfare Union Head.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">Thugs wearing Brass knuckles invaded the County-City Building interrupting a union meeting on the seventh floor and beat the head of the Washington Association of of Social Security. After being asked to step out of the meeting and talk to three men about his request to see the King County Administrator's payroll sheet he was dragged around a corner and subjected to blows before the three raced off.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">January, 15</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Jan%2015,%20pg%201.jpg"> &quot;Thousands paid by Merchants to Stay in Business, Charge&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">It has recently come to light that the teamsters union headed by Dave Beck has been charging many local merchants a fee to stay in business or face picketing and strikes. Beck fired back saying that he does not operate goon squads of any kind and has never received a cent of tribute.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">January, 15</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Jan%2015,%20pg%203.jpg"> &quot;Relief Council Calls Unemployment Meet For Feb. 7 at Olympia&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">800 letters went out to members of the AFL and CIO this week to attend a meeting on the unemployment problem in the State of Washington.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">January, 15</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Jan%2015,%20pg%204.jpg"> &quot;Dock Employers' Sitdown Strike Broken: Union's Terms Accepted.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The strike at the waterfront was ended this week as the International Longshoremen and Warehousemen's unions returned to work following the Port's acceptance of their demands to arbitrate disputed points of the 1937 waterfront agreement.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">January, 22</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Jan%2022,%20pg%201.jpg"> &quot;CIO Union Raps Price-Fixing by Fuel Firms, Beck&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The Seattle Labor Unity coordinating committee named various coal and wood companies involved in an alleged price-fixing scheme. They have asked federal authorities to investigate the problem.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">January, 22</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Jan%2022,%20pg%202.jpg"> &quot;Church Protests Dismissal of 'Working Wife' From U.W. Job.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The Church of the People gathered this week to argue against the dismissal of any employee for reasons regarding their sex or marital status. The Church's official stance is that employment should be based on ability only.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">January, 29</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Jan%2029,%20pg%203.jpg"> &quot;Workers Alliance Swells Membership&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">In just one month of their organizational drive the King County Workers Alliance has set up three new locals and two new youth sections.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">February, 5</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Feb%205,%20pg%201.jpg"> &quot;Portland Terrorism Should Sound Alarm to Seattle&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">32 men have been arrested in connection with bombings and acts of terrorism committed during the AFL's jurisdictional war with the CIO woodworkers. Goon squads have already been seen in Seattle committing acts of violence and we must work to ensure that the reign of terror Portland has seen in recent months isn't repeated here following city elections.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">February, 12</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Feb%2012,%20pg%201.jpg"> &quot;Feb. 12-Feb 22 Set By WCF Youth as '10 Days for Peace, Democracy.&quot; </a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The WCF youth section has planned a week of events including a city wide youth dance , anti-fascist food and style show, and torchlight parade in support of democratic principles and the boycott on Japanese goods.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">February, 12</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Feb%2012,%20pg%201.jpg"> &quot;WCF Backs Mike Smith, Sullivan, Mrs. Norie, Kennedy in Elections.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">Over 400 delegates to the Washington Commonwealth Federation's all-city pre-election convention at Moose Hall met this Sunday and pledged a united campaign to defeat Mayor Dore in the comming elections.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">February, 12</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Feb%2012,%20pg%204.jpg"> &quot;Guild Wins Sweeping Victory In 'Star' Strike Despite Beck-Dore Support of Scripps Publishers.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The Dore-Beck big business ticket was struck a big blow this week as the 8 month old strike of the Seattle Newspaper Guild against the Seattle Star was settled with favorable results for the union.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">February, 12</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Feb%2012,%20pg%204.jpg"> &quot;Labor United on Political Field At WCF Parley&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The Washington Commonwealth Federation's pre-election convention was a triumph of labor unity with 74 city organizations sending 560 delegates.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">February, 12</td>
+              <td width="172" class="byline"><a href="yearbook1938_Feb 12, pg 4 %25232.jpg"> &quot;Downtown O.A.P.U.&quot; </a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The Old Age Pension Union has called a large pre-election rally downtown in support of their candidate.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">February, 19</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Feb%2019,%20pg%205.jpg"> &quot;County, City Unions Call Unemployment Mass Meeting.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">At the county Civic Auditorium on Feb. 24th a meeting will be held to discuss the state of unemployment in Washington. Representatives from the city's major labor movements will attend and citizens are urged to come as well.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">February, 19</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Feb%2019,%20pg%205.jpg"> &quot;Boycott Shrinks Japan Shipments Via Seattle Port $100,000 monthly.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The boycott on Japanese made goods led by the Washington Commonwealth Federation has seen a decrease in Japanese shipments at the Port of Seattle of over $800,000 to date.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">February, 26</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Feb%2026,%20pg%201.jpg"> &quot;Mass Meeting Called on Tacoma Crisis.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">A county wide mass meeting will be held at the Coliseum Auditorium Feb. 27th to discuss issues issues with the local unemployment relief situation.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">February, 26</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Feb%2026,%20pg%204.jpg"> &quot;Demand for Extra Session Renewed at Mass Meeting: Martin Attacked.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">Calls were renewed for Governor Clarence D. Martin to hold a special session of the state legislature to deal with the growing problem of relief for the increasing numbers of unemployed in the state.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">February, 26</td>
+              <td width="172" class="byline"><a href="yearbook1938_Feb 26, pg 4 %25232.jpg"> &quot;Worker's Alliance Women will meet.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The women of the worker's alliance will meet at an all-county meeting March 5th to discuss how to combat housing projects, consolidation of sewing rooms, and slashes in state aid to dependent children.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">March, 5</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Mar%205,%20pg%201.jpg"> &quot;AFL Delegates Irate Over Council Action&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">Numerous delegates of the AFL protested the actions of the executive and political welfare committees after they called for the defeat of two pro-labor city council candidates. Ten unions spoke up in support of the candidates and the committees themselves had members who spoke out in resentment of the actions taken. </td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">March, 5</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Mar%205,%20pg%202.jpg"> &quot;2 Unions Strike at U.W. Campus Ban Against Political Speakers. Officials Urged to Grant Freedom of Speech.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The suspension of Harold Durham chairman of the first voter's club was protested this week as he was suspended by the president of the U.W using an arbitrary rule prohibiting speakers who discuss controversial subjects.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">March, 5</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Mar%205,%20pg%204.jpg"> &quot;More AFL Unions Enter Campaign to Elect Meyers. Labor Rift Fades as CIO, AFL back New Dealer&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The continuing conflict between these two major unions over the Mayoral race in Seattle seems to be drawing to a close as virtually all former backers of John Dore who lost in the primaries have swung to support Victor Meyers, the leading labor candidate.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">March, 12</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Mar%2012,%20pg%201.jpg"> &quot;AFL, CIO Join With Farmers in Power Battles.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">A move to promote public power ownership got a boost this week when the AFL and CIO agreed to help farmers. The commissioners in charge of the power regulation have been accused of not letting the public speak at the meeting they have held and changing the meeting times to conflict with union schedules.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">March, 12</td>
+              <td width="172" class="byline"><a href="yearbook1938_Mar 12, pg 1 %25232.jpg"> &quot;44,000 Rolled up by Sullivan; Mike Smith gets 42,000; Vic Meyers 48,000.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">Though the candidates endorsed by the Washington Commonwealth Federation went down in defeat they managed to pile up an impressive number of votes. Divisions in Labor were blamed for the loss.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">March, 12</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Mar%2012,%20pg%204.jpg"> &quot;P.I. Faces Labor Board Charges.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The Seattle PI was brought before the National Labor Relations Board to face charges of unfair practices by the Seattle Newspaper Guild. The case involves the discharge of two employees in recent months.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">March, 12</td>
+              <td width="172" class="byline"><a href="yearbook1938_Mar 12, pg 4 %25232.jpg"> &quot;CIO Backing of AFL Group Features Building Lockout. Unions Determined to Maintain 6-hour Working Day&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">400 men have been locked out as contractors attempted to force and 8 hour day on their employees. AFL and CIO associated unions have given their support as 1,500 men are already working under 6-hour day terms.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">March, 12</td>
+              <td width="172" class="byline"><a href="yearbook1938_Mar 12, pg 4 %25233.jpg"> &quot;Green Lake WCF Youth in Rally.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The Green Lake Chapter of the WCF is hosting a rally and dance on March 18th to discuss problems facing young people in the district and plan a program of activity for the coming months.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">March, 19</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Mar%2019,%20pg%201.jpg"> &quot;WCF Precinct Workers Gather Here March 23&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">A meeting is planned to discuss ways to strengthen the position of New Dealers in the upcoming elections.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">March, 19</td>
+              <td width="172" class="byline"><a href="yearbook1938_Mar 19, pg 1 %25232.jpg"> &quot;Vigilante Farm Group Exposed at NLRB Trial.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">Vigilante farm workers who organized &quot;pick handle brigades&quot; against unionized farm workers were funded by Ross Packing company according to new complaints filed with the National Labor Relations board. Union workers were discriminated against and discharged from the company as well.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">March, 19</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Mar%2019,%20pg%202.jpg"> &quot;Women Protest Sewing Room's Consolidation&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The Worker's Alliance Womens commission this week renewed protests against the consolidation of WPA sewing rooms.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">March, 26</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Mar%2026,%20pg%204.jpg"> &quot;Building Lockout Crumbles Under AFL-CIO Unity.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">Three hundred men who had gone on strike for a 6 hour day were let back into work this week as employers embraced the new terms, giving up on their efforts to re-institute the eight hour day.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">March, 26</td>
+              <td width="172" class="byline"><a href="yearbook1938_Mar 26, pg 4 %25232.jpg"> &quot;AFL-CIO Unions Hold Out Against Canners' Attempt to Reduce Wages.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">Five unions are currently locked in a struggle with Alaska cannery operators to resist a 10% wage cut for some of the unionists. The AFL and CIO are once again displaying the success that can be had when working together.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">April, 9</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Apr%209,%20pg%201.jpg"> &quot;WCF urges probe of Vigilante 'Associated Farmers''</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">A request was made that the Senate Civil Liberties committee investigate the doings of the so called vigilante farmers. This followed the expulsion of two union negotiators from the town of St. John at the hand of a lynch mob.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">April, 9</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Apr%209,%20pg%203.jpg"> &quot;OAPU files Case to Force Pension Slowdown; Ernst Named Defendant.&quot; </a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">In an attempt to slow down the cutting of government aid the governor's man in charge of slashing aid programs was named as the defendant in a case alleging that he violated his own procedures in denying aid arbitrarily and without oversight.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">April, 16</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Apr%2016,%20pg%201.jpg"> &quot;WCF to Collect Signatures in Drive to Force Special Session.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The WFC and OACU this week began a petition drive to force a special session of the state legislature to debate the problem of a lack of relief funds for the state's many unemployed.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">April, 16</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Apr%2016,%20pg%203.jpg"> &quot;Unions to Enter May Day Parade.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">Ten unions including the AFL and CIO have endorsed the 1938 May Day parade and many will enter floats as a show of labor's unity.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">April, 23</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Apr%2023,%20pg%201.jpg"> &quot;Labor Political League Adopts State Program&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">There will be a state-wide convention at some point in the near future hosted by Labor's non-partisan League of Washington to discuss legislative proposals including a state minimum wage and maximum hours law and a state labor-relations law.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">April, 23</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Apr%2023,%20pg%206.jpg"> &quot;WCF Youth to Enter Health, Education Floats in May 1 Parade.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The WCF youth section will be entering it's own floats in the May Day Parade to raise awareness of health and education problems affecting the nation's youth.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">April, 30</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Apr%2030,%20pg%201.jpg"> &quot;Unions Launch Nat'l Post-Card Campaign on Recovery Program.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">Labor's non-partisan League is launching a campaign to persuade congress to vote in favor of the $5,000,000,000 recovery package. Numerous unions are attempting to contact lawmakers as well to enlist their support.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">April, 30</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Apr%2030,%20pg%203.jpg"> &quot;Mass Meetings to Support General Welfare Act to be Held in State.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">Mass meetings across the State will be held to promote unity of all pension groups in favor of upcoming pension reform measures.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">May, 7</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/May%207,%20pg%201.jpg"> &quot;Cannery Workers End NLRB Vote; Fleets Will Sail&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">Violence was reported in many areas as nearly 5,000 workers from Seattle and Portland voted for a bargaining agency with the National Labor Relations Board and sent the fishing fleets to Alaska for the season after many delays.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">May, 7</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/May%207,%20pg%203.jpg"> &quot;AFL-CIO Unity on Two New Deal Bills Aids FDR Prospects.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The AFL and CIO both threw their support behind FDR's recovery spending proposals and wages and hours legislation. This support and the petition drives being organized brought the bills that much closer to a vote on the floor of the house.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">May, 7</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/May%207,%20pg%203.jpg"> &quot;Pension Union is Set for Huge Convention Here Next Week-End.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The Pension Union which has recently grown to 30,000 members will hold it's second state convention since it's formation a year prior at Moose Hall in downtown Seattle.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">May, 7</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/May%207,%20pg%204.jpg"> &quot;7,000 March in Giant Seattle May Day Parade&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">In Seattle's largest parade since the World War 25,000 stood by to watch the show. Many unions participated with the Olliance and CIO cannery workers supplying the largest number of marchers.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">May, 14</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/May%2014,%20pg%201.jpg"> &quot;1,000 Delegates Represent 30,000 Members at State OAPU Conclave&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">At it' second gathering the OAPU showed how quickly it has grown boasting 30,000 members. Still calling for a special session of the state legislature to address their concerns, the convention also laid out future plans for pension laws and to get progressive members elected to state congress.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">May, 14</td>
+              <td width="172" class="byline"><a href="yearbook1938_May 14, pg 1 %25232.jpg"> &quot;State AFL Urges War on Anti-Strike Bill&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The State AFL joined the fight against anti-strike Initiative 130 urging members to get family and friends to refuse to sign petitions to put the measure on the ballot. AFL president James Taylor was quoted as saying &quot;This measure will take labor back 500 years.&quot;</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">May, 21</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/May%2021,%20pg%201.jpg"> &quot;AFL Engineers Will Fight City Reclassification Wage Reduction.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The mayor's plan to reclassify civil service employees to reduce their eages met resistance from the AFL this week.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">May, 21</td>
+              <td width="172" class="byline"><a href="yearbook1938_May 21, pg 1 %25232.jpg"> &quot;Special Session Petitions Signed by 40,000; Goal Set at 200,000.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">A measure to force the governor to call a special session to address the relief shortage is well underway as 1/5 of the needed signatures have already been gathered.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">May, 28</td>
+              <td width="172" class="byline"><a href="yearbook1938_May 28, pg 1 cont %25231.jpg"> &quot;Both Labor Houses to Fight Against 130.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The Leaders of both the AFL and CIO in Seattle published statements blasting Initiative 130 as a fascist and viscous measure designed to take workers back to an era when it was a crime to quit. They call it an attempt to legislate the rights of trade unions out of existence.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">June, 4</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Jun%204,%20pg%201.jpg"> &quot;WCF Outlines Plan for New Deal Unity&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">Fearing a campaign to defeat New-Deal congressmen and the Washington Commonwealth Federation as a whole, the WCF this week announced plans for unity and to push president Roosevelt's policies.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">June, 4</td>
+              <td width="172" class="byline"><a href="yearbook1938_Jun 4, pg 1 %25232.jpg"> &quot;AFL, CIO Will Both Seek Unity With Farmers in Coming Election&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">State presidents of both major unions have said that they will seek to put forth a common list of candidates with the State Grange for the upcoming fall elections.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">June, 4</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Jun%204,%20pg%203.jpg"> &quot;WCF Youth Open Summer Season&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">Kicking off a summer program of sports and recreation activities, the WCF Youth is hosting a week of outings and social affairs beginning with a bonfire June 8th.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">June, 11</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Jun%2011,%20pg%201.jpg"> &quot;Lumber Wage Slash Rejected -Woodworkers turn down operators' $1-a-day Salary Reduction Demand.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">Lumber workers vowed to protect their wage levels at all costs. They accuse the operators' of attempting to secure a heftier share of the profits anticipated from the $3,500,000,000 government spending bill.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">June, 11</td>
+              <td width="172" class="byline"><a href="yearbook1938_Jun 11, pg 1 %25232.jpg"> &quot;Unions Fight Pay Cuts to Insure FR Recovery Plan.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">New reports show that with the passage of the spending bill and minimum wage, maximum hours legislation businesses across the country are attempting to lower wages anywhere they can. In the NW, the fruit canning, garbage collection, salmon packing and timber businesses have all been taking this kind of action though unions are fighting back across the country.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">June, 11</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Jun%2011,%20pg%204.jpg"> &quot;We'll Take No Wage Cuts , Says Auto Union Head.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">Harvey McIntyre, the head of the Auto Mechanics union, has said there will be no wage cuts in local auto shops. The workers voted 254-1 to resist all attempts to cut wages threatening to shut down factories if it came to it.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">June, 18</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Jun%2018,%20pg%201.jpg"> &quot;No Wage Cut, Say Culinary Unions.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">Five thousand culinary employees said no to wage cuts this week and said they will back it up with strikes if necessary. The members rejected a proposal from restaurant owners which would have put them back on the six day work week without any additional compensation. The workers have been on a five day week for about a year.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">June, 18</td>
+              <td width="172" class="byline"><a href="yearbook1938_Jun 18, pg 1 %25232.jpg"> &quot;Courts Sustain Labor-Board In 'Star' Decision.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The appeals court upheld the decision to force the Seattle Star to return 19 employees to their circulation department after it had fired them and hired Teamsters during it's purge of Newspaper Guild employees.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">June, 18</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Jun%2018,%20pg%202.jpg"> &quot;Marine Unions Prepare to War on Wage Cuts.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The Marine Cooks and Stewards delegation this week put forth a motion that the entire Federation of Marine workers to offset the owners organization in upcoming negotiations when their contract expires Sept 30th.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">June, 18</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Jun%2018,%20pg%204.jpg"> &quot;Car Mechanics Will Stay Out Until Dealers Drop Wage Cut.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline"> 300 Seattle mechanics left work Thursday morning and will not return until pay cuts are rescinded. The head of the auto union said they wish to continue to work under their 1936 agreement and wish to halt owners efforts to undermine working conditions.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">June, 25</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Jun%2025,%20pg%204.jpg"> &quot;Unions Remain Firm in refusal to Take Reductionism Wages.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The local AFL and CIO's governing bodies remained committed this week to their pledge to resist all efforts at lowering wages. Local auto mechanics and metal tradesman have already are fighting back while local woodworkers have been told to prepare for a fight.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">July, 2</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/July%202,%20pg%201.jpg"> &quot;Gigantic Anti-Labor Drive Seen Behind Agnew Resignation Move.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">Deputy Prosecutor Henry Clay Agnew has resigned after his superiors refused to sign a sweeping indictment against top members of the AFL and Teamsters unions accusing them of price fixing and racketeering. Agnew's boss Wagner refused to sign the indictment without investigating the serious charges prompting Agnew's resignation.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">July, 2</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/July%202,%20pg%202.jpg"> &quot;No Wage Cuts- Metal Unions.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">Metal workers vowed this week to put a stop to work at all shops employing members of the union that try to impose wage cuts.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">July, 2</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/July%202,%20pg%204.jpg"> &quot;Auto mechanics Win Strike; No Wage Cuts in New Agreement.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">300 members of the auto mechanics union returned to their shops Monday after owners promised the $35 weekly wage guarantee and 35 hour work week would remain in effect.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">July, 9</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/July%209,%20pg%201.jpg"> &quot;State A.F.L. Body May Call Liberals to Battle Anti-Union Initiative.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The 50,000 signatures necessary for the anti-strike law to appear on the ballot have been gathered and a conference will likely be called to organize resistance to this union crippling piece of legislation.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">July, 9</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/July%209,%20pg%201%20%232.jpg"> &quot;N.W. Unions Stop Pay Reductions, Help FDR Build Purchasing Power.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The latest groups to ward off pay cuts during the business slump have been the Building Trades Council and the Culinary Workers Alliance.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">July, 16</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/July%2016,%20pg%201.jpg"> &quot;Labor Will Be United at Polls in Fall, Predicts Before AFL Convention; 103 Rapped.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The various factions of the AFL declared that they would cast aside their differences and reach a common accord for the fall elections and the battle over initiative 130, the anti-strike law. The unions also appealed to farmers asking for their support and reminding them of past help that they received.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">July, 16</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/July%2016,%20pg%201%20%232.jpg"> &quot;Martin Refuses to See Bearers of Signatures.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">Governor Clarence D. Martin Refused to see the bearers of 100,000 signatures asking for a special session of the legislature this week. Headed by the OAPU and Worker's Alliance the delegation hoped to at least speak to the Governor but the signatures were turned over to the Secretary of State &quot;for review&quot;.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">July, 16</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/July%2016,%20pg%201%20%233.jpg"> &quot;King County Grange Will Meet July 21.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">King County Pomona Grange will meet with smaller grange organizations on July 21st to discuss the county wide Grange picnic and plans for winning the King County power district election in November.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">July, 23</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/July%2023,%20pg%201.jpg"> &quot;State AFL Asks Establishment of Coalition Body to Beat '130'.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The Washington State AFL concluded it's convention sessions in Yakima last week with directions to its president James Taylor and the executive board to confer with all labor, farm, fraternal, and progressive groups in order to establish and maintain political unity in the face of initiative 130. There will be an effort to 'get out the vote' amongst workers everywhere.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">August, 6</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Aug%206,%20pg%201.jpg"> &quot;Union Summons U.S. to Act in Boeing Fight.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">Boeing mechanics have voted unanimously to walk out of the airplane giant before submitting to wage cuts or or any other adverse condition. U.S. department of labor counciliator L.N. Sissley has been called in to mediate the disputes.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">August, 6</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Aug%206,%20pg%201%20%232.jpg"> &quot;Unions Aid Efforts to Get Big U.S. Ship Contracts for Seattle.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">Seattle's unions are cooperating with the city in an effort to win contracts from the gigantic government ship building program. As a prerequisite to getting the contracts work would need to be done on Seattle shipyards to outfit them with the necessary equipment to build such large vessels.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">August, 6</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Aug%206,%20pg%203.jpg"> &quot;OAPU Outlines Political Aims for Elections.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">At a recent conference the State OAPU outlined its aims tfor the election, saying that it will attempt to enact legislation proposed by OAPU representatives including the model pension bill. Also they will only support the election to public office of officials who are committed to enacting old age legislation and enforcing it after it becomes law.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">August, 13</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Aug%2013,%20pg%201.jpg"> &quot;Against 130 is the Theme of United Labor Day Parade.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">All labor, fraternal, and and other organizations supporting the effort against initiative 130 are called on to attend and participate in the 1938 Labor Day Parade. Labor leaders are asking that past differences be forgotten in the face of this historic challenge to labor's rights.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">August, 13</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Aug%2013,%20pg%204.jpg"> &quot;Will Ship Owners Bring on Maritime Strike This Year? Again?</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">As employers stall on their renewal of the maritime worker's contracts worries have arisen that a second major strike could paralyze the local shipping industry.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">August, 20</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Aug%2020,%20pg%201.jpg"> &quot;3 WCF Heads Sue 'Star' for Libel&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">Three prominent members of the WCF sought compensation for damages to their reputation when the Star published a recent article alleging that the men had ties to the communist party.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">September, 3</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Sep%203,%20pg%201.jpg"> &quot;Anti-W.C.F League Splits Over New Deal&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The Democratic League, which was organized but associates of the governor's office with the intent of smearing New Deal politicians, has had a great split in it's leadership as three it's ranking officials repudiated the league and resigned from their posts. They left because the league had endorsed candidates that ran counter to the league's stated values, supposedly without consulting the three.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">September, 3</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Sep%203,%20pg%201%20%232.jpg"> &quot;WCF Delegates Will Endorse Candidates at County Parley.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">Officials from the Washington Commonwealth Federation's political welfare committee were busy scanning answers to questionnaires that had been passed out to all potential candidates that would win the endorsement of labor. At the County Parley members from the AFL, CIO, Democratic clubs, New Deal Legislative organizations, old age pension groups, and unemployed organizations are all expected to attend. Questions raised will be whether participants support the state democratic party platform and if they are opposed to initiative 130 or not.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">September, 10</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Sep%2010,%20pg%201.jpg"> &quot;New Deal Candidates Favored to Win in Primary Election Contest Tuesday.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">As last minute efforts geared up for the elections polls and betting give the edge to liberal legislators in nearly every part of the state.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">September, 17</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Sep%2017,%20pg%201.jpg"> After September 10th, 1938 the Sunday News changed it's name to the Washington New-Dealer. Henceforth, all of the remaining issues for the year are under this name.</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">After September 10th, 1938 the Sunday News changed it's name to the Washington New-Dealer. Henceforth, all of the remaining issues for the year are under this name.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">September, 17</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Sep%2017,%20pg%201.jpg"> &quot;Liberals Grab Nominations of 46 State house Posts.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">New-Deal candidates won in 46 of the 99 state house seats in elections this week with 13 of the 26 possible senate seats going to liberals.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">October, 1</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Oct%201,%20pg%201.jpg"> &quot;Mass Rally on Pension Raises Will be Held.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The Washington OAPU's drive to get the $30 a month pension guarantee passed as an amendment to the state's social-security laws got underway with the announcement of a meeting October 8th at the Eagle's auditorium.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">October, 1</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Oct%201,%20pg%201%20%232.jpg"> &quot;King County Demos Pick New Dealers to Head Party.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">Confirmed liberal democrats were appointed to 3 of the four top offices of the state party at their state convention on Saturday.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">October, 8</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Oct%208,%20pg%201.jpg"> &quot;Vote Democratic, 'No' on '130', Urge CIO; AFL.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">Both the local and central leadership of the CIO and AFL have chosen a strategy for the upcoming elections that makes voting for democratic, New-Deal, candidates synonymous with beating Initiative 130. They also accused third party movements of splitting up the united front that has finally come together.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">October, 8</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Oct%208,%20pg%201%20%232.jpg"> &quot;Women Ask Cities to Call 'Anti-130 Week'.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The Woman's Labor Congress tonight announced that they will petition City Councils across the state to declare a week at the end of October 'Anti-130 Week'.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">October, 15</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Oct%2015,%20pg%201.jpg"> &quot;WCF Will Invite Other Groups to Pre-Legislative Convention.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The WCF convention will be held at a yet to be named hall in Seattle. Many other groups have been invited to discuss legislative issues before the 1939 state legislative sessions begin.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">November, 5</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Nov%205,%20pg%201.jpg"> &quot;Democrats Confident of New Deal Victory as Election Day Nears.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">Democratic party officials predicted that this year would be another good one for new deal candidates as voters prepare to head to the polls on November 8th.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">November, 5</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Nov%205,%20pg%202.jpg"> &quot;State Ordered to Pay $30 Pension by Cowlitz Court.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">In a victory for the Washington OAPU, the Cowlitz superior court ruled this week to uphold the $30 a month pension rates.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">November, 12</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Nov%2012,%20pg%201.jpg"> &quot;Washington Gives New Deal Huge Confidence Vote; '130' Defeated. King County Rejects Agnew, Demos Make Clean Sweep.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">Headline</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">November, 12</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Nov%2012,%20pg%201%20%232.jpg"> &quot;Anti-Strike Initiative Buried By 20,000 Votes.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">Thanks to the hard work and unity of the AFL, CIO and many other labor advocates the anti-strike law has been defeated. 22 of Washington's 39 counties voted against the law.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">November, 12</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Nov%2012,%20pg%201%20%232%20cont.jpg"> &quot;Bone, All Six Congressmen Re-Elected.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">Washington voters re-elected liberal Senator Homer Bone and six other liberal congressmen pushing the state even farther to the left.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">November, 26</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Nov%2026,%20pg%201.jpg"> &quot;Patterson, Schwellenbach, Coffee, Magnuson to address WCF/Meet.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The WCF's constitutional convention this year will feature New-Deal congressmen who were just voted back into office. At the convention delegates will be chosen to the upcoming state legislative session.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">December, 3</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Dec%203,%20pg%201.jpg"> &quot;Delegates Hear Schwellenbach Praise WCF.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">A crowd of over 1,200 crowded Harmony Hall to join the WCF convention this past week and heard from one of the congressmen that the WCF helped elect. Schwellenbach Praised the WCF and denounced attempts to oust it from the democratic party. He also had sharp words about anti New-Deal democrats.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">December, 3</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Dec%203,%20pg%206.jpg"> &quot;AFL, CIO Unions Satisfied With P.I. Ruling.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">A court ruling peacefully resolved disputes between the Teamsters and the Seattle Newspaper Guild over the collective bargaining rights and representation of certain employees the P.I.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">December, 17</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Dec%2017,%20pg%203.jpg"> &quot;Alliance will March on Olympia if Security Cut.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">If the coming session of the state legislature fails to adopt an acceptable liberal social security program another 'march on Olympia' is predicted.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">December, 17</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Dec%2017,%20pg%203%20%232.jpg"> &quot;P-I Employees Choose Guild BY Vote of 3-1&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">In a recent vote, employees of the Hearst's P.I. chose the Seattle Newspaper Guild, a CIO affiliate, over no union 145-47.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">December, 31</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Dec%2031,%20pg%201.jpg"> &quot;WPA Battle to Mark Opening of Congress.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The opening session of the state congress promises many fireworks as republicans geared up to fight against the democrats who will attempt to push President Roosevelt's agenda next year. One of the first battles will be over finding the money to keep the W.P.A employment as high as it has been in the last few months.</td>
+            </tr>
+            <tr>
+              <td width="70" class="byline">December, 31</td>
+              <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1938/Dec%2031,%20pg%201%20%232.jpg"> &quot;Bellingham Lumber Strike is Effective.&quot;</a></td>
+              <td width="40" class="byline">SN</td>
+              <td width="478" class="byline">The Bloedel-Donovan Lumber co.'s workers have received assurances of support from local groups as they struggled against an anti-picketing order.</td>
+            </tr>
+          </table>
+     
+         
+          </div>
+	  </td>
+	</tr>
+	<tr>
+	<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.html"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

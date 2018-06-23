@@ -1,0 +1,43 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Seattle General Strike: Walking Tour</title>
+<link href="strikestyles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" media="print" href="strikeprintstyles.css" />
+</head><!-- OUTER PAGE TABLE-->
+<CENTER>
+
+<body>
+
+<div><img src="headerimages/strike-logo.jpg" alt="The 1919 Seattle General Strike" width="829" height="152" border="0" usemap="#pnlcrhp">
+  <map name="pnlcrhp">
+    <area shape="rect" coords="406,3,826,27" href="http://depts.washington.edu/labhist">
+  </map>
+</div>
+<!--#include file="menu.html" -->
+
+
+<div class="content">
+
+ <div class="heading">Walking Tour</div>
+ <div class="intro">Interactive Map:&nbsp;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ </div>
+
+
+     
+ 
+ 
+ 
+
+</div>
+<div id="bottom"><!--#include file="footer.html" --></div>
+</body>
+</html>

@@ -1,0 +1,154 @@
+<!--#include file="metaheader.html"-->
+<title>Communism in Washington State: Paul Bowen Oral History</title>
+
+<script type="text/javascript" language="JavaScript">
+function swap(url){ 
+
+var vidurls=new Array();
+vidurls[0]=""
+vidurls[1]="bow_losinghouse01_256k.wmx";
+vidurls[2]="";
+vidurls[3]="bow_communistparty02_256k.wmx";
+vidurls[4]="bow_joiningcp03_256k.wmx"
+vidurls[5]="";
+vidurls[6]="bow_naacp04_256k.wmx";
+vidurls[7]="bow_recruitingblacks05_256k.wmx";
+vidurls[8]="bow_fear06_256k.wmx";
+vidurls[9]="";
+vidurls[10]="bow_housing07_256k.wmx";
+vidurls[11]="bow_groceryprotest08_256k.wmx";
+vidurls[12]="";
+vidurls[13]="bow_redscare09_256k.wmx";
+vidurls[14]="bow_huac10_256k.wmx";
+vidurls[15]="bow_smithact11_256k.wmx";
+vidurls[16]="";
+vidurls[17]="bow_laborunions12_256k.wmx";
+vidurls[18]="bow_leavingparty13_256k.wmx";
+
+	document.getElementById("oralvid").innerHTML= '<embed type="application/x-mplayer2" src="/labhist/vid/' + vidurls[url] + '" showStatusBar="true" showControls="true" height="305" width="320"><\/embed>';
+	}
+</script>
+
+
+</head>
+<body id="oralhistory">
+<table id="pagetable" border="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="http://depts.washington.edu/labhist/cpproject/logos/divide_rule6.jpg" usemap="#Map" alt="Communism in Washington State">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;">
+			<div id="navigation">
+			<!--#include file="menu.html"-->
+			</div>
+		</td>
+		<td>
+			<div id="content">
+			<h1>Paul Bowen</h1>
+			
+			
+			
+		  <div style="float:right; margin-left:10px; width:320px;">   
+
+		  <div style="width:320px; height:305px;" id="oralvid"><img src="/labhist/cpproject/images/bowen-vidpanel.JPG" alt="Interviewee" width="320" height="306"></div>
+
+		  <div class="vidnavlinks">
+
+		  
+
+		 
+
+	<script type="text/javascript">
+
+
+
+var vidtitles=new Array()
+
+
+vidtitles[0]="+Growing up on the South Side"
+
+vidtitles[1]="Bowen grew up on Chicago's South Side in the 1920s and 1930s. His father lost the family house because of an unscrupulous real-estate dealer."
+
+vidtitles[2]="+Joining the Communist Party"
+
+vidtitles[3]="&quot;There were some Reds out there.&quot; Bowen describes how he first became aware of the Communist Party in Chicago."
+
+vidtitles[4]="&quot;For the first time I felt a load lifting off my back.&quot; The Communist Part&lsquo;s rejection of organized religion was a major factor in Bowen&lsquo;s decision to join the Party in 1943."
+
+vidtitles[5]="+African Americans and the Communist Party"
+
+vidtitles[6]="&quot;They talked loudly and they conducted a few battles, but mainly they were riding whatever wave that comes along:&quot; Bowen compares the NAACP and the Communist Party."
+
+vidtitles[7]="&quot;This is why I moved up so rapidly; I could do certain things that other people found it impossible to get done.&quot; Bowen&lsquo;s work for the local Party centered on recruiting more African American members."
+
+vidtitles[8]="&quot;There was a lot of sympathy amongst the blacks, but not a lot of joining.&quot; Bowen attributes the reticence of many blacks to join the CP to fear of reprisals from government or employers."
+
+vidtitles[9]="+Fighting Discrimination in the Northwest"
+
+vidtitles[10]="&quot;Blacks couldn&lsquo;t have bought a home in the 40s or early 50s out here.  That&lsquo;s out of the question:&quot; racism in the Seattle housing market."
+
+vidtitles[11]="&quot;These were stores that sold regularly to blacks, but would hire no blacks.  And I set out to change it.&quot; In the late 1940s, Bowen organized pickets of Seattle-area grocery and department stores to protest discriminatory hiring practices."
+
+vidtitles[12]="+Red Scare"
+
+vidtitles[13]="&quot;I began to notice it in '48 or '49. There was a scare, there were threats, jail time...&quot; Bowen discusses the onset of a post-World War II Red Scare, including the relationship between communists and the Democratic Party and his own dismissal from his wartime job at the Boeing Company."
+
+vidtitles[14]="&quot;This began to frighten people throughout the United States. It frightened them here, frightened them in Chicago and New York and California &mdash; wherever there were Reds:&quot; Bowen on the House Committee on Un-American Activities."
+
+vidtitles[15]="&quot;It was a frightening experience, having committed no visible crime.&quot; In April 1953, Bowen and six other leaders of the Northwest District Communist Party were tried and convicted under the Smith Act."
+
+vidtitles[16]="+Leaving the Party"
+
+vidtitles[17]="&quot;Somehow the labor union is the most advanced--this is where I disagree with Lenin...They had no time to sit down and talk to the black man.&quot;"
+
+vidtitles[18]="&quot; It&lsquo;s awful hard being a Black and a Red, too.&quot; Bowen broke with the CP in 1957."
+
+
+
+for (i=0;i<vidtitles.length;i++)
+
+{
+
+	if (vidtitles[i].indexOf('+') !=-1)
+
+			{
+
+			document.write("<span class=\"vidnavdividers\">" + vidtitles[i].substring(1) + "<\/span><br /><br />")
+
+			}
+
+		else
+
+			{
+
+			document.write("<a href=\"javascript:swap('" + i + "')\"><img style=\"border:none;\" src=\"/labhist/cpproject/images/speakericon.gif\" alt=\"Film Icon\">" + vidtitles[i] + "<\/a><br /><br />")
+
+			}
+
+	
+
+}
+
+
+
+                      </script>
+       	      </div></div>
+
+		  	<p>Paul Bowen was born in Chicago in 1922. He grew up in an all-black neighborhood on Chicago's South Side, the oldest of seven children. He was first introduced to the Communist Party while working in the Chicago stockyards and joined in 1943, shortly before he and his family migrated to Seattle. Bowen served in the United States Army during World War II. He worked briefly at Boeing after the war but was fired for being a Communist. </p><p>A militant activist and a charismatic speaker, Bowen rose quickly through Party ranks. He was appointed Education Director of the Northwest District and also worked as Party Organizer in Duwamish Bay in the late 1940s and early 1950s. During this time he organized a string of demonstrations against local grocery and department stores that refused to hire black workers. </p><p> In April of 1953 Bowen and six other Party leaders in Seattle were indicted under the Smith Act for conspiracy to advocate the overthrow of the United States government. The arrest of the &quot;Seattle Seven&quot; was part of a larger roundup of Communist Party leaders by federal authorities in major cities across the nation. In a widely publicized trial, Bowen and the other Smith Act defendants were convicted and sentenced to prison terms, but the convictions were quickly overturned on appeal. </p><p>Bowen left the Party in 1957, upset over what he perceived as unnecessary sectarianism on the part of Party leaders and at the leadership's privileging of the &quot;Labor Question&quot; over civil rights for African Americans. He opened up his own television repair shop and largely withdrew from politics and the public eye. Bowen is now retired and living in Renton, WA.     </p>       
+	          <div style="clear:both;"></div>   
+		  </div>
+	</td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.shtml"-->	</div>
+		</td>
+	</tr>
+</table>
+</body>
+<!--#include file="metafooter.html"-->

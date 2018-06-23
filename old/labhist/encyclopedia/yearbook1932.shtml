@@ -1,0 +1,547 @@
+<!--#include file="metaheader.html"-->
+<title>Labor Yearbook 1932</title>
+<link rel="stylesheet" type="text/css" href="xfade2_o.css" />
+<script type="text/javascript" src="xfade2.js"></script>
+<style type="text/css">
+<!--
+.style1 {color: #FFFFFF}
+-->
+</style>
+</head>
+<body id="home">
+<table id="pagetable" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="header_logo.jpg" width="1000" height="189" border="0" usemap="#pnlcrp">
+			<map name="pnlcrp">
+              <area shape="rect" coords="326,5,847,33" href="http://depts.washington.edu/labhist">
+            </map>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td bordercolor="#000000" style="vertical-align:top;background-color:black;">
+			<div id="navigation">
+			  <!--#include file="menu.html"-->
+			</div>
+	  </td>
+		<td>
+			<div id="content">
+			<h1>Labor Events Yearbook: 1932</h1>
+			<div class="redboxsm">
+    <h2 align="center" style="color:white;"><strong><a href="yearbook_introduction.shtml">Yearbook Home</a></strong></h2>
+	
+	<table id="redtable" border="0" cellpadding="0" cellspacing="3">
+	<tr>
+              <td><div align="center"><a href="yearbook1915.shtml"><strong>1915</strong></a></div></td>
+              <br>
+              <td><a href="yearbook1915.shtml"><img src="mages/yearbook-ufw2/1915-100x30.jpg" width="101" height="30" border="0"></a></a></span></td>
+            </tr>
+		<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1918.shtml"><strong>1918</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1918.shtml"><img src="mages/yearbook-ufw2/1918-100x30.jpg" width="100" height="30" border="0"></a></td>
+        </tr>
+		<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1919.shtml"><strong>1919</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1919.shtml"><img src="mages/yearbook-ufw2/1919-100x31.jpg" width="101" height="31" border="0"></a></td>
+        </tr>
+		 <tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1930.shtml"><strong>1930</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1930.shtml"><img src="mages/yearbook-ufw2/1930-100x30.jpg" width="100" height="30" border="0"></a></td>
+        </tr>
+        <tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1931.shtml"><strong>1931</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1931.shtml"><img src="mages/yearbook-ufw2/1931-100x30.jpg" width="101" height="30"></a></td>
+        </tr>
+			<tr>
+       <td style="width:75px;"><div align="center"><a href="yearbook1932.shtml"><strong>1932</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1932.shtml"><img src="mages/yearbook-ufw2/1932-100x30.jpg" width="100" height="31" border="0"></a></td>
+			</tr>
+			<tr>
+			  <td style="width:75px;"><div align="center"><a href="yearbook1933.shtml"><strong>1933</strong></a></div></td>
+			  <td style="vertical-align:top;"><a href="yearbook1933.shtml"><img src="mages/yearbook-ufw2/1933-100x30.jpg" width="101" height="30" border="0"></a></td>
+		    </tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1934.shtml"><strong>1934</strong></a></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1934.shtml"><img src="mages/yearbook-ufw2/1934-100x30.jpg" width="99" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1935.shtml"><strong>1935</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1935.shtml"><img src="mages/yearbook-ufw2/1935-100x30.jpg" width="100" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1936.shtml"><strong>1936</strong></a></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1936.shtml"><img src="mages/yearbook-ufw2/laborday100x30.jpg" width="100" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><strong><a href="yearbook1937.shtml">1937</a></strong></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1937.shtml"><img src="mages/yearbook-ufw2/1937-100x30.jpg" width="100" height="29" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><strong><a href="yearbook1938.shtml">1938</a></strong></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1938.shtml"><img src="mages/yearbook-ufw2/1938-100x30.jpg" width="100" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><strong><a href="yearbook1939.shtml">1939</a></strong></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1939.shtml"><img src="mages/yearbook-ufw2/1939-100x29.jpg" width="100" height="29" border="0"></a></td>
+			</tr>
+		</table>
+	
+   </div>
+        <p>This is a database of campaigns, strikes, and labor related events as recorded in the <em>Washington State Labor News</em> during 1932. It was researched by Raevynn Leach with help from Magic Demirel. Start by reading the labor highlights report. Below that is the database. Click the links to read the  articles.         
+        <h2>Highlights 1932 by Raevynn Leach </h2>
+        <p>The <i>Washington State Labor News</i> had much to write about in 1932 but there were few signs of labor activism in that year as unemployment rates surged above 25 percent and those workers who were employed clung desperately to their jobs.&nbsp; The newspaper mentioned around 20 strikes, most of them out of state and as far away as England.&nbsp; Closer to home there were numerous reports about wage cuts and articles discussing how long the work week should be in economy that was producing too few jobs.&nbsp; One local struggle was well covered throughout the year as union workers urged a boycott of movie houses in Seattle owned by the Jensen-Von Herberg Firm. The <i>WSLN</i> encouraged readers to not attend these particular theatres.</p>
+           
+      
+          
+          <h2 class="MsoNormal"><b>January</b></h2>
+           <p>January saw four strikes, two of which were reportedly going on as the New Year was rung in.&nbsp; “Klumac Mills Strikers Win Wage Concessions” reported that in Salisbury, North Carolina, weavers in the mill were angry about a seventeen percent wage cut.&nbsp; The weavers walked out along with the loom fixers, whose wages were not cut, but they sympathized with the weavers.&nbsp; The factory gave the workers back most of their wages, but there was still a 1.5 percent cut.&nbsp; The second strike on New Year’s Day was in Tampa.&nbsp; “Federal Injunction Stops Tampa Strike” reported that Federal Judge Alexander Akerman issued an injunction to stop a strike of 7,000 cigar makers in the Latin Section of Tampa.&nbsp; Cigar makers were accused of reading “Red influenced literature”<a name="_ftnref1" title href="#_ftn1"><span class="MsoFootnoteReference"><span style="font-size: 12.0pt; font-family: Times New Roman; vertical-align: baseline">[1]</span></span></a> and the police allegedly found $700 worth of “radical literature”<a name="_ftnref2" title href="#_ftn2"><span class="MsoFootnoteReference"><span style="font-size: 12.0pt; font-family: Times New Roman; vertical-align: baseline">[2]</span></span></a> when they raided an industrial union headquarters.&nbsp; Another strike was reported on January 8 in “New Jersey Judge Hits Strike with Injunction.”&nbsp; Vice Chancellar Alonzo Church issued an injunction that prohibited the members of the American Full-Fashioned Hosiery Workers’ Union from continuing their strike at the Brilliant Silk Hosiery Co, Inc.&nbsp; The injunction also banned any strike meetings or even the mention of the strike.&nbsp; Despite the setback, the New Jersey and New York district council of hosiery workers decided to ignore Akerman’s orders and continue with their strike.&nbsp; </p>
+           
+		     <P><a href="#" onclick="toggleview('desc');return false;">[read full report/ close report]</a></P>
+        
+        <div id="desc" style="display:none;">
+		    <p>Closer to Seattle, a strike of longshoremen was ended after two months with the workers victorious.&nbsp; Other important themes in January were the talk of elections.&nbsp; The newspaper appeared to endorse former union leader and acting mayor Robert Harlin in the Seattle Mayor’s race.&nbsp; Headlines such as, “A vote for Harlin and Levine is a vote for yourself, for the common people.&nbsp; “Do not scab on yourself,”<a name="_ftnref3" title href="#_ftn3"><span class="MsoFootnoteReference"><span style="font-size: 12.0pt; font-family: Times New Roman; vertical-align: baseline">[3]</span></span></a> appear throughout the newspaper to encourage laborers to vote for these candidates.</p>
+            <h2 class="MsoNormal"><b>February</b></h2>
+           <p>In February, the WSLN &nbsp;reported just one strike in “Dressmakers Go On Strike to Better Pay,” on February 26.&nbsp; Around 30,000 dressmakers in New York City who belonged to the International Ladies Garment Workers’ Union went on strike because they demanded better working conditions and more pay.&nbsp; The employers admitted that the strike was proving effective because an overwhelming majority of their workers had walked out.&nbsp; </p>
+            <p>February started the important trend of boycotting the movie houses owned by the Jensen-Von Herberg firm.&nbsp; For three consecutive weeks, starting with February 12, the newspaper reported the worker’s plight at the Liberty, Bagdad, Roxy, and Venetian Theatres.&nbsp; John Von Herberg of the Jensen-Von Herberg firm threw out all the union workers in his theatre, despite the Depression.&nbsp; Von Herberg turned his union men out into the street and proceeded to get a judge to issue an injunction to stop workers from picketing his theatres.&nbsp; The writer calls Von Herberg a “true union crusher”<a name="_ftnref4" title href="#_ftn4"><span class="MsoFootnoteReference"><span style="font-size: 12.0pt; font-family: Times New Roman; vertical-align: baseline">[4]</span></span></a> and asks moviegoers to stay away from these theatres and support the men who lost their jobs.&nbsp; The following week’s article continues to tell supporters to stay away from the theatres so that Von Herberg will have to play fair if he hopes to win.&nbsp; On February 26, the union workers’ fight became harder.&nbsp; The newspaper reiterates that “Jensen-Von Herberg interests lock out movie operators at the Liberty, Bagdad, Roxy, Venetian Theatres.”<a name="_ftnref5" title href="#_ftn5"><span class="MsoFootnoteReference"><span style="font-size: 12.0pt; font-family: Times New Roman; vertical-align: baseline">[5]</span></span></a>&nbsp; Judges ordered picketers to stay a certain distance away from the movie houses.&nbsp; The distance ranged from 100 to 200 feet and other judges made rules on what could be printed on the picketer’s signs.&nbsp; Only “No Union Men Employed Here Now”<a name="_ftnref6" title href="#_ftn6"><span class="MsoFootnoteReference"><span style="font-size: 12.0pt; font-family: Times New Roman; vertical-align: baseline">[6]</span></span></a> could appear on signs and although what a judge says is not law, it is enforced like it is.&nbsp; </p>
+            <p>Elections were in the news in February with quotes encouraging people to vote for Harlin and Levine.&nbsp; “Don’t scab on the ballot box—vote Labor’s choice.”<a name="_ftnref7" title href="#_ftn7"><span class="MsoFootnoteReference"><span style="font-size: 12.0pt; font-family: Times New Roman; vertical-align: baseline">[7]</span></span></a>&nbsp; Primary elections for Harlin did not go as planned. He was defeated by John Dore.&nbsp; He told the Central Labor Council that while he was disappointed, he was not discouraged.&nbsp; But he was appalled that people could vote for someone who liked the “open shop plan.”<a name="_ftnref8" title href="#_ftn8"><span class="MsoFootnoteReference"><span style="font-size: 12.0pt; font-family: Times New Roman; vertical-align: baseline">[8]</span></span></a></p>
+             <h2 class="MsoNormal"><b>March</b></h2>
+           <p>In March, Congress actually intervened in a strike of air pilots.&nbsp; Representatives sent telegrams to the President of Century Airlines, denouncing him for lowering the pilot standards.&nbsp; Air Pilots had gone on strike at Century Airlines and, in response, the company began using strike breakers, but they were poorly trained, which was a legitimate cause for concern.&nbsp; </p>
+            <p>On March 25, the newspaper revealed in “Liberty, Bagdad, Roxy, Venetian Theatres Unfair” that “Official letter reveals real purpose of moving picture operators school in wage reduction.”<a name="_ftnref9" title href="#_ftn9"><span class="MsoFootnoteReference"><span style="font-size: 12.0pt; font-family: Times New Roman; vertical-align: baseline">[9]</span></span></a>&nbsp; J. M. Hone established a school to lower theatre costs and to train booth operators for theatres.&nbsp; Students of the school who could not find work sued Mr. and Mrs. Hone and a judge ruled that the Hones would have to pay the workers.&nbsp; J. M. Hone put out a plea to his fellow exhibitors for help in paying the unemployed theatre workers.&nbsp; The newspaper continued to encourage everyone not to attend these theatres.</p>
+			 <h2 class="MsoNormal"><b>April</b></h2>
+           <p>In April, there were no strikes reported, but the union movement celebrated &nbsp;a victory with the passage of the &nbsp;Norris-La Guardia Act, &nbsp;a federal law that provided important protections for workers.&nbsp; “The Death of the Yellow Dog Contract” reported &nbsp;on April 8 that the Norris-La Guardia declares Yellow Dog contracts void and unenforceable.&nbsp; Judges no longer would have the power to “issue any restraining or temporary or permanent injunction in any case growing out of any labor dispute to prohibit any person or persons interested in such dispute.”<a name="_ftnref10" title href="#_ftn10"><span class="MsoFootnoteReference"><span style="font-size: 12.0pt; font-family: Times New Roman; vertical-align: baseline">[10]</span></span></a>&nbsp; A Yellow Dog contract was a contract signed between an employer and employee stating that the employee will not join a union and if they are already part of one, they must withdraw to be hired.&nbsp; The new law made unions legal and gave citizens a right to be part of one.&nbsp; </p>
+            <p>The newspaper defended unions in an April 1 article entitled “Oh!&nbsp; I Don’t Care if it has the Union Label or Not.” &nbsp;&nbsp;The article complained how it is bad when a non-union worker says he does not care if something has a union label or not, and that it is terrible when someone who is a union worker makes such a statement.&nbsp; The article pointed out that unions had cut the normal workweek from 52 hours to 44 and how they were continuing to fight for the workweek to be cut to around 40 hours because of the new technology.&nbsp; Unions had made it so workers would earn 33 ½ percent more, regardless if people belonged to a union or not.&nbsp; </p>
+            <p>An article that appeared on April 22, “Von Herberg Houses ‘Unfair’” reported that these theatres are being run with “Scab Crews,” or non-union workers.&nbsp; Von Herberg’s right hand man, Johnson, or “Nervous Nellie” had made two wage cutes because people were not coming to the theatres.&nbsp; Johnson refuses to help Hone with paying the unemployed workers who sued him because he believed that the theatre mess is Hone’s own fault.&nbsp; April 29th reported that the Seattle Central Labor Council removed the <i> Seattle Times</i> from the “Unfair List” because they gave the union workers their jobs back, but Swan’s Bakery was added to the list because it employed non-union workers and paid them below acceptable wages.</p>
+          <h2 class="MsoNormal"><b>May</b></h2>
+           <p>The lack of strikes in April was made up in May, which reported three.&nbsp; The first dealt with miners on strike in Ohio.&nbsp; Mine operators refused to meet with representatives from the United Mine Workers of America and the following week, the operators still refused to meet the miner’s representatives and even the Secretary of Labor, Doak.&nbsp; Barbers were also reported to be on strike in New York City.&nbsp; Around 2,000 union barbers were on strike because their employers were not keeping their end of a 2-year contract drawn up in May 1931.&nbsp; The contract stated that barbers would be paid $30 to $33 a week and that they would get 50 percent commission if they made sales of $45 to $48.&nbsp; </p>
+            <p>The next week, on May 13, Washington Carpenters struck as a result of employers trying to knock down wages to a maximum of $8 and a minimum of $5.&nbsp; Union level was $11.&nbsp; </p>
+            <p>The “Unfair List” was also brought up in a number of articles.&nbsp; The first was about an “ ‘Unfair’ Café in Bellingham.”&nbsp; The Central Labor Union in Bellingham added the Model Café to the “we don’t patronize list” after management slashed their waitresses wages by 25 cents.&nbsp; The café refused to cooperate with the union.&nbsp; The Jensen-Von Herberg houses remained on the list, but the newspaper advertised union movie house like the Rex Theatre or the original Pantages, which offered “high class pictures”<a name="_ftnref11" title href="#_ftn11"><span class="MsoFootnoteReference"><span style="font-size: 12.0pt; font-family: Times New Roman; vertical-align: baseline">[11]</span></span></a> at low admission prices.&nbsp; On May 20th, Thomas L. Turner, the President of the Portland Baseball Club (Oregon) refused to sell Coca-Cola products because it was on the “unfair list.”&nbsp; In Seattle, the Butterworth Mortuary was added to the list because the mortuary refused to hire union embalmers.&nbsp; Union embalmers had tried for months to negotiate with the mortuary and had been very patient.&nbsp; The union believed Butterworth could not afford to anger organized labor.&nbsp; </p>
+            <p>An interesting point to note is that the American Federation of Labor believed that the National Women’s Party was sabotaging women and work because they were trying to convince President Hoover to support an equal rights amendment to the United States Constitution.&nbsp; The A.F. of L. believed this to be terrible because then states could no longer make rules that stated that women could not work the night shift and limit the hours they work.</p>
+          <h2 class="MsoNormal"><b>June</b></h2>
+           <p>In June, a few strikes were reported and Von Herberg’s name showed up again.&nbsp; Von Herberg’s theatres were not directly mentioned, except for the reminder to not attend them.&nbsp; The Disabled War Veterans were going to hold their convention in the Commercial Hotel in Yakima, but upon learning it was owned by Von Herberg, they changed locations.&nbsp; An 8-week strike was ended in Bath, South Carolina and workers earned back their original wages.&nbsp; The pay cut that caused the strike was revoked.&nbsp; Telephone Employees struck on June 17 in Buenos Aires, but sabotage was involved.&nbsp; Around 30,000 homes and business establishments had their telephone cables cut and damage was estimated at $1,000,000.&nbsp; The Argentine government was working to end the strike.&nbsp; The next reported strike was on June 24 in Whippany, New Jersey.&nbsp; Workers for two paper mills went on strike after their wages were cut for the third time.&nbsp; Workers and the employers could not reach an agreement over a ten percent wage cut, so a strike was called.&nbsp; </p>
+            <p>In the issue of wage cuts, the Seattle Central Labor Council protested to Senator Wesley L. Jones about wage reductions.&nbsp; He responded that nobody really wants to cut wages, but because of the Depression it had to be done.&nbsp; He said whatever measures that are being taken right now will only be for a year “when salaries will come back.”<a name="_ftnref12" title href="#_ftn12"><span class="MsoFootnoteReference"><span style="font-size: 12.0pt; font-family: Times New Roman; vertical-align: baseline">[12]</span></span></a></p>
+             <h2 class="MsoNormal"><b>July</b></h2>
+           <p>July was fairly quiet in comparison to the rest of the year.&nbsp; Most reporting was done on the “unfair list.”&nbsp; On July 1st, the Minneapolis Central Labor Union placed the Premier Glove Company and the Wells Lamont-Smith Corporation on the “unfair list.”&nbsp; The glove company was cutting wages 33.5 percent and forcing employees to surrender their union cards.&nbsp; On July 8th the Butterworth Mortuary remained on the “unfair list” because it refused to “cooperate or recognize their benefactors in any way.”<a name="_ftnref13" title href="#_ftn13"><span class="MsoFootnoteReference"><span style="font-size: 12.0pt; font-family: Times New Roman; vertical-align: baseline">[13]</span></span></a>&nbsp; </p>
+            <p>The Texaco Oil Company was reported “unfair” on July 29th by the Seattle Central Labor Council and placed on the “we do not patronize list.”&nbsp; Representatives of the Texaco Oil Company and the Teamsters and Truck Drivers Organization could not reach an agreement over wage cuts.&nbsp; No strikes were reported, but&nbsp; an article ran about a potential strike:&nbsp; “Hosiery Workers Plan(ed) Big Organization Fight” in Pennsylvania.&nbsp; The American Federation of Full Fashioned Hosiery Workers Union were going on an “aggressive organization campaign.”<a name="_ftnref14" title href="#_ftn14"><span class="MsoFootnoteReference"><span style="font-size: 12.0pt; font-family: Times New Roman; vertical-align: baseline">[14]</span></span></a>&nbsp; They hoped to establish decent working conditions and were supporting unemployment insurance.</p>
+            <h2 class="MsoNormal"><b>August</b></h2>
+           <p>In August, one week of the newspaper was missing, but there were still many promising stories.&nbsp; On August 5th in New York City, 27,000 members of the International Ladies’ Garment Workers’ Union who were ready to go on strike accepted recommendations of Liet. Gov. Herbert H. Hoover.&nbsp; The union “won its main contentions.”<a name="_ftnref15" title href="#_ftn15"><span class="MsoFootnoteReference"><span style="font-size: 12.0pt; font-family: Times New Roman; vertical-align: baseline">[15]</span></span></a>&nbsp; On August 12th, it was confirmed that these workers would not go on strike and a new agreement had been drawn up that would last until June 1, 1933.&nbsp; A strike did occur on August 19th.&nbsp; In High Point, North Carolina, two plants of workers of Adams-Millis, a hosiery company, had their problems resolved and the workers ended their strikes, but around 200 laborers in the Rowan Cotton Mills joined workers in the Salisbury Cotton Mills.&nbsp; The workers of the Salisbury Mills had already been on strike for a week.&nbsp; The workers refused to come back until the low wage pay roll was revoked.</p>
+             <h2 class="MsoNormal"><b>September</b></h2>
+           <p>There were two reports on strikes in September, both on the ninth.&nbsp; The first continued the struggle of the Rowan and Salisbury Cotton Mills workers.&nbsp; After the workers of the Rowan Cotton Mills went on strike, the owners were forced to close the mill because so few people were showing up to work.&nbsp; The workers of the Salisbury Cotton Mills negotiated to end their strike.&nbsp; All of the strikers were demanding higher pay.&nbsp; </p>
+            <p>The American Federation of Labor was prominent in a few articles.&nbsp; The first article, “Figures Show Unemployment Rate is Increasing” showed William Green’s conclusions that unemployment was at its lowest and the coming winter would bring much suffering.&nbsp; The figures showed that unemployment had not improved and it had continued to get worse as the months dragged on.&nbsp; The second article said that the third Vice President of the American Federation of Labor that announced that with new machinery, it was silly to work so many hours a week.&nbsp; He used an example of how one man could make 75 light-bulbs a day, but with new technology, 150,000 could be made.&nbsp; The third article ran on September 30 and was entitled “Federation Not Partisan, Green Says in Letter.”&nbsp; President Green stated that the A.F. of L. was not affiliated with any political party and it would not endorse political candidates for this reason.&nbsp; There were a couple of victories for some laborers.&nbsp; Notable was workers in Portland, Oregon decided to instate the six-hour day to help each other.&nbsp; Streetcar employers were going to lay off many workers because of the economy, but because the workers decided on working less, no one was laid off.</p>
+            <h2 class="MsoNormal"><b>October</b></h2>
+           <p>A total of five strikes were reported in October and four of them were reported on the 7th.&nbsp; The first dealt with a strike in Manchester, England.&nbsp; Around 160,000 laborers working for the Lancashire Cotton Mill ended their strike on September 27th.&nbsp; An agreement was reached that would reinstate workers who struck last spring.&nbsp; The next reported was a group of garment workers in Melbourne, Australia.&nbsp; Laborers went on strike there because they were unhappy with wage cuts.&nbsp; The strike was ended and the employers gave back the pre-strike wages.&nbsp; The third strike was closer to home in Charlotte, North Carolina.&nbsp; It consisted of workers from the Hannah-Pickett Mills and there was no end in sight.&nbsp; The workers wanted higher wages and for their employers to recognize their union.&nbsp; “Paterson Silk Workers Vote Strike in Wage Fight” reported that around 10,000 workers belonging to the Amalgamated Locals of the United Textile Workers began a strike to get an eight-hour day and at least $20 a week.&nbsp; The manufacturer’s representatives offered 48 hours a week and a discussion of wages, but the workers turned them down.&nbsp; A fifth strike was reported on October 28 and it continued the story of the Hannah-Pickett Mills workers and another mill, Entwistle Mill.&nbsp; Both strikes were ended and the workers returned to the same conditions that were instated when they walked out.</p>
+             <h2 class="MsoNormal"><b>November</b></h2>
+           <p>Though it seemed that the Liberty, Roxy, Bagdad, and Venetian Theatres story had fizzled out, one small story ran on November 4th hinted that the Liberty Theatre was still Non-Union and it would stay on the “unfair list.”&nbsp; Child labor was brought to the nation’s attention when President Hoover recommended shorter hours and banning child labor in his radio address, believing it to be productive.&nbsp; In an article ran November 18th, President Green of the A. F. of L. issued a statement that the American Federation of Labor would never join up with any Communists or their organizations.&nbsp; This was in response to Communists picketing the Supreme Court.</p>
+            <h2 class="MsoNormal"><b>December</b></h2>
+           <p>The year ended quietly with only a couple notable stories.&nbsp; The first ran on December 2nd.&nbsp; Thirty-seven jobless women in Des Moines, Iowa were given work making Red Cross Clothing.&nbsp; They would work six days a week at thirty cents an hour.&nbsp; A final article to note was “Drastic Change Needed, Says Mrs. Roosevelt,” which ran December 30th.&nbsp; Mrs. Roosevelt was shocked that so many people would tolerate the kind of conditions that the Depression had caused and how they could bear to work under such conditions.&nbsp; She stated that people needed to sit down and sort out the “New Deal” and think carefully about it.</p>
+           <p>The year 1932 saw relatively few strikes, especially in Washington State. With work scarce because of the Great Depression, workers were reluctant to risk their jobs. Unions did make use of the unfair list in order to pressure employers. It was compelling that after so much hype the Liberty, Roxy, Bagdad, and Venetian Theatre story faded from view, along with Von Herberg.&nbsp; Perhaps the workers were losing miserably in their cause because it would have seemed very likely a win in that situation would have been reported.&nbsp; It would be interesting to see if the issue resolved in the near future.&nbsp; All in all, 1932 had many happenings that people should remember.</p>
+            <div class="endnote" style="mso-element:footnote-list"> <br clear="all">
+&nbsp;
+  <hr align="left" size="1" width="33%">
+  <div style="mso-element:footnote" id="ftn1">
+    <p class="endnote"><a name="_ftn1" title href="#_ftnref1">  <span style="font-size: 12.0pt; font-family: Times New Roman">[1]</span></a> “Federal Injunction Stops Tampa Strike.”&nbsp; <i>Washington State Labor News</i>, January 1, 1932.
+    </div>
+  <div style="mso-element:footnote" id="ftn2">
+    <p class="endnote"><a name="_ftn2" title href="#_ftnref2">  <span style="font-size: 12.0pt; font-family: Times New Roman">[2]</span></a> ibid.
+    </div>
+  <div style="mso-element:footnote" id="ftn3">
+    <p class="endnote"><a name="_ftn3" title href="#_ftnref3">  <span style="font-size: 12.0pt; font-family: Times New Roman">[3]</span></a> <i>Washington State Labor News</i>, January 22, 1932, p.1.
+    </div>
+  <div style="mso-element:footnote" id="ftn4">
+    <p class="endnote"><a name="_ftn4" title href="#_ftnref4">  <span style="font-size: 12.0pt; font-family: Times New Roman">[4]</span></a> “Liberty, Bagdad, Roxy, Venetian Theatres Lock Out Operators.”&nbsp; <i> Washington State Labor News</i>, February 12, 1932.</p>
+     
+  </div>
+  <div style="mso-element:footnote" id="ftn5">
+    <p class="endnote"><a name="_ftn5" title href="#_ftnref5">  <span style="font-size: 12.0pt; font-family: Times New Roman">[5]</span></a> “Movie Operators Ask Support.”&nbsp; <i>Washington State Labor News</i>, February 26, 1932.
+    </div>
+  <div style="mso-element:footnote" id="ftn6">
+    <p class="endnote"><a name="_ftn6" title href="#_ftnref6">  <span style="font-size: 12.0pt; font-family: Times New Roman">[6]</span></a> ibid.
+    </div>
+  <div style="mso-element:footnote" id="ftn7">
+    <p class="endnote"><a name="_ftn7" title href="#_ftnref7">  <span style="font-size: 12.0pt; font-family: Times New Roman">[7]</span></a> <i>Washington State Labor News</i>, February 5, 1932.
+    </div>
+  <div style="mso-element:footnote" id="ftn8">
+    <p class="endnote"><a name="_ftn8" title href="#_ftnref8">  <span style="font-size: 12.0pt; font-family: Times New Roman">[8]</span></a> “Harlin, Levine Thank Council.”&nbsp; <i>Washington State Labor News</i>, February 26, 1932.
+    </div>
+  <div style="mso-element:footnote" id="ftn9">
+    <p class="endnote"><a name="_ftn9" title href="#_ftnref9">  <span style="font-size: 12.0pt; font-family: Times New Roman">[9]</span></a> “Liberty, Bagdad, Roxy, Venetian Theatres Unfair.”&nbsp; <i>Washington State Labor News,</i> March 25, 1932.
+    </p>
+    </div>
+  <div style="mso-element:footnote" id="ftn10">
+    <p class="endnote"><a name="_ftn10" title href="#_ftnref10">  <span style="font-size: 12.0pt; font-family: Times New Roman">[10]</span></a> “The Death of the Yellow Dog Contract.”&nbsp; <i>Washington State Labor News</i>, April 8, 1932.
+    </div>
+  <div style="mso-element:footnote" id="ftn11">
+    <p class="endnote"><a name="_ftn11" title href="#_ftnref11">  <span style="font-size: 12.0pt; font-family: Times New Roman">[11]</span></a> “Union Movie Houses Offer Low Admission.”&nbsp; <i>Washington State Labor News</i>, May 20, 1932.
+    </div>
+  <div style="mso-element:footnote" id="ftn12">
+    <p class="endnote"><a name="_ftn12" title href="#_ftnref12">  <span style="font-size: 12.0pt; font-family: Times New Roman">[12]</span></a> “Federal Wage Cuts to be Removed Next Year.”&nbsp; <i>Washington State Labor News</i>, June 17, 1932.
+    </p>
+    </div>
+  <div style="mso-element:footnote" id="ftn13">
+    <p class="endnote"><a name="_ftn13" title href="#_ftnref13">  <span style="font-size: 12.0pt; font-family: Times New Roman">[13]</span></a> “Butterworth Mortuary Unfair.”&nbsp; <i>Washington State Labor News</i>, July 8, 1932.
+    </div>
+  <div style="mso-element:footnote" id="ftn14">
+    <p class="endnote"><a name="_ftn14" title href="#_ftnref14">  <span style="font-size: 12.0pt; font-family: Times New Roman">[14]</span></a> “Hosiery Workers Plan Big Organization Fight.”&nbsp; <i>Washington State Labor News</i>, July 29, 1932.
+    </p>
+    </div>
+  <div style="mso-element:footnote" id="ftn15">
+    <p class="endnote"><a name="_ftn15" title href="#_ftnref15">  <span style="font-size: 12.0pt; font-family: Times New Roman">[15]</span></a> “Garment Workers Win in Lehman Findings.”&nbsp; <i>Washington State Labor News</i>, August 5, 1932.
+    </p>
+    </div>
+	</div>
+	</div>
+          
+            <p>&nbsp;</p>
+                  
+         
+        
+           
+        
+		  
+          <table id="datatable">
+              <tr>
+                <td class="byline">Date</td>
+                <td class="byline">Article</td>
+                <td class="byline">Paper</td>
+                <td class="byline">Abstract</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">January, 8</td>
+                <td width="172" class="byline">&quot;Seattle Waitresses Send Representatives&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">Seattle Waitresses discussed the upcoming elections at their Local No. 240 meeting and urged registering and voting in the interest of organized labor. They also sent delegates to go to the Northwest Conference of Culinary Workers, which took place in Portland.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">January, 22</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1932/WSLN_1932-01-22_p1.jpg"> &quot;Register-Work for Harlin, Levine&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">Throughout the month there has been talk of Harlin and Levine. The paper urges laborers to vote for these two because “A vote for Harlin and Levine is a vote for yourself, for the common people. Do not scab on yourself.”</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">January, 22</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1932/WSLN_1932-01-22_p1.jpg"> &quot;Longshoremen Win in Two Months' Strike&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">Longshoremen returned to work after a two month strike.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">January, 29</td>
+                <td width="172" class="byline">&quot;Expect Reopening of More Theatre&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">The Stage Employees informed the Seattle City Council that the Moore Theatre would reopen due to popularity. A good number of trade unionists would be re-employed.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">February, 5</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1932/WSLN_1932-02-05_p1.jpg"> &quot;Ritchie Owes Theatre Folk&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">Art Ritchie owes around $2500 to Moore Theatre stage employees and actors of the Power-Miller Players. The Seattle Central Labor Council was amused as Ritchie is highly touted. Ritchie is currently running for mayor and ran a paid ad last week in the newspaper, even though the newspaper endorses Harlin.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">February, 5</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1932/WSLN_1932-02-05_p1.jpg"> &quot;Married Women Discharge Held No Great Remedy&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">A letter sent to Walter S. Gifford, the director of the President’s Organization on Unemployment Relief, by the National Women’s Trade Union League of America stated that a plan to dismiss all women who were married from the workforce would not only be unjust, but unhelpful. It was mentioned that regardless of marital status, people work to support themselves and any dependents they might have.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">February, 5</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1932/WSLN_1932-02-05_p1.jpg"> &quot;Seattle Symphony Orchestra Makes Membership Drive&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">The Seattle Symphony Orchestra pointed out how important donations were. They stated that people have to keep the Arts alive and cherish them.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">February, 12</td>
+                <td width="172" class="byline">&quot;Liberty, Bagdad, Roxy, Venetian Theatres Lock Out Operators&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">The article makes an appeal to theatre goers to stay out of the Liberty Bagdad, Roxy, and Venetian Theatres in order to help the Union workers who lost their jobs. John Von Herberg or the Jensen-Von Herberg Firm threw out all the Union workers in his theatre, despite the Depression. The article calls him a true union crusher. It discusses how he throws his union workers out into the street and then gets a judge to issue an injunction to stop workers from picketing his theatres.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">February, 19</td>
+                <td width="172" class="byline">&quot;Theatrical Trades Gain Points in Von Herberg's Suit Against Publicity Campaign on Theatres&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">This article continues the progress of boycotting theatres owned by John Von Herberg. The article states that Von Herberg will have to play fair if he hopes to win.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">February, 19</td>
+                <td width="172" class="byline">&quot;Harlin &amp; Levine Are Labor's Choice!&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">Tuesday, February 23 rd is election day. The newspaper encourages readers to vote for Harlin and Levine because they have the same principles as the labor workers. The paper encourages labor workers to be loyal and realize other candidates promises can’t be fulfilled.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">February, 26</td>
+                <td width="172" class="byline">&quot;Move Operators Ask Support&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">The unemployed union worker’s fight has become harder. Readers are reminded to continue the boycott of the aforementioned theatres. Judges have ordered picketers to stay a certain distance away from the houses. It ranges from 100 to 200 feet and another judge said that the only thing that could be printed on the signs is “No Union Men Employed Here Now.” Even though what judges say isn’t law, it’s enforced as it. The newspaper encourages people to continue to stay away from these theatres.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">February, 26</td>
+                <td width="172" class="byline">&quot;Harlin, Levine Thank Council&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">Harlin was disappointed with the results of the primary elections, but not discouraged. He said he couldn’t understand how anyone could vote for someone who liked the “open shop plan.”</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">March, 11</td>
+                <td width="172" class="byline">&quot;Levine Given Fine Ovation&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">Dave Levine was elected to the city council and pulled the highest number of votes than any other candidate on the ballot.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">March, 18</td>
+                <td width="172" class="byline">&quot;Employees Use Jobless to Lower Wage Rates&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">Employers have begun employing the jobless temporarily for the relief unemployed. Really, they are employing the jobless and paying them less than what someone with a similar job would earn. Local Unions are warned to keep their eyes open because this could seriously hurt union labor.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">March, 25</td>
+                <td width="172" class="byline">&quot;Liberty, Bagdad, Roxy, Venetian Theaters Unfair&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">J. M. Hone put out a plea to his fellow exhibitors. A judge ruled he must pay in the lawsuit brought before him by unemployed theatre workers. He established a school to lower booth theatre costs and trained booth operators. When the students of the school didn’t get work, Mr. and Mrs. Hone were sued. The Central Labor Council of Seattle placed the aforementioned theatres on the unfair list. The newspaper encourages everyone not to attend these theatres.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">April, 1</td>
+                <td width="172" class="byline">&quot;Oh! I Don't Care if it Has the Union Label or Not&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">The article comments on how it’s bad when a non-union worker says he doesn’t care if something has the union label or not, but how it’s terrible when someone who is a union worker says it. The article pointes out how unions have cut the normal work week from 52 hours to 44. The unions are still trying to cut the week to 40 hours. Time saving machinery has put so many people out of work, so 40 hours would be better. With unions people earn 33 1/3% more, regardless if they belong to a union or not.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">April, 1</td>
+                <td width="172" class="byline">&quot;Congress and Unemployment Relief&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">William Green, President of the American Federation of Labor, condemned Congress for not helping out the Country’s unemployed and hungry. People have been hoping the Depression would end, but it hasn’t. People thought Congress would help out because it “becomes the duty of society to relieve distress, to supply food, to the hungry, and to thus protect our social order so that the democratic institutions of Government may remain perpetuated and secure.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">April, 8</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1932/WSLN_1932-04-08_p1.jpg"> &quot;Employers Agree with Dress Union&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">A tentative agreement between the Ladies’ Garment Workers’ Union and the Affiliated Dress Manufacturers’ Association was drawn to end the strike of 25,000 garment workers. Strikers will continue to picket, but will meet at 10 am to vote on the agreement.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">April, 15</td>
+                <td width="172" class="byline">&quot;Overseer is Arrested for 'Firing' Unionist&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">An overseer at the Lyman Plant of the Pacific Mills Company, G. A. Hamrick, was arrested after firing an employee because he suspected him of being in a union.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">April, 15</td>
+                <td width="172" class="byline">&quot;A.F. of L. Opposes Price Deflation&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">The American Federation of Labor presented to the House of Representatives that new time saving machines had hurt a lot of people because there were fewer jobs. The A.F. of L. stated that farmers should be helped out because it would help the economy.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">April, 22</td>
+                <td width="172" class="byline">&quot;Von Herberg Houses 'Unfair'&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">Readers are still encouraged to stay away from these theatres because they are being run with “Scab Crews.” However, Von Herberg’s right hand man, Johnson, or “Nervous Nellie” has already made two wage cuts because not many people are coming to the theatres. In response to Hone’s plea for help with paying the people who sued him over his operating school, Johnson refuses to help him. Nervous Nellie believes that the theatre mess is Hone’s fault.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">April, 29</td>
+                <td width="172" class="byline">&quot;Seattle Times Removed from Labor Council 'Unfair List' at Printing Trades Request&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">The Seattle Central Labor Council met Wednesday evening and voted to remove the Seattle Times from its Unfair List. The locked out and discharged union employees have returned to their former jobs.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">April, 29</td>
+                <td width="172" class="byline">&quot;Green Warns Against Communistic Groups&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">William Green, President of the American Federation of Labor, “respectfully recommended)” that people have nothing to do with Communist groups because they hurt organized labor.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">April, 29</td>
+                <td width="172" class="byline">&quot;Swan's Bakery Unfair&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">The Central Labor Council placed Swan’s Bakery on the unfair list because Swan’s bakery is employing non-union workers and paying them below acceptable wages.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">May, 6</td>
+                <td width="172" class="byline">&quot;Non Union Crews of Wreckers is Accident Cause&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">Union workers of the West Coast Construction Company were replaced with non-union workers after the union workers were not compensated double time for Saturday afternoon work. The non-union crew succeeded in collapsing the ceiling of the Old Columbia Theatre.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">May, 6</td>
+                <td width="172" class="byline">&quot;'Unfair' Café in Bellingham&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">The Central Labor Union in Bellingham added the Model Café to the “we don’t patronize list.” Management slashed their waitresses wages by 25 cents and they refuse to cooperate with the union.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">May, 13</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1932/WSLN_1932-05-13_p4.jpg"> &quot;Washington Carpenters Strike Against Wage Cut&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">Washington Carpenters struck as a result of employers trying to knock down wages to a maximum of $8 and a minimum of $5. The union level is $11.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">May, 20</td>
+                <td width="172" class="byline">&quot;Union Movie Houses Offer Low Admission&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">The Jensen and Von Herberg house still remain on the “we do not patronize list,” but union houses like the Rex Theatre or the original Pantages are offering “high class pictures” at a very low admission prices.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">May, 20</td>
+                <td width="172" class="byline">&quot;Oregon Business Men Refuse to Sell Unfair Coca-Cola&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">In Portland, the President of the Portland Baseball Club, Thomas L. Turner, refused to sell Coca-Cola because it is on the “unfair” list.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">May, 27</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1932/WSLN_1932-05-27_p1.jpg"> &quot;Butterworth Mortuary Refuses to Recognize Union Embalmers&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">The Butterworth Mortuary in Seattle was placed on the “unfair” list. The mortuary won’t hire union embalmers. For months, union embalmers had attempted negotiations with the mortuary and been very patient with them. The union believes Butterworth cannot afford to anger organized labor.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">May, 27</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1932/WSLN_1932-05-27_p1.jpg"> &quot;Six-Hour Day, Five-Day Week Demanded Miners&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">: The United Mine Workers of America from District Number 10 held their first meeting since March 1927 in Renton, Washington May 4 through the 9 th . The workers revived the Constitution and formulated a new wage plan that would call for a five day week with six hour days.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">May, 27</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1932/WSLN_1932-05-27_p1.jpg"> &quot;'Equal Rights' for Women Workers&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">The newspaper reports that the National Women’s Party is trying to get President Hoover to support an equal rights amendment to the United States Constitution. The A.F. or L. thinks this is a terrible thing because women aren’t allowed to work the night shift and have limits on the hours they can work and this amendment will make it so states can no longer grant women those rights.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">June, 3</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1932/WSLN_1932-06-03_p1.jpg"> &quot;Von Herberg Yakima Interests Stunned By Discharged War Vets&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">The Disabled War Veterans were going to hold their convention in the Commercial Hotel in Yakima, but upon learning it was owned by Von Herberg, they changed locations. It is still important to not go to Von Herberg’s Theatres in Seattle or any non union theatres.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">June, 10</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1932/WSLN_1932-06-10_p1.jpg"> &quot;Georgetown Undertaking Firm Fails to Recognize Embalmers&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">The Seattle Central Labor Council added Georgetown undertaking to the “Unfair” List after they failed to take the opportunity to present their position. The Embalmers Union is reportedly making good progress.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">June, 10</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1932/WSLN_1932-06-10_p1.jpg"> &quot;Woman Inaugurated as Issaquah Mayor&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">Mrs. Estelle Alexander was inaugurated as Mayor Monday. Many notable women attended such as Mrs. Daisy Dennis, the “President-elect of Washington Women’s Republican Club.” Other Seattle women attended and presented the Mayor with flowers.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">June, 17</td>
+                <td width="172" class="byline">&quot;Federal Wage Cuts to be Removed Next Year&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">The Seattle Central Labor Council protested to Senator Weasley L. Jones concerning wage reductions. Jones responded that nobody really wants to cut wages, but because of the Depression it had to be done. He said whatever measures that are being taken right now will only be for a year “when salaries will come back automatically.”</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">June, 17</td>
+                <td width="172" class="byline">&quot;Telephone Employees Strike&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">In Buenos Aires, 30,000 homes and business establishments had their telephone cables cut. The damage was around $1,000,000. Argentine government was working to end the strike.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">July, 8</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1932/WSLN_1932-07-08_p1.jpg"> &quot;The 5-Day Week Arrives&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">While the 5-day week is being advocated for relief in the Depression, it also comes as permanent improvement. Because of the present machine age, work is sped up, so why not take advantage of it and do the same amount of work and have more leisure time?</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">July, 8</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1932/WSLN_1932-07-08_p3.jpg"> &quot;Butterworth Mortuary Unfair&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">The Butterworth Mortuary refuses to “cooperate or recognize their benefactors in any way.” The mortuary remains on the unfair list and it is important for laborers to take note.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">July, 8</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1932/WSLN_1932-07-08_p4.jpg"> &quot;Ericson Mortuary Signs Embalmers Agreement&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">The Ericson Mortuary signed the Agreement of the Licensed Embalmers Union. Organized laborers thank them for their cooperation.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">July, 22</td>
+                <td width="172" class="byline">&quot;Union Representation by Women Delegates&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">Women were sent as delegates to the annual Washington State Federation of Labor Convention in Yakima. The women were noted to have a broad understanding of the current issues and showed much interest in working people.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">July, 29</td>
+                <td width="172" class="byline">&quot;State Mine Workers Reject Reduced Wage&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">The United Mine Workers of District No. 10 turned down the new scale agreement that the Washington Coal Operators’ Association proposed. The mines have been closed since July 1st.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">July, 29</td>
+                <td width="172" class="byline">&quot;Texaco Oil Company Declared as 'Unfair'&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">Texaco was put on the “we do not patronize list” by the Seattle Central Labor Council. Representatives of the Texaco Oil Company and the Teamsters and Truck Drivers Organization could not reach an agreement over wage cuts.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">September, 2</td>
+                <td width="172" class="byline">&quot;20 Percent Wage Reduction Rejected by Dallas Bakers&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">The Bakers’ Union of Dallas rejected a 20 percent wage cut that was demanded by bakery owners. The union had agreed to write in a 10 percent wage cut, but 20 was too much. Union consumers will not buy from the unfair bakeries.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">September, 2</td>
+                <td width="172" class="byline">&quot;The Six Hour Day and Union Organizing&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">This article states that a six hour day would help the jobless get their jobs back. The machines make things too efficient and take away jobs.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">September, 9</td>
+                <td width="172" class="byline">&quot;Figures Show Unemployment Rate is Increasing&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">William Green and the American Federation of Labor have concluded with unemployment being at its lowest, the winter will bring much suffering. The figures show that unemployment has not gotten any better, but worse as the months drag on.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">September, 9</td>
+                <td width="172" class="byline">&quot;Car Men Adopt Six-Hour Day&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">In Portland, Oregon, the streetcar employers were going to lay off many workers because of the economy. Yet, workers voted to instate the six-hour day and now people will not get laid off.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">September, 30</td>
+                <td width="172" class="byline">&quot;Federation Not Partisan, Green Says in Letter&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">President Green of the A.F. of L. stated in a letter that the A.F. of L. is not affiliated with any political party. Green says the A.F. of L. will not endorse any political candidate for this reason.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">October, 7</td>
+                <td width="172" class="byline">&quot;Big English Strike Ended&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">In Manchester, England, the long strike of 160,000 laborers working for the Lancashire Cotton Mill ended September 27. An agreement was reached that will reinstate workers who struck last spring.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">October, 7</td>
+                <td width="172" class="byline">&quot;Melbourne Garment Workers Maintain Wages by Strike&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">In Melbourne, Australia, workers who went on strike won back their pre-strike wages. The plant did this because of the “reduction in the cost of living.”</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">November, 11</td>
+                <td width="172" class="byline">&quot;Liberty Theatre Still Non-Union&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">The Labor Council was advised by the representatives of the Seattle Musicians’ Association that the Liberty Theatre still isn’t union. It will remain on the unfair list.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">November, 18</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1932/WSLN_1932-11-18_p2.jpg"> &quot;Green Condemns Communist Supreme Court Picketing&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">President Green of the A.F. of L. issued a statement that stated the A.F. of L. would never join up with any Communists or their organizations.</td>
+              </tr>
+              <tr>
+                <td width="66" class="byline">December, 30</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1932/WSLN_1932-12-30_p3.jpg"> &quot;Drastic Change Needed, Says Mrs. Roosevelt&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="479" class="byline">Mrs. Roosevelt is shocked that so many people will tolerate the kind of conditions that the Depression has caused and what people are working under. She says that people need to sit down and sort out the “New Deal” and really think about it.</td>
+              </tr>
+            </table>
+           
+         
+          </div>
+	  </td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.html"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

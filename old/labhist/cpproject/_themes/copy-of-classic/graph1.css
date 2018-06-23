@@ -1,0 +1,94 @@
+.mstheme
+{
+	separator-image: url(aclarule.gif);
+	list-image-1: url(aclabul1.gif);
+	list-image-2: url(aclabul2.gif);
+	list-image-3: url(aclabul3.gif);
+	nav-banner-image: url(aclabanr.gif);
+	navbutton-horiz-normal: url(aclahbtn.gif);
+	navbutton-horiz-hovered: url(aclahhov.gif);
+	navbutton-horiz-pushed: url(aclahsel.gif);
+	navbutton-vert-normal: url(aclavbtn.gif);
+	navbutton-vert-hovered: url(aclavhov.gif);
+	navbutton-vert-pushed: url(aclavsel.gif);
+	navbutton-home-normal: url(aclahom.gif);
+	navbutton-home-hovered: url(aclahomh.gif);
+	navbutton-home-pushed: url(aclahom.gif);
+	navbutton-next-normal: url(aclanxt.gif);
+	navbutton-next-hovered: url(aclanxth.gif);
+	navbutton-next-pushed: url(aclanxt.gif);
+	navbutton-prev-normal: url(aclabck.gif);
+	navbutton-prev-hovered: url(aclabckh.gif);
+	navbutton-prev-pushed: url(aclabck.gif);
+	navbutton-up-normal: url(aclaup.gif);
+	navbutton-up-hovered: url(aclauph.gif);
+	navbutton-up-pushed: url(aclaup.gif);
+}
+.mstheme-bannertxt
+{
+	font-family: Book Antiqua, Times New Roman, Times;
+	color: rgb(128, 0, 0);
+	font-size: 6;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Arial, Arial, Helvetica;
+	color: rgb(255, 255, 255);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-vert-navtxt
+{
+	font-family: Arial, Arial, Helvetica;
+	color: rgb(255, 255, 255);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxthome
+{
+	font-family: Arial, Arial, Helvetica;
+	color: rgb(255, 255, 255);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtnext
+{
+	font-family: Arial, Arial, Helvetica;
+	color: rgb(255, 255, 255);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtprev
+{
+	font-family: Arial, Arial, Helvetica;
+	color: rgb(255, 255, 255);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtup
+{
+	font-family: Arial, Arial, Helvetica;
+	color: rgb(255, 255, 255);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+ul
+{
+	list-style-image: url(aclabul1.gif);
+}
+ul ul
+{
+	list-style-image: url(aclabul2.gif);
+}
+ul ul ul
+{
+	list-style-image: url(aclabul3.gif);
+}

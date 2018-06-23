@@ -1,0 +1,56 @@
+<!--#include file="metaheader2.html"-->
+<title>Anna Louise Strong story</title>
+
+</head>
+<body id="history">
+<table id="pagetable" border="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="http://depts.washington.edu/labhist/cpproject/logos/divide_rule6.jpg" usemap="#Map">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;background-color:black;">
+			<div id="navigation">
+			<!--#include file="menu.html"-->
+			</div>
+		</td>
+		<td>
+			<div id="content">
+			<h1>Witness to Revolution: The Story of Anna Louise Strong</h1>
+			<br />
+			
+			<div style="width:429px; float:right; background-color:#FFFFFF; border: 1px solid black; margin:0px 0px 10px 10px; padding:10px 10px 0px 10px;">
+			<a href="video.shtml"><img src="images/AnnaLStop429.gif" width="429" height="123" border="0"></a></p>
+                <p>Watch a 4-minute video excerpt from the film   <a href="http://faculty.washington.edu/gregoryj/vid/strong-1.wmx">WITNESS TO REVOLUTION</a><a href="video.shtml">: The Story of Anna Louise Strong&nbsp;&nbsp; </a>The video contains the only known footage of the General Strike. Produced and directed by Lucy Ostrander and used here with her permission, the excerpt is part of the award winning documentary film biography of Anna Louise Strong who left Seattle to live and write about the Soviet Union and the People's Republic of China.</p>
+                <p>For more information about the film and how to purchase it see the <a href="http://www.stourwater.com/ALS/"><b>Lucy Ostrander's Witness to Revolution website.</b></a></p>
+                <p>“Witness to Revolution is a superb story…it’s an excellent summing-up of a long and influential career, focusing mostly on Strong’s beginnings in Seattle and her reporting on the Seattle General Strike in 1919 and the Everett Massacre…Ostrander creates a sense of Seattle’s radical past that makes it easy to understand why this state was once known as “the soviet of Washington.””&nbsp;&nbsp; -John Hartl The Seattle Times</p>
+				</div>
+				
+			<p>Anna Louise Strong (1885-1970) was one of the leaders of the Seattle General Strike in 1919 and an early advocate of communism. Although she left the United States just as the Communist Party was starting, her return visits from the Soviet Union and later from China and her many popular books kept her in the public eye throughout her long life. </p>
+			<p>Born November 14, 1885 in the town of Friend, Nebraska. Father was a Congregationalist minister steeped in the Social Gospel and both parents instilled in Anna a firm sense of social justice. Strong attended Oberlin College, earning Bachelor’s degree in 1905, and went on to earn a PhD in philosophy from University of Chicago at the age of just 23. She went to work as a child welfare advocate for the U.S. Education Office and toured the country. By 1910 she had settled in Seattle, and was elected to the Seattle School Board, at the time the only female member, with strong support from organized labor. At the same time, she began to focus more attention on journalism, reporting on the Everett Massacre. Her pro-labor, radical positions, which included opposition to American entry into World War I and support for the Russian Revolution, caused a rift among fellow school board members, who succeeded in having Strong recalled and replaced in 1918. Divorced from the school board, Strong joined the staff of the Seattle Union Record, the city’s only labor-owned newspaper. It was from this post that she became the leading public voice of the Seattle General Strike of 1919. </p>
+			<p><img src="images/headshots/strong200.jpg" width="200" height="276" align="left">With the Seattle labor movement disorganized and divided in the wake of the collapse of the General Strike, Strong decided to witness the socialist experiment in the Soviet Union first hand. In 1921 she traveled to Poland and Russia as a correspondent for the American Friends Service Committee. Over the next decade she would become one of the countries most influential left-wing journalists and authorities on the Soviet Union. In the late 1920s she traveled to China and other parts of Asia to report on the Chinese Communist Party and the Chinese civil war. In 1930 she returned to Moscow and established Moscow News, the first English-language newspaper in the city. She returned to the United States periodically and published articles in the major newspapers and periodicals of the United States. In addition to his journalism, she penned dozens of books, both fiction and non-fiction on topics related to the Soviet Union, China, socialism, and revolution. By the mid 1930s began having doubts about the state of socialism in the Soviet Union under Stalin and increasingly gravitated toward China. In part because of this, she was arrested in Moscow and charged with being an American spy. Although she would return to the Soviet Union periodically, she settled in China in 1958 and lived there until here death in 1970. </p>
+			<p>–Daren Salter<o:p></o:p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+			<p>&nbsp;</p>
+
+</div>
+		</td>
+	</tr>
+	
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.shtml"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

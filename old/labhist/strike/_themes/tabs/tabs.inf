@@ -1,0 +1,23 @@
+[info]
+title=Tabs and Folders
+codepage=65001
+version=2.00
+format=2.00
+readonly=true
+refcount=1
+
+[titles]
+1031=Karteikasten
+1036=Onglets
+1040=Schede
+3082=Fichas
+1043=Tabbladen
+1046=Guias e pastas
+1053=Flikar
+1044=Flikar
+1030=Kategorier
+1035=Välilehdet
+1041=フォルダ
+1042=폴더
+1028=貼紙
+2052=标签

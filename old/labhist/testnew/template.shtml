@@ -1,0 +1,44 @@
+<!--#include file="metaheader.html"-->
+<title>The Great Depression Today</title>
+<link rel="stylesheet" type="text/css" href="xfade2_o.css" />
+<script type="text/javascript" src="xfade2.js"></script>
+</head>
+<body id="home">
+<table id="pagetable" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="images/civilr%20banner4.jpg" width="1000" height="150">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;background-color:black;">
+			<div id="navigation">
+			  <!--#include file="menu.html"-->
+			</div>
+		</td>
+		<td>
+		<div id="content">
+			<h1>Civil Rights </h1>
+			<div id="phototable">
+			<table border="0">
+<tr><td width="520">This is the placeholder for an essay on thinking about the GD, arts, taxes, budget cuts, and a new New Deal today. </td>
+<td width="260" bgcolor="800000">><img src="images/kkk/250/BH-11-3-24-p1_250.jpg" width="250" height="361">Row 1 Cell 2</td></tr>
+
+</table>
+
+       
+          </div>
+		  </div>
+	  </td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.html"-->			</div>
+		</td>
+	</tr>
+</table>
+</body>
+<!--#include file="metafooter.html"-->

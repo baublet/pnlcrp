@@ -1,0 +1,60 @@
+<!--#include file="metaheader2.html"-->
+<title>Red Scare in Washington State</title>
+
+</head>
+<body id="redscare">
+<table id="pagetable" border="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="http://depts.washington.edu/labhist/cpproject/logos/divide_rule6.jpg" usemap="#Map">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;">
+			<div id="navigation">
+			<!--#include file="menu.html"-->
+			</div>
+		</td>
+		<td>
+			<div id="content">
+			<h4>Red Scare Campaigns, Surveillance, Hearings, and Anti-communist Investigations<em></em></h4>
+			<p>The Communist Party was under surveillance from the moment of its birth. No other organization in the history of the United States or in the history of Washington State has been subjected to the same level of official hostility, fanned by the double fear that Communists were not only dangerous radicals but also might be working for a foreign power. For half a century, the Communist Party was the number one public enemy, targeted by law enforcement from the FBI to local police, targeted by prosecutors who jailed Party members by the hundreds, targeted by politicians who  launched endless investigations, and by right-wing groups who encouraged  violence and intimitation. </p>
+			<p>Washington State shares this  history of anti-communist campaigns, beginning in the 1920s when state officials and local police  took  steps to supress the young communist movement. The links below lead to official transcripts of three different sets of government investigations. They provide a window into the tactics of investigators and also information (not necessarily accurate) about the communist movement and real and alleged members. </p>
+			
+			<h2> <a href="fish-hearings.shtml">The U.S. Congress Special Committee on Communist Activities in Washington State Hearings (1930) </a></h2>
+			<p>Two decades before the more notorious Congressional hearings on “un-American activities” led by Senator Joseph McCarthy, U.S. Representative Hamilton Fish organized a special Congressional committee to investigate Communism in states and cities across the nation. In October 1930, the Fish committee held hearings in Seattle. They called sixteen witnesses including representatives of the Seattle police department, King County prosecutor, and employers and timber industry officials who claimed that Communists were a threat to public safety in Washington state. In addition, the committee subpoened five members or suspected members of the Communist Party. <a href="fish-hearings.shtml">Here are tthe transcripts.</a> </p>
+			<p>&nbsp;</p>
+			<h2><a href="canwell.shtml">Canwell Hearings and Investigations by the Legislature's UnAmerican Activities Committee (1948) </a></h2>
+			<ul style="list-style-type: square;">
+
+              <p>&nbsp;</p>
+              <p><a href="canwell_interview.shtml">Albert Canwell Interview: </a>In 1994 as he was beginning research for All Powers, Professor Jenkins videotaped an extensive  and revealing interview with Albert Canwell. That interview is presented here in excerpts delivered as streaming video.<br>
+
+              </p>
+              <p><a href="caughlan_interview.shtml">John Caughlan Interview: </a>The lead attorney for the defendants, Caughlan was a founder of the Seattle chapter of the Civil Rights Congress and devoted most of his legal career to defending radicals and civil rights activists. Mark Jenkins interviewed him in 1994. That interview is presented here in excerpts delivered as streaming video.
+            
+
+              </p>
+             
+
+			  <p>&nbsp;</p>
+			</ul>
+		  
+		  <h2><a href="HUAC%20hearings.shtml">Seattle HUAC Hearings 1954, 1955, 1956 </a></h2>
+		  <p>U.S. Congress House Unamerican Activities Committee travelled to Seattle for three sets of hearings in the mid 1950s, demanding testimony from suspected Communists and threatening to imprison those who refused to answer questions about their own political activities and the lives of others. Here is the complete record of these investigations including testimony by Eugene Dennett, Barbara Hartle, Burt Nelson, Howard Costigan, and many others: <a href="HUAC%20hearings.shtml">The transcripts</a>. </p>
+          Smith Act Trials: The Seattle Seven Prosecutions
+			</div>
+		</td>
+	</tr>
+	
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.shtml"-->	</div>
+		</td>
+	</tr>
+</table>
+</body>
+<!--#include file="metafooter.html"-->

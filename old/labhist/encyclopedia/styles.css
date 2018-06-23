@@ -1,0 +1,494 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	font-family: inherit;
+
+}
+/* remember to define focus styles! */
+:focus {
+	outline: 0;
+}
+strong {font-weight:bold;}
+body {
+	line-height: 1;
+	color: black;
+	background: #405E50;
+}
+ol, ul {
+	list-style-type: square;
+	list-style-position: inside;
+}
+li {
+	right:5px;
+	}
+em {
+	font-style:italic;
+	}
+
+
+/* tables still need 'cellspacing="0"' in the markup */
+table {
+	border-collapse: separate;
+	border-spacing: 0;
+}
+
+#toprightvideo {
+width:315px;
+position:relative;
+left:00px;
+_left:00px;
+float:right;
+border-bottom:1px solid black;
+border-left:1px solid black;
+margin-left:10px;
+_margin-left:10px;
+margin-bottom:10px;
+background-color:#000000;
+}
+
+
+caption, th, td {
+	text-align: left;
+	font-weight: normal;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: "";
+}
+blockquote, q {
+	quotes: "" "";
+}
+
+body,td,li,p {
+font: 1.0em helvetica,sans-serif;
+}
+
+#header img {
+border-bottom:1px solid black;
+}
+
+.timeline-event-bubble-body {
+font-size: 80%;}
+.timeline-event-bubble-time {
+font-size:60%;}
+.timeline-event-label {
+font-size:80%;}
+
+#pagetable {height:100%;width:1000px;margin-left:auto; margin-right:auto;}
+#footer {padding:10px;vertical-align: bottom;background:white;font-size: 0.6em;font-style:italic;}
+#footer a {color:#780000;}
+#navigation {
+width:200px;
+min-height: 100%;
+font-size: 0.9em;
+padding:0px;
+color:white;
+background-color:#000;
+font-weight:bold;
+line-height:180%;}
+
+h3 {font-size:1.1em;font-weight:bold;margin-bottom:10px;}
+
+#datatable {
+width: 780px;
+
+	border-width: 1px;
+	border-spacing: 2px;
+	border-style: solid;
+	border-color: black;
+	border-collapse: separate;
+	background-color: white;
+
+}
+
+#datatable td { 
+text-align: left; 
+
+vertical-align: top;
+padding-top:4px;
+	border-width: 1px;
+	padding: 4px;
+	border-style: none;
+	border-color: black;
+	background-color: rgb(183, 183, 183);
+	-moz-border-radius: 0px 0px 0px 0px;
+
+}
+
+#phototable {
+width: 780px;
+background-color: #f0f0f0;
+border:1px solid black;
+
+padding:5px;}
+
+#phototable td { text-align: center; background-color: #b7b7b7; vertical-align: top;padding-top:20px;}
+
+#navigation div {padding:5px 0px 5px 5px;}
+#navigation img {vertical-align: middle;margin-right:5px;height:24px;width:24px;}
+
+
+
+
+div#menu_laborpress,
+div#menu_maps,
+div#menu_yearbooks,
+div#menu_research,
+div#menu_generalstrike,
+div#menu_dock,
+div#menu_ufw,
+div#menu_cr,
+div#menu_cp,
+div#menu_ucl,
+div#menu_cannery,
+div#menu_timber,
+div#menu_hoovervilles,
+div#menu_economics,
+div#menu_home,
+div#menu_about,
+div#menu_photographs
+{
+margin:0px;
+padding:0px;
+}
+
+body#yearbooks#menu_yearbooks,
+body#maps div#menu_maps,
+body#timeline div#menu_timeline,
+body#research div#menu_research,
+body#culture div#menu_culture,
+body#uw div#menu_dock,
+body#everday div#menu_everyday,
+body#cr div#menu_cr,
+body#radicalism div#menu_radicalism,
+body#pw div#menu_pw,
+body#politics div#menu_politics,
+body#strikesunions div#menu_strikesunions,
+body#hoovervilles div#menu_hoovervilles,
+body#economics div#menu_economics,
+body#home div#menu_home,
+body#about div#menu_about,
+body#photographs div#menu_photographs
+{
+background-image: url(menu-position.gif); 
+background-position: 165px 2px;
+background-repeat: no-repeat;
+color:#780000;
+}
+
+body#yearbooks#menu_yearbooks a,
+body#maps div#menu_maps a,
+body#timeline div#menu_timeline a,
+body#research div#menu_research a,
+body#culture div#menu_culture a,
+body#uw div#menu_uw a,
+body#everyday div#menu_everyday a,
+body#cr div#menu_cr a,
+body#radicalism div#menu_radicalism a,
+body#pw div#menu_pw a,
+body#politics div#menu_politics a,
+body#strikesunions div#menu_strikesunions a,
+body#hoovervilles div#menu_hoovervilles a,
+body#economics div#menu_economics a,
+body#home div#menu_home a,
+body#about div#menu_about a,
+body#photographs div#menu_photographs a
+{
+color:#780000;
+}
+
+div#menu_about:hover,
+div#menu_home:hover,
+div#menu_yearbooks:hover,
+div#menu_maps:hover,
+div#menu_timeline:hover,
+div#menu_research:hover,
+div#menu_culture:hover,
+div#menu_uw:hover,
+div#menu_everyday:hover,
+div#menu_cr:hover,
+div#menu_radicalism:hover,
+div#menu_pw:hover,
+div#menu_politics:hover,
+div#menu_strikesunions:hover,
+div#menu_hoovervilles:hover,
+div#menu_economics:hover,
+div#menu_home:hover,
+div#menu_about:hover,
+div#menu_photographs:hover
+{
+background-image:  url("menu-position-dark.gif"); 
+background-position: 165px 2px;
+background-repeat: no-repeat;
+}
+
+div#submenu_theater_arts {
+display:none;
+}
+
+body#theater_arts div#submenu_theater_arts,
+div#menu_theaterarts:hover div#submenu_theater_arts {
+display:block;
+width:180px;
+font-size:11px;
+line-height:100%;
+font-weight: normal;
+margin-left:15px;
+margin-top:-5px;
+margin-bottom:0px;
+}
+
+
+
+
+#navigation a {text-decoration: none;color:white;}
+#navigation a:visited {color:white;}
+#navigation a:hover {color: gray;}
+
+
+#content { background:#CCCCCC;padding:10px; height:100%;}
+.content { background:#CCCCCC;padding:10px; height:100%;}
+#content img {border:1px solid black;}
+#maintimeline img {border:none;}
+#maintimeline {width:760px; border:3px solid grey; }
+#content img.right {margin-left:10px; float:right;-webkit-box-shadow: 5px 5px 5px #888;
+box-shadow: 5px 5px 5px #888;
+-moz-box-shadow: 5px 5px 5px #888;}
+
+.endnote {
+vertical-align:super;
+font-size:11px;
+line-height: 0.5em; 
+}
+
+.attribution {
+text-indent:0;
+margin-left:0px;
+font-style:italic;
+}
+
+
+
+.rightcap {
+text-align: left;
+text-indent: 0px;
+position:relative;
+float:right;
+font-size:12px;
+background-color:black;
+color:white;
+line-height:120%;
+padding:5px;
+margin-bottom:5px;
+margin-left:5px;
+-moz-border-radius-bottomleft: 5px;
+-moz-border-radius-bottomright: 5px;
+-webkit-border-bottom-left-radius: 8px;
+-webkit-border-bottom-right-radius: 8px;
+border-bottom-left-radius: 8px;
+border-bottom-right-radius: 8px;
+-webkit-box-shadow: 5px 5px 5px #888;
+box-shadow: 5px 5px 5px #888;
+-moz-box-shadow: 5px 5px 5px #888;
+}
+
+
+.rightcap a, .rightcap a:visited {
+color:white;
+text-decoration:none;
+border-bottom:1px solid #780000;
+}
+
+.leftcap {
+text-align: left;
+text-indent: 0px;
+position:relative;
+float:left;
+font-size:12px;
+background-color:black;
+color:white;
+line-height:120%;
+padding:5px;
+margin-bottom:5px;
+margin-right:5px;
+-moz-border-radius-bottomleft: 5px;
+-moz-border-radius-bottomright: 5px;
+-webkit-border-bottom-left-radius: 8px;
+-webkit-border-bottom-right-radius: 8px;
+border-bottom-left-radius: 8px;
+border-bottom-right-radius: 8px;
+-webkit-box-shadow: 5px 5px 5px #888;
+box-shadow: 5px 5px 5px #888;
+-moz-box-shadow: 5px 5px 5px #888;
+}
+
+
+.leftcap a, .leftcap a:visited {
+color:white;
+text-decoration:none;
+border-bottom:1px solid #780000;
+}
+
+.leftsmall {
+float:left;
+margin-right:5px;
+border:1px solid black;
+}
+
+
+.greybox {
+width:47%;margin-right:10px;background-color:#666;color:white;float:left;padding:5px;}
+
+.greybox a, .greybox a:visited 
+{
+color:#780000;
+}
+
+h3 a, h3 a:visited 
+{
+color:#780000;
+}
+
+
+
+
+p, ul {margin-bottom:1em;text-indent: 1em;line-height:140%;}
+a {color:#780000;}
+a:visited {color:#780000;}
+#content h1 {padding-bottom:20px;margin-bottom: 3px; color:black;font-weight: bold;font-size:1.5em;border-bottom:1px solid gray;text-align:center;}
+#content h2 {margin-bottom: 3px; color:#a01b1d;font-size:1.1em;border-bottom:1px solid gray;}
+
+.content h1 {padding-bottom:20px;margin-bottom: 3px; color:black;font-weight: bold;font-size:1.5em;border-bottom:1px solid gray;text-align:center;}
+.content h2 {margin-bottom: 3px; color:#a01b1d;font-size:1.1em;border-bottom:1px solid gray;}
+
+
+.interviewtable a {
+text-decoration: none;
+font-weight:bold;
+}
+.interviewtable p {
+font-size:12px;
+padding-right:10px;
+}
+
+.interviewtable img {
+margin:0px 5px 5px 0px;
+}
+
+.byline {
+font-style: italic;
+font-size:11px;
+margin-bottom:15px;}
+
+.oralcol {
+	float:right; 
+	margin-left:10px; 
+	width:320px;
+}
+
+#oralvid {
+	width:320px; height:305px;
+}
+
+.vidnavlinks {
+	font-family:Helvetica, Arial, sans-serif;
+	padding:10px;
+	background-color:white;
+	font-size: .8em;
+	line-height:110%;
+	width:300px;
+	height:306px; 
+	overflow:auto;
+}
+
+.vidnavlinks img {
+	border-width:0px;
+	margin-right:5px;
+	border:none;
+}
+
+.vidnavlinks a {
+text-decoration: none;
+border:none;
+}
+
+
+.vidnavdividers {
+	font-weight:bold;
+	color:black;
+	font-size: 1.1em;
+}
+
+.quote {
+font-family:serif;
+font-style:italic;
+line-height: 110%;
+font-size: 1em;
+margin:0px 90px 0px 90px;
+text-indent: 0px;
+text-align:justify;
+}
+
+.references {
+font: helvetica,sans-serif;
+line-height: 110%;
+font-size: .8em;
+
+text-indent: 0px;
+
+}
+
+.redbox
+{
+background-color:#780000;
+color:white;
+width:47%;
+float:right;
+padding:10px;
+padding-bottom:0px;
+margin-left:5px;
+text-indent: 0px;
+}
+
+.redbox p, .redbox h3
+{
+font-size: .9em;
+line-height: 110%;
+text-indent: 0px;
+}
+
+.redbox a, .redbox a:visited 
+{color:white;
+}
+ 
+ .redboxsm
+{background-color:#780000;
+color:white;
+width:22%;
+float:right;
+padding:5px;
+margin-left:5px;
+}
+
+.redboxsm a, .redbox a:visited 
+{color:white;
+}
+ 
+.summary {
+text-indent:0;
+font-size: .8em;
+font-style: italic;
+
+}

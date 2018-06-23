@@ -1,0 +1,209 @@
+<!--#include file="metaheader.html"-->
+<title>Lawcha conference</title>
+<link rel="stylesheet" type="text/css" href="xfade2_o.css" />
+<script type="text/javascript" src="xfade2.js"></script>
+<style type="text/css">
+<!--
+.greyboxnew {
+	background-color:#666;color:white;
+	padding:5px;
+	margin-bottom:5px;
+}
+
+.greyboxnew a, .redbox a:visited 
+{color:white;
+}
+.redboxnew {
+	background-color:#780000;color:white;
+	padding:5px;
+		margin-bottom:5px;
+}
+.redboxnew a, .redbox a:visited 
+{color:white;
+}
+.style20 {
+	font-size: xx-large;
+	font-weight: bold;
+}
+
+
+-->
+</style>
+</head>
+<body id="home">
+<table id="pagetable" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			  <a href="index.shtml"><img src="banner.jpg" width="100%" height="200" border="0"></a>
+			</div>
+		</td>
+	</tr>
+
+		<td>
+			<div id="content">
+			
+        	
+        
+
+			
+				<p class="style20" align="center">Restaurants and Pubs</p><p></p>
+				
+				
+	          <p><a href="#university">University District</a></p>
+	          <p><a href="#nearby">Nearby neighborhoods</a></p>
+	          <p><a href="#downtown">Downtown/Belltown</a><br>
+              </p>
+	          <h1>University District</h1><a name="university"></a>
+			  <p> There are many inexpensive and casual locations in the UDistrict, especially along University Ave. Here are a few breakfast spots near Lander Hall followed by a short list of pubs and  slightly more upscale but still reasonable restaurants. </p>
+			  <p>Breakfast:</p>
+			  <ul>
+			    <li>Local Point: (in Lander Hall)  -- All-you-care-to-eat breakfast for $9.50 </li>
+			    <li>Bean &amp; Bagel (1410 NE 40th St.) -- coffee, bagels, light fare</li>
+			    <li>Portage Bay Café (4130 Roosevelt Way NE)-- amazing waffles</li>
+			    <li>
+			      Café Solstice (4116 University Way NE) 
+			    </li>
+			    
+			    <li>Café on the Ave (4201 University Way NE)</li>
+		      </ul>
+			  <p>Happy hour pubs:</p>
+			  <ul>
+			    <li>Big Time Brewery (4133 University Way)-- Ten beers on tap and standard pub grub</li>
+			    <li>Shultzys Bar and Grill (4114 University Way)--full bar, have your beer and bratwurst too.</li>
+			    <li>College Inn Pub (4006 University Way)--basement dive bar</li>
+			    <li>Flowers Bar and Restaurant (4247 University Way)</li>
+		      </ul>
+			  <p>Lunch/ Dinner:</p>
+         
+				<p><u>Agua Verde </u>(1303 NE Boat Street) Mexican; good margaritas, overlooking the water <a href="http://aguaverde.com/cafe/">http://aguaverde.com/cafe</a></p>
+         <p> <u>Ivar's Salmon House</u><strong> (</strong>401 NE Northlake Way) Seattle classic on Lake Union, many kinds of salmon and chowder, spectacular views of water, boats, Space Needle. Make reservations but there is also food service in the bar.
+          
+           <a href="http://www.ivars.com/locations/salmon-house">http://www.ivars.com/locations/salmon-house</a>
+         <p><u>Shalimar</u> (4214 University Way) South Asian; quiet with table cloths (rare in the UD) <a href="http://eatatshalimar.com">http://eatatshalimar.com</a>                  
+         <p><u>Spring Kitchen</u> (4002 University Way NE)         Vietnamese
+			  <p><u>Xi 'an Noodles</u> (5259 University Way) Known for its handmade noodles (biang biang), perhaps worth the trek up the Ave
+			  <h1>Near Neighborhoods </h1><a name="nearby"></a>
+			  <p><strong>Eastlake</strong> <strong>(1 mile from Lander Hall)</strong>              
+			  <ul>
+			    <li><u>Sushi Kappo Tamura</u> (2968 Eastlake Ave. E) Japanese          
+		        </li>
+			    <li><u>Little Water Cantina</u> (2865 Eastlake Ave. E.) Mexican/fushion, spectacular views
+		        </li>
+			    <li><u>Serafina  </u>(2043 Eastlake Ave. E.)                                                   Italian
+		        </li>
+		      </ul>
+			  <p><strong>Wallingford</strong>:             
+			  <ul>
+			    <li><u>Kabul </u>(2301 N. 45th St) Afghan
+		        </li>
+			    <li><u>Tilth</u> (1411 N. 45th St.) $$$
+		        </li>
+			    <li><u>Bizzaro Italian Cafe</u> (1307 N. 46th St)              
+		        </li>
+		      </ul>
+			  <p><strong>Fremont:              </strong>              
+			  <ul>
+			    <li><u>Agrodolce</u> (709 N. 35th, St.) Italian 
+		        </li>
+			    <li><u>El Camino</u> (607 N. 35th St) -Mexican
+		        </li>
+			    <li><u>Ponti's Seafood Grill</u> (3014 3rd Ave N.)$$$</li>
+		      </ul>
+			  <p><strong>Capitol Hill/ Montlake:              </strong>              
+			  <ul>
+			    <li><u>Monsoon</u> (615 19th Ave. E) Vietnamese
+		        </li>
+			    <li><u>Poppy</u> (622 Broadway) Asian fusion                            
+		        </li>
+			    <li><u>Tallulah's Cafe</u> (550 19th Ave E.)              
+		        </li>
+			    <li><u>Cafe Lago</u> (2305 24th Ave E.)
+			      Italian
+		        </li>
+		      </ul>
+			  <h1>Downtown and Belltown </h1><a name="downtown"></a>
+				<h3>(Recommendations courtesy Michael McCann)</h3>
+	        
+	        <p>
+		        <strong>Pike Place Market</strong> (1st Ave and Pike St) is the obligatory tourist destination. It&rsquo;s  home to the world&rsquo;s first Starbucks, Beecher&rsquo;s cheese (you can watch them make  it), and seafood vendors tossing salmon, plus local farmers&rsquo; market produce and  arts &amp; crafts. There are great food stands and restaurants all up and down  the Market, including:</p>
+	        <ol>
+	          <li><u>Café Campagne</u> (1600 Post Alley). Excellent French  bistro … the heart of France in the heart of Seattle. 206-728-2233. <u><a href="../../../../../../../AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.IE5/AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.IE5/AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.IE5/Q9H9N4KG/www.cafecampagne.com/">www.cafecampagne.com</a></u></li>
+	          <li><u>Maximilien</u> (81 Pike St). Romantic, with great food  and great views. A bit pricey but worth it. 206-682-7271. <u><a href="http://www.maximilienrestaurant.com/">www.maximilienrestaurant.com</a></u></li>
+	          <li><u>Pike Place Pub &amp;  Brewery</u> (1415 1st Ave). A full  selection of Pike ales and pretty decent bar food. Enjoy happy hour from 4:00–6:00pm  Monday-Friday. 206-622-6044. <u><a href="http://www.pikebrewing.com/">www.pikebrewing.com</a></u></li>
+	          <li><u>Lowell&rsquo;s</u> (1519 Pike Place). Order at the counter on  the 1st floor. There are lots of fish options. Then go find a seat  on the 3rd floor for great views of Elliott Bay in a casual dining  experience. Lunch at Lowell&rsquo;s is great! Open for breakfast, lunch, and dinner. 7:00am–8:00pm.  206-622-2036. <u><a href="http://www.eatatlowells.com/">www.eatatlowells.com</a></u></li>
+	          <li><u>Matt&rsquo;s in the Market</u> (94 Pike St #32). A nice dining  experience on the 2nd floor of the Market, with lovely views. The  cuisine is local, Northwestern. Reservations are recommended. 206-467-7909. <u><a href="http://www.mattsinthemarket.com/">www.mattsinthemarket.com</a></u></li>
+	          <li><u>Oriental Mart</u> (1506 Pike Place Market). First-rate Filipino  food. Try the chicken adobo, salmon sinigang, and bulalu. Try to sit near the  chef. 206-622-8488. <u><a href="http://www.yelp.com/biz/oriental-mart-seattle-2">www.yelp.com/biz/oriental-mart-seattle-2</a></u></li>
+	          <li><u>Place Pigalle</u> (81 Pike St). Charming place with great  views of Puget Sound and mountains, plus winning cocktails, funky French and  Northwest cuisine, generally very good. 206-624-1756. <u><a href="../../../../../../../AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.IE5/AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.IE5/AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.IE5/Q9H9N4KG/www.placepigalle-seattle.com/">www.placepigalle-seattle.com</a></u></li>
+	         
+				<p></p>
+              <p><strong>Downtown and Belltown (northwest part of downtown)</strong>—lots of good options, from inexpensive to pricey.</p>	          
+	          
+	          <li><u>Le Pichet</u> (1933 1st Ave). A quintessential  French bistro located near the Market: mirrored walls, sidewalk seating, and a  menu of baguettes, charcuterie, fabulous roasted chicken, salads, and espresso.  It&rsquo;s ideal for lunch or dinner. Superb wine options. Make a reservation. 206-256-1499.<a href="../../../../../../../AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.IE5/P6Y9XUC2/LSA%20Dining%20Guide%20FINAL%20B.doc"> www/lepichetseattle.com/home</a></li>
+	          <li><u>Bell + Whete</u> (200 Bell St). Nice open space with odes  to Middle Ages that seem quite contemporary. Good sampler plates of sausages. 206-538-0180. <u><a href="../../../../../../../AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.IE5/AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.IE5/AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.IE5/Q9H9N4KG/www.bellandwhete.com">www.bellandwhete.com</a></u></li>	                    
+	          <li><u>Etta&rsquo;s</u> (2020 Western Ave). Located just north of the Pike  Place Market. Splendid fish restaurant in nice but relaxed room. Also a great  destination for weekend brunch. 206-443-6000. <u><a href="http://tomdouglas.com/index.php?page=ettas">tomdouglas.com/index.php?page=ettas</a></u></li>
+	          <li><u>Dahlia Lounge</u> (2001 4th Ave). The  breakthrough Tom Douglas. This one serves up New American cuisine, a bit pricey  but recent reviews say it is still worth it. 206-682-4142. <a href="http://tomdouglas.com/index.php?page=dahlia-lounge">tomdouglas.com/index.php?page=dahlia-lounge</a></li>
+	          <li><u>Palace Kitchen</u> (2030 5th Ave). Pacific  Northwest and eclectic Modern American food. Big place, raucous and fun, food  is reliably good. 206 448-2001. <a href="http://tomdouglas.com/index.php?page=palace-kitchen">tomdouglas.com/index.php?page=palace-kitchen</a> </li>
+	          <li><u>Lola</u> (2000 4th Ave). Greek and  Mediterranean food, great tagines, kababs, spreads. Relaxed setting, great bar.  Many foodies&rsquo; favorite Douglas restaurant. 206-441-1430. <a href="http://tomdouglas.com/index.php?page=lola">tomdouglas.com/index.php?page=lola</a> </li>          
+	          <li><u>The Pink Door</u> (1919 Post Alley). Located just behind  the Market, is very good for Italian-American food, and on certain days of the  week they have a trapeze artist flying overhead! Reservations recommended.  206-443-3241. <u><a href="../../../../../../../AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.IE5/AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.IE5/AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.IE5/Q9H9N4KG/www.thepinkdoor.net/">www.thepinkdoor.net</a></u></li>
+	          <li><u>Il Bistro</u> (93 A Pike St). South and under the Market.  It is old-world Italian, with contemporary touches. A bit pricey, but an  elegant place with great food, drinks, wine list. 206-682-3049. <u><a href="http://www.ilbistro.net/">www.ilbistro.net</a></u></li>
+	          <li><u>Il Corvo</u> (217 James St). A good bet for lunch for two.  Bowls of house-made pasta and sauce. The menu changes daily. Larger groups  should expect to sit apart. Located in Pioneer Square (south of the hotel). 11:00am–3:00pm.  206-538-0999. <u><a href="http://www.ilcorvopasta.com/">www.ilcorvopasta.com</a></u></li>
+	          <li><u>Il Terrazzo Carmine</u> (411 1st Ave South). Upscale  and elegant (so a bit pricey) old-world Italian. Superb food and wines. 206-467-7797. <u><a href="../../../../../../../AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.IE5/AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.IE5/AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.IE5/Q9H9N4KG/www.ilterrazzocarmine.com/">www.ilterrazzocarmine.com</a></u></li>
+	          <li><u>Salumi</u> (309 3rd Ave). World famous  salumeria. Offers Italian-style sandwiches with house-made cold cuts for the  lunch crowd. The space will not accommodate large groups. 11:00am–3:30pm. 206-621-8772. <u><a href="http://www.salumicuredmeats.com/">www.salumicuredmeats.com</a></u></li>
+	          <li><u>Tap House Grill</u> (1506 6th Ave). A  crowd-pleaser, with a huge selection of beers on tap, an affordable happy hour,  and broad enough menu to satisfy nearly everyone: grill fare, sushi, and  vegetarian dishes abound. 11:00am–1:00am. 206-816-3314. <u><a href="http://taphousegrill.com/index.html">taphousegrill.com/index.html</a></u></li>
+	          <li><u>Wild Ginger</u> (1401 3rd Ave). Wild Ginger is  a landmark of fusion cuisine, and it continues to produce great food. The green  beans are fabulous, as is the duck, seafood, and everything. 4:00–9:00 pm. 206-623-4450. <u><a href="http://www.wildginger.net/">www.wildginger.net</a></u></li>
+	          <li><u>Loulay</u> (600 Union St). Thierry Rautureau brings glitz  and glam to downtown&rsquo;s restaurant scene, yet there is nothing pretentious about  it. Sure there&rsquo;s caviar, foie gras, and French Champagne, but also superlative  roast chicken, a burger of distinction and local wines on tap. Most dishes  surprisingly affordable. 206-402-4588. <u><a href="../../../../../../../AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.IE5/AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.IE5/AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.IE5/Q9H9N4KG/www.thechefinthehat.com/loulay-kitchen-seattle.com">www.thechefinthehat.com/loulay-kitchen-seattle.com</a></u></li>
+	          <li><u>Taste</u> at Seattle Art Museum Restaurant (1300 1st  Ave). A dozen blocks south of our hotel and offers excellent food from 10:00am–5:00pm.  206-654-3210. <u><a href="http://www.tastesam.com/">www.tastesam.com</a></u></li>
+	          <li><u>Japonessa</u> (1400 1st Ave). Next to Seattle Art  Museum, has good sushi. Open from 12:00 noon–11:00pm. 206-971-7979. <u><a href="http://www.japonessa.com/">www.japonessa.com</a></u><br>
+              <u>Elliott&rsquo;s Oyster House</u> (1201 Alaska Way). Classy  Seattle seafood, with variety of the region&rsquo;s spectacular oysters. Try Café 56  for cheaper, less formal version. 206-623-4340. <u><a href="http://www.elliottsoysterhouse.com/">www.elliottsoysterhouse.com</a></u></li>
+	          <li><u>The Edgewater Hotel</u> (2411 Alaskan Way, slightly north  of downtown). Pacific Northwest cuisine and breathtaking views at its <u>Six  Seven Restaurant and Lounge</u>. Open from 7:00am–11:00pm. 206-269-4575. <u><a href="http://www.edgewaterhotel.com/">www.edgewaterhotel.com</a></u></li>
+	          <li><u>Lecosho</u> (89 University St). Slightly south of the  Market, on the Harbor Steps. Offers American and Pacific Northwest cuisine. Lunch  and dinner. 206-623-2101. <u><a href="http://www.lecosho.com/">www.lecosho.com</a></u></li>
+	          <li><u>Gelatiamo</u> (1400 3rd Ave). Delicious gelato  and pastries. 206-467-9563.</li>
+	          
+	                 
+	          
+	  
+	       
+	       
+              <li><u>Spur Gastropub</u> (113 Blanchard). Very good, but spendy,  for a pub. They are open from 5:00pm–2:00am. 206-728-6706. <u><a href="http://www.spurseattle.com/">www.spurseattle.com</a></u><br>
+              </li>
+              <li><u>Local 360</u> (2234 1st Ave). A &ldquo;Seattle  experience,&rdquo; with sustainable, organic food. Open 8:00am–12:00am. 206-441-9360. <u><a href="http://www.local360.org/">www.local360.org</a></u><br>
+              </li>
+              <li><u>Shiro&rsquo;s Sushi Restaurant</u> (2401 2nd Ave). Rave  reviews. The owner is linked to the &ldquo;I Dream of Jiro&rdquo; film. 206-443-9844. <u><a href="http://www.shiros.com/">www.shiros.com</a></u><br>
+              </li>
+              <li><u>Fare Start </u>(700) Virginia St). A culinary job  training and placement program for homeless and disadvantaged persons, serving very  good modern American fare. Note that this restaurant has limited hours of  operation. Call or go online for additional information. 206-267-7601. <u><a href="http://www.farestart.org/">www.farestart.org</a></u><br>
+              </li>
+              <li><u>Umi Sake House</u> (2230 1st Ave). Hip sushi  in the heart of Belltown. 206-374-8717. <u><a href="http://www.umisakehouse.com/">www.umisakehouse.com</a></u><br>
+              </li>
+              <li><u>La Vita E Bella</u> (2411 2nd Ave).  Good, simple Italian pasta, seafood, pizzas,  salads at very affordable prices. Two rooms – one small, funky, and lively, the  other more subdued.  206-441-5123.  <a href="../../../../../../../AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.IE5/P6Y9XUC2/www.lavitaebella.us/">www.lavitaebella.us</a></li>
+             
+				<p></p>
+			  <p>&nbsp;</p>
+	        </ol>
+	        <div style="margin-bottom:10px;">
+	          <p>&nbsp;</p>
+            
+			
+</div>
+
+  
+         
+		
+</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.html"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

@@ -1,0 +1,115 @@
+<!--#include file="metaheader.html"-->
+<title>Mapping Washington Labor and Civil Rights Movements</title>
+<link rel="stylesheet" type="text/css" href="xfade2_o.css" />
+<script type="text/javascript" src="xfade2.js"></script>
+<style type="text/css">
+<!--
+.greyboxnew {
+	background-color:#666;color:white;
+	padding:5px;
+	margin-bottom:5px;
+}
+
+.greyboxnew a, .redbox a:visited 
+{color:white;
+}
+.redboxnew {
+	background-color:#780000;color:white;
+	padding:5px;
+		margin-bottom:5px;
+}
+.redboxnew a, .redbox a:visited 
+{color:white;
+}
+.style20 {
+	font-size: xx-large;
+	font-weight: bold;
+}
+.style21 {font-size: 10pt}
+
+
+-->
+</style>
+</head>
+<body id="home">
+<table id="pagetable" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			  <a href="index.shtml"><img src="banner.jpg" width="1000" height="190" border="0"></a>
+			</div>
+			 <!--#include file="menu-top.shtml" -->
+		</td>
+	</tr>
+
+		<td>
+			<div id="content">
+			
+        	
+        
+
+		  <div align="center">
+			   <p class="style20">Data Mapping the IWW in Washington State</p>
+		  </div>
+			  <div>
+			  <span class="rightcap" style="width:400px;"><img src="frontpagespecials/images/IWW Affiliates-cr.jpg" width="400" height="300"border="0">IWW headquarters probably in Seattle (Courtesy UW Libraries Special Collections</a>)</span>
+              <p> The Industrial Workers of the World established one of their strongest bases in the Pacific Northwest, especially among workers in the lumber and maritime industries but also in the cities. Most of the 60 IWW locals we have identified were based in Seattle, Spokane, Tacoma, and Grays Harbor, but the members were often transient,  finding jobs and organizing in the timber camps, as sailors and dock workers, or following the summer harvest seasons. Wobblies made an impact far beyond their numbers. They organized strikes whenever possible and rushed to support (or interfere) in strikes conducted by AFL unions. They organized on street corners, typically in front of private employment agencies, which they labeled &quot;employment sharks,&quot; and these public actions frequently led to arrests and what the IWW called &quot;free speech fights.&quot; We have tracked more than 340 such actions in the <em>Industrial Worker</em> and other newspapers. They provide a detailed look at how the IWW operated in Washington State and where and when the revolutionary organization was most active.</p>
+            <p>The first locals were established in 1907 but the organization really began to attract attention in 1909 with a set of free speech fights, most importantly in Spokane. Wobblies from all over the country rushed to join the battle among them James Wilson who began publishing the <em>Industrial Worker</em> in Spokane in March of that year. Authorized as an official IWW newspaper, the Industrial Worker moved to Seattle the following year and helped build the movement until  1913. Massive unemployment in the great depression of that year put the newspaper out of business and cost the IWW both members and momentum. The IWW reorganized in 1915 and began the following year conducted strikes involving harvest workers, sailors, dock workers, and timber workers. The free speech fight in Everett and bloody Everett Massacre brought international attention. When the US declared war on Germany the following year, the IWW answered with coordinated timber strikes throughout the Northwest.  </p>
+            <p>Below are two maps, one showing information about IWW locals established between 1907 and 1919, the second mapping IWW strikes, free speech campaigns, and arrests and violence. These maps are hosted by <a href="https://public.tableau.com/profile/mapping.social.movements#!/">Tableau Public</a> and may take a few seconds to respond. If slow, refresh the page.</p>
+            <h3>IWW Locals</h3>
+            
+<div class='tableauPlaceholder' id='viz1529445091086' style='position: relative'><noscript><a href='http:&#47;&#47;depts.washington.edu&#47;labhist&#47;maps-iww.shtml'><img alt='Dash cities 5 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wa&#47;WashingtonIWWlocals&#47;Dashcities5&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='WashingtonIWWlocals&#47;Dashcities5' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wa&#47;WashingtonIWWlocals&#47;Dashcities5&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1529445091086');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+ <h3>IWW strikes, free speech campaigns, arrests and violence 1907-1920</h3>
+				
+				<div class='tableauPlaceholder' id='viz1529445507448' style='position: relative'><noscript><a href='http:&#47;&#47;depts.washington.edu&#47;labhist&#47;maps-iww.shtml'><img alt='Dash actions ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wa&#47;WashingtonIWWstrikescampaigns&#47;Dashactions&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='WashingtonIWWstrikescampaigns&#47;Dashactions' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wa&#47;WashingtonIWWstrikescampaigns&#47;Dashactions&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1529445507448');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+ 
+
+
+<p><strong>Note:</strong> Most of the events and descriptions are derived from articles in the <em>Industrial Union Bulletin,</em> 1907-1909;<em> Industrial Worker, </em>1909-1912, 1916-1917, 1920; <em>Solidarity</em>, 1915-1917. Details have not been independently confirmed. Each event is listed, described, and sourced in the <a href="http://depts.washington.edu/iww/iwwyearbook_intro.shtml">IWW yearbooks</a>. Dates on these maps can be either the date of the event or the date of the newspaper article covering the event.</p>
+<p><strong>Sources: </strong> <em>Industrial Union Bulletin,</em> <em>Industrial Worker,</em> <em>Solidarity</em>) and the following additional sources: 1916 IWW Convention Proceedings, Paul Brissenden, <em>The IWW: A Study of American Syndicalism</em> (1919); Vincent St. John, <em>The IWW: Its History, Structure and Methods</em> (1917); "Names and Addresses of Branch Secretaries of the (I.W.W.) in America" in Military Intelligence Files (IWW) microfilm reel 8; "Minute Books" in same collection reel 6.</p>
+<p><strong>Research:</strong> Arianne Hermida, Nick Bragg, Alison Cheung, Morgan Cottle, Michael Handley, Oliver Janders, Michael Kirkman, Christopher Mulcahey, Danielle Simmons, and Austin Upton. Becca Flores developed and manages the database.</p>
+<p><strong>Data Compilation:</strong> Arianne Hermida</p>
+          
+<p><strong>Maps:</strong> James Gregory, Jason Grills</p>
+  
+		
+		  
+		</table>
+		</td>
+	</tr>
+		
+			 
+			
+			
+			<div style="margin-bottom:10px;">
+			
+			
+       		
+			
+			
+       		
+			
+</div>
+
+  
+         
+		
+
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.html"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

@@ -1,0 +1,505 @@
+<!--#include file="metaheader.html"-->
+<title>Labor Yearbook 1931</title>
+<link rel="stylesheet" type="text/css" href="xfade2_o.css" />
+<script type="text/javascript" src="xfade2.js"></script>
+<style type="text/css">
+<!--
+.style1 {color: #FFFFFF}
+-->
+</style>
+</head>
+<body id="home">
+<table id="pagetable" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="header_logo.jpg" width="1000" height="189" border="0" usemap="#pnlcrp">
+			<map name="pnlcrp">
+              <area shape="rect" coords="326,5,847,33" href="http://depts.washington.edu/labhist">
+            </map>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td bordercolor="#000000" style="vertical-align:top;background-color:black;">
+			<div id="navigation">
+			  <!--#include file="menu.html"-->
+			</div>
+	  </td>
+		<td>
+			<div id="content">
+			<h1>Labor Events Yearbook: 1931</h1>
+			<div class="redboxsm">
+    <h2 align="center" style="color:white;"><strong><a href="yearbook_introduction.shtml">Yearbook Home</a></strong></h2>
+	
+	<table id="redtable" border="0" cellpadding="0" cellspacing="3">
+	<tr>
+              <td><div align="center"><a href="yearbook1915.shtml"><strong>1915</strong></a></div></td>
+              <br>
+              <td><a href="yearbook1915.shtml"><img src="mages/yearbook-ufw2/1915-100x30.jpg" width="101" height="30" border="0"></a></a></span></td>
+            </tr>
+		<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1918.shtml"><strong>1918</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1918.shtml"><img src="mages/yearbook-ufw2/1918-100x30.jpg" width="100" height="30" border="0"></a></td>
+        </tr>
+		<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1919.shtml"><strong>1919</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1919.shtml"><img src="mages/yearbook-ufw2/1919-100x31.jpg" width="101" height="31" border="0"></a></td>
+        </tr>
+		 <tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1930.shtml"><strong>1930</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1930.shtml"><img src="mages/yearbook-ufw2/1930-100x30.jpg" width="100" height="30" border="0"></a></td>
+        </tr>
+        <tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1931.shtml"><strong>1931</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1931.shtml"><img src="mages/yearbook-ufw2/1931-100x30.jpg" width="101" height="30"></a></td>
+        </tr>
+			<tr>
+       <td style="width:75px;"><div align="center"><a href="yearbook1932.shtml"><strong>1932</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1932.shtml"><img src="mages/yearbook-ufw2/1932-100x30.jpg" width="100" height="31" border="0"></a></td>
+			</tr>
+			<tr>
+			  <td style="width:75px;"><div align="center"><a href="yearbook1933.shtml"><strong>1933</strong></a></div></td>
+			  <td style="vertical-align:top;"><a href="yearbook1933.shtml"><img src="mages/yearbook-ufw2/1933-100x30.jpg" width="101" height="30" border="0"></a></td>
+		    </tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1934.shtml"><strong>1934</strong></a></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1934.shtml"><img src="mages/yearbook-ufw2/1934-100x30.jpg" width="99" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1935.shtml"><strong>1935</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1935.shtml"><img src="mages/yearbook-ufw2/1935-100x30.jpg" width="100" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1936.shtml"><strong>1936</strong></a></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1936.shtml"><img src="mages/yearbook-ufw2/laborday100x30.jpg" width="100" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><strong><a href="yearbook1937.shtml">1937</a></strong></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1937.shtml"><img src="mages/yearbook-ufw2/1937-100x30.jpg" width="100" height="29" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><strong><a href="yearbook1938.shtml">1938</a></strong></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1938.shtml"><img src="mages/yearbook-ufw2/1938-100x30.jpg" width="100" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><strong><a href="yearbook1939.shtml">1939</a></strong></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1939.shtml"><img src="mages/yearbook-ufw2/1939-100x29.jpg" width="100" height="29" border="0"></a></td>
+			</tr>
+		</table>
+	
+   </div>
+        <p>This is a database of campaigns, strikes, and labor related events as recorded in the <em>Washington State Labor News</em> during 1931. It was researched by Brandon Letsinger with help from Nicolette Flannery. Start by reading the labor highlights report. Below that is the database. 
+        <h2>Highlights 1931 by Brandon Letsinger </h2>
+        <p>1931 was a complicated year for the labor movement in the Pacific Northwest. With unemployment surging and employers cutting jobs and cutting wages, Labor was mostly on the defensive, although a few unions did report successes. The movement turned to politics, launching a Charter amendment initiative in Seattle to achieve the five-day work week and pushing Congress for worker friendly laws. Neither effort was fully successful. But the movement continued to display energy and creativity, using a variety of tools such as such as radio broadcasts, boycotts, newspaper publications, literature drives, and house to house canvassing. In this survey of the <em>Washington State Labor News</em> important aspects of the culture of unionism become apparent. Labor strategies, actions, and attitudes of union members towards workers of other races, ethnicities, and political backgrounds come into a clear focus.</p>
+  
+    
+		<p> Early in 1931, from January to early March, the labor movement focused considerable effort on a campaign to amend the Seattle city charter. The measure if approved by voters would have provided municipal employees a five day work week. Spearheaded by James Duncan and the Committee for the Five Day Work Week, a subcommittee within the Seattle Central Labor Council, it united all sections of the labor council and was able to gather 20,000 signatures within the necessary two weeks to bring the measure to a vote before the city by March 10 th, 1931<a style="font-size: 8.0pt; text-decoration:none; vertical-align: super;" href="#_edn1" name="_ednref1">[1]</a>. </p>
+                   
+        <P><a href="#" onclick="toggleview('desc');return false;">[read full report/ close report]</a></P>
+        
+        <div id="desc" style="display:none;">
+			
+			<p> Articles about the campaign for a five day week, often large and on the front page, appeared in nearly every edition of the <em>Washington State Labor News</em> from January 9 th through March 6 th. The Seattle Central Labor Council mounted an impressive campaign to spread information about the 5-day week movement. These efforts included door to door literature drives, canvassing, radio broadcasts and advertisements, newspaper articles and advertisements, sending speakers to those interested, especially union halls or on the job meetings<a style="font-size: 8.0pt; text-decoration:none; vertical-align: super;" href="#_edn2" name="_ednref2">[2]</a>. The measure ultimately proved unsuccessful and was voted down in the March 10 th 1931 in the first solid blow to local labor in the year, a defeat that hurt morale and momentum.</p>
+            <p> The defeat of the Charter Amendment coincided with other union setbacks. One was that of the plight of the unionized garment workers who had been previously working for the Greenhood Shirt Company, which was bought out by the Dagg-Derneden company, owned by industrialist and local factory owner A.V. Love. Over the course of several weeks they ran an expanding media campaign that by the end included newspaper advertisements, a national boycott, a massive door to door canvassing and information drive, as well as a daily walkathon to and around the A.V. Loves primary factory in downtown Seattle located on 8 th and Virginia<a style="font-size: 8.0pt; text-decoration:none; vertical-align: super;" href="#_edn3" name="_ednref3">[3]</a>. Though the workers were never hired back, the widespread publicity and dedication of former workers made their boycott hugely effective leading to a serious downturn in employment and profits at the Greenhood Shirt Co.</p>
+            <p> During 1931 a few unions were able to grow as exemplified by successful union organizing in the mining towns of Cle Ellum and Rosyln and by the I.L.A Longshoremen who  tripled their membership<a style="font-size: 8.0pt; text-decoration:none; vertical-align: super;" href="#_edn4" name="_ednref4"></a>[4]. Less successful was the struggle to fully unionize construction work on the Aurora Avenue Bridge being built by the American Bridge Company. Angered by the company’s use of imported and non-union labor, several building trades unions, including the Seattle Labor Union and the Structural Iron Workers union, became involved in several month long negotiations that finally collapsed and culminated in the American Bridge Construction company being placed on the Seattle Labor Unions 'unfair' practice list and members of the Structural Iron Workers quitting their job in a show of solidarity<a style="font-size: 8.0pt; text-decoration:none; vertical-align: super;" href="#_edn5" name="_ednref5">[5]</a>.</p>
+            <p> On the national stage, workers won victories with the passage of four bills by the United States Congress. The first two bills affected only wage earning government employees but was a large victory in of itself. They guaranteed postal workers a workweek of no more than 44 hours and the rest of federal employees a half holiday on Saturdays. The third was not what labor would like to have seen but it was the best that they could get and helped to end a series of pay scandals on the national stage by guaranteeing that workers would be paid the prevailing local wages when the national government contracted work out to private firms. The fourth and most important concession to labor groups was the Wagner Bill passed in the week of March 13 th that would have created a national system between worker relief and unemployment agencies<a style="font-size: 8.0pt; text-decoration:none; vertical-align: super;" href="#_edn6" name="_ednref6">[6]</a>. The bill was vetoed by president Hoover by March 27 th<a style="font-size: 8.0pt; text-decoration:none; vertical-align: super;" href="#_edn7" name="_ednref7">[7]</a>. </p>
+            <p> After the failure of the 5-day week direct Charter Amendment movement and with no real progress being made by the Garments Union, union activity seemed to largely lose strength and steam. A dispute between the Queen Construction Co. and Seattle Boilermakers union was noted in <em>WSLN </em>and also a continuing campaign by the Musicians Association against non-union music halls. By May, labor activity within Washington state had taken a serious dip and almost all reporting focused primarily on national events, with an eerie lack of local strikes or union campaigns.</p>
+            <p> Despite the decline in labor action, there was no shortage of social events. Card games, dances, balls (in the later months cabaret took a popular turn) and picnics were in no short supply. Union auxiliaries kept up a stream of activities. The newspaper also included a bi-weekly listing of union labels and shops, radio broadcasting and book reviews.</p>
+            <p> On July 17 th the Washington State Federation of Labor, Barbers Union and Culinary Workers Union held their annual conventions<a style="font-size: 8.0pt; text-decoration:none; vertical-align: super;" href="#_edn8" name="_ednref8">[8]</a>. Attended by labor delegates from around the state, the meetings seemed to rekindle union activity around the Pacific Northwest. Delegates were pleased by the announcement that labor leader Robert Harlin had been elected mayor of Seattle and the president of the Seattle Central Labor Council and editor for the Washington State Labor News, Dave Levine had been elected to fill his post on the City Council<a style="font-size: 8.0pt; text-decoration:none; vertical-align: super;" href="#_edn9" name="_ednref9">[9]</a>. </p>
+            <p> This move brought a change in strategy. The labor movement shifted away from single economic disputes towards overall government policy and legislation. The first flexing of these new administrative muscles came by way of an argument over the cities paying of contract workers on a sliding scale between $1.50-3.00 a day. Facing stiff resistance, Harlin and Levine worked with other council members to pass a $4.50 daily wage despite several earlier attempted failures<a style="font-size: 8.0pt; text-decoration:none; vertical-align: super;" href="#_edn10" name="_ednref10">[10]</a>.</p>
+            <p></p>
+            <p><strong>Editorial Perspective </strong></p>
+            <p> There was nothing radical about the <em>Washington State Labor News</em>. It’s values and its tone seem fairly conservative on matters of gender, race, and politics. While its tone was not overtly sexist, conventional gender divisions were reinforced in its pattern of coverage. Information pertaining to women and auxiliary unions were specifically in the Women's section of the newspaper often with recipes, weight loss tips and events. However, there were no actual critiques or problems noted with all women unions and their activities were generally supported the by the paper editorials and staff.</p>
+            <p> Racism while mostly invisible was also present in 1931. There were very few articles referring to non-white unions or workers, but where they were, small blurbs that indicated a low level of hostility and a general sentiment against workers of other races, specifically 'china men'. This is best exemplified by the article “Seamen's Bill Supported by Labor Council” on February 20 th in which the Seattle Labor Council at the urging of AFL secretary Frank Morrison supported legislature in the State Senate to bar or make it more difficult for Chinese workers to get employment aboard ocean vessels<a style="font-size: 8.0pt; text-decoration:none; vertical-align: super;" href="#_edn11" name="_ednref11">[11]</a>. While not outright hostile in their beliefs, by being affiliated with the AFL, often the <em>Washington State Labor News </em>reported on various unions support of pieces of legislation or policies that negatively impacted workers of other ethnicities. </p>
+            <p> The newspaper was overtly hostile towards communism and communist labor unions. In almost every weekly edition, multiple articles could be found on a national or international level blasting communism, the 'Russian Tyrants' or the infiltration of communists within the labor movement<a style="font-size: 8.0pt; text-decoration:none; vertical-align: super;" href="#_edn12" name="_ednref12">[12]</a>. On a national scale, articles also appeared supporting the breaking of union actions that they deemed to be 'red'. Editorials commonly ran on 'Russian Slavery' and the influence it was having on the American labor movement<a style="font-size: 8.0pt; text-decoration:none; vertical-align: super;" href="#_edn13" name="_ednref13">[13]</a>. Few of these articles focused on local matters, but they were prominent, often major articles on the front page. </p>
+            <p> On the other hand, the newspaper advocated major economic change, reporting often on economic conditions and possible solutions. These reports were often from a very pro-union, pro-worker standpoint and often bashed on capitalist friendly viewpoints. Often, articles from major economists blasting banks and capitalists for prolonging the great depression would appear and interestingly also reports talking about how the economy could go no lower, that it had no where to go up; arguments strikingly similar to those made by economists about the recession and inflation in 2008.</p>
+            <p> The condition of the poor, homeless and low wage workers also factored prominently throughout the paper. Bi-weekly updates included the state of local community funds talking about money raised, money spent, people served and programs provided. Labor was very active in establishing worker aid funds, and working on projects that benefited the poor and their communities as evidenced by the article “Old Labor Temple Becomes Refuge” printed on January 9 in which the Labor Temple, Plumbers Union, Organized Labor, Salvation Army and several craft unions work to restore a labor hall for a homeless refuge for 40 out of work men<a style="font-size: 8.0pt; text-decoration:none; vertical-align: super;" href="#_edn14" name="_ednref14">[14]</a>. These projects featured prominently as did activities that supported community aid and construction tasks, all of which show how through the year, labor continued to grow more powerful and effective in providing expanding services to those in need, as well as filling the role to guarantee workers a stronger basis of negotiation. </p>
+            
+            
+            <p class="endnote"><a style="font-size: 8.0pt; text-decoration:none; vertical-align: super;" href="#_ednref1" name="_edn1">[1]</a> “5 Day Week Stirs Labor Council.” Washington State Labor News January 9, 1931, Page 1.</p>
+            <p class="endnote"><a style="font-size: 8.0pt; text-decoration:none; vertical-align: super;" href="#_ednref2" name="_edn2">[2]</a> “Five-Day Week Sentiment is Growing Fast.” Washington State Labor News February 20, 1931, Page 1.</p>
+            <p class="endnote"><a style="font-size: 8.0pt; text-decoration:none; vertical-align: super;" href="#_ednref3" name="_edn3">[3]</a> “Strikers are Telling Story of Greenhood.” Washington State Labor News February 13, 1931, Page 1.</p>
+            <p class="endnote"><a style="font-size: 8.0pt; text-decoration:none; vertical-align: super;" href="#_ednref4" name="_edn4">[4]</a> “Longshoremen stage Wonderful Comeback.” Washington State Labor News February 6, 1931, Page 3.</p>
+            <p class="endnote"><a style="font-size: 8.0pt; text-decoration:none; vertical-align: super;" href="#_ednref5" name="_edn5">[5]</a> “Bridge Going Up Non-Union.” Washington State Labor News January 16,1931, Page 1.</p>
+            <p class="endnote"><a style="font-size: 8.0pt; text-decoration:none; vertical-align: super;" href="#_ednref6" name="_edn6">[6]</a> “Labor Obtains Four Measures from Congress.” Washington State Labor News March 13, 1931, Page 1.</p>
+            <p class="endnote"><a style="font-size: 8.0pt; text-decoration:none; vertical-align: super;" href="#_ednref7" name="_edn7">[7]</a> “Wagner Bills Veto Scored by William Green.” Washington State Labor News March 27, 1931, Page 1.</p>
+            <p class="endnote"><a style="font-size: 8.0pt; text-decoration:none; vertical-align: super;" href="#_ednref8" name="_edn8">[8]</a> “Delegates Appointed in Committees.” Washington State Labor News July 17, 1931, Page 1.</p>
+            <p class="endnote"><a style="font-size: 8.0pt; text-decoration:none; vertical-align: super;" href="#_ednref9" name="_edn9">[9]</a> “ Labor Gains Two City Posts.” Washington State Labor News July 17,1931, Page 1.</p>
+            <p class="endnote"><a style="font-size: 8.0pt; text-decoration:none; vertical-align: super;" href="#_ednref10" name="_edn10">[10]</a> “$4.50 Relief wage is Voted.” Washington State Labor News November 20,1931, Page 1.</p>
+            <p class="endnote"><a style="font-size: 8.0pt; text-decoration:none; vertical-align: super;" href="#_ednref11" name="_edn11">[11]</a> “Seamen Bills Supported by Labor Council.” Washington State Labor News February 20, 1931, Page 4.</p>
+            <p class="endnote"><a style="font-size: 8.0pt; text-decoration:none; vertical-align: super;" href="#_ednref12" name="_edn12">[12]</a> “Friendly Agreements with 'Reds' ended.” Washington State Labor News February 13, 1931, Page 3.</p>
+            <p class="endnote"><a style="font-size: 8.0pt; text-decoration:none; vertical-align: super;" href="#_ednref13" name="_edn13">[13]</a> “The Last Stand Bares Fallacy of Communism.” Washington State Labor News May 29,1931, Page 7.</p>
+            <p class="endnote"><a style="font-size: 8.0pt; text-decoration:none; vertical-align: super;" href="#_ednref14" name="_edn14">[14]</a> “ Old Labor Temple Becomes Refuge.” Washington State Labor News January 9,1931, Page 1.</p>
+            <p>&nbsp;</p>
+            <p>&nbsp; </p>
+			</div>     
+         
+        
+           
+        
+		  <table id="datatable">
+      
+              <tr>
+                <td width="74" class="byline">date</td>
+                <td width="173" class="byline">title</td>
+                <td width="43" class="byline">paper</td>
+                <td width="470" class="byline">abstract</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">January, 3 </td>
+                <td width="173" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1931/WSLN%201-3-31_NEWYEARS.jpg">&quot;Happy New Years to Organized Labor&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">On January 7th 1931, the Seattle Central Labor Council launched a referendum petition for a direct charter amendment of the city charter for municipal employees. The move brought strong support from labor leaders as well as initial support from city council members who later rescinded their support. To bring the petition to a public vote the labor council must gather 20,000 signatures within a two week time period. The labor council sent petitions out to all labor halls within the city, and all sections of the labor council have pledged active support for the campaign.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">January, 9</td>
+                <td width="173" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook//1931/1.9.31.jpg">&quot;Old Labor Temple becomes a Refuge&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">The old labor temple in Everett was donated by Organized Labor to be used as a refuge for homeless men. It is being administered by the Salvation Army, with the Labor Temple donating furniture, the Plumbers Union doing extensive work to expand water resources, and members of various craft unions doing repairs in cooperation with the city gas and electric companies that will provide services for free.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">January, 16</td>
+                <td width="173" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook//1931/1.16.31.jpg">&quot;Louis Nash is Radio Speaker in New Series&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">The educational committee of the Central Labor Council renewed their contract with KJR radio station based in Seattle and will begin airing labor based speeches spoken by labor activist Louis Nash who will cover topics such as old age pensions, unemployment insurance, right of union collective bargaining, the early closing movement, the six hour day, and the five day work week.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">January, 16</td>
+                <td width="173" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook//1931/1.16.31.jpg">&quot;5-day Week Bill Needs Attention&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">The Central Labor Council encouraged workers to sign petitions to add a direct charter amendment to the city constitution, and urged signing locations to return petitions for compilation and checking. This move is headed up by James Duncan, who has been responsible for speaking and covering many union meetings. Over the last week, representatives have been sent out to every union meeting.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">January, 30</td>
+                <td width="173" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook//1931/1.30.31.jpg">&quot;Five Day Week Campaign Now in Final Drive&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">The five day week campaign entered its final stages, increasing and furnishing speakers for any events that requested them, primarily shop meetings and noon lunch meetings. Speakers also went out to commercial and business meetings to discuss the impact of 5 day weeks with business owners.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">February, 6</td>
+                <td width="173" class="byline">&quot;Longshoremen Stage Wonderful Comeback&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">The longshoremen tripled their membership to nearly a thousand within the past 60 days due to an aggressive organizing campaign.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">February, 6</td>
+                <td width="173" class="byline">&quot;Five Day Week Gains Support&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">The labor council reported that messages received show that the 5 day work week continues to grow in popularity.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">February, 6</td>
+                <td width="173" class="byline">&quot;Garment Workers Advise Friends of Greenhood Shirts&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">The Dagg-Derneden Manufacturing Company, owned by A.V. Love took over the 'Green Hood' shirt company, which was a union shop before closing temporarily to install new equipment. Despite assurances that the shop would be re-opened as a union shop, the company decided not to take back union members. Members of the Garment Union are maintaining a visible presence around the city urging people to buy union made goods.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">February, 13</td>
+                <td width="173" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook//1931/2.13.31.jpg">&quot;Strikers are telling Story of Greenhood&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">The trouble with the Greenhood shirts has entered its 4th week and former garment employees are showing a strong determination to win out. Each morning former workers staged a 'walkathon' to and around the A.V. Love factory on 8th and Virginia whom controls the the Dagg-Derneden company. Workers also undertook a massive house to house canvassing campaign in every district of the city, as well as attending local union meetings and contacting out of state unions to spread the support of a boycott on Greenhood goods and discuss further action.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">February, 13</td>
+                <td width="173" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook//1931/2.13.31.jpg">&quot;Friendly Agreements with 'Reds' Ended&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">Norwegian Labor and Norwegian Trade Union broke off contact with the Land-Workers International and ended 'friendship' agreements made earlier over a monetary dispute.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">February, 20</td>
+                <td width="173" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook//1931/2.20.31%20(2).jpg">&quot;Five Day Week Sentiment is Growing Fast&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">The Five day workweek movement had an important week. The Economic crisis and its affects on small property holders led to the support of the Gilman Park improvement club, the Olympic Heights improvement club, the Rainier Heights improvement club, and the Associated Northend improvement club. The King County Democratic club overwhelmingly endorsed the City Charter effort. Another sign of increasing support came from several officials running for public office giving written or spoken endorsement. Also in a show of support the city council passed an ordinance giving firefighters a 5 on 1 off work rotation.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">February, 20</td>
+                <td width="173" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook//1931/2.20.31.jpg">&quot;Greenhood Shirt is still Unfair to Union Labor&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">Former Greenhood shirt workers actively campaigned against A.V. Love. The Factory run by Love still has a stock of 50,000 dozen shirts with the union label that they couldn't unload and that is costing the company space, time and money. The company announced that it will be forced to lay off workers.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">February, 20</td>
+                <td width="173" class="byline">&quot;Seamen Bills Supported by Labor Council&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">Acting from a telegram by AFL secretary Frank Morrison, the Seattle Central Labor Council endorsed a seamen's bill before the senate which would make it more difficult for Chinese workers to get jobs on the crews of ships.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">February, 27</td>
+                <td width="173" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook//1931/2.27.31.jpg">&quot;Garment Workers Remain on Strike&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">The Garment Workers walkathon entered its 5th week and the former workers expanded their boycott efforts to include merchants and retailers carrying Greenhood products to stop carrying the goods. Over 100 workers remain on strike.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">March, 6</td>
+                <td width="173" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1931/WSLN%203-6-31_5DAYMEASURE.jpg">&quot;5 DAY WEEK MEASURE SPELLS RELIEF&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">After a large campaign, the 5-day week City Charter amendment will be put before city voters on March 10th, 1931. Huge article discussing the pro's and history of the 5 day work week movement. </td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">March, 13</td>
+                <td width="173" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook//1931/3.13.31.jpg">&quot;Labor Obtains Four Measures from Congress&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">Four bills have been passed in the US congress that heavily affected labor in a positive way. Two of the bills concern wage earners within the government, one guaranteeing postal workers the right to the 44 hour week, the other makes Saturday a half holiday to all other federal employees. The 3rd establishes prevailing local wages will be paid when government work is contracted out. The 4th was the Wagner Bill which established a national system of unemployment agencies, in cooperation with the states.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">March, 20</td>
+                <td width="173" class="byline">&quot;Wenatchee Labor Resorts to Radio&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">The Wenatchee Central Labor Council arranged with KPQ to begin airing a weekly labor segment each Saturday and will advertise union goods.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">March, 27</td>
+                <td width="173" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook//1931/3.27.31.jpg">&quot;Fishermen Settle Strike with Help of Conciliator&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">A strike by 1200 halibut fishermen extending along the coast and up to Alaska that has lasted for more than 2 months has ended, with concessions being made by both the Fisherman's Union and the Vessel Owners Association.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">March, 27</td>
+                <td width="173" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook//1931/3.27.31%20(2).jpg">&quot;Garment Workers Maintain Spirit&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">Strikers participating in the Garment Unions daily walkathon were assigned 2 policemen to watch the march. The police were hired by A.V. Love.</td>
+              </tr>
+              <tr>
+                <td class="byline">March 27 </td>
+                <td class="byline"><a href="http://depts.washington.edu/ufw2/yearbook//1931/WSLN%203-27-31_GREENHOOD.jpg">&quot;Garment Workers Union Appeals to You&quot; </a></td>
+                <td class="byline">WSLN</td>
+                <td class="byline">Advertisement for Greenhood campaign </td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">March, 27</td>
+                <td width="173" class="byline">&quot;Wagner Bills Veto Scored by William Green&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">The Wagner Unemployment Act was vetoed by President Hoover, whose actions were denounced by American Federation of Labor head William Green as “Unacceptable”.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">April, 3</td>
+                <td width="173" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook//1931/4.3.31.jpg">&quot;Musicians Fight Non-Union Labor&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">Labor delegates and the Musicians Association launched a public campaign against non-union dances in Seattle's north end and advised that Holmes Hall and American legion Hall be put on the do not patronize list.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">April, 3</td>
+                <td width="173" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook//1931/4.3.31.jpg">&quot;Boilermakers Claim Some Progress Made&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">Seattle Boilermakers embroiled in a lasting dispute with Queen City Co. over alleged violations of prevailing wage scale and importations in offense with the board of public works gave a speech earlier in the week to the Seattle Central Labor Council and claim to be making progress “wearing the bosses down”.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">April, 10</td>
+                <td width="173" class="byline">&quot;Boilermakers Attack Cities Indifference&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">Representatives of the Seattle boilermakers union attended the Seattle Labor Council to decry city indifference to alleged violations, leaving the boilermakers dispirited and membership at an all time low.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">April, 17</td>
+                <td width="173" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook//1931/4.17.31.jpg">&quot;Theaters have 5 day Week&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">After a sustained campaign by the Seattle Stage employees union, local theaters have voluntarily adopted the 5 day week for their employees.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">May, 8</td>
+                <td width="173" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook//1931/5.8.31.jpg">&quot;Musicians Plan Radio Concerts&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">Raising awareness to their cause, local musician associates will begin performing on Sunday evenings on the KJR radio station.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">May, 8</td>
+                <td width="173" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook//1931/5.8.31.jpg">&quot;Greenhood Shirt Sales are Small&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">The strikes against A.V. Love and the Greenshirt company have been largely successful , with the company reporting a large drop off of sales and that their staff is now only about 12 people.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">May, 8</td>
+                <td width="173" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook//1931/5.8.31.jpg">&quot;Longshoremen Hold Seattle Convention&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">The Local I.L.A Longshoremen concluded a three day convention with members coming in from other states and chapters.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">May, 22</td>
+                <td width="173" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook//1931/5.22.31.jpg">&quot;Bomb Charges Placed Against Fake Union of Movie Operators&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">Wallace Kelso, head of the Pacific Institute of Motion Picture Engineers was arrested for planting a series of odor bombs over a period of 2 years at several local theaters in an attempt to create tension between the Movie Operators Union and the theater owners.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">June, 5</td>
+                <td width="173" class="byline">&quot;Bobby Harlin Applauded by Labor Council&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">Bobby Harlin, labor activist and delegate to the Seattle Central Labor Council as well as labor delegate on the Seattle City Council was elected president of the city council in a move applauded by local labor groups.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">June, 12</td>
+                <td width="173" class="byline">&quot;Labor Day Finds No advocates for Big Celebration&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">At the meeting of the Seattle Central Labor Council on June 10th members decided not to form a committee for Labor Day celebrations citing reports showing an increasing amount of workers use the time for individual use.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">June, 19</td>
+                <td width="173" class="byline">&quot;Labor Council Wires Hoover on Bond Issue&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">The Seattle Central Labor Council joined in a general American Federation of Labor campaign to wire president Hoover to get him to accept a five billion dollar bond measure for public works and relief.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">July, 17</td>
+                <td width="173" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook//1931/7.17.31.jpg">&quot;Labor Bureau opens new Seattle Office&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">The Pacific Coast Labor Bureau opened an office in the Labor Temple in Seattle. This was of special interest to labor movements in Seattle, Spokane, Tacoma and Portland.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">July, 17</td>
+                <td width="173" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook//1931/7.17.31.jpg">&quot;Labor Gains two City Posts&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">Labor delegate and president of the Seattle City Council Robert Harlin became mayor of Seattle and Dave Levine, president of the Seattle Central Labor Council and editor for the Washington State Labor News was elevated to fill his position in a move regarded as a large victory for labor advocates.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">July, 24</td>
+                <td width="173" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook//1931/7.24.31.jpg">&quot;Danville Mine helps Miners Organize&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">Danville Mines became the only mines west of the Cascade mountains to have 100% union membership. Members are using the Danville mines to spread their efforts to organize to other mine associations and re-establish the United Mine Workers Association within Washington State.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">August, 7</td>
+                <td width="173" class="byline">&quot;For-Get-Me-Not Drive Endorsed by Council&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">Seattle Chapter Two Disabled Veterans of the World War held their annual “Forget-Me-Not” drive last Friday with the endorsement of the Seattle Central Labor Council.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">August, 7</td>
+                <td width="173" class="byline">&quot;Seattle Printers Vote 5-day Week&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">The Seattle Typographical Union voted to make the 5-day work week a central tenet in future bargaining with newspaper and print shops.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">August, 21</td>
+                <td class="byline"> <a href="http://depts.washington.edu/ufw2/yearbook//1931/8.21.31.jpg">&quot;5-DAY WEEK DEMANDED BY AFL EXECUTIVE COUNCIL: Work for Jobless or Legislative Relief Imperative; Hoover Urged to Call National Industrial Conference&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">The Executive Board of the A.F.L. Issued a letter to president Hoover blasting his compliance with the state of unemployment and demanded that he form a convention of labor and industry leaders as well as immediate introduction of the 5-day work week and the 6-hour day if necessary.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">August, 21</td>
+                <td width="173" class="byline">&quot;Social Workers Plan Spokane Conference&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">Social workers across the state have formed committees for the planning of the annual Washington State Conference of Social Workers. Topics include unemployment, homelessness, delinquency and disabled children. Social workers remain the only private organization solely dedicated to social change within the state.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">August, 21</td>
+                <td width="173" class="byline">&quot;Labor Council Installs its new Officers&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">Dave Levine, president of the Seattle Central Labor Council installed the new officers to their posts. William McGuern was installed as secretary and Sam Gibbeney was elected as Vice President.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">August, 21</td>
+                <td width="173" class="byline">&quot;George Early has City Post&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">Mayor Robert Harlin elevated another labor activist to a city position. George Early, business representative for the steamfitters organization and secretary of the Seattle Building Trade Council was raised to the post of the Planning Commission.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">September, 4</td>
+                <td width="173" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1931/WSLN%20sept4-31_LABORDAY.jpg">&quot;Labor Day&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">While the labor day edition of the Washington State Labor News contained little specific information on actions, activities or events, the paper had a 3 series long edition. The issue contained full summaries and histories of the major unions within the state.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">September, 18</td>
+                <td width="173" class="byline">&quot;Labor Temple Makes Changes for State Federation&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">The Seattle Labor Temple underwent renovations to expand its offices to prepare for a move by the Washington State Federation of Labor headquarters to Seattle.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">October, 16</td>
+                <td width="173" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook//1931/10.16.31.jpg">&quot;Labor Decries New City Scale&quot;</a></td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">Seattle Longshoremen and the Seattle Labor Council decried new city legislation to pay government workers whose work has been contracted out to private firms on a sliding scale between $1.50-$3.00 a day. A previous measure proposed by councilman Levine and endorsed by local labor to give workers a $4.00 daily wage was not voted upon.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">October, 23</td>
+                <td width="173" class="byline">&quot;William Green Given Ovation&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">William Green gave a speech at the Seattle Civic Auditorium outlining industrial and economic situation around the country. Superior and Supreme court justices were in attendance as were Mayor Harlin and William Mcguern.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">October, 30</td>
+                <td width="173" class="byline">&quot;Undertakers Sign up with Embalmers&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">Undertakers allied themselves with the licensed Embalmers Union. The Licensed Embalmers union is one of the newest additions to the Seattle Labor Council and is growing quickly.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">November, 6</td>
+                <td width="173" class="byline">&quot;Mayor Harlin Outlines Plan in Emergency&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">Mayor Harlin officially created the commission for improved employment to streamline and coordinate homeless and unemployment relief efforts around the city.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">November, 6</td>
+                <td width="173" class="byline">&quot;Floor Layers Gain their Six Hour Day&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">Floor Layers have gained a 6 Hour work day at the same hourly wage scale they had previously.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">November, 6</td>
+                <td width="173" class="byline">&quot;American Federation of Labor Convention Report&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">James Duncan, labor leader who spearheaded the earlier 5-day work week effort in Seattle, reports in a weekly column about his time as a delegate to the concluded American Labor Federation convention in Vancouver B.C. Which ended on October 5th and included prominent speakers such as William Green and delegates from around the country.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">November, 13</td>
+                <td width="173" class="byline">&quot;Bremerton Works out Complete Relief Plan&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">The mayor, city commissioner, civic and fraternal organizations of Bremerton have joined with Bremerton Labor and endorsed their relief plan. 1% of workers pay will go into a community fund and a city office will be established to direct aid relief in the coming winter.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">November, 13</td>
+                <td width="173" class="byline">&quot;Federal Workers Vote on Leaving A.F.L.&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">Due to the American Federation of Labors declaration against reclassification legislation for federal employees at their convention concluded in Vancouver B.C on October 5th the National Federation of Federal Employees will take a vote on whether to separate from the AFL.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">November, 13</td>
+                <td width="173" class="byline">&quot;Council Kills Levine's Bill for Higher Pay&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">The resolution to substitute $4.50 for the sliding scale $1.50-$3.00 was defeated by a 5-3 vote on November 8th.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">November, 20</td>
+                <td width="173" class="byline">&quot;4.50 RELIEF WAGE IS VOTED&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">After several weeks of trying to get a sliding scale replaced with a standard $4.50 wage, the move was finally successful. The bill was championed by David Levine and Otto Case and supported by Mayor Harlin.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">November, 20</td>
+                <td width="173" class="byline">&quot;Council Urges Joint Program in Relief Plan&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">The Seattle Central Labor Council voted November 18th unanimously to create a committee to best plan relief efforts in cooperation with other relief agencies.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">December, 18</td>
+                <td width="173" class="byline">&quot;SEATTLE TIMES UNFAIR: Labor Council Declares Seattle Times Unfair as Result of Wage Cuts&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">Due to wage cuts the Seattle Central Labor Council has declared the Seattle Times unfair and placed them on their unfair practice lists. The Result is due to months of problems between new administration and workers. Major Logan of the Seattle Times declared in October that they would begin targeting and cutting the wages of union workers belonging to the mailers, machinists, electricians, janitors, engineers, carpenters or painters unions. Resisting this effort the mailers union has been locked out.</td>
+              </tr>
+              <tr>
+                <td width="74" class="byline">December, 25</td>
+                <td width="173" class="byline">&quot;Mailers Show Fine Progress in Times Fight&quot;</td>
+                <td width="43" class="byline">WSLN</td>
+                <td width="470" class="byline">Members of the mailers union stepped up their campaign against the Seattle Times by approaching advertisers and planning for future actions and strategies.</td>
+              </tr>
+            </table>
+          
+         
+          </div>
+	  </td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.html"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

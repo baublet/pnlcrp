@@ -1,0 +1,235 @@
+<!--#include file="metaheader.html"-->
+<title>Communism in Washington State: Abe Osheroff Oral History</title>
+
+<script type="text/javascript" language="JavaScript">
+function swap(url){ 
+
+var vidurls=new Array();
+vidurls[0]="";
+
+vidurls[1]="osh-1neighborhood";
+
+vidurls[2]="osh-5parents";
+
+vidurls[3]=""
+
+vidurls[4]="osh-2YCL";
+
+vidurls[5]="osh-6leader";
+
+vidurls[6]="";
+
+vidurls[7]="osh-3CIO";
+
+vidurls[8]="osh-4CIO2";
+
+vidurls[9]="";
+
+vidurls[10]="osh-7Spain";
+
+vidurls[11]="osh-8scarred";
+
+vidurls[12]="osh-12dallet";
+
+vidurls[13]="osh-10military";
+
+vidurls[14]="osh-13battle";
+
+vidurls[15]="osh-9typhoid";
+
+vidurls[16]="";
+
+vidurls[17]="osh-14home"
+
+vidurls[18]="osh-15party";
+
+vidurls[19]="osh-16underground"
+
+vidurls[20]="osh-23Rosenbergs";
+
+vidurls[21]=""
+
+vidurls[22]="osh-18dysfunction";
+
+vidurls[23]="osh-17revolutionary";
+
+vidurls[24]="osh-20spit";
+
+vidurls[25]="";
+
+vidurls[26]="osh-19godfather";
+
+vidurls[27]="osh-24mississippi"
+
+vidurls[28]="";
+
+vidurls[29]="osh-21kids"
+
+vidurls[30]="osh-22fear";
+
+vidurls[31]="osh-11movement"
+
+
+
+	document.getElementById("oralvid").innerHTML= '<embed type="application/x-mplayer2" src="/labhist/vid/' + vidurls[url] + '.wmx" showStatusBar="true" showControls="true" height="305" width="320"><\/embed>';
+	}
+</script>
+
+
+</head>
+<body id="oralhistory">
+<table id="pagetable" border="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="http://depts.washington.edu/labhist/cpproject/logos/divide_rule6.jpg" usemap="#Map" alt="Communism in Washington State">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;">
+			<div id="navigation">
+			<!--#include file="menu.html"-->
+			</div>
+		</td>
+		<td>
+			<div id="content">
+			<h1>Abe Osheroff</h1>
+			
+			
+			
+		  <div style="float:right; margin-left:10px; width:320px;">   
+
+		  <div style="width:320px; height:305px;" id="oralvid"><img src="/labhist/cpproject/images/osheroff/osheroff-vidpanel.jpg" alt="Interviewee" width="320" height="306"></div>
+
+		  <div class="vidnavlinks">
+
+		  
+
+		 
+
+	<script type="text/javascript">
+
+
+
+var vidtitles=new Array()
+
+vidtitles[0]="+Early Life and Community"
+
+vidtitles[1]="&quot;We weren&#8217;t poor, we just didn&#8217;t have money.&#8221;  Osheroff grew up in an immigrant working-class neighborhood that thrived on mutuality, progressive politics, and abhorred homelessness."
+
+vidtitles[2]="Osheroff&#8217;s parents were hard-working, Russian Jewish immigrants."
+
+vidtitles[3]="+The Young Communist League"
+
+vidtitles[4]="Osheroff became involved with the Young Communist League in his teenage years.  He quickly learned how police officers and the legal system reacted to radicals."
+
+vidtitles[5]="Osheroff&#8217;s confrontation with the police made him a leader in the Communist Party.  He helped organize local industries, including a burlesque house."
+
+vidtitles[6]="+Labor Organizing in Pennsylvania"
+
+vidtitles[7]="After rising quickly in the Communist Party, Osheroff became an organizer in the Congress of Industrial Organizations and helped Pennsylvania coal miners in their struggles."
+
+vidtitles[8]="Osheroff shares a story about racial relationships and organizing miners in the Pennsylvania coal fields."
+
+vidtitles[9]="+The Spanish Civil War and the Lincoln Brigade"
+
+vidtitles[10]="&#8220;I never thought of getting killed, it was kind of na&iuml;ve.&#8221;  Like many young men on the American left, Osheroff went to Spain to fight Franco&#8217;s fascists in the Spanish Civil war."
+
+vidtitles[11]="&#8220;I was asked once, &#8216;weren&#8217;t you scared,&#8217;&#8230;I was scared shitless, but I was scared more of something else.&#8221;"
+
+vidtitles[12]="The Lincoln Brigade was not a smooth-running military machine, there were fights between officers and factional struggles within the unit."
+
+vidtitles[13]="The battles between the Lincoln Brigadiers and the fascists were give and take.  At points, injured men were called upon to help in the fighting and Osheroff attempted to go to the front in a leg cast."
+
+vidtitles[14]="Battles in the war were not always well orchestrated and the International Brigades struggled to keep their units supplied."
+
+vidtitles[15]="Osheroff narrowly escaped into France as Franco's forces took over the country.  He caught typhoid fever on the way and was holed up in a French hospital."
+
+vidtitles[16]="+Coming Home"
+
+vidtitles[17]="&#8220;It was a bad homecoming&#8230;it took me six months to a year to even calm down&#8230;and it had an effect on the rest of my life for quite a while.&#8221;"
+
+vidtitles[18]="After Osheroff recovered, he continued to organize for the Communist Party."
+
+vidtitles[19]="Because of the McCarthy hearings, Osheroff was forced to go underground to avoid indictment."
+
+vidtitles[20]="Among his friends in the party were Julius and Ethel Rosenberg, Jewish communists tried and convicted for treason in the 1950s."
+
+vidtitles[21]="+Leaving the Party"
+
+vidtitles[22]="&#8220;It was a dysfunctional family, but I was leaving my family.&#8221;"
+
+vidtitles[23]="&#8220;Revolutionaries are always better people before the revolution.&#8221;  Osheroff discusses his gradual disillusionment with revolutionary politics and programs."
+
+vidtitles[24]="&#8220;I left New York because I was constantly bumping into people, with whom I&#8217;d had loving relationships, who would spit in my face for leaving the Communist Party.&#8221;"
+
+vidtitles[25]="+Civil Rights Movement"
+
+vidtitles[26]="Osheroff joined the civil rights movement tentatively at first, but increasingly became more involved and ultimately came to be regarded as a mentor to younger activists."
+
+vidtitles[27]="Osheroff shares his experiences about being accepted in Mississippi's black community."
+
+vidtitles[28]="+Afterthoughts"
+
+vidtitles[29]="Today, Osheroff spends his time talking with young people about social and political activism."
+
+vidtitles[30]="Osheroff discusses the current political climate."
+
+vidtitles[31]="&#8220;I don&#8217;t believe that the freedom train will ever reach the final station.&#8221;"
+
+for (i=0;i<vidtitles.length;i++)
+
+{
+
+	if (vidtitles[i].indexOf('+') !=-1)
+
+			{
+
+			document.write("<span class=\"vidnavdividers\">" + vidtitles[i].substring(1) + "<\/span><br /><br />")
+
+			}
+
+		else
+
+			{
+
+			document.write("<a href=\"javascript:swap('" + i + "')\"><img style=\"border:none;\" src=\"/labhist/cpproject/images/speakericon.gif\" alt=\"Film Icon\">" + vidtitles[i] + "<\/a><br /><br />")
+
+			}
+
+	
+
+}
+
+
+
+                      </script>
+       	      </div></div>
+
+		 	<p>
+Abe Osheroff was born in New York in 1915.  Growing up as the son of Russian Jewish immigrants in a devoutly working-class neighborhood, Osheroff was introduced to social and political activism at an early age.
+	</p><p>
+At 15, during the height of the Depression, Osheroff was recruited by local leftists to carry the furniture of evicted tenants back into their apartments.  After a confrontation with the police over these actions, Osheroff became a well known radical in his community.  He joined the Communist Party, rose quickly through its ranks, and went to Pennsylvania to help organize coal miners for the Congress of Industrial Organizations.   
+</p><p>
+In 1937, like many young radicals, Osheroff joined the Abraham Lincoln Brigade &mdash; an all volunteer force of over 3,000 leftist-Americans who crossed the Atlantic to fight Franco's fascists in the Spanish Civil War.  After serving as a scout, mapmaker, and infantryman, being injured at the battle of Zragoza, dodging a court-marshal and possible execution by his superior officers, and contracting typhoid fever, Osheroff narrowly escaped to France as Franco's forces took over the country.
+</p><p>
+After returning from Spain, Osheroff continued his work with the Communist Party.  At the height of McCarthyism, he was forced to go underground for three years in order to avoid indictment.
+</p><p>
+Gradually, Osheroff became disillusioned with communism and left the party in 1956.  After battling real estate developers in Venice, CA and teaching a course on the Spanish Civil War at UCLA, he traveled to Mississippi to work in the civil rights movement during the Freedom Summer of 1964.  While in the South Osheroff helped build many houses and churches for the black community, a community center for workers in the movement, and ultimately came to be known as a mentor to young activists.  
+</p><p>
+In 1974, Osheroff completed a documentary on the Spanish Civil War, <i>Dreams and Nightmares</i>, which revealed the extent of U.S. involvement in the Franco regime.  He has screened this film at over 400 universities where he has talked to students about social justice and activism.
+</p><p>
+Osheroff moved to Seattle in 1989.  In 2000, he completed his second documentary film, <em>Art in the Struggle for Freedom,</em> which looks at the posters and literature of the Spanish Civil War.  Today, Osheroff remains active as an opponent of the Iraq war.</p>	          <div style="clear:both;"></div>   
+		  </div>
+	</td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.shtml"-->	</div>
+		</td>
+	</tr>
+</table>
+</body>
+<!--#include file="metafooter.html"-->

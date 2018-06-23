@@ -1,0 +1,55 @@
+<!--#include file="metaheader.html"-->
+<title>Communism in Washington State: Video</title>
+
+</head>
+<body id="video">
+<table id="pagetable" border="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="http://depts.washington.edu/labhist/cpproject/logos/divide_rule6.jpg" usemap="#Map">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;">
+			<div id="navigation">
+			<!--#include file="menu.html"-->
+			</div>
+		</td>
+		<td>
+			<div id="content">
+			<h1>Witness to Revolution: The Story of Anna Louise Strong
+<object type="application/x-shockwave-flash" data="/labhist/strike/strong1mps.swf" width="625" height="480">
+<!-- <![endif]-->
+
+<!--[if IE]>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+  codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0"
+  width="625" height="480">
+  <param name="movie" value="/labhist/strike/strong1mps.swf" />
+<!--><!---->
+  <param name="loop" value="false">
+  <param name="menu" value="false">
+
+  <a href="http://www.adobe.com/go/getflashplayer"><img src="/labhist/strike/images/introvideo-noflash.jpg" alt="This video requires the Flash player." width="625" height="480" style="border:0px;margin-bottom:-3px;" title="This video requires the Flash player."></a>
+</object>
+<!-- <![endif]-->
+</h1>
+			
+			<div style="font-size:7pt;height:20px;padding:0px 0px 0px 3px;">Excerpt from <i><a href="http://www.stourwater.com/ALS/">Witness to the Revolution</a></i> courtesy <a href="http://www.stourwater.com/">Stourwater</a>. Trouble playing the video? Click here for <a href="http://faculty.washington.edu/gregoryj/vid/strong-1.wmx">Streaming Windows Video</a>. </div>
+
+
+<p>
+This excerpt from <i>Witness to Revolution: The Story of Anna Louis Strong</i> contains original film footage from 1919, the only known footage of the strike. Produced and directed by Lucy Ostrander and used here with her permission, the excerpt is part of an award-winning  documentary film biography of Anna Louise Strong, Seattle's most famous radical.	</p>		</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.shtml"-->	</div>
+		</td>
+	</tr>
+</table>
+</body>
+<!--#include file="metafooter.html"-->

@@ -1,0 +1,48 @@
+<!--#include file="metaheader.html"-->
+<title>HUAC Seattle Hearings</title>
+
+</head>
+<body id="redscare">
+<table id="pagetable" border="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="http://depts.washington.edu/labhist/cpproject/logos/divide_rule6.jpg" usemap="#Map">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;">
+			<div id="navigation">
+			<!--#include file="menu.html"-->
+			</div>
+		</td>
+		<td>
+			<div id="content">
+			<h4> U.S. Congress House UnAmerican Activities Committee Hearings in Seattle, 1954, 1955, 1956</h4>
+			<p>U.S. Congress House Unamerican Activities Committee travelled to Seattle for three sets of hearings in the mid 1950s, demanding testimony from suspected Communists and threatening to imprison those who refused to answer questions about their own political activities and the lives of others. Here is the complete record of these investigations including testimony by Eugene Dennett, Barbara Hartle, Burt Nelson, </p>
+			<p>The transcripts  been made available by the<a href="http://www.archive.org"> American Libraries website</a> and Boston Public Libraries: </p>
+			<p><a href="http://www.archive.org/details/investigationofc0103unit">1954 Seattle Hearing</a></p>
+			<p><a href="http://www.archive.org/details/investigationof155unit">1955 Seattle Hearing Part 1 </a></p>
+			<p><a href="http://www.archive.org/details/investigationofc255unit">1955 Seattle Hearing Part 2 </a></p>
+			<p><a href="http://www.archive.org/details/investigationofc553unit">1955 Seattle Hearing Part 3 </a></p>
+			<p><a href="../images/hearings/HUAC/Hearing-Seattle.pdf">1956 Seattle Hearing </a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="../images/hearings/HUAC/Hearing-Index.pdf"> Index to 1956 Hearings</a></p>
+			<p>&nbsp; </p>
+			<h2><strong>List of witnesses </strong></h2>
+			<p>&nbsp; </p>
+			<h1>&nbsp;</h1>
+			
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+		  </div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.shtml"-->	</div>
+		</td>
+	</tr>
+</table>
+</body>
+<!--#include file="metafooter.html"-->

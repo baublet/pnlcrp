@@ -1,0 +1,854 @@
+<!--#include file="metaheader.html"-->
+<title>Labor Yearbook 1919</title>
+<link rel="stylesheet" type="text/css" href="xfade2_o.css" />
+<script type="text/javascript" src="xfade2.js"></script>
+</head>
+<body id="home">
+<table id="pagetable" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="header_logo.jpg" width="1000" height="189" border="0" usemap="#pnlcrp">
+			<map name="pnlcrp">
+              <area shape="rect" coords="326,5,847,33" href="http://depts.washington.edu/labhist">
+            </map>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td bordercolor="#000000" style="vertical-align:top;background-color:black;">
+			<div id="navigation">
+			  <!--#include file="menu.html"-->
+			</div>
+	  </td>
+		<td>
+			<div id="content">
+        <h1>Labor Events Yearbook: 1919</h1>
+		<div class="redboxsm">
+    <h2 align="center" style="color:white;"><strong><a href="yearbook_introduction.shtml">Yearbook Home</a></strong></h2>
+	
+	<table id="redtable" border="0" cellpadding="0" cellspacing="3">
+	<tr>
+              <td><div align="center"><a href="yearbook1915.shtml"><strong>1915</strong></a></div></td>
+              <br>
+              <td><a href="yearbook1915.shtml"><img src="mages/yearbook-ufw2/1915-100x30.jpg" width="101" height="30" border="0"></a></a></span></td>
+            </tr>
+		<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1918.shtml"><strong>1918</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1918.shtml"><img src="mages/yearbook-ufw2/1918-100x30.jpg" width="100" height="30" border="0"></a></td>
+        </tr>
+		<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1919.shtml"><strong>1919</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1919.shtml"><img src="mages/yearbook-ufw2/1919-100x31.jpg" width="101" height="31" border="0"></a></td>
+        </tr>
+		 <tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1930.shtml"><strong>1930</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1930.shtml"><img src="mages/yearbook-ufw2/1930-100x30.jpg" width="100" height="30" border="0"></a></td>
+        </tr>
+        <tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1931.shtml"><strong>1931</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1931.shtml"><img src="mages/yearbook-ufw2/1931-100x30.jpg" width="101" height="30"></a></td>
+        </tr>
+			<tr>
+       <td style="width:75px;"><div align="center"><a href="yearbook1932.shtml"><strong>1932</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1932.shtml"><img src="mages/yearbook-ufw2/1932-100x30.jpg" width="100" height="31" border="0"></a></td>
+			</tr>
+			<tr>
+			  <td style="width:75px;"><div align="center"><a href="yearbook1933.shtml"><strong>1933</strong></a></div></td>
+			  <td style="vertical-align:top;"><a href="yearbook1933.shtml"><img src="mages/yearbook-ufw2/1933-100x30.jpg" width="101" height="30" border="0"></a></td>
+		    </tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1934.shtml"><strong>1934</strong></a></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1934.shtml"><img src="mages/yearbook-ufw2/1934-100x30.jpg" width="99" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1935.shtml"><strong>1935</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1935.shtml"><img src="mages/yearbook-ufw2/1935-100x30.jpg" width="100" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1936.shtml"><strong>1936</strong></a></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1936.shtml"><img src="mages/yearbook-ufw2/laborday100x30.jpg" width="100" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><strong><a href="yearbook1937.shtml">1937</a></strong></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1937.shtml"><img src="mages/yearbook-ufw2/1937-100x30.jpg" width="100" height="29" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><strong><a href="yearbook1938.shtml">1938</a></strong></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1938.shtml"><img src="mages/yearbook-ufw2/1938-100x30.jpg" width="100" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><strong><a href="yearbook1939.shtml">1939</a></strong></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1939.shtml"><img src="mages/yearbook-ufw2/1939-100x29.jpg" width="100" height="29" border="0"></a></td>
+			</tr>
+		</table>
+	
+   </div>
+        <p>This is a database of campaigns, strikes, and labor related events as recorded in the <em>Seattle Union Record </em> during the first six months of 1919, a period that included the Seeattle General Strike. It was researched by Amy Smith. Start by reading her labor highlights report. Below that is the database. Click the links to read the articles.
+        
+        <h2>Highlights January-June 1919 by Amy Smith </h2>
+        <DIV class=WordSection1>
+          <p> The first half of 1919 was a very exciting time for the Seattle labor movement, characterized by mass actions that taught Seattle workers important lessons about labor organizing. Early in the year, labor unions were put to work organizing a general strike in solidarity with approximately 35,000 striking shipyard workers who stopped work January 21<SUP>st</SUP>. The shipyard workers protested the continued use of World War I price controls on wages. The shipyard workers requested the assistance of the Seattle labor movement as a whole, prompting <SPAN 
+class=GramE>quick</SPAN> action by some to support the strike. In an unprecedented show of Seattle’s labor union strength, workers initiated a general strike and shut down the city for several days starting February 6<SUP>th</SUP>. This event was such a prominent moment in the labor landscape that it influenced the mindset and actions of workers in the following months. Workers learned the meaning of solidarity and were willing to act not for their own benefit but for the benefit of their fellow workers. The political backlash against the strike influenced the direction of labor organizing as it forced organized labor to search for new ways to defend its rights. The experience of organizing a general strike prepared Seattle to lead the discussion on the mass actions in defense of unionist Tom Mooney that came later that year. As the official voice of the Seattle Central Labor Council, <I>The Union Record </I>richly tells the story of workers who discovered their true power and potential for affecting change in society.</SPAN></P>
+<P><a href="#" onclick="toggleview('desc');return false;">[read full report/ close report]</a></P>
+        
+        <div id="desc" style="display:none;">
+          <DIV class=WordSection1>
+            <p><B> The Seattle General Strike and Beyond: An Injury to One is an Injury to All</SPAN></B></P>
+            <p>  The most significant aspect of the February 1919 Seattle general strike was the amazing display of solidarity by different labor groups and the way that this sense of camaraderie affected future labor struggles in Seattle. Seattle’s unions supported the shipyard workers not just in words, but also in actions. The general strike epitomized labor’s sense of shared interests as workers walked off the job not for their own benefit, but to ensure that the demands of an entirely different group of workers were met. When the Metal Trades Council requested the support of other unions in order to strengthen their fight, the Seattle Central Labor Council affirmed the call nearly unanimously “with cheers for the solidarity of labor” on January 24<SUP>th</SUP>.<A 
+title="" href="#_edn1" name=_ednref1><SPAN class=MsoEndnoteReference><SPAN 
+style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt;     ">[1]</SPAN></SPAN></A> The Labor Council then immediately asked that all unions sign off on the strike, a call <SPAN class=GramE>with which</SPAN> most unions complied. By the next week, the Painters Union Local 800<A title="" href="#_edn2" name=_ednref2><SPAN 
+class=MsoEndnoteReference><SPAN 
+style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt;     ">[2]</SPAN></SPAN></A>, the Cooks and Assistants Union, the Painters and Decorators Union<A title="" href="#_edn3" name=_ednref3><SPAN 
+class=MsoEndnoteReference><SPAN 
+style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt;     ">[3]</SPAN></SPAN></A>, the Milk Wagon Drivers Union, the Plumbers Union, the Hold Carriers &amp; Laborers Union, and the Stevedores &amp; Dockworkers Union<A title="" href="#_edn4" name=_ednref4><SPAN 
+class=MsoEndnoteReference><SPAN 
+style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt;     ">[4]</SPAN></SPAN></A>––among other unions––voted to go on strike. Additionally, the Tacoma labor council officially asked all of its member unions to take votes on the issue of endorsing the strike, preparing to walk out with Seattle workers on February 6<SUP>th</SUP>.<A title="" href="#_edn5" 
+name=_ednref5><SPAN class=MsoEndnoteReference><SPAN 
+style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt;     ">[5]</SPAN></SPAN></A></SPAN></P>
+            <p>  The weeks leading up to the strike were ones of great collaboration and coordination between unions. The Painters Union, in addition to endorsing the strike, also voted to offer up their labor hall for the use of the Soldiers’, Sailors’, and <SPAN class=SpellE>Workmens</SPAN>’ Council to use for a meeting leading up to the general strike<A 
+title="" href="#_edn6" name=_ednref6><SPAN class=MsoEndnoteReference><SPAN 
+style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt;     ">[6]</SPAN></SPAN></A>. There were general body meetings where endorsing unions debated the key issue of the strike’s purpose. The main issue pivoted on the question of whether the strike was to be a mass demonstration where all unions fought for their own individual <SPAN class=GramE>demands,</SPAN> or a sympathy strike where all workers fought in solidarity for the shipyard workers’ demands. Demonstrating the high level of Seattle labor’s commitment, even the most conservative and most radical representatives to one of these mass meetings agreed that “the hour had arrived when craft consciousness should be forgotten, and that solidarity consisted in going down the line for the metal tradesmen.” Furthermore, the striking metal trades workers also promised to stay out on strike until all other unionists were back on the job<A title="" href="#_edn7" name=_ednref7><SPAN 
+class=MsoEndnoteReference><SPAN 
+style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt;     ">[7]</SPAN></SPAN></A>. Specific workplaces were also offering up services for the strikers, ensuring that workers would be taken care of while they were off the job. One example of this is the Scandia Co-operative Café, which offered all-you-can-eat meals to strikers for only $0.40, making no profit from food sales<A title="" href="#_edn8" name=_ednref8><SPAN 
+class=MsoEndnoteReference><SPAN 
+style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt;     ">[8]</SPAN></SPAN></A>. The non-labor sector also respected the desire of the workers to strike for their rights. On February 1<SUP>st</SUP>, the <I>Union Record</I> reported that, while marching past strike headquarters, a company of the 364<SUP>th</SUP> Field Artillery of the U.S. Army cheered loudly in support of the struggle. Additionally, members of the unit refused to break the strike in any way, stating, "If the employing <SPAN class=GramE>class think</SPAN> [sic] they are going to use us soldiers to scab on the workers now that the war is over, they are greatly mistaken.”<A title="" href="#_edn9" name=_ednref9><SPAN 
+class=MsoEndnoteReference><SPAN 
+style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt;     ">[9]</SPAN></SPAN></A> Overall, the sense of solidarity created by the strike changed the ways that working people and unions in Seattle related to each other, fostering an increased commitment to communication, sharing, and collective struggle.</SPAN></P>
+            <p> Following the general strike, the idea of solidarity did not wane. The labor movement began making efforts to integrate groups previously marginalized by organized labor. Notably, the <I>Union Record</I> reported on March 1<SUP>st</SUP> that prominent union organizers were making efforts to recruit more African Americans and more women to the ranks of unions. On February 26<SUP>th</SUP>, the Seattle Central Labor Council voted almost unanimously that it was dedicated to increasing the number of African American workers in organized labor. Activists at the meeting presented the arguments that African Americans were equally American as whites, equally good at their jobs, and equally dedicated to labor struggles as white workers. The council agreed to set up a committee charged with the task of bringing more African Americans into organized labor.<A title="" href="#_edn10" name=_ednref10><SPAN 
+class=MsoEndnoteReference><SPAN 
+style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt;     ">[10]</SPAN></SPAN></A> At the same time, an open letter to women workers was being distributed as part of a campaign to bring more women into unions. Coordinated by Ida Levi and Blanch Johnson, organizers from the State Federation of Labor and the Central Labor Council, respectively, the campaign argued that women were particularly vulnerable in the American economy:</SPAN></P>
+            <P style="LINE-HEIGHT: 115%; MARGIN-LEFT: 0.5in" class=MsoNormal><SPAN 
+style="LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt">I am asking you as one woman to another, are you willing to sit by in active and let this thing go on? Are you willing to work side by side with these women and not take a lead in assisting them to secure better conditions? It is up to the women to take the lead and to be ever on the alert to improve our standards of living.”<A title="" href="#_edn11" 
+name=_ednref11><SPAN class=MsoEndnoteReference><SPAN 
+style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt;     ">[11]</SPAN></SPAN></A></SPAN></P>
+            <p> The mindset of labor leaders following the general strike was one of integration and acceptance. Increasingly, labor leaders believed that <I>all</I> workers should have the right to unionize and fight for their own interests. In many cases, this was played out in practice as well as in ideology. One example was Everett’s Clerks Union Local Number 488, organized in April 1919, where women as well as men played a key role in the founding of the organization. Speaking about this union, Morey <SPAN 
+class=SpellE>Weisfeld</SPAN>, secretary of the Seattle local, noted that “the women clerks take such an active part in the organization. Men and women from the leading stores of the city have joined and they have an enthusiastic, working local.”<A title="" href="#_edn12" 
+name=_ednref12><SPAN class=MsoEndnoteReference><SPAN 
+style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt;     ">[12]</SPAN></SPAN></A></SPAN></P>
+            <p> As the year progressed, the type of strikes that workers engaged in further illustrated the way that the general strike influenced their views on labor solidarity. More and more, workers were going out on strike to protest an attack on just one of their fellow coworkers. One example of this was at a mine in Burnett, where about 300 men went on strike after the mine management fired a union member without cause.<A title="" href="#_edn13" name=_ednref13><SPAN 
+class=MsoEndnoteReference><SPAN 
+style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt;     ">[13]</SPAN></SPAN></A> The next week, the <I>Union Record</I> released the story of the Kent Lumber Company at <SPAN class=SpellE>Barneston</SPAN>, where employees went on strike in response to the firing of H. Williams, who worked for the company for the last 12 years, and who was fired for demanding more pay several months prior to the strike.<A title="" href="#_edn14" 
+name=_ednref14><SPAN class=MsoEndnoteReference><SPAN 
+style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt;     ">[14]</SPAN></SPAN></A> In practice, Seattle activists clearly demonstrated their belief in the Industrial Workers of the World’s slogan that an injury to one is an injury to all. Through the course of the general strike, the workers learned that they were stronger united than they were divided. This was one significant legacy of the general strike that shaped labor’s practices of the subsequent months and years.</SPAN></P>
+            <p><B> The Strike from the Other Side: Views and Reactions of the Media and the Government</SPAN></B></P>
+            <p>  While the general strike was a source of inspiration for workers across the nation, there were many other groups that were significantly less excited about the shutdown of Seattle, notably, the media, the city government, and employers. During and following the general strike, there was a significant amount of backlash against workers that further shaped future actions of the Seattle labor movement. Ultimately, this backlash played an important role in pushing labor to organize in new arenas and make more militant demands to defend its interests.</SPAN></P>
+            <p> The backlash displayed itself prominently in the media, which was particularly harsh when describing the events in Seattle. Many post-strike articles in the labor-run <I>Seattle Union Record</I> commented on the particularly slanderous way strikers were described in other mainstream news sources, which described the general strike as a very violent affair carried out by bloodthirsty revolutionaries. The actual scene in Seattle was very different. During the strike, Sol <SPAN 
+class=SpellE>Soltheimer</SPAN>, president of the International Union of <SPAN 
+class=SpellE>Cigarmakers</SPAN>, addressed the Women's Card and Label League, telling them that he was impressed by the labor solidarity in Seattle. Based on the coverage of the general strike in the press, he expected to see streets full of dead bodies, but noted that on the contrary, Seattle during and after the strike was very peaceful.<A title="" href="#_edn15" name=_ednref15><SPAN 
+class=MsoEndnoteReference><SPAN 
+style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt;     ">[15]</SPAN></SPAN></A> The <I>Seattle Union Record </I>post-strike article, “In Retrospect,” also provided commentary on the “rot about the need of military protection and the protection of extra police”, pointing out that arrests were an all-time low during the general strike: the city was generally more peaceful than usual.<A title="" 
+href="#_edn16" name=_ednref16><SPAN class=MsoEndnoteReference><SPAN 
+style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt;     ">[16]</SPAN></SPAN></A> Some papers went so far as to attack individual strikers and laborers. Shortly after the strike, the <I>News-Tribune</I> ran a comic that depicted prominent Tacoma strikers “as three pirates bound and gagged and walking to plank to certain oblivion,” in what the <I>Seattle Union Record</I> called “a slimy, vilified attack” from the local press.<A title="" 
+href="#_edn17" name=_ednref17><SPAN class=MsoEndnoteReference><SPAN 
+style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt;     ">[17]</SPAN></SPAN></A> The mainstream media during this time functioned as a mouthpiece for the wealthy, capitalistic perspectives in society, highlighting that the interests of the working class were definitely not universally held ideals about how society should function.</SPAN></P>
+            <p> Meanwhile, the government proceeded to crackdown legally on activists who were involved in the strike. One example was the story of John <SPAN class=SpellE>Engdahl</SPAN>, a Norwegian man who was previously arrested for "criminal anarchy" following the general strike. After being charged with “criminal anarchy,” <SPAN class=SpellE>Engdahl</SPAN> was again arrested at the request of the U.S. immigration service and subsequently held for deportation. Approximately thirty activists were charged with criminal anarchy following the strike.<A 
+title="" href="#_edn18" name=_ednref18><SPAN class=MsoEndnoteReference><SPAN 
+style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt;     ">[18]</SPAN></SPAN></A> Additionally, the state legislature began drafting laws that would strip unions of many of their bargaining rights. In March, several anti-labor laws were proposed in Olympia. Among the discussed laws included arbitration processes that did not recognize the role of collective bargaining and would be overseen by a panel without labor input or representation.<A title="" href="#_edn19" 
+name=_ednref19><SPAN class=MsoEndnoteReference><SPAN 
+style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt;     ">[19]</SPAN></SPAN></A></SPAN></P>
+            <p> In order to deal with these attacks, the labor movement developed an understanding that they would need to begin participating in politics proper. Should the proposed agreements pass, the only thing that would guarantee unions’ rights was the goodwill of whomever was in office, making it important for labor to try to influence elections.<A title="" href="#_edn20" name=_ednref20><SPAN 
+class=MsoEndnoteReference><SPAN 
+style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt;     ">[20]</SPAN></SPAN></A> These sentiments eventually led to the beginnings of a King County labor party. After a report by union-socialist <SPAN 
+class=SpellE>Hulet</SPAN> M. Wells, the Central Labor Council agreed to move forward on creating independent King County Labor Party in the beginning of May. Wells argued that neither party was protecting the rights of workers or of the people. He contended that despite Word War I’s conclusion, people’s rights were not restored, the Espionage Act remained in effect, and the U.S. military was still overseas occupying Russia. The new labor party would exist “to secure for the workers, through political representation and control, the social power necessary to protect their lives, guarantee their liberty, safeguard their economic organizations, and to insure to all the opportunity for labor and its full reward.”<A title="" href="#_edn21" 
+name=_ednref21><SPAN class=MsoEndnoteReference><SPAN 
+style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt;     ">[21]</SPAN></SPAN></A> The roots of this party demonstrated the dynamic way that Seattle’s labor movement adapted to the post-strike, anti-labor legal climate that came into existence.</SPAN></P>
+            <p> Aside from spurring involvement in politics, the attacks on workers by the capitalist-controlled media and government also began to shape workers’ motives for going on strike. Workers became more aware of the class antagonisms that existed, characterized as laborers becoming poorer while the business owners became richer. This class consciousness led to more militant demands from workers wanting to reclaim the wealth generated by their labor power. The polarization of classes was displayed in two labor actions in May. After not receiving their demanded pay raise, Tacoma's school teachers organized themselves into "The Federation of Public School Teachers of Tacoma." The teachers argued that the Tacoma School District was one of the wealthiest in the state, but the teachers received less pay than other districts.<A title="" href="#_edn22" name=_ednref22><SPAN 
+class=MsoEndnoteReference><SPAN 
+style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt;     ">[22]</SPAN></SPAN></A> Shortly afterwards, the Gas Fitters Union Local 707 notified the shipyards that they planned on shutting off gas on May 20th. This action was in protest of gas fitters being locked out after participating in the general strike and that gas prices continued to rise while workers received no pay increases. Reportedly, “the public service commission had given the company permission to raise the gas rates under the pretense that wages were going up, while in many cases the company was actually cutting down the wage scale.”<A title="" href="#_edn23" 
+name=_ednref23><SPAN class=MsoEndnoteReference><SPAN 
+style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt;     ">[23]</SPAN></SPAN></A></SPAN></P>
+            <p> The reactions of the wealthy and the powerful to the strike influenced the direction of organized labor in Seattle. Conservative reactions showcased class divides and prompted workers to become more militant in their demands that society’s wealth be shared equally. The political attacks also forced labor organizations in a somewhat more conventional direction of entering formal electoral politics to maintain their voices. More importantly, Seattle unionists continued to fight. Their willingness to stand up against <SPAN class=GramE>injustices and</SPAN> promote workers’ rights helped prepare them for the battles ahead.</SPAN></P>
+            <p><B> Round Two: A Strike in Support of Tom Mooney</SPAN></B></P>
+            <p>  The experience of the general strike and its subsequent battles shaped the ability of Seattle’s labor movement to mobilize during the second major battle of the year: a nation-wide strike in support of Tom Mooney. On May 17<SUP>th</SUP>, the <I>Seattle Union Record</I> reported that a national call for a strike in support of imprisoned California union activists Tom Mooney and his comrade Warren Billings was placed and that the Pacific Northwest was expected to play a key role in the action<A title="" href="#_edn24" name=_ednref24><SPAN 
+class=MsoEndnoteReference><SPAN 
+style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt;     ">[24]</SPAN></SPAN></A>. Mooney and Billings were arrested in 1916 under the accusation that they were responsible for a bombing in San Francisco that claimed the lives of ten people. The two men argued that they were being framed and actually being punished for their union activity, winning the support of America’s working class with their pleas of innocence<A title="" href="#_edn25" name=_ednref25><SPAN 
+class=MsoEndnoteReference><SPAN 
+style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt;     ">[25]</SPAN></SPAN></A>. The strike demonstration, set to begin July 4<SUP>th</SUP>, was quickly endorsed by a slew of Seattle unions, including the Boilermakers, Shipbuilders, and Helpers Local Number 104,<A title="" href="#_edn26" name=_ednref26><SPAN 
+class=MsoEndnoteReference><SPAN 
+style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt;     ">[26]</SPAN></SPAN></A> the Shipyard Laborers, Riggers, and Helpers Local Number 38-A-2,<A title="" href="#_edn27" name=_ednref27><SPAN 
+class=MsoEndnoteReference><SPAN 
+style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt;     ">[27]</SPAN></SPAN></A> the Iron Workers and Pile Drivers Local,<A 
+title="" href="#_edn28" name=_ednref28><SPAN class=MsoEndnoteReference><SPAN 
+style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt;     ">[28]</SPAN></SPAN></A> the Painters Local Number 300,<A title="" 
+href="#_edn29" name=_ednref29><SPAN class=MsoEndnoteReference><SPAN 
+style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt;     ">[29]</SPAN></SPAN></A> and the Lady Barbers.<A title="" href="#_edn30" 
+name=_ednref30><SPAN class=MsoEndnoteReference><SPAN 
+style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt;     ">[30]</SPAN></SPAN></A> Preparations for the strike also spread to nearby Everett, where a city strike committee was formed as well as separate committees to coordinate public services during the big strike.<A title="" href="#_edn31" name=_ednref31><SPAN 
+class=MsoEndnoteReference><SPAN 
+style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt;     ">[31]</SPAN></SPAN></A> In these ways, the Pacific Northwest was again showing its firm belief in the importance of working-class solidarity, demonstrating that the labor movement was willing to shut down entire cities for the benefit of only a portion of the working class. The articles of the <I>Seattle Union Record</I> leading up to the July 4<SUP>th</SUP> Mooney Strike were very reminiscent of the coverage preceding the General Strike. The pages of <I>the</I> <I>Seattle Union Record</I> were filled with announcements of strike votes by different unions and detailed the coordinated efforts of labor organizations as they prepared for a region-wide action.</SPAN></P>
+            <p>  Part of the significance of the Mooney campaign was the use of the strike as a tool for fighting for justice within the legal system. This was a novel idea and significant factions of the American labor movement resisted formal state-sanctioned justice. While this debate raged on nationally, the <I>Seattle Union </I>came out very firmly in favor of the strike to support Mooney. The paper wrote that laborers could not watch one of their own experience such injustice without protest, and that, as workers:</SPAN></P>
+            <P style="MARGIN-LEFT: 0.5in" class=MsoNormal><SPAN class=GramE> we</SPAN></SPAN>  must right the wrong by the use of labor’s most effective weapon, and all justice-loving men will uphold labor in their effort to establish justice in the courts of our land. The general strike weapon causes fear from backward men and women in and without the labor fold. This very fear gives assurance of its potency and effectiveness.<A title="" href="#_edn32" 
+name=_ednref32><SPAN class=MsoEndnoteReference><SPAN 
+style="FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt;     ">[32]</SPAN></SPAN></A></SPAN></P>
+            <p> The hard line position taken by the <I>Seattle Union Record</I> and the Seattle Central Labor Council was deeply influenced by the experiences weathered during the previous mass general strike. The unapologetic advocacy of the use of one of the strongest weapons of organized labor was undoubtedly a direct result of seeing firsthand the exhilarating, empowering nature of a general strike. The collective experience of February 1919 placed Seattle’s working class at the forefront of national debates over tactics and strategies, and prepared them for being successful organizers in future battles such as the strike for Tom Mooney.</SPAN></P>
+            <p> The role of the first half of 1919 in shaping the goals, ideas, and scope of the Seattle labor movement cannot be understated. The general strike revitalized Seattle laborers, and in the course of common struggle they learned the importance of solidarity amongst working people. The integration of women and African Americans in labor struggles, and the unions who went on strike to fight injustices against just one of their comrades, showed the way that Seattle unions internalized the solidarity of the general strike. In other ways, the media and government reactions to the general strike also influenced Seattle laborers. Legal backlash prompted labor to fight in new arenas and become organized in formal politics. But this backlash also highlighted for working people that class divisions existed in society, and so workers began to organize against the bosses who became richer at their expense. And finally, when it came time to consider the question of another general strike––a strike in support of just two laborers––Seattle led the way in advocating and laying the groundwork for a nation-wide walkout. The legacy of the general strike changed the course of the Seattle labor movement, enhancing significantly its ability to fight for a just world for working-class people.</SPAN></P>
+      
+          <HR align=left SIZE=1 width="33%">
+          <DIV id=edn1>
+            <P class=MsoNormal><span class="summary"><A title="" href="#_ednref1" 
+name=_edn1>  [1]</A> “All Seattle Unions are Asked to Strike.” <I>Seattle Union Record</I>, Jan 25, 1919, p. 1.</SPAN></span></P>
+          </DIV>
+          <DIV id=edn2>
+            <P class=MsoNormal><span class="summary"><A title="" href="#_ednref2" 
+name=_edn2>  [2]</A> “Painters Going Out on Strike.” <I> Seattle Union Record  , Feb 1, 1919, p. 1.</SPAN></span></P>
+          </DIV>
+          <DIV id=edn3>
+            <P class=MsoNormal><span class="summary"><A title="" href="#_ednref3" 
+name=_edn3>  [3]</A> “Several More Unions Decide on Big Strike.” <I>Seattle Union Record</I>, Feb 1, 1919, p. 1.</SPAN></span></P>
+          </DIV>
+          <DIV id=edn4>
+            <P class=MsoNormal><span class="summary"><A title="" href="#_ednref4" 
+name=_edn4>  [4]</A> “Everything Ready for Big Strike.” <I> Seattle Union Record  , Feb 1, 1919, p. 1.</SPAN></span></P>
+          </DIV>
+          <DIV id=edn5>
+            <P class=MsoNormal><span class="summary"><A title="" href="#_ednref5" 
+name=_edn5>  [5]</A>  “Tacoma Votes on Big Strike.” <I>Seattle Union Record</I>, Feb 1, 1919, p. 4.</SPAN></span></P>
+          </DIV>
+          <DIV id=edn6>
+            <P class=MsoNormal><span class="summary"><A title="" href="#_ednref6" 
+name=_edn6>  [6]</A> “Painters Going Out on Strike.” <I> Seattle Union Record  , Feb 1, 1919, p. 1.</SPAN></span></P>
+          </DIV>
+          <DIV id=edn7>
+            <P class=MsoNormal><span class="summary"><A title="" 
+href="#_ednref7" name=_edn7>  [7]</A> “Everything Ready for Big Strike.” <I> Seattle Union Record  , Feb 1, 1919, p. 1.</SPAN></P>
+          </DIV>
+          <DIV id=edn8>
+            <P class=MsoNormal><span class="summary"><A title="" href="#_ednref8" 
+name=_edn8>  [8]</A> “Will Take Care of the Strikers.” <I> Seattle Union Record,</I>  Jan 25, 1919, p. 1.</SPAN></span></P>
+          </DIV>
+          <DIV id=edn9>
+            <P class=MsoNormal><span class="summary"><A title="" href="#_ednref9" 
+name=_edn9>  [9]</A> “Boys Cheer in Passing Strike Headquarters.” <I> Seattle Union Record<SPAN 
+style="FONT-STYLE: normal">.Feb    1, 1919, p. 1.</SPAN></span></P>
+          </DIV>
+          <DIV id=edn10>
+            <P class=MsoNormal><span class="summary"><A title="" 
+href="#_ednref10" name=_edn10>  [10]</A> “Union Ranks Will Welcome Negro Workers.” <I> Seattle Union Record  , <em>March 1, 1919, p. 1.</SPAN></span></P>
+          </DIV>
+          <DIV id=edn11>
+            <P class=MsoNormal><span class="summary"><A title="" 
+href="#_ednref11" name=_edn11>  [11]</A>  “Women Asked to Join Labor Organizations.” <I>Seattle Union Record</I>, March 1, 1919, p. 4.</SPAN></span></P>
+          </DIV>
+          <DIV id=edn12>
+            <P class=MsoNormal><span class="summary"><A title="" 
+href="#_ednref12" name=_edn12>  [12]</A>  “Everett Has Clerks Union.” <I>Seattle Union Record</I>, April 5, 1919, p. 3.</SPAN></span></P>
+          </DIV>
+          <DIV id=edn13>
+            <P class=MsoNormal><span class="summary"><A title="" href="#_ednref13" 
+name=_edn13>  [13]</A> “1500 Miners on Strike.” <I> Seattle Union Record </I> , June 7, 1919, p. 3.</SPAN></span></P>
+          </DIV>
+          <DIV id=edn14>
+            <P class=MsoNormal><span class="summary"><A title="" href="#_ednref14" 
+name=_edn14>  [14]</A>  “Strike Closes Logging Camp at Barneston.” <I>Seattle Union Record</I>, June 14, 1919, p. 3.</SPAN></span></P>
+          </DIV>
+          <DIV id=edn15>
+            <P class=MsoNormal><span class="summary"><A title="" href="#_ednref15" 
+name=_edn15>  [15]</A>  “He Expected to See Streets Full of Dead.” <I>Seattle Union Record</I>, Feb 22, 1919, p. 1.</SPAN></span></P>
+          </DIV>
+          <DIV id=edn16>
+            <P class=MsoNormal><span class="summary"><A title="" 
+href="#_ednref16" name=_edn16>  [16]</A>  “In Retrospect.”<I>Seattle Union Record</I>, Feb 15, 1919, p. 3.</SPAN></span></P>
+          </DIV>
+          <DIV id=edn17>
+            <P class=MsoNormal><span class="summary"><A title="" 
+href="#_ednref17" name=_edn17>  [17]</A>  “Strike Heads Returned by Tacomans.”<I>Seattle Union Record</I>, Feb 15, 1919, p. 1.</SPAN></span></P>
+          </DIV>
+          <DIV id=edn18>
+           <P class=MsoNormal><span class="summary"><A title="" 
+href="#_ednref18" name=_edn18>  [18]</A>  “Strike Victim Under Arrest.” <I>Seattle Union Record</I>, Mar 22, p. 1.</SPAN></span></P>
+          </DIV>
+          <DIV id=edn19>
+            <P class=MsoNormal><span class="summary"><A title="" href="#_ednref19" 
+name=_edn19>  [19]</A>  “Labor Forced to Break into Real Politics.” <I>Seattle Union Record</I>, Mar 1, 1919, p. 3.</SPAN></span></P>
+          </DIV>
+          <DIV id=edn20>
+            <P class=MsoNormal><span class="summary"><A title="" href="#_ednref20" 
+name=_edn20>  [20]</A>  “Labor Forced to Break into Real Politics.” <I>Seattle Union Record</I>, Mar 1, 1919, p. 3.</SPAN></span></P>
+          </DIV>
+          <DIV id=edn21>
+            <P class=MsoNormal><span class="summary"><A title="" href="#_ednref21" 
+name=_edn21>  [21]</A>  “King County Labor Party Begins Life.” <I>Seattle Union Record</I>, May 3, 1919, p. 1.</SPAN></span></P>
+          </DIV>
+          <DIV id=edn22>
+            <P class=MsoNormalt><span class="summary"><A title="" 
+href="#_ednref22" name=_edn22>  [22]</A>  “Teachers in Tacoma Get Organized.” <I>Seattle Union Record</I>, May 3, 1919, p. 1.</SPAN></span></P>
+          </DIV>
+          <DIV id=edn23>
+            <P class=MsoNormal><span class="summary"><A title="" href="#_ednref23" 
+name=_edn23>  [23]</A>  “May 20 Named Shut Off Day for Gas Users.”<I>Seattle Union Record</I>, May 17 1919, p. 1.</SPAN></span></P>
+          </DIV>
+          <DIV id=edn24>
+            <P class=MsoNormal><span class="summary"><A title="" 
+href="#_ednref24" name=_edn24>  [24]</A>  “Mooney Strike Plans Receive New Stimulus.” <I>Seattle Union Record</I>, May 17, 1919, p.1.</SPAN></span></P>
+          </DIV>
+          <DIV id=edn25>
+            <P class=MsoNormal> <span class="summary"><A title="" href="#_ednref25" 
+name=_edn25>  25]</A>  Davenport, Robert W. “Review of <I>Frame-Up: The Incredible Case of Tom Mooney and Warren Billings</I>.” <I>Pacific Historical Review</I> 37 (1968): 363-365. Accessed May 17, 2011. http://www.jstor.org/stable/3636876</SPAN></span></P>
+          </DIV>
+          <DIV id=edn27>
+           <P class=MsoNormal><span class="summary"><A title="" 
+href="#_ednref27" name=_edn27>  [27]</A> “Local 38-A-2 Favors Strike by Big Vote.” <I> Seattle Union Record </I> , June 7, p. 1.</SPAN></span></P>
+          </DIV>
+          <DIV id=edn28>
+           <P class=MsoNormal><span class="summary"><A title="" 
+href="#_ednref28" name=_edn28>  [28]</A> “Iron Workers Vote Strike for Mooney.” <I> Seattle Union Record </I> , June 14, 1919, p.1.</SPAN></span></P>
+          </DIV>
+          <DIV id=edn29>
+           <P class=MsoNormal><span class="summary"><A title="" 
+href="#_ednref29" name=_edn29>  [29]</A> “Painters Vote for Big Strike.” <I> Seattle Union Record </I> , June 14, 1919, p.4.</SPAN></span></P>
+          </DIV>
+          <DIV id=edn30>
+           <P class=MsoNormal><span class="summary"><A title="" 
+href="#_ednref30" name=_edn30>  [30]</A> “Lady Barbers Vote Walkout for Mooney.” <I> Seattle Union Record </I> , June 28, 1919, p.1.</SPAN></span></P>
+          </DIV>
+          <DIV id=edn31>
+           <P class=MsoNormal><span class="summary"><A title="" 
+href="#_ednref31" name=_edn31>  [31]</A>  “Everett Gets Ready for the July 4 Strike.” <I>Seattle Union Record</I>, June 28, 1919, p. 1.</SPAN></span></P>
+          </DIV>
+          <DIV id=edn32>
+            <P class=MsoNormal><span class="summary"><A title="" href="#_ednref32" 
+name=_edn32> [32] </A>  “Conflict Raging over Mooney Case in Labor.” <I>Seattle Union Record</I>, May 31, 1919, p. 1.</SPAN></span></P>
+</div>
+</div>
+</div>
+          <p></p>
+ <table id="datatable">
+              <tr>
+                <td width="79" class="byline">Date</td>
+                <td width="187" class="byline">Title</td>
+                <td width="99" class="byline">Paper</td>
+                <td width="32" class="byline">Page</td>
+                <td width="359" class="byline">Summary</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">4-Jan-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0104p1.jpg">&quot;Conferring on Renton Strike&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">A meeting occurred between C.W. Doyle, a business agent from the Central Labor Council, and O.D. Colvin, vice president of the Pacific Car &amp; Foundry Company to discuss the ongoing strike at Pacific Car's Renton plant, where workers are demanding wage increases and union recognition. The company is not meeting workers' demands.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">4-Jan-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0104p3.jpg">&quot;Painters Quit Due to Cold&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">3</td>
+                <td width="359" class="byline">Twenty-two painters quit working December 30th while working at the Liberty Court apartments in response to a lack of heat in the building. An agreement has been reached between the painters and the corporation; heat will be provided, and the painters will return to work.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">4-Jan-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0104p3.jpg">&quot;Tacoma Firefighters May Stay on Job&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">3</td>
+                <td width="359" class="byline">Tacoma firefighters are reconsidering their mass resignation that was set to take effect New Year's Day in protest of low wages; the reconsideration comes after the city said it would accept all 119 resignations instead of negotiating.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">11-Jan-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0111p3.jpg">&quot;Timberworkers Rallying&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">3</td>
+                <td width="359" class="byline">About 700 men gathered at a rally of timber workers in Tacoma during an ongoing attempt to reorganize timber workers into an official union under the banner of the International Union of Timberworkers. </td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">18-Jan-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0118p1.jpg">&quot;Metal Trades Say Strike is Unauthorized&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">The Seattle Metal Trades council has declared that a strike called by over 400 electrical workers in Electrical Workers' Local No. 46 is unauthorized. In response, the union has removed itself from the council after threats of being forced out.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">18-Jan-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0118p4.jpg">&quot;Aberdeen Men Out on Strike&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">4</td>
+                <td width="359" class="byline">A message has been received that a strike by all Aberdeen shipyard workers has been declared to &quot;enforce original demands.&quot;</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">25-Jan-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0125p1.jpg">&quot;All Seattle Unions are Asked to Strike&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">A call initially made by the Metal Trades Council for a Seattle general strike has been taken up by the Central Labor Council. The organizations ask that all unions go on strike. The Central Council will set a start date for the strike as close to February 1st as possible. The strike is being called in solidarity with the 32,000 workers employed by the shipyards who are currently on strike.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">25-Jan-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0125p1.jpg">&quot;Ask Aid for 100 Strikers&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">100 striking Vancouver laundry workers, members of Laundry Workers Union Local No. 37, are asking for donations from workers in Seattle to go towards a relief fund for the strike.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">25-Jan-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0125p1.jpg">&quot;Strike May Be Extended&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">In Tacoma, there is talk of a general strike after the walkout of metal workers on January 21st. The strike would not necessarily be a sympathy strike; rather, unions see this as a way to take advantage of the current situation to demand higher wages.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">25-Jan-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0125p1.jpg">&quot;Will Take Care of the Strikers&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">The strike committee has assured workers that it will take care of strikers and families in need during the general strike. For example, the Scandia Co-operative Café will be serving all-you-can-eat meals for $0.40, making no profit.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">1-Feb-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0201p1.jpg">&quot;Everything Ready for Big Strike&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">The Central Labor Council is working out final details of the upcoming strike, making the decision that the strike is to be a sympathy strike, not a mass strike. All unions who have endorsed are asked to send representatives to an upcoming planning meeting. Only two unions -- the Gas Workers Union and the Federal Employees Union -- are not on board with the strike.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">1-Feb-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0201p1.jpg">&quot;Painters Going Out on Strike&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">Painters Union Local 800 will also strike in sympathy with the shipyard workers, and will allow the Soldiers, Sailors, and Workmen's Council to use their hall for a scheduled meeting.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">1-Feb-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0201p1.jpg">&quot;Several More Unions Decide on Big Strike&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">Many unions have voted to join the general strike -- such as the Cooks and Assistants Union the Painters and Decorators Union -- while many unions will be taking votes in the upcoming days.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">1-Feb-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0201p1.jpg">&quot;Shipbuilding May Stop All Over Country&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">Shipyard workers in Seattle are reaching out to unions nationwide in hopes of having a &quot;complete tie-up&quot; across the country. Not a single union has turned down this request to date, and all unions have agreed to not make their own demands and instead strike only in solidarity with Seattle's shipyard workers.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">1-Feb-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0201p1.jpg">&quot;Boys Cheer in Passing Strike Headquarters&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">A company of the 364th Field Artillery of the U.S. army marched through Seattle and cheered loudly when passing the general strike headquarters in the Collins building. Committing their solidarity to the strike, members of the army unit stated, &quot;If the employing class think they are going to use us soldiers to scab on the workers now that the war is over, they are greatly mistaken.&quot;</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">1-Feb-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0201p1.jpg">&quot;Wives of Men Asked to Help&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">The machinists' union has distributed letters to the wives of striking shipyard workers, asking the women to stand in solidarity with their husbands while they strike.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">1-Feb-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0201p4.jpg">&quot;Active Local is Organized&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">4</td>
+                <td width="359" class="byline">A new, very active local of the International Union of Timberworkers has been organized in Ford, Washington. About 75% of applicable workers are in the union, and the men there are hoping to reach 100% soon. They are building their own labor hall which they will start meeting in soon.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">1-Feb-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0201p4.jpg">&quot;Tacoma Votes on Big Strike&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">4</td>
+                <td width="359" class="byline">Several Tacoma unions are preparing to vote February 4th on whether to support the general strike in Seattle.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">15-Feb-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0215p1.jpg">&quot;Hanson Caused All the Trouble&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">Ben Nauman chairman of the executive committee of the general strike committee, addressed the Central Labor Council February 12th and made three main arguments: that Seattle mayor Ole Hanson was the cause for the duration of the general strike; that the Labor Council is not a body of revolutionary or Bolshevik politics, and these politics should not have been brought into the general strike; and that the general strike was a major success in showing the strength of Seattle's labor movement.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">15-Feb-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0215p1.jpg">&quot;Metal Trades Strike Will Be Continued&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">Metal trades and theater workers remain on strike even though the general strike has been called to a close. Labor leaders refute the idea that a radical leadership is leading the labor movement in Seattle, pointing out that, while cries of &quot;revolution&quot; are laughable among the strikers, the rank and file is now more radical than the leadership.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">15-Feb-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0215p3.jpg">&quot;In Retrospect&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">3</td>
+                <td width="359" class="byline">In the interest of reflecting on the strike and learning lessons for moving forward, this article highlights some of the notable events of the general strike. Among the issues highlighted here are the general peacefulness of the general strike, the misinformation that was propagated by the press, and the actions of Mayor Hanson during the strike. It is also emphasized that, now that workers in Seattle understand the immensity of a general strike, it should not be proposed lightly. Despite any mistakes that were made on the part of organized labor during the strike, the general strike was worth it.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">15-Feb-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0215p1.jpg">&quot;Strike Heads are Returned by Tacomans&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">In a victory for labor, Tacomans voted to reelect three labor leaders to the Central Labor Council who had been recently slandered by local papers due to their participation in the strike. During the same meeting of the Council, the split of the Council that had been predicted by the press in the previous weeks failed to materialize.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">15-Feb-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0215p4.jpg">&quot;Shipworkers Have Not Yet Compromised&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">4</td>
+                <td width="359" class="byline">The Metal Trades Council has announced that they will remain on strike until the workers win a living wage. The strikers believe that the General assigned to monitor the situation in Seattle has received large amounts of misinformation about the strike and the strikers have been working to convince him that the intentions of the strike are not revolutionary or violent.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">22-Feb-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0222p1.jpg">&quot;He Expected to See Streets Full of Dead&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">Sol Soltheimer, president of the International Union of Cigarmakers, addressed the Women's Card and Label League, telling them that he was impressed by the labor solidarity in Seattle. Based on the coverage of the general strike in the press, he expected to see streets full of dead bodies, but noted that on the contrary, Seattle during and after the strike was very peaceful.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">22-Feb-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0222p3.jpg">&quot;Lawyer Fails in Attempt to Break Strike&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">3</td>
+                <td width="359" class="byline">An attempt by a local attorney to divide the boilermakers' union have been unsuccessful. The attempts will receive no official attention from the union and the union has stated that no new charters will be issued during the strike of the boilermakers.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">22-Feb-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0222p3.jpg">&quot;Strikers of Tacoma Ask Wilson's Aid&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">3</td>
+                <td width="359" class="byline">The Metal Trades Council has sent a telegram and letter to President Wilson asking for his intervention in a strike in Tacoma. They would like the president to use his influence to help settle the strike by setting up a fair, unbiased hearing. The strikers are protesting low pay and the fact that they have not benefitted at all from a recent increase in profits.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">22-Feb-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0222p3.jpg">&quot;Mass Meeting at Georgetown is Big Success&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">3</td>
+                <td width="359" class="byline">In a mass meeting of shipyard workers that took place in Georgetown, it was again decided that the strike would continue until a living wage was won. The attendees agreed to hold more meetings, hoping to expand them to include more community members and not just workers.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">22-Feb-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0222p3.jpg">&quot;Meat Cutters 81 Help Organize Anacortes Shops&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">3</td>
+                <td width="359" class="byline">Members of the Seattle Meat Cutters Local 81 will take a leave of absence to organize non-unionized meat workers in Anacortes at the request of the workers there.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">22-Feb-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0222p3.jpg">&quot;Teamsters Will Help Strikers&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">3</td>
+                <td width="359" class="byline">At a recent meeting, it was decided that all members of Teamsters Local Number 174 would contribute $1 each to aid the shipyard strikers.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">22-Feb-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0222p4.jpg">&quot;Boilermakers of Tacoma In Fight to Stay&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">4</td>
+                <td width="359" class="byline">The Boilermakers Union - the keystone organization of the Metal Trades Council - held a meeting February 21st in Tacoma that was attending by almost the entire membership of the union. The strikers' morale at the meeting was just as high as when the strike began; the strike is still unanimously supported by the workers.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">1-Mar-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0301p1.jpg">&quot;Union Ranks Will Welcome Negro Workers&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">The Central Labor Council voted nearly unanimously earlier in the week to recognize the right of African Americans to be a part of labor unions. Specific details on how to include African Americans in union activity will be worked out by an appointed committee.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">1-Mar-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0301p3.jpg">&quot;Foremen Will Not Yield in Great Strike&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">3</td>
+                <td width="359" class="byline">In a meeting this week, the boilermakers declared their desire to stay out on strike until the shipyard workers go back. Several men personally stated their dedication to staying out on strike in solidarity with Local 104.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">1-Mar-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0301p3.jpg">&quot;Labor Forced to Break Into Real Politics&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">3</td>
+                <td width="359" class="byline">Several laws currently going through the state legislature could set negotiation processes that will be harmful to organized labor, including arbitration processes that do not recognize the role of collective bargaining and that would be overseen by a panel that labor has no role in selecting. In order to fight against these provisions, labor leaders are finding that they will have to formally engage in the political process if they wish to protect their interests.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">1-Mar-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0301p4.jpg">&quot;Women Asked to Join Labor Organizations&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">4</td>
+                <td width="359" class="byline">Ida Levi and Blanch Johnson, organizers from the State Federation of Labor and the Central Labor Council, respectively, are making efforts to enroll more women in organized labor. They argue that it is the duty of all women to work for livable wages for their gender and for the children they care for.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">8-Mar-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0308p1.jpg">&quot;Endeavors to Stop Strike of Newsboys&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">Executives of the Central Labor Council met with newspaper publishers concerning the strike of newsboys in Tacoma. Another meeting concerning the strike is to be held March 10th, with the hope of settling the strike. Although the newsboys have requested a union charter, the publishers do not recognize them as a union because they have not received a charter from the American Federation of Labor yet. The Newsboys' Union is recognized by the Central Labor Council, however.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">15-Mar-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0315p1.jpg">&quot;Tacoma Men Returning to the Shipyards&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">After striking for seven weeks, 35% of Tacoma's shipyard workers went back to work on March 11th with the majority of workers expected to go back the next day. Almost all workers will be employed at their old jobs, and under the same working conditions and wages.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">15-Mar-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0315p3.jpg">&quot;Ex-Soldiers Break Strike on Taxicabs&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">3</td>
+                <td width="359" class="byline">Article Unreadable</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">22-Mar-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0322p1.jpg">&quot;Newsboys of Tacoma Win Their Fight&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">Tacoma newsboys, who have been on strike since the beginning of the general strike, have gone back to work after winning most of their demands, including union recognition, a &quot;full returns&quot; clause that allows newsboys to return unsold papers without having to pay, and the return of strikers to their previous positions. </td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">22-Mar-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0322p1.jpg">&quot;Strike Looms With Contract Shops Unfair&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">The Machinists' Hope Lodge received reports at their meeting this week that many shipyard workers have been effectively locked out of their shops. Many shops have been named as unfair after increasing workers' hours and decreasing hourly pay, forcing members to accept non-union working conditions or to quit. This matter will be discussed further at the upcoming Central Labor Council meeting, and it is expected that immediate actions will be taken.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">22-Mar-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0322p1.jpg">&quot;Strike Victim Under Arrest&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">John L. Engdahl, a Norwegian man who had previously been arrested for &quot;criminal anarchy&quot; following the general strike, has been arrested again at the request of the U.S. immigration service. The government has stated that he is being held for deportation. Engdahl is one of 30 people to be charged with criminal anarchy following the strike.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">29-Mar-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0329p1.jpg">&quot;'Not Guilty' of Anarchy is Workers' Plea&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">22 workers who were arrested for &quot;criminal anarchy&quot; for their participation in the general strike entered pleas of not guilty this week.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">29-Mar-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0329p1.jpg">&quot;Strike Vote for April 1 Being Taken&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">Local unions affiliated with the Metal Trades Council will be voting in the upcoming days on whether to participate in a coast-wide strike set to start April 1st if Washington workers are unable to negotiate a suitable contract before that date.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">5-Apr-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0405p1.jpg">&quot;Vote Against Strike Call At Present&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">The majority of workers and unions in the Metal Trades Council has voted against a proposed coast-wide strike set to start April 1st. The votes will be taken to Portland to the headquarters of the Pacific Coast Metal Trades Council, where votes for the entire coast will be tabulated.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">5-Apr-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0405p3.jpg">&quot;Everett Has Clerk's Union&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">3</td>
+                <td width="359" class="byline">Everett Local No. 488 of the retail clerks union was officially launched April 18th with more than 100 enthusiastic members. It is affiliated with the Everett Labor Council. Seattle labor leaders commented on the inclusion of women in the leadership of the organization.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">26-Apr-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0426p1.jpg">&quot;Use Prisoners As Strikebreakers&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">Prisoners from the Monroe state penitentiary have been used as strikebreakers at the Puget Mill ranch on Hood Canal. The workers there are on strike in protest of the hours and working conditions, and were finally inspired to strike after one man was fired for singing songs that the mill owner did not like.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">26-Apr-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0426p1.jpg">&quot;Fire Fighters Hold a Rally&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">The Seattle Fire Fighters Union hosted a lively rally this week. They heard speeches on unionism and fire fighter union successes across the country, as well as meeting to finalize plans for an upcoming social dance that is being hosted by the union.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">3-May-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0503p1.jpg">&quot;Teachers of Tacoma Get Organized&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">After not receiving their demanded pay raise, Tacoma's school teachers have organized themselves into &quot;The Federation of Public School Teachers of Tacoma.&quot; The teachers argue that the Tacoma School District is one of the wealthiest in the state, but the teachers receive less pay than many districts. They argue that this is driving good teachers out of Tacoma schools.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">3-May-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0503p1.jpg">&quot;King County Labor Party Begins Life&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">At a meeting of the Central Labor Council on April 30th, the Council adopted a proposal to begin the formation of an independent King County labor party. All affiliated union members will have full rights of membership in the party, and non-union members will be allowed to join as well by paying monthly dues. The party is being formed out of the belief that the dominant political parties are not serving the interests of labor or freedom. A 10-person committee will be set up to begin organizing the party.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">10-May-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0510p1.jpg">&quot;Teamsters Strike Worries Spokane Employers Much&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">Teamsters on strike in Tacoma have asked for special police protection following the arrest of a striker and a non-union driver. The strikers are especially worried following rumors that employers are arming themselves. The police chief offered only regular police duties but no special protection.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">10-May-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0510p3.jpg">&quot;Weavers Walk Out; Ballard Mills Closed&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">3</td>
+                <td width="359" class="byline">About 400 workers in Ballard's shingle mills went on strike May 9th, demanding more pay to offset the increasing cost of living. At an upcoming meeting the men are expected to discuss the specific pay amounts that they will demand of the shingle mills.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">10-May-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0510p4.jpg">&quot;Tacoma Union Bakers Back on the Jobs&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">4</td>
+                <td width="359" class="byline">On May 6th, Tacoma bakers went back to work after having been on strike since May 1st. The bakers demanded a dollar a day pay increase, and went back to work after an agreement was reached between a committee from the Bakers' Union and the bakery owners. The article doesn't state whether the strikers' demands were met.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">17-May-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0517p1.jpg">&quot;Reach Truce in Strike of Building Men&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">Building trades workers have all gone back to work after being on strike the previous week. A committee made up of employers and union representatives reached a settlement on a new pay scale and a five-day week for all worksites under the control of the Master Builders Association. </td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">17-May-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0517p1.jpg">&quot;Mooney Strike Plans Receive New Stimulus&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">(Some of article is unreadable) Unions in the Pacific Northwest are expected to play key roles in an upcoming nation-wide strike set to begin July 4th. The strike is in support of Thomas Mooney, a union activist being held in prison in California. The defense committee of the Seattle Labor Council will oversee strike preparations for the northwest.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">17-May-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0517p1.jpg">&quot;May 20 Named Shut-Off Day for Gas Users&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">The Gas Fitters Union Local 707 has notified the shipyards that they will be shutting off gas on May 20th. This action is in protest of the fact that gas fitters were locked out after participating in the general strike, and that gas prices continue to rise while workers receive no pay increases.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">25-May-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0525p4.jpg">&quot;1,200 Striking Miners Await a Settlement&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">4</td>
+                <td width="359" class="byline">1,200 mine workers in the towns of Cle Elum and Roslyn, members of United Mine Workers District Number 10, have been on strike for about a week in protest of the discontinuation of a 6 cents per car wage that workers previously received for pushing cars from the mine face to the motor. Meetings between union representatives and mine owners have not been successful in reaching a settlement so far. The strike is endorsed by the national organization of miners.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">31-May-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0531p1.jpg">&quot;Conflict Raging Over Mooney Case in Labor&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">The use of a strike as a tool of the working class in pursuit of justice is being currently being fiercely debated within the labor movement. Some believe that a strike is necessary to receive a fair trail for imprisoned unionist Tom Mooney, while others disagree. This article presents an argument that labor should use &quot;labor's most effective weapon&quot; to pursue justice for Mooney.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">31-May-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0531p1.jpg">&quot;Coal Miners Win Strike; Will Return&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">The coal miner strike described in the May 25th article &quot;1,200 Striking Miners Await a Settlement&quot; has been settled in favor of the strikers, who will again be paid a six-cent wage for pushing loaded cars. They will begin returning to work this week.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">31-May-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0531p1.jpg">&quot;Mine Strike at Cle Elum&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">This short article reiterates the same details about the mine strike in Cle Elum and Roslyn included in the May 25th &quot;1,200 Striking Miners Await a Settlement&quot; report.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">7-Jun-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0607p1.jpg">&quot;Local 104 Votes for Big Walkout&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">The July 4th strike in solidarity with Tom Mooney has been endorsed by the Boilermakers, Shipbuilers and Helpers Local Number 104.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">7-Jun-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0607p1.jpg">&quot;Local 38-A-2 Favors Strike by Big Vote&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">The July 4th strike in solidarity with Tom Mooney has been endorsed by the Shipyard Laborers, Riggers, and Fasteners Local No. 38-A-2.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">7-Jun-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0607p1.jpg">&quot;Teamsters Vote Against Strike to Aid Mooney&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">Seattle Teamsters &amp; Truck Drivers' Local Number 174 has effectively voted against the Mooney strike by tabling the question at their recent meeting. Many other teaming unions have not yet considered the question of participating in the strike.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">7-Jun-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0607p3.jpg">&quot;Fifteen Hundred Miners on Strike&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">3</td>
+                <td width="359" class="byline">Mine workers in Cle Elum, Roslyn, and Burnett are back on strike in protest of two issues. In Burnett, about 300 men went on strike after the mine management fired a union member without cause. In Cle Elum and Roslyn, 1200 men are striking again after it became clear that previous negotiations did not prevent a wage cut for car pushers.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">14-Jun-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0614p1.jpg">&quot;Sixty Strike at Yakima for Wage Increase&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">Earlier this week, about 60 hod carriers and building laborers in Yakima walked off the job, demanding a $1 per day pay increase. The master builders have attempted to compromise with the men, but the strikers have refused their offers. One of the largest contractors within the employers' association granted the workers' demands in order to continue construction on the new Studebaker garage.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">14-Jun-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0614p1.jpg">&quot;Iron Workers Vote Strike for Mooney&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">The July 4th Mooney strike has been endorsed by the Iron workers and Pile Drivers Local Number 86.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">14-Jun-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0614p3.jpg">&quot;Strike Closes Logging Camp at Barneston&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">3</td>
+                <td width="359" class="byline">The employees of the Kent Lumber Company at Barneston went on strike earlier this week in response to the firing of H. Williams, who had worked for the company for the last 12 years, and who was fired for demanding more pay several months ago.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">14-Jun-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0614p4.jpg">&quot;Painters Vote for Big Strike&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">4</td>
+                <td width="359" class="byline">The Painters Local Number 300 has voted to endorse the July 4th strike in support of Tom Mooney.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">21-Jun-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0621p1.jpg">&quot;Local Stove Company Men Go on Strike&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">Demanding an end to the piecework system and a pay increase, iron molders and polishers have gone on strike against employer F.S. Lang. The workers are demanding that Lang comply with a prior agreement between the union and the National Stove Founders' Defense League, which called for wages higher than what the workers currently earn.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">21-Jun-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0621p1.jpg">&quot;Strikers at Shipyards on the Job Again&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">Several hundred workers represented by Boilermakers, Shipbuilders, and Helpers Local Number 104 have returned to work at the urging of the union after an unauthorized strike for higher wages.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">28-Jun-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0628p1.jpg">&quot;Phone Tie-Up Looks to be Certain Move&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">Telephone workers on strike in California have officially requested that the Seattle operators union go out on strike with them, an act that looks likely to happen. The union's decision will most likely be made at an upcoming mass meeting of telephone workers.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">28-Jun-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0628p1.jpg">&quot;Everett Gets Ready for the July 4 Strike&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">Everett labor leaders are preparing for the July 4th Mooney strike. A. Overvold, chair of Everett's Mooney strike committee, met recently with Seattle organizers to coordinate plans. A committee has been appointed for the purpose of decided which services will be exempt from the strike in order to protect public safety. The committee will coordinate with the city commissioners on this matter.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">28-Jun-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0628p1.jpg">&quot;Lady Barbers Vote Walkout for Mooney&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">1</td>
+                <td width="359" class="byline">By an overwhelming majority, lady barbers have voted in favor of the July 4th Mooney strike.</td>
+              </tr>
+              <tr>
+                <td width="79" align="right" class="byline">28-Jun-19</td>
+                <td width="187" class="byline"><a  href="http://depts.washington.edu/ufw2/yearbook/1919jan-june/SUR1919_0628p3.jpg">&quot;Hello Girls Plan Strike&quot;</a></td>
+                <td width="99" class="byline">Union Record</td>
+                <td width="32" align="right" class="byline">3</td>
+                <td width="359" class="byline">Considering the question of whether Telephone Operators Local Number 42-A will go on strike like its California counterpart, more than 500 &quot;hello&quot; girls met June 23rd. The telephone operators across the coast are striking to demand higher pay. Labor leaders are confident the Seattle union will vote to join the strike.</td>
+              </tr>
+            </table>
+            <P class=MsoNormal>&nbsp;</P>
+          </DIV>
+        </DIV>
+        <DIV id=edn1></DIV>
+        <DIV id=edn2> </DIV>
+        <DIV id=edn10></DIV>
+        <DIV id=edn11> </DIV>
+        <DIV  id=edn16></div>
+        </DIV>
+			</div></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.html"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

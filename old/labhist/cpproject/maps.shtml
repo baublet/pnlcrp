@@ -1,0 +1,61 @@
+<!--#include file="metaheader2.html"-->
+<title>Membership and votes</title>
+
+</head>
+<body id="artjournalism">
+<table id="pagetable" border="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="http://depts.washington.edu/labhist/cpproject/logos/divide_rule6.jpg" usemap="#Map">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;">
+			<div id="navigation">
+			<!--#include file="menu.html"-->
+			</div>
+		</td>
+		<td>
+			<div id="content">
+			<h1>Membership and Votes for CP candidates in Washington, Oregon, Idaho 1922-1945 </h1>
+            <p>Here are three charts and maps. The first shows Communist Party membership statistics. Below that an interactive map displays votes for CP candidates by county in each election between 1924 and 1940. A third map shows party membership in District 12 in relation to all of the other districts. Sources are explained below. See more CP maps at the <a href="http://depts.washington.edu/moves/CP_intro.shtml" target="_blank">Mapping American Social Movements Project.</a></p>
+           <div class='tableauPlaceholder' id='viz1472333252363' style='position: relative'><noscript><a href='#'><img alt='Dash members ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;CommunistPartyPNWmembers&#47;Dashmembers&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='CommunistPartyPNWmembers&#47;Dashmembers' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;CommunistPartyPNWmembers&#47;Dashmembers&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1472333252363');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='804px';vizElement.style.height='369px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+            
+            <hr>
+			
+            
+      <div class='tableauPlaceholder' id='viz1472332875446' style='position: relative'><noscript><a href='#'><img alt='Dash vote counties ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;CommunistPartyPNW&#47;Dashvotecounties&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='CommunistPartyPNW&#47;Dashvotecounties' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;CommunistPartyPNW&#47;Dashvotecounties&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1472332875446');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='804px';vizElement.style.height='719px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+        
+        
+        <hr>
+        
+        <div class='tableauPlaceholder' id='viz1472333618231' style='position: relative'><noscript><a href='#'><img alt='Dashboard 9 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;CommunistPartyPNWmembers&#47;Dashboard9&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='CommunistPartyPNWmembers&#47;Dashboard9' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;CommunistPartyPNWmembers&#47;Dashboard9&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1472333618231');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='804px';vizElement.style.height='519px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+        
+       <p>  More maps and a detailed explanation of sources can be found at our companion <a href="http://depts.washington.edu/moves/CP_intro.shtml" target="_blank">Mapping American Social Movements Project.</a>The membership data are from internal Communist Party records. The numbers from 1922 to 1934 reflect average dues collections per year or part of year. From 1937 to 1945 the data are for party registrations at the start of the year.  Party officials estimated that registered membership exceeded dues collections by 10-20%.</p>
+<p><strong>Sources:</strong> The following documents can be found in <em>Files of the Communist Party of the USA in the Comintern Archives </em>(IDC publishers): The Membership of Our Party (1922); Membership Figures According to Dues Payments (1923)(1924)(1925 January-June) all in Dello 739; Communist Party USA Social and Industrial Composition of Jan. 1, 1928 (Dello 1358); 1934 (Dello 3457); Table B (Dello 2723); Dues Sales by District (Dello 2723); Organizing Department (Dello 2723); 1932 Average Dues Paying Membership (Dello 2723); Material for American Discussion (Dello 4083). From the <em>Earl Browder Papers,1891-1975</em> (ProQuest microfilm), reel 3: Registration 1944-1945.</p> 
+
+<p>Vote charts and maps are based on data from Inter-university Consortium for Political and Social Research. United States Historical Election Returns, 1824-1968 [Computer File]. ICPSR00001-v3. Ann Arbor, MI: Inter-university Consortium for Political and Social Research [distributor], 1999-04-26. http://doi.org/10.3886/ICPSR00001.v3.</p>
+<p>
+<strong>Research and data compilation:</strong> James Gregory, Rebecca Flores</p>
+<p><strong>Maps:</strong> James Gregory</p>
+		  </div>
+		</td>
+	</tr>
+	
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.shtml"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

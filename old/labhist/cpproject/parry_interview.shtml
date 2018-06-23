@@ -1,0 +1,56 @@
+<!--#include file="metaheader2.html"-->
+<title>Will and Louise Parry oral history</title>
+
+</head>
+<body id="about">
+<table id="pagetable" border="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="http://depts.washington.edu/labhist/cpproject/logos/divide_rule6.jpg" usemap="#Map">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;">
+			<div id="navigation">
+			<!--#include file="menu.html"-->
+			</div>
+		</td>
+		<td>
+			<div id="content">
+			<h1>Will and Louise Parry </h1>
+			<img src="images/banner790.png" id="x"  style="border:0px !important;" alt="Click to view other segments of this interview" title="Click to view other segments of this interview"><br>
+			<iframe width="790" height="445" src="https://www.youtube.com/embed/YRevyAwaPtw?list=PLrnclw6j_Mi-HMmwaCKND2M0DIkweYAqx" frameborder="0" allowfullscreen></iframe>
+
+			   <p>Will and Louise Parry were tireless activists whose commitment to labor, social justice, and the Communist Party spanned more than seven decades. Born in Seattle in 1920, Will was the great grandson of mayor Byron Phelps. Born the same year, Louise Long grew up in West Seattle, the daughter of a juvenile court judge. Will attended Washington State College in the late 1930s and served in the US Coast Guard during World War II. Louise attended UW and worked as a welder in a naval shipyard during the war. Will had joined the Communist Party in 1941, Louise a few years later. Political commitments drew them together. They met and married in 1946 and would later have two children. </p>
+			   <p>A talented journalist, Will went to work for the <em>New World</em>, the CP's Seattle-based weekly. When the paper folded in 1948, he served as the northwest reporter for the San Francisco based <em>People's World</em>.  As the Red Scare escalated that job ended and Will struggled to find work as the FBI followed him from one prospective employer to another. Finally he was hired as a worker in a cardboard box manufacturing company where he promptly became active in the union and later was elected to union leadership positions. Louise held a variety of jobs as  garment worker, telephone operator, child care worker, and later secretary at the Veterans Affairs Medical Center. Always she brought her activism to the job. In 1993 the Washington Federation of State Employees honored her service to the union. Music was her second passion. For thirty years she played violin with the Seattle Philharmonic Society Orchestra. </p>
+			   <p>As anti-communism lost some of its force in the 1960s and 1970s, Will Parry became a prominent labor leader, serving for many years as the Olympia lobbyist for the Association of Western Pulp and Paper Workers. Like other members of the Communist Party, Will and Louise, were heavily involved in the anti-war movement during the Vietnam era and again during the various Middle East Wars. They worked with the UFW grape boycott and joined scores of picket lines supporting unions. In the 1980s, Will helped found the Puget Sound Alliance for Retired Americans, editing its newsletter, the <em>Retiree Advocate</em>, for more than 25 years. In 2010, Seattle's City Council honored Will Parry with a proclamation celebrating his &quot;lifelong commitment, and work, to achieve social and economic justice for the residents of Seattle.&quot;</p>
+			   <p>Louise Parry died in 2006 at age 85. Will Parry died in 2013 at age 93. </p>
+			   <p>Louise and Will Parry shared stories of activism and details about their life-long commitment to the Communist Party in a pair of video taped interviews conducted by  Daeha Ko and Shelley Pinckney on March 4 and March 6, 2002. Streaming video excerpts of the interviews can be viewed at right. Video editing by Leo Baunach.</p>
+			   <p>Here are newspaper articles about their lives:</p>
+			   <p><A href="http://seattletimes.com/html/localnews/2021019235_parryobitxml.html" target="_blank" onmousedown="return rwt(this,'','','','1','AFQjCNG71bzG-HbhDIpih_pe4aXbcGOQRg','kFjgJHjlMlB9xmDACW_pYg','0CCsQFjAA','','',event)">Seattle labor activist Will Parry dies at 93</A> <em>Seattle Times </em></p>
+			   <p><A href="http://www.realchangenews.org/index.php/site/archives/4135/" target="_blank" onmousedown="return rwt(this,'','','','5','AFQjCNF5A5vfmMPwx-3WJKwFfLx9nUvlGA','es7OsMfRrKLRn6LdZQjbhg','0CEoQFjAE','','',event)"> At 90, Will Parry carries on the class struggle</A> <em>Real Change News</em></p>
+			   <p><A href="http://peoplesworld.org/will-parry-labor-and-retiree-advocate-1920-201/" target="_blank" onmousedown="return rwt(this,'','','','1','AFQjCNEADvYt1Wvg5-2qFa9N8UDaoMZ2rg','K8pshCcH0TPS2cdILNLhIA','0CCsQFjAA','','',event)">Will Parry, labor and retiree advocate, 1920-2013</A> <em>People's World </em></p>
+			   <p><a href="http://www.seattlepi.com/local/article/Louise-Parry-1920-2006-Seattle-woman-was-1208309.php" target="_blank">Louise Parry, 1920-2006: Seattle woman was progressive activist</a> S<em>eattle PI </em></p>
+			   <p>&nbsp;</p>
+			   <div style="clear:both;"></div>
+			</div>
+		</td>
+	</tr>
+
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.shtml"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

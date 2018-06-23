@@ -1,0 +1,132 @@
+<!--#include file="metaheader.html"-->
+<title>Labor events yearbook</title>
+
+
+
+ <script src="http://api.simile-widgets.org/exhibit/2.2.0/exhibit-api.js" 
+           type="text/javascript"></script>
+   <script src="http://api.simile-widgets.org/exhibit/2.2.0/extensions/time/time-extension.js" type="text/javascript"></script>
+
+
+  
+    
+
+
+
+<link 	
+   rel="exhibit/data" 
+   type="application/jsonp"
+   href="http://spreadsheets.google.com/feeds/list/0AjAM7DVyQjZgdDBTcEpFX05vcU1DcXVzRVlaVW1qdkE/od6/public/basic?alt=json-in-script"
+   ex:converter="googleSpreadsheets"> 
+</head>
+<body id="home">
+<table id="pagetable" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="header_logo.jpg" width="1000" height="189" border="0" usemap="#pnlcrp">
+			<map name="pnlcrp">
+              <area shape="rect" coords="326,5,847,33" href="http://depts.washington.edu/labhist">
+            </map>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td bordercolor="#000000" style="vertical-align:top;background-color:black;">
+			<div id="navigation">
+			  <!--#include file="menu.html"-->
+			</div>
+	  </td>
+		<td>
+			<div id="content">
+			<h1>Labor Events Yearbooks </h1>
+		
+        <p><span class="rightcap" style="width:397px;"><img src="http://depts.washington.edu/ufw2/yearbook/LABORDAY2cr397.jpg" width="397" height="339">
+  </span></p>
+        <p>These yearbooks provides the most complete account of  labor events available for any region of the United States-- a day-by-day database of  hundreds of strikes, protests, campaigns, and labor political initiatives occurring in the state of Washington. </p>
+        <p>So far we have yearly coverage of two dramatic eras: (1) from 1915 to 1919 and (2) 1930 to 1939.</p>
+        <p>The early period includes World War I and the 1919 Seattle General Strike. The second begins with the Great Depression when unemployment reached perhaps 35 percent in Washington State and unions were bankrupt and weak and then shows the dramatic rise in labor activism starting in 1933. </p>
+        <p>Historians usually focus on  big strikes and famous labor confrontations, but our yearbooks show that there were hundreds of other organizing drives, strikes, and political initiatives undertaken by workers  that have been forgotten. Here we expose that hidden history of labor activism and in doing so learn much about the breadth and diversity of the movement. Our research has uncovered  campaigns by unions of all sorts, white collar and blue collar, large and small, including unions in some surprising job sectors (the Embalmers Union). Some of the most interesting involve workers in the entertainment industry: musicians, theatre workers, projectionists. Women workers struck Seattle's garment factories and organized unions in stores and restaurants. Some of the activities of workers of color also become visible in these yearbooks, especially in the 1930s when  Filipino workers created the Cannery Workers and Farm Laborers Union and engaged in a long list of protest actions. </p>
+        <h2>Yearbook and database </h2>
+        
+        <p>  Below we present detailed information (including news articles) about hundreds of labor events in Washington State, arranged year by year in chronological order. Most of the information comes from two labor owned weekly newspapers: the <em>Seattle Union Record</em> for the years 1915 to 1919; and the <em>Washington State Labor News</em>, for much of the 1930s.  The <em>WSLN</em>  is supplemented for a few years by articles from leftwing weekly newspapers (<em>Voice of Action</em>, <em>Commonwealth News</em>, <em>Sunday News</em>, <em>Washington New Dealer</em>). </p>
+        <p>Each year is presented separately. Click the links below to see the full database of events and accompanying news articles and also to read a &quot;labor highlights&quot; report about the year. </p>
+        <table width="100%"  border="0" cellspacing="6" cellpadding="0">
+        <tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1930.shtml"><strong>1930</strong></a></div></td><br>
+     <td width="104" style="vertical-align:top;"><a href="yearbook1930.shtml"><img src="../new/images/yearbook-ufw2/1930-100x30.jpg" width="100" height="30" border="0"></a></td>
+		   <td width="475" valign="middle"><a href="yearbook1930.shtml"><strong>1930</strong> events database and highlights</a> by Eunji Lee </a></td>
+        </tr>
+          
+        <tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1930.shtml"><strong>1930</strong></a></div></td><br>
+     <td width="104" style="vertical-align:top;"><a href="yearbook1930.shtml"><img src="../new/images/yearbook-ufw2/1930-100x30.jpg" width="100" height="30" border="0"></a></td>
+		   <td width="475" valign="middle"><a href="yearbook1930.shtml"><strong>1930</strong> events database and highlights</a> by Eunji Lee </a></td>
+        </tr>
+        <tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1931.shtml"><strong>1931</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1931.shtml"><img src="../new/images/yearbook-ufw2/1931-100x30.jpg" width="101" height="30"></a></td>
+		   <td valign="middle"><a href="yearbook1931.shtml"><strong>1931</strong> events database and highlights</a> by Brandon Letsinger </a></td>
+        </tr>
+			<tr>
+       <td style="width:75px;"><div align="center"><a href="yearbook1932.shtml"><strong>1932</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1932.shtml"><img src="../new/images/yearbook-ufw2/1932-100x30.jpg" width="100" height="31" border="0"></a></td>
+				   <td valign="middle"><a href="yearbook1932.shtml"><strong>1932</strong> events database and highlights</a> by Raevynn Leach</td>
+	
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1933.shtml"><strong>1933</strong></a></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1933.shtml"><img src="../new/images/yearbook-ufw2/1933-100x30.jpg" width="101" height="30" border="0"></a></td>
+		   <td valign="middle"><a href="yearbook1933.shtml"><strong>1933</strong> events database</a> by Brittany Barrett </a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1934.shtml"><strong>1934</strong></a></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1934.shtml"><img src="../new/images/yearbook-ufw2/1934-100x30.jpg" width="99" height="30" border="0"></a></td>
+		   <td valign="middle"><a href="yearbook1934.shtml"><strong>1934</strong> events database and highlights</a> by Nick Hamblet and Amanda Higgins </a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1935.shtml"><strong>1935</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1935.shtml"><img src="../new/images/yearbook-ufw2/1935-100x30.jpg" width="100" height="30" border="0"></a></td>
+		   <td valign="middle"><a href="yearbook1935.shtml"><strong>1935</strong> events database and highlights</a> by Andie Erhart </a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1936.shtml"><strong>1936</strong></a></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1936.shtml"><img src="../new/images/yearbook-ufw2/laborday100x30.jpg" width="100" height="30" border="0"></a></td>
+		   <td valign="middle"><a href="yearbook1936.shtml"><strong>1936</strong> events database</a> by Katherine Edwards and Caitlyn Hamilton </td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><strong><a href="yearbook1937.shtml">1937</a></strong></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1937.shtml"><img src="../new/images/yearbook-ufw2/1937-100x30.jpg" width="100" height="30" border="0"></a></td>
+		   <td valign="middle"><a href="yearbook1937.shtml"><strong>1937</strong> events database and highlights</a> by Nathaniel Bade</a></td>
+			</tr>		
+			<tr>
+          <td style="width:75px;"><div align="center"><strong><a href="yearbook1938.shtml">1938</a></strong></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1938.shtml"><img src="../new/images/yearbook-ufw2/1938-100x30.jpg" width="100" height="30" border="0"></a></td>
+		   <td valign="middle"><a href="yearbook1938.shtml"><strong>1938</strong> events database and highlights</a> by Nick Manos </a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><strong><a href="yearbook1939.shtml">1939</a></strong></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1939.shtml"><img src="../new/images/yearbook-ufw2/1939-100x29.jpg" width="100" height="30" border="0"></a></td>
+		   <td valign="middle"><a href="yearbook1939.shtml"><strong>1939</strong> events database </a> by Brittany Barrett </a></td>
+			</tr>
+        </table>
+        <p>&nbsp;</p>
+        
+            		
+     
+     
+
+
+
+          </div>
+	  </td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.html"-->			</div>
+		</td>
+	</tr>
+</table>
+</body>
+<!--#include file="metafooter.html"-->

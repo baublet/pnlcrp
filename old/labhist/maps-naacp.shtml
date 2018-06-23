@@ -1,0 +1,115 @@
+<!--#include file="metaheader.html"-->
+<title>Mapping Washington Labor and Civil Rights Movements</title>
+<link rel="stylesheet" type="text/css" href="xfade2_o.css" />
+<script type="text/javascript" src="xfade2.js"></script>
+<style type="text/css">
+<!--
+.greyboxnew {
+	background-color:#666;color:white;
+	padding:5px;
+	margin-bottom:5px;
+}
+
+.greyboxnew a, .redbox a:visited 
+{color:white;
+}
+.redboxnew {
+	background-color:#780000;color:white;
+	padding:5px;
+		margin-bottom:5px;
+}
+.redboxnew a, .redbox a:visited 
+{color:white;
+}
+.style20 {
+	font-size: xx-large;
+	font-weight: bold;
+}
+.style21 {font-size: 10pt}
+
+
+-->
+</style>
+</head>
+<body id="home">
+<table id="pagetable" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			  <a href="index.shtml"><img src="banner.jpg" width="1000" height="190" border="0"></a>
+			</div>
+			 <!--#include file="menu-top.shtml" -->
+		</td>
+	</tr>
+
+		<td>
+			<div id="content">
+			
+        	
+        
+
+			<div align="center">
+			   <p class="style20">Data Mapping the NAACP in Washington and Oregon</p>
+		  </div>
+			  <div>
+ 
+            <p>Many social movements come and go, but for more than a century the NAACP has maintained an organization that has been at center of struggles racial justice and civil rights. Founded in 1909, the National Association for the Advancement of Colored People set agendas and developed tactics that propelled the civil rights movement through the 20th century. Its first West Coast chapter opened in Tacoma in 1913 followed the next year by Seattle. Portand claimed a chapter in 1915, and 12 Walla Walla residents organized a branch in 1916, although it didn't seem to last. In 1920, chapters opened in Everett and Yakima. </p>
+				  <p> Despite the tiny African American population in Washington (6,883) and Oregon, the NAACP developed early and quickly made an impact. In 1914, Tacoma officers reported that the branch  had successfully lobbied the state legislature to stop passage of a law that would have banned mixed race marriages. Portland claimed success in its protest against discrimination at YMCA facilities in 1915. In 1916, several chapters prevented theaters from showing "Birth of a Nation." Activism would alternately surge and stall in the decades that followed, but the NAACP would provide a foundation for each generation's fight for civil rights. </p>
+          <p>Here we show the year by year spread of NAACP chapters and membership. For the early years we also reprint the branch activity reports that were published in the organization's annual reports, along with lists of branch officers.       
+                        Below are two visualizations. Below the map you will find a data table with year details about officers, members, and activities as reported in NAACP annual reports. These maps are hosted by <a href="https://public.tableau.com/profile/mapping.social.movements#!/">Tableau Public</a> and may take a few seconds to respond. If slow, refresh the page.</p>
+				
+            
+<div class='tableauPlaceholder' id='viz1525801341157' style='position: relative'><noscript><a href='http:&#47;&#47;depts.washington.edu&#47;labhist&#47;maps-naacp.shtml'><img alt='Dash years2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wa&#47;WashingtonNAACP1912-1977&#47;Dashyears2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='WashingtonNAACP1912-1977&#47;Dashyears2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wa&#47;WashingtonNAACP1912-1977&#47;Dashyears2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1525801341157');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+				  
+				  
+				  <h3> Complete Data table with branch reports</h3>
+				  
+				  
+				  <div class='tableauPlaceholder' id='viz1502489354175' style='position: relative'><noscript><a href='#'><img alt='dash data table ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wa&#47;WashingtonNAACPbranches1913-1964&#47;dashdatatable&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='WashingtonNAACPbranches1913-1964&#47;dashdatatable' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wa&#47;WashingtonNAACPbranches1913-1964&#47;dashdatatable&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1502489354175');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='944px';vizElement.style.height='829px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+				  
+<p><strong>Sources:</strong><em>N.A.A.C.P. Annual Reports</em>; <em>The Branch Bulletin</em>, and branch directories. Most are available in digital copies from Hathi Trust. Some are from ProQuest History Vault <em>Papers of the NAACP</em>.</p>
+<p><strong>Research and data compilation:</strong> Josue Estrada, Arianne Hermida</p>
+<p><strong>Maps:</strong> James Gregory</p>
+          
+
+  
+			
+		  
+		</table>
+		</td>
+	</tr>
+		
+			 
+			
+			
+			<div style="margin-bottom:10px;">
+			
+			
+       		
+			
+			
+       		
+			
+</div>
+
+  
+         
+		
+
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.html"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

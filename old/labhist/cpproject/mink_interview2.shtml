@@ -1,0 +1,53 @@
+<!--#include file="metaheader2.html"-->
+<title>Art Mink</title>
+
+</head>
+<body id="about">
+<table id="pagetable" border="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="http://depts.washington.edu/labhist/cpproject/logos/divide_rule6.jpg" usemap="#Map">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;">
+			<div id="navigation">
+			<!--#include file="menu.html"-->
+			</div>
+		</td>
+		<td>
+			<div id="content">
+			<h1>Art Mink </h1>
+			<img src="images/banner790.png" id="x"  style="border:0px !important;" alt="Click to view other segments of this interview" title="Click to view other segments of this interview"><br>
+			<iframe width="790" height="445" src="https://www.youtube.com/embed/5V-Qprtsl5o?list=PLrnclw6j_Mi9wFMd7klY4D4UrFNhN-Khp" frameborder="0" allowfullscreen></iframe>
+
+
+ <p>
+An activist, labor leader, and former member of the Communist Party USA, Art Mink was born and raised in rural Idaho. As a young man, he joined the ROTC and planned a career in military service. He was radicalized in the late 1930s by the apparent collapse of capitalism and by the Spanish Civil War, and joined the Communist Party in 1940 while a student at Boise Junior College. Mink moved with his wife to Seattle in 1942 where he served as a member of the executive board of the Northwest District Young Communist League and as a Party organizer in the Boilermaker's Union before being drafted into the Air Force.  He was stationed in the Philippines during World War II as a 1st Sergeant in a military hospital. From 1946-1948 Mink attended law school at the University of Washington and was campus organizer for the Communist Party. During this time he was also a member of the Bookbinders Union. He moved briefly to Los Angeles to work as an editor in a small publishing firm and to conduct Party work in southern California.</p>
+		    <p>Back in the Pacific Northwest, Mink began a new career on the waterfront, first as a warehouseman at a Seattle fish plant and ultimately as a longshoreman and a member of ILWU Local 19. He was active in union politics throughout his career. He worked on the Local 19 Stevedore Safety Committee for 5 years and served multiple terms as chairman of the Labor Relations Committee. In the mid 1950s Mink broke with the Communist Party and helped organize the rival Freedom Socialist Party. In 1971 he was elected Vice President of Local 19 and played an instrumental role in the union's historic strike that same year. Mink remained  active after retiring from the longshore and was a great friend of the Harry Bridges Center for Labor Studies. He died in 2011.</p>
+		    <p>Art Mink shared his memories of the Northwest District Communist Party and the ILWU in an interview with Daren Salter and Steve Beda on May 7, 2008. To the right are streaming-video excerpts of the interview.  Video editing by Daren Salter.</p>
+
+
+
+			<div style="clear:both;"></div>
+			</div>
+		</td>
+	</tr>
+
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.shtml"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

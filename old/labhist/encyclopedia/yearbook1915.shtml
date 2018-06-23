@@ -1,0 +1,920 @@
+<!--#include file="metaheader.html"-->
+<title>Labor Yearbook 1915</title>
+<link rel="stylesheet" type="text/css" href="xfade2_o.css" />
+<script type="text/javascript" src="xfade2.js"></script>
+</head>
+<body id="home">
+<table id="pagetable" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="header_logo.jpg" width="1000" height="189" border="0" usemap="#pnlcrp">
+			<map name="pnlcrp">
+              <area shape="rect" coords="326,5,847,33" href="http://depts.washington.edu/labhist">
+            </map>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td bordercolor="#000000" style="vertical-align:top;background-color:black;">
+			<div id="navigation">
+			  <!--#include file="menu.html"-->
+			</div>
+	  </td>
+		<td>
+			<div id="content">
+        <h1>Labor Events Yearbook: 1915</h1>
+        <div class="redboxsm">
+          <h2 align="center" style="color:white;"><strong><a href="yearbook_introduction.shtml">Yearbook Home</a></strong></h2>
+          <table id="redtable" border="0" cellpadding="0" cellspacing="3">
+            <tr>
+              <td><div align="center"><a href="yearbook1915.shtml"><strong>1915</strong></a></div></td>
+              <br>
+              <td><a href="yearbook1915.shtml"><img src="mages/yearbook-ufw2/1915-100x30.jpg" width="101" height="30" border="0"></a></a></span></td>
+            </tr>
+            <tr>
+              <td><div align="center"><a href="yearbook1918.shtml"><strong>1918</strong></a> </div></td>
+              <td><a href="yearbook1918.shtml"><img src="mages/yearbook-ufw2/1918-100x30.jpg" width="100" height="30" border="0"></a></td>
+            </tr>
+            <tr>
+              <td><div align="center"><a href="yearbook1919.shtml"><strong>1919</strong></a> </div></td>
+              <td><a href="yearbook1919.shtml"><img src="mages/yearbook-ufw2/1919-100x31.jpg" width="101" height="31" border="0"></a></td>
+            </tr>
+            <tr>
+              <td><div align="center"><a href="yearbook1930.shtml"><strong>1930</strong></a> </div></td>
+              <td><a href="yearbook1930.shtml"><img src="mages/yearbook-ufw2/1930-100x30.jpg" width="100" height="30" border="0"></a></td>
+            </tr>
+            <tr>
+              <td><div align="center"><a href="yearbook1931.shtml"><strong>1931</strong></a> </div></td>
+              <td><a href="yearbook1931.shtml"><img src="mages/yearbook-ufw2/1931-100x30.jpg" width="101" height="30"></a></td>
+            </tr>
+            <tr>
+              <td><div align="center"><a href="yearbook1932.shtml"><strong>1932</strong></a> </div></td>
+              <td><a href="yearbook1932.shtml"><img src="mages/yearbook-ufw2/1932-100x30.jpg" width="100" height="31" border="0"></a></td>
+            </tr>
+            <tr>
+              <td><div align="center"><a href="yearbook1933.shtml"><strong>1933</strong></a></div></td>
+              <td><a href="yearbook1933.shtml"><img src="mages/yearbook-ufw2/1933-100x30.jpg" width="101" height="30" border="0"></a></td>
+            </tr>
+            <tr>
+              <td><div align="center"><a href="yearbook1934.shtml"><strong>1934</strong></a></div></td>
+              <td><a href="yearbook1934.shtml"><img src="mages/yearbook-ufw2/1934-100x30.jpg" width="99" height="30" border="0"></a></td>
+            </tr>
+            <tr>
+              <td><div align="center"><a href="yearbook1935.shtml"><strong>1935</strong></a> </div></td>
+              <td><a href="yearbook1935.shtml"><img src="mages/yearbook-ufw2/1935-100x30.jpg" width="100" height="30" border="0"></a></td>
+            </tr>
+            <tr>
+              <td><div align="center"><a href="yearbook1936.shtml"><strong>1936</strong></a></div></td>
+              <td><a href="yearbook1936.shtml"><img src="mages/yearbook-ufw2/laborday100x30.jpg" width="100" height="30" border="0"></a></td>
+            </tr>
+            <tr>
+              <td><div align="center"><strong><a href="yearbook1937.shtml">1937</a></strong></div></td>
+              <td><a href="yearbook1937.shtml"><img src="mages/yearbook-ufw2/1937-100x30.jpg" width="100" height="29" border="0"></a></td>
+            </tr>
+            <tr>
+              <td><div align="center"><strong><a href="yearbook1938.shtml">1938</a></strong></div></td>
+              <td><a href="yearbook1938.shtml"><img src="mages/yearbook-ufw2/1938-100x30.jpg" width="100" height="30" border="0"></a></td>
+            </tr>
+            <tr>
+              <td><div align="center"><strong><a href="yearbook1939.shtml">1939</a></strong></div></td>
+              <td><a href="yearbook1939.shtml"><img src="mages/yearbook-ufw2/1939-100x29.jpg" width="100" height="29" border="0"></a></td>
+            </tr>
+          </table>
+        </div>
+        <p>This is a database of campaigns, strikes, and labor related events as recorded in the <em>Seattle Union Record </em> during 1915. It was researched by Jessica Hutton. Start by reading her labor highlights report. Below that is the database. Click the links to read the articles.
+        <h2>Highlights 1915 by Jessica Hutton</h2>
+        <DIV class=WordSection1>
+          <p>Seattle in 1915 was, according to a history of the city written by Richard Berner and Paul Dorpat, in a “transition from boomtown to maturing city.”<A title="" href="#_edn1" name=_ednref1><SPAN 
+class=MsoEndnoteReference> [1]</SPAN></SPAN></A> In the very first part of the twentieth century, Seattle went through a massive population growth and formally introduced itself to international commerce at the Alaska-Yukon Exhibition in 1909. By 1915, Seattleites were settling down into the rhythm of a city. Yet with the boom came the bust as unemployment rates escalated. The Washington state legislature was controlled by conservatives who passed  laws unfriendly to labor, exacerbating the situation. One way to follow these currents is to  survey  the states' most important labor newspaper, the <I>Seattle Union Record.</I></SPAN></P>
+          <DIV class=WordSection1>
+            <p> The <I>Seattle Union Record </I>was published by the Western Central Labor Union,  affiliated with the American Federation of Labor (AFL). The weekly newspaper had been founded in1901 and had an impressive circulation. It's editorial position was pro-labor and often pro-socialist but opposed to  the Industrial Workers of the World (IWW). It ran both local and national stories regularly and sometimes even reported on significant international events. The paper usually ran the length of eight pages, and included a page for coal miners, a page for local groups to report on meetings, and a page devoted to union-friendly businesses and to the week’s bowling scores. Midway through the year, “A Page for Women” was introduced and featured fashion and home-keeping advice. An important part of the reporting done was on labor strikes and protests. In 1915, major themes that resonated throughout the reporting of strikes and protests were the bad conditions strikers faced, the steadfastness of union men and women, and contempt for the legislature, authority, and scabs. Major events that warranted coverage over the year included both in-state and national events: the Centralia strike in the early part of the year, the Everett timber workers strike, the King County road workers strikes, and the eastern Ohio coal workers strike that lasted through the first half of 1915. </SPAN></P>
+         
+			<a href="#" onclick="toggleview('desc');return false;">[read full report/close report]</a></p>   <dr>     
+        <div id="desc" style="display:none;"></p> <p></p>
+            <p>The strike of Easter Railway and Lumber Company workers in Centralia garnered much attention from the <I>Seattle Union Record</I> in the early part of the year. Though the strike began in April the year before, the paper continued to cover it until it came to an end in March. The coverage of the strike was consistently positive. Unsurprisingly, support of strikers and their cause was symptomatic of the <I>Seattle Union Record</I>’s coverage of strikes. Many of the articles about the Centralia strike mentioned donations of money, gifts, food and supplies by various trade unions and groups to support the demonstrators. The character of the workers was also emphasized in reporting by using language that exalted the men and women suffering for their cause. For example, in a January 9<SUP>th</SUP> article, a writer for the <I>Seattle Union Record</I> proclaimed, “I have had to do with many strikers in the last thirty years and have seen many groups of workers ‘under fire’ but for whole-hearted, sincere and cool-headed class solidarity the Centralia strikers are the ‘limit’.”<A title="" href="#_edn2" name=_ednref2><SPAN 
+class=MsoEndnoteReference> [2]</SPAN></SPAN></A> Solidarity was a big word in the labor movement and this author was paying the Centralia strikers a major compliment. </SPAN></P>
+          <p>The second major event of 1915 covered by the paper was the eastern Ohio Coal strike, which also commenced in April the year before. Again, the coverage of the strike emphasized the strikers’ stoicism and often called for support and shows of solidarity. As in the Centralia strike at home, support for the strikers in eastern Ohio was called for by articles in the paper, regardless of Ohio’s distant geographic location from the Pacific Northwest. In the April 3<SUP>rd</SUP> issue, a letter from Ohio asked local unions for financial aid.<A title="" href="#_edn3" name=_ednref3><SPAN 
+class=MsoEndnoteReference> [3]</SPAN></SPAN></A> By running the letter, the <I>Seattle Union Record</I> urged its readers to assist the struggling eastern Ohio coal miners. The ideal of solidarity was particularly emphasized in one article where the reporter enjoined his readers that “They [the coal workers] are fighting <I>your</I> [italics mine]<I> </I>battle as well as their own.”<A title="" href="#_edn4" 
+name=_ednref4><SPAN class=MsoEndnoteReference> [4]</SPAN></SPAN></A> Even though the strike was taking place across the county, the writer emphasized a connection with local, Washington readers. The <I>Seattle Union Record </I>often reported on national strikes and protests during 1915, emphasizing a connection between all labor unions and drawing on the idea of a national membership base. </SPAN></P>
+            <p> The timber workers strike in Everett was the subject of major coverage from March until June. This strike and the coverage by the paper marked the lead up to the important shingle workers strike that culminated in the Everett Massacre of 1916. In the shingle workers’ strike, as in the Centralia strike, other unions generously provided the strikers with aid and support. Notably, the women’s Card and Label League provided major assistance, an indication of the vital role women played in the labor movement. When the Everett strikers announced their plan to run the shingle mill as a co-op in May, the <I>Seattle Union Record</I> declared the strike a success, boldly running the headline, “Shingle Workers Find a Way Out.”<A title="" href="#_edn5" name=_ednref5><SPAN 
+class=MsoEndnoteReference> [5]</SPAN></SPAN></A> The <I>Seattle Union Record </I>prematurely celebrated the Everett strike, but it makes sense that the paper wanted to publish more stories about unions winning strikes than about unions in the grip of a stalemate, or worse yet, unions losing their strike. The <I>Seattle Union Record</I> understandably put an emphasis on victory. </SPAN></P>
+            <p> Late in the year the biggest news story was the <I>Seattle Union Record’s </I>protest of working conditions and pay for the laborers of King County roads. Long, front-page articles chronicled the struggle for better pay and working conditions for a short five-week span. Interestingly, the paper claimed responsibility for the success of the strike in early May with a bold, front-page headline proclaiming, “Seattle Union Record Wins for Road Slaves”.<A title="" href="#_edn6" name=_ednref6><SPAN 
+class=MsoEndnoteReference> [6]</SPAN></SPAN></A> The paper again demonstrated its drive for labor movement success. </SPAN></P>
+            <p> Many other small-scale strikes and protests were reported over the year. Strikes occurred  frequentlin</SPAN> the early months, especially January, February, and March. As the year wore on, strikes seemed much more sporadic. Articles about strikes and protests were sparsest in August, September, and October. Activity picked up again in November and December. Among the strikes recorded during the year were  were</SPAN> the Issaquah mine workers strike and Matzen lock out in January, a strike by Arizona miners and Port Angeles (Washington) timber workers in February, the barbers’ union’s protest for shorter work days and the longshoremen lock out in March, the Springfield street car strike in April, Colorado mine workers’ trials of strikers in May, a telegrapher’s strike in St. Louis in June, the striking of Welsh miners unhappy with the Great War raging in Europe and how the legislature was threatening the eight-hour law in July, a Seattle bakers’ strike in August, an anti-picketing injunction given in October, the Chicago garment workers’ strike in November, and, finally, a protest on the Fox company and the Seattle construction workers’ protests in December. The list demonstrates the breadth and variety of strike and protest coverage of non-major events by the <I>Seattle Union Record</I>. Clearly, the paper dealt with local, national, and even global labor events. </SPAN></P>
+            <p> One major theme throughout the <I>Seattle Union Record</I>’s reporting was contempt for state authority both in the legislature and the police. According to  Berner</SPAN> and  Dorpat</SPAN>, the Washington state legislature in 1915 was filled with businessmen who strove to “render the labor movement ineffective.”<A title="" href="#_edn7" 
+name=_ednref7><SPAN class=MsoEndnoteReference> [7]</SPAN></SPAN></A> Outrage over the legislators was certainly reflected in the paper’s reporting during 1915. In one editorial entitled, “Write Your Representatives”, the author explained to readers that, “A great deal of the labor legislation enacted into law…is in danger of crippling amendment or repeal by the reactionary legislation that the people were hoodwinked into electing last year.”<A title="" href="#_edn8" 
+name=_ednref8><SPAN class=MsoEndnoteReference> [8]</SPAN></SPAN></A> Undoubtedly, the paper and those who supported labor unions were dissatisfied with their lawmakers. </SPAN></P>
+            <p> Equally apparent was a wariness of policemen and police authority. Because they were often used as strikebreakers, the police was distrusted. Instances of police brutality were often reported in the paper, perpetuating distrust. In an article on the Centralia strike, police violence towards the strikers was reported. The article described one policeman as a “big brute,”<A title="" href="#_edn9" 
+name=_ednref9><SPAN class=MsoEndnoteReference> [9]</SPAN></SPAN></A> an adequate portrayal of the <I>Union  Record<SPAN style="FONT-STYLE: normal">’s feelings</SPAN></SPAN></I> towards the police. In one seemingly contradictory editorial published in February, a reporter for the <I>Seattle Union Record</I> advocated for the police, saying that they could be great allies for the unions much like the police force in Europe. Importantly, though, he described the current sentiment towards the police: “The behavior of policemen … in labor troubles has, to a certain extent, justified the hostility we continue to harbor towards them.”<A title="" href="#_edn10" name=_ednref10><SPAN 
+class=MsoEndnoteReference> [10]</SPAN></SPAN></A> <I> </I>The paper and the unions did not place much stock in governmental authorities during 1915. </SPAN></P>
+            <p> Another theme continually discussed by the <I>Seattle Union Record</I> was a loathing of “scabs”: Workers who labored for companies while unionized men and women were on strike. When scabs were mentioned in <I>Seattle Union Record</I> articles of 1915, it was usually negative. One article in March, “The Scab,” was dedicated to outlining the reasons to deplore such workers. According to the first lines of the article, scabs originated “After God had finished the rattlesnake, the toad and  vampire,</SPAN> he had some awful ‘substance’ left with which he made a scab.”<A title="" href="#_edn11" 
+name=_ednref11><SPAN class=MsoEndnoteReference> [11]</SPAN></SPAN></A> The description was not flattering, and neither were the unfortunate scabs’ other mentions in the paper. In one article reporting on a worker lock out in January, scab workers were blamed for, “take[ ing</SPAN>] the bread and butter out of the mouths of the members of six large families.”<A title="" href="#_edn12" name=_ednref12><SPAN 
+class=MsoEndnoteReference> [12]</SPAN></SPAN></A> During the reporting on the Centralia strike, scabs were called “traitors to their class.”<A title="" href="#_edn13" name=_ednref13><SPAN 
+class=MsoEndnoteReference> [13]</SPAN></SPAN></A> One of the regular columns of the paper, “Coal Dust”, explained that unsuccessful strikes were “due to the ignorance and cupidity of the working class. If capital were unable to recruit strikebreakers [scabs] from the ranks of labor, no strike would ever be lost.”<A title="" href="#_edn14" name=_ednref14><SPAN 
+class=MsoEndnoteReference> [14]</SPAN></SPAN></A> Scabs were an unsurprising and convenient scapegoat often used by the paper. </SPAN></P>
+            <p> In comparison to scabs, the <I>Seattle Union Record</I> glorified strikers and their protests throughout 1915. Though harsh conditions were certainly not minimized, the stoicism of the strikers was played up. In an article proclaiming the Washington State Federation of Labor’s support for the Centralia strike, the paper described the strike as a “gallant fight to establish the fundamental principal of unionism.”<A title="" href="#_edn15" 
+name=_ednref15><SPAN class=MsoEndnoteReference> [15]</SPAN></SPAN></A> This sort of language and the emphasis on the remarkable endurance of union members created a positive image of the labor movement and encouraged support from the readership.</SPAN></P>
+            <p> In the same vein, the harsh conditions strikers faced <SPAN class=GramE>was</SPAN> often dwelled upon in <I>Seattle Union Record</I> articles about strikes in 1915. Many articles appealed to unions to donate money or goods, and many articles reported such donations aimed at getting strikers through tough economic periods. In addition, homelessness and starvation were concerns that were often brought up. The <I>Seattle Union Record</I> included reports of strikers who were often threatened with bodily harm, such as the incident where someone set a firecracker on a union man picketing a Seattle theater.<A title="" href="#_edn16" name=_ednref16><SPAN 
+class=MsoEndnoteReference> [16]</SPAN></SPAN></A> Because the <I>Seattle Union Record</I> emphasized the danger and hardships involved in striking, unions enjoyed even more feel-good glory when they won strikes. </SPAN></P>
+          <p>Through the various themes in the <I>Seattle Union Record</I>’s reporting of strikes and protests in 1915, we can surmise certain things about economic and social relationships in Washington  state</SPAN> and the city of Seattle. The common themes from 1915 were stoicism of strikers, disapproval of the state business-run legislature and the state’s authority conduit of the police force, and the scapegoating of scab workers. From the arguments made in the <I>Seattle Union Record</I><SPAN class=GramE>, we</SPAN> are able to perceive the unequal balance between labor and state power that encouraged the paper’s views. The major events of the year––and the coverage of them emphasizing solidarity and support––provide a further base to draw larger conclusions about the place of the labor movement in 1915 Seattle. The events that received the most coverage during the year included the Centralia mine workers strike, the Everett timber workers strike, the King County road workers protests, and the eastern Ohio coal workers strike. The impression given by the <I>Seattle Union Record</I>’s coverage of these major events suggests that strikes were usually effective and unions held some, if not impressive, power with employers and big companies. In the end, the big-business focused Washington state government won out in 1915, though the labor movement remained alive at the commencement of 1916. </SPAN></P>
+      
+          <BR clear=all>
+          <HR align=left SIZE=1 width="33%">
+          <DIV id=edn1>
+            <P class=MsoEndnoteText><A title="" 
+href="#_ednref1" name=_edn1><SPAN class=MsoEndnoteReference>  [1]</SPAN></SPAN></SPAN></A>  Richard  Berner and Paul Dorpat, <I>Seattle 1900-1920:  From Boom Town through Urban Turbulence, to Restoration</I>, vol. 1 (Seattle: Charles Press, 2010), 91. <I></I></SPAN></P>
+          </DIV>
+          <DIV id=edn2>
+            <P class=MsoEndnoteText><A title="" 
+href="#_ednref2" name=_edn2><SPAN class=MsoEndnoteReference>  [2]</SPAN></SPAN></SPAN></A>  “Centralia Strike.” <I>Seattle Union Record. </I>January 9, 1915.</SPAN></P>
+          </DIV>
+          <DIV id=edn3>
+            <P class=MsoEndnoteText><A title="" 
+href="#_ednref3" name=_edn3><SPAN class=MsoEndnoteReference>  [3]</SPAN></SPAN></SPAN></A>  “Aid Needed in Eastern Ohio.” <I>Seattle Union Record. </I>April 3, 1915. Pg. 2. </SPAN></P>
+          </DIV>
+          <DIV id=edn4>
+            <P class=MsoEndnoteText><A title="" 
+href="#_ednref4" name=_edn4><SPAN class=MsoEndnoteReference>  [4]</SPAN></SPAN></SPAN></A>  “The Situation in Eastern Ohio.” <I>Seattle Union Record. </I>January 9, 1915.</SPAN></P>
+          </DIV>
+          <DIV id=edn5>
+            <P class=MsoEndnoteText><A title="" 
+href="#_ednref5" name=_edn5><SPAN class=MsoEndnoteReference>  [5]</SPAN></SPAN></SPAN></A>  “Shingle Workers Find a Way Out.” </SPAN><I> Seattle Union Record. </SPAN></I><SPAN style="LINE-HEIGHT: 115%; FONT-SIZE: 11pt">May 8, 1915. Pg. 1.</SPAN></P>
+          </DIV>
+          <DIV id=edn6>
+            <P class=MsoEndnoteText><A title="" 
+href="#_ednref6" name=_edn6><SPAN class=MsoEndnoteReference>  [6]</SPAN></SPAN></SPAN></A>  “Seattle Union Record Wins for Road Slaves.” </SPAN><I> Seattle Union Record. </SPAN></I><SPAN style="LINE-HEIGHT: 115%; FONT-SIZE: 11pt">May 8, 1915. Pg. 1.</SPAN></P>
+          </DIV>
+          <DIV id=edn7>
+            <P class=MsoEndnoteText><A title="" 
+href="#_ednref7" name=_edn7><SPAN class=MsoEndnoteReference>  [7]</SPAN></SPAN></SPAN></A>  Berner and Paul Dorpat, 115. </SPAN></P>
+          </DIV>
+          <DIV id=edn8>
+            <P class=MsoEndnoteText><A title="" 
+href="#_ednref8" name=_edn8><SPAN class=MsoEndnoteReference>  [8]</SPAN></SPAN></SPAN></A>  “Write Your Representatives.” </SPAN><I> Seattle Union Record. </SPAN></I> February 6, 1915.</SPAN></P>
+          </DIV>
+          <DIV id=edn9>
+            <P class=MsoEndnoteText><A title="" 
+href="#_ednref9" name=_edn9><SPAN class=MsoEndnoteReference>  [9]</SPAN></SPAN></SPAN></A>  “Centralia Strike.” </SPAN><I> Seattle Union Record. </SPAN></I> January 9, 1915.</SPAN></P>
+          </DIV>
+          <DIV id=edn10>
+            <P class=MsoEndnoteText><A title="" 
+href="#_ednref10" name=_edn10><SPAN class=MsoEndnoteReference>  [10]</SPAN></SPAN></SPAN></A>  “Labor Movement Must Change Its Tactics.” </SPAN><I> Seattle Union Record. </SPAN></I><SPAN style="LINE-HEIGHT: 115%; FONT-SIZE: 11pt"> February 20, 1915. Pg. 2.</SPAN></P>
+          </DIV>
+          <DIV id=edn11>
+            <P class=MsoEndnoteText><A title="" 
+href="#_ednref11" name=_edn11><SPAN class=MsoEndnoteReference>  [11]</SPAN></SPAN></SPAN></A>  “The Scab.” </SPAN><I> Seattle Union Record. </SPAN></I><SPAN style="LINE-HEIGHT: 115%; FONT-SIZE: 11pt">March 6, 1915. Pg. 3.</SPAN></P>
+          </DIV>
+          <DIV id=edn12>
+            <P class=MsoEndnoteText><A title="" 
+href="#_ednref12" name=_edn12><SPAN class=MsoEndnoteReference>  [12]</SPAN></SPAN></SPAN></A>  “ Matzen Seeks An Injunction.” </SPAN><I> Seattle Union Record. </SPAN></I> January 9, 1915.</SPAN></P>
+          </DIV>
+          <DIV id=edn13>
+            <P class=MsoEndnoteText><A title="" 
+href="#_ednref13" name=_edn13><SPAN class=MsoEndnoteReference>  [13]</SPAN></SPAN></SPAN></A>  “Centralia Strike.” </SPAN><I> Seattle Union Record. </SPAN></I> January 9, 1915.</SPAN></P>
+          </DIV>
+          <DIV id=edn14>
+            <P class=MsoEndnoteText><A title="" 
+href="#_ednref14" name=_edn14><SPAN class=MsoEndnoteReference>  [14]</SPAN></SPAN></SPAN></A>  “Coal Dust.” </SPAN><I> Seattle Union Record. </SPAN></I> January 16, 1915.</SPAN></P>
+          </DIV>
+          <DIV id=edn15>
+            <P class=MsoEndnoteText><A title="" 
+href="#_ednref15" name=_edn15><SPAN class=MsoEndnoteReference>  [15]</SPAN></SPAN></SPAN></A>  “State Convention Acts Circular to Members.” </SPAN><I> Seattle Union Record. </SPAN></I><SPAN style="LINE-HEIGHT: 115%; FONT-SIZE: 11pt"> February 13, 1915. Pg. 5.</SPAN> </P>
+          </DIV>
+          <DIV id=edn16>
+            <P class=MsoEndnoteText><A title="" 
+href="#_ednref16" name=_edn16><SPAN class=MsoEndnoteReference>  [16]</SPAN></SPAN></SPAN></A>  “Rowdies Attack Union Picketers.” </SPAN><I> Seattle Union Record. </SPAN></I> July 10, 1915. Pg. 1. </SPAN></P>
+              </DIV>
+			      </DIV>
+				      </DIV>
+		  
+		  
+		    <P class=MsoEndnoteText>&nbsp;</P>
+           <table id="datatable">
+              <tr>
+                <td width="67" class="summary">DATE</td>
+                <td width="580" class="summary">ARTICLE TITLE</td>
+                <td width="117" class="byline">NEWSPAPER</td>
+              </tr>
+             
+              <tr>
+                <td align="right" class="summary">2-Jan-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/January%202/clothing-trades-face-great-strike_jan2.jpg">&quot;Clothing Trades Face Great Strike&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">2-Jan-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/January%202/Ladies'-garmet-workers-enjoined_jan2.jpg">&quot;Ladies' Garment Workers Enjoined&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">2-Jan-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/January%202/stockton-labor-war-is-ended_jan2.jpg">&quot;Stockton Labor War is Ended&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">2-Jan-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/January%202/Children-Made-Happy-by-Gifts_jan2.jpg">&quot;Children Made Happy By Gifts&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">9-Jan-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/January%209/centralia-strike_jan9.jpg">&quot;Centralia Strike Still Holds On&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">9-Jan-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/January%209/matzen-seeks-an-injuction_jan9.jpg">&quot;Matzen Seeks An Injunction&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">9-Jan-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/January%209/strike-settled-in-two-tacoma-shops_jan9.jpg">&quot;Strike Settled in Two Tacoma Shops&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">16-Jan-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/January%2016/coal-dust_jan-16.jpg">&quot;Coal Dust&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">16-Jan-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/January%2016/District-Notes_jan-16.jpg">&quot;District Notes&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">16-Jan-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/January%2016/Council-asked-to-call-meeting_jan16.jpg">&quot;Council Asked to Call Meeting&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">16-Jan-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/January%2016/culinary-crafts-of-salt-lake-win_jan16.jpg">&quot;Culinary Crafts of Salt Lake Win&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">16-Jan-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/January%2016/publishers-go-back-on-pledge_1of2_jan16.jpg">&quot;Publishers Go Back on Pledge&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">16-Jan-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/January%2016/strikebreakers-destroy-property_jan16.jpg">&quot;Strikebreakers Destroy Property&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">16-Jan-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/January%2016/striking-mine-workers-want-to-purchase-plant_jan-16.jpg">&quot;Striking Mine Workers Want to Purchase Plant&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">16-Jan-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/January%2016/support-the-ohio-strikers_jan-16.jpg">&quot;Support the Ohio Strikers&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">16-Jan-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/January%2016/the-situation-in-eastern-ohio_jan-16.jpg">&quot;The Situation in Eastern Ohio&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">23-Jan-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/January%2023/district-notes_jan23.jpg">&quot;District Notes&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">23-Jan-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/January%2023/avoid-riding-on-harriman-lines_jan23.jpg">&quot;Avoid Riding on Harriman Lines&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">23-Jan-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/January%2023/centralia-strikers-warmly-welcomed-at-labor-gathering_jan23.jpg">&quot;Centralia Strikers Warmly Welcomed at Labor Gathering&quot; </a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">23-Jan-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/January%2023/metal-polishers-forced-to-strike_jan23.jpg">&quot;Metal Polishers Forced to Strike&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">23-Jan-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/January%2023/to-continue-fight-for-eight-hour-day_1of2_jan23.jpg">&quot;To Continue Fight for Eight-Hour Day&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">23-Jan-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/January%2023/twenty-two-deputy-sheriffs-held-for-shooting-strikers_jan23.jpg">&quot;Twenty-two Deputy Sheriffs Held for Shooting Strikers&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">23-Jan-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/January%2023/two-years'-strike-brought-to-end_jan23.jpg">&quot;Two Years' Strike Brought to End&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">23-Jan-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/January%2023/waitresses-put-up-strong-fight_jan23.jpg">&quot;Waitresses Put Up Strong Fight&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">30-Jan-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/January%2030/District-notes_Jan30.jpg">&quot;District Notes&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">30-Jan-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/January%2030/Centralia-strike_Jan30.jpg">&quot;Centralia Strike&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">30-Jan-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/January%2030/Council-fights-for-8-hour-law_1of2_Jan30.jpg">&quot;Council Fights for 8-Hour Law&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">30-Jan-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/January%2030/Theatrical-unions-fight-blue-laws_Jan30.jpg">&quot;Theatrical Unions Fight Blue Laws&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">6-Feb-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/February%206/Arizona-miners-win-short-strike_Feb6.jpg">&quot;Arizona Miners Win Short Strike&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">6-Feb-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/February%206/Attempt-to-avoid-strikes-for-three-years-in-Chiago_Feb6.jpg">&quot;Attempt to Avoid Strikes for Three Years in Chicago&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">6-Feb-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/February%206/Centralia-strikers-will-get-aid-from-state-labor-unions_Feb6.jpg">&quot;Centralia Strikers Will Get Aid From State Labor Unions&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">6-Feb-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/February%206/Fight-on-woman's-eight-hour-law_Feb6.jpg">&quot;Fight on Woman's Eight-Hour Law&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">6-Feb-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/February%206/Interests-would-repeal-all-eight-hour-legislation_Feb6.jpg">&quot;Interest Would Repeal All Eight-Hour Legislation&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">6-Feb-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/February%206/Jersey-solons-will-probe-strike-riot_Feb6.jpg">&quot;Jersey Solons Will Probe Strike Riot&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">6-Feb-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/February%206/Locked-out-prints-start-own-paper_Feb6.jpg">&quot;Locked-Out Prints Start Own Paper&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">6-Feb-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/February%206/Ohio-coal-strike-to-be-arbitrated_Feb6.jpg">&quot;Ohio Coal Strike to be Arbitrated&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">6-Feb-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/February%206/The-protest-from-Issaquah_Feb6.jpg">&quot;The Protest From Issaquah&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">6-Feb-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/February%206/Write-your-representatives_Feb6.jpg">&quot;Write Your Representatives&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">13-Feb-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/February%2013/joint-hearing-on-eight-hour-law-at-olympia_feb13_1.jpg">&quot;Joint Hearing on Eight Hour Law at Olympia&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">13-Feb-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/February%2013/Centralia-strikers-need-you-help---watch-the-legislature-if-you-value-you-labor-statues_Feb13_4.jpg">&quot;Centralia Strikers Need Your Help––Watch the Legislature If You Value Your Labor Statues&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">13-Feb-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/February%2013/state-convention-acts-circular-to-members_Feb13_5.jpg">&quot;State Convention Acts Circular to Members&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">13-Feb-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/February%2013/striker-goes-into-business_Feb13_5.jpg">&quot;Striker Goes Into Business&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">20-Feb-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/February%2020/Centralia-Strike_Feb20_1.jpg">&quot;The Centralia Strike&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">20-Feb-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/February%2020/Labor-Movement-must-change-its-tactics_Feb20_2.jpg">&quot;Labor Movement Must Change Its Tactics&quot; </a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">20-Feb-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/February%2020/Waitresses-help-centralia-strikers_Feb20_5.jpg">&quot;Waitresses Help Centralia Strikers&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">20-Feb-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/February%2020/The-situation-in-New-Orleans_Feb20_8.jpg">&quot;The Situation in New Orleans&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">27-Feb-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/Feburary%2027/Carpenters-local-131_feb27_5.jpg">&quot;Carpenters Local 131&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">27-Feb-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/Feburary%2027/Timberworkers-settle-strike_Feb27_9.jpg">&quot;Timberworkers Settle Strike&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">6-Mar-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/March%206/Centralia-Strike_March6_1.jpg">&quot;The Centralia Strike&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">6-Mar-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/March%206/Fairmont-coal-fields-in-grip-of-great-'trike_March6_1.jpg">&quot;Fairmont Coal Fields in Grip of Great [S]Trike&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">6-Mar-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/March%206/New-Orleans-prints-recieve-support_march6_1.jpg">&quot;New Orleans Prints Receive Support&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">6-Mar-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/March%206/District-notes-by-K_March6_2.jpg">&quot;District Notes&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">6-Mar-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/March%206/The-scab_March6_3.jpg">&quot;The Scab&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">6-Mar-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/March%206/One-day-rest-in-seven_March-6_6.jpg">&quot;One Day Rest in Seven&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">13-Mar-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/March%2013/Centralia-strike-comes-to-an-end_March13_1.jpg">&quot;Centralia Strike Comes to an End&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">13-Mar-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/March%2013/Shingle-manufactures-strike-blow-at-Everett-workmen---labor-movement-of--city-takes-up-the-fight_march13-3.jpg">&quot;Shingle Manufactures Strike Blow at Everett Workmen––Labor Movement of City Takes Up the Fight&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">13-Mar-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/March%2013/Barbers-want-shorter-workday_March13_5.jpg">&quot;Barbers Want Shorter Workday&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">20-Mar-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/March%2020/Longshoremen-locked-out_March-20_1.jpg">&quot;Longshoremen Locked Out&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">20-Mar-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/March%2020/Timeber-workers-are-optomistic_March-20_1.jpg">&quot;Timberworkers Are Optimistic&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">20-Mar-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/March%2020/Kentucky-coal-strike-is-settled_March20_2.jpg">&quot;Kentucky Coal Strike Is Settled&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">20-Mar-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/March%2020/Wilson-to-tackle-ohio-coal-strike_March-20_2.jpg">&quot;Wilson to Tackle Ohio Coal Strike&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">27-Mar-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/March%2027/big-protest-mass-meeting_March27_1.jpg">&quot;Big Protest Mass Meeting&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">27-Mar-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/March%2027/Appeal-for-aid-for-colorado_march27_2.jpg">&quot;Appeal for Aid for Colorado&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">27-Mar-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/March%2027/Strikers-winning-in-eastern-ohio_March27_2.jpg">&quot;Strikers Winning in Eastern Ohio&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">27-Mar-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/March%2027/The-ohio-situation_march27_2.jpg">&quot;The Ohio Situation&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">27-Mar-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/March%2027/Dislike-being-called-scabs_March27_8.jpg">&quot;Dislike Being Called Scabs&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">3-Apr-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/April%203/A%20splendid%20demonstration_April3_1.jpg">&quot;A Splendid Demonstration&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">3-Apr-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/April%203/Timberworkers%20strike%20in%20everett_April3_1.jpg">&quot;Timberworkers Strike in Everett&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">3-Apr-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/April%203/Aid%20needed%20in%20Eastern%20Ohio_April3_2.jpg">&quot;Aid Needed in Eastern Ohio&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">3-Apr-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/April%203/Eastern%20Ohio%20mine%20workers%20round%20out%20year%20of%20scrifice%20to%20win%20mine%20run%20system%20for%20which%20they%20have%20fought%20since%2083_April3_2.jpg">&quot;Eastern Ohio Mine Workers Round Out Year of Sacrifice to Win Mine Run System For Which They Have Fought Since '83&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">3-Apr-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/April%203/springfield%20in%20street%20car%20strike_April3_5.jpg">&quot;Springfield in Street Car Strike&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">10-Apr-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/April%2010/Real-slavery-on-king-county-roads_april10_1.jpg">&quot;Real Slavery on King County Roads&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">10-Apr-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/April%2010/Timberworkers-asking-aid-for-convicted-men_April10_1.jpg">&quot;Timberworkers Asking Aid for Convicted Men&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">10-Apr-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/April%2010/Waterfront-troubles-in-city-of-tacoma_April10_2.jpg">&quot;Waterfront Troubles in City of Tacoma&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">10-Apr-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/April%2010/street-car-strike-off_april10_3.jpg">&quot;Street Car Strike Off&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">10-Apr-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/April%2010/Longshoremen-raise-boycott_April10_8.jpg">&quot;Longshoremen Raise Boycott&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">10-Apr-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/April%2010/strike-on-in-New-York-state_April10_8.jpg">&quot;Strike On in New York State&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">17-Apr-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/April%2017/Deplorable%20conditions%20of%20work%20on%20king%20county%20roads_April%2017_1.jpg">&quot;Deplorable Conditions of Work on King County Roads&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">24-Apr-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/April%2024/Everett%20mill%20men%20adopt%20colorado%20tactics_April24_6.jpg">&quot;Everett Mill Men Adopt Colorado Tactics––Tacoma Has Union Revival––New Vice-President in Sixth District––Referendum Campaign Opens&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">1-May-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/May%201/Call-Strike-on-McHugh-and-Brice_May1_1.jpg">&quot;Call Strike on McHugh and Brice&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">1-May-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/May%201/Mill-Owners'-Gunmen-in-Roit_May1_1.jpg">&quot;Mill Owners' Gunmen in Riot&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">1-May-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/May%201/Trial-of-board-member-lawson-the-pivotal-colorado-strike-case_May1_2.jpg">&quot;Trial of Board Member Lawson the Pivotal Colorado Strike Case&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">1-May-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/May%201/Unorganized-Wage-Slaves-are-Driven-to-Rebel_May1_2_2of2.jpg">&quot;Unorganized Wage Slaves are Driven to Rebel&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">8-May-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/May%208/Chiago-iron-workers-strike_May8_1.jpg">&quot;Chicago Iron Workers Strike&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">8-May-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/May%208/General-Council-protest-against-lawson-verdict_May8_1.jpg">&quot;Central Council Protest Against Lawson Verdict&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">8-May-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/May%208/Shingle-workers-find-a-way-out_May-8_1.jpg">&quot;Shingle Weavers Find a Way Out&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">8-May-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/May%208/Union-record-wins-for-road-slaves_May8_1.jpg">&quot;Seattle Union Record Wins for Road Slaves&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">8-May-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/May%208/Arrest-demanded-of-mine-operators-in-strike-cases_May8_2.jpg">&quot;Arrest Demanded of Mine Operators in Strike Cases&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">15-May-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/May%2015/War-is-murder-unions-protest_May-15_1.jpg">&quot;War Is Murder Unions Protest&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">15-May-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/May%2015/N.Y.-unions-favor-'war-strike'_May15_3.jpg">N.Y. Unions Favor 'War Strike'&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">15-May-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/May%2015/Editoral-'It-shall-not-be'_May15_4.jpg">Editorial: &quot;It Shall Not Be&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">15-May-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/May%2015/Progress-in-the-everett-strike_May15_8.jpg">&quot;Progress in the Everett Strike&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">22-May-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/May%2022/The%20victory%20in%20Eastern%20Ohio_May22_2.jpg">&quot;The Victory in Eastern Ohio&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">22-May-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/May%2022/Ladies'%20Grament%20Workers%20protest%20leader's%20Arrest_May22_4.jpg">&quot;Ladies' Garment Workers Protest Leader's Arrest&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">29-May-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/May%2029/Echos-of-the-Island-strike_May29_3.jpg">&quot;Echoes of the Island Strike&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">29-May-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/May%2029/Strike-assesment-to-be-discontinued_May29_3.jpg">&quot;Strike Assessment To Be Discontinued&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">5-Jun-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/June%205/Let-Seattle-Rebuke-her-own-gangsters_June5_1.jpg">&quot;Let Seattle Rebuke Her Own Gangsters&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">5-Jun-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/June%205/Telegraphers-out-in-st.-lewis_June5_1.jpg">&quot;Telegraphers Out in St. Louis&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">5-Jun-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/June%205/Zion-city-lace-makers-strike_June5_2.jpg">&quot;Zion City Lace Makers Strike&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">5-Jun-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/June%205/London-strike-brought-to-end_June5_3.jpg">&quot;London Strike Brought to End&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">12-Jun-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/June%2012/Refferendum%20is%20complete%20success_June%2012_1.jpg">&quot;Referendum Is Complete Success&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">12-Jun-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/June%2012/Denver%20Thousands%20condem%20verdict_June12_3.jpg">&quot;Denver Thousands Condemn Verdict&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">19-Jun-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/June%2019/Everett%20mill%20men%20form%20new%20plot_June19_3.jpg">&quot;Everett Mill Men Form New Plot&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">26-Jun-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/June%2026/Plain%20talk%20to%20trades%20unionists'%20of%20washington_June26_6.jpg">&quot;Plain Talk to Trades Unionists' of Washington&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">3-Jul-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/July%203/Fight%20against%20evasion%20of%20the%20eight-hour%20law_July3_1.jpg">&quot;Fight Against Evasion of the Eight-Hour Law&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">10-Jul-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/July%2010/Gunman-Cow-Mexican-Strikers_July10_1.jpg">&quot;Gunmen Cow Mexican Strikers&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">10-Jul-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/July%2010/Rowdies-attack-union-pickets_July10_1.jpg">&quot;Rowdies Attack Union Pickets&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">10-Jul-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/July%2010/Rowdies-attack-union-pickets_July10_1.jpg">&quot;The Truth About the Carpenters' Chicago Strike&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">10-Jul-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/July%2010/Ohio-Miners-are-to-assess_July10_2.jpg">&quot;Ohio Miners Are to Assess&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">17-Jul-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/July%2017/Carpenters-of-chicago-victors_July17_1.jpg">&quot;Carpenters of Chicago Victors&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">17-Jul-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/July%2017/Chicago-carmen-win-their-strike_July17_1.jpg">&quot;Chicago Carmen Win Their Strike&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">17-Jul-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/July%2017/Rhode-Island-trolly-strike_July17_1.jpg">&quot;Rhode Island Trolley Strike&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">17-Jul-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/July%2017/Stress-of-war-duty-brings-about-strikes_July17_1.jpg">&quot;Stress of War Duty Brings About Strikes&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">24-Jul-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/July%2024/Rockefeller%20takes%20his%20gunmen%20east%20and%20murders%20men%20and%20children_July24_1.jpg">&quot;Rockefeller Takes His Gunmen East and Murders Men and Children&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">7-Aug-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/August%207/Telephone-girls-strike-in-New-York_Aug7_1.jpg">&quot;Telephone Girls Strike in New York&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">7-Aug-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/August%207/Levinson-slave-works-eighty-four-hours-for-twelve-dollar-wage-in-seattle_Aug7_.jpg">&quot;Levinson Slave Works Eighty-Four Hours for Twelve Dollar Wage in Seattle, 1915&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">14-Aug-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/August%2014/Longshoremen%20may%20strike_Aug14_1.jpg">&quot;Longshoremen May Strike&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">21-Aug-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/August%2021/Road%20workers%20again%20protest%20against%20inhuman%20conditions%20on%20sunset%20highway_Aug21_1_1of2.jpg">&quot;Road Workers Again Protest Against Inhuman Conditions on Sunset Highway&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">4-Sep-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/September%204/Low%20wages%20in%20the%20navy%20yard_Sept4_2.jpg">&quot;Low Wages in the Navy Yard&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">2-Oct-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/October%202/Is-a-labor-strike-a-crime_Oct2_2.jpg">&quot;Is a Labor Strike a Crime?&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">2-Oct-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/October%202/Protest-any-age-limit-act_Oct2_5.jpg">&quot;Protest Any Age Limit Act&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">2-Oct-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/October%202/Injunction-is-killed-in-Ohio_Oct2_6.jpg">&quot;Injunction Is Killed in Ohio&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">9-Oct-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/October%209/Machinists-get-new-agreement-in-California_Oct9_1.jpg">&quot;Machinists Get New Agreement in California&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">9-Oct-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/October%209/New-York-cloak-Makers-on-Strike_Oct9_1.jpg">&quot;New York Cloak Makers on Strike&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">9-Oct-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/October%209/Metal-trades-are-against-age-limit_Oct9_8.jpg">&quot;Metal Trades Are Against Age Limit&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">16-Oct-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/October%2016/Island-miners'-strike-settled-for-time-being_Oct16_1.jpg">&quot;Island Miners' Strike Settled for Time Being&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">16-Oct-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/October%2016/Road-strikers-get-settlement_Oct16_1.jpg">&quot;Road Strikers Get Settlement&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">16-Oct-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/October%2016/SO-Wellington-miners-strike_Oct16_3.jpg">&quot;SO. Wellington Miners Strike&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">23-Oct-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/October%2023/Judge%20Gilliam%20issues%20terrifying%20injnction_Oct23_1.jpg">&quot;Judge Gilliam Issues Terrifying Injunction&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">23-Oct-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/October%2023/Governor%20hunt%20of%20arizona%20refuses%20to%20move%20against%20men%20as%20big%20copper%20strike%20goes%20on_Oct23_2.jpg">&quot;Governor Hunt of Arizona Refuses to Move Against Men as Big Copper Strike Goes On&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">30-Oct-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/October%2030/Arizona%20Mangers%20refuse%20arbitration_Oct30_2.jpg">&quot;Arizona Managers Refuse Arbitration&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">6-Nov-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/November%206/Garment-strike-becomes-bitter_Nov6_1_1of2.jpg">&quot;Garment Strike Becomes Bitter&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">6-Nov-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/November%206/Judge-admits-right-to-picket_Nov6_3.jpg">&quot;Judge Admits Right to Picket&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">6-Nov-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/November%206/Detroit-labor-wins-its-fight_Nov6_5.jpg">&quot;Detroit Labor Wins Its Fight&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">13-Nov-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/November%2013/Fight%20on%20fox%20goods%20winning_November%2013_8.jpg">&quot;Fight On Fox Goods Winning&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">20-Nov-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/November%2020/Postal%20workers%20air%20grievances_Nov20_8.jpg">&quot;Postal Workers Air Grievances&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">4-Dec-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/December%204/Another%20Man%20quits%20fox%20co_Dec4_8.jpg">&quot;Another Man Quits Fox Co.&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">11-Dec-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/December%2011/Paterson's%20slaves%20rebel_Dec11_1.jpg">&quot;Paterson's Slaves Rebel&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">11-Dec-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/December%2011/Can't%20seem%20to%20give%20up%20fox%20co_Dec11_4.jpg">&quot;Can't Seem to Give Up Fox Co.&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+              <tr>
+                <td align="right" class="summary">25-Dec-15</td>
+                <td class="summary"><a href="http://depts.washington.edu/ufw2/yearbook/1915/December%2025/Chicago%20Tailor%20strike%20settled_Dec25_1_1of2.jpg">&quot;Chicago Tailor Strike Settled&quot;</a></td>
+                <td class="byline">Seattle Union Record</td>
+              </tr>
+            </table>
+            <P class=MsoEndnoteText>&nbsp;</P>
+          </div>
+        </DIV>
+      </div></td>
+  </tr>
+  <tr>
+  <td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.html"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

@@ -1,0 +1,50 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Seattle General Strike: Bibliographic Guide</title>
+<link href="strikestyles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" media="print" href="strikeprintstyles.css" />
+</head><!-- OUTER PAGE TABLE-->
+<CENTER>
+
+<body>
+
+<div><img src="headerimages/strike-logo.jpg" alt="The 1919 Seattle General Strike" width="829" height="152" border="0" usemap="#pnlcrhp">
+  <map name="pnlcrhp">
+    <area shape="rect" coords="406,3,826,27" href="http://depts.washington.edu/labhist">
+  </map>
+</div>
+<!--#include file="menu.html" -->
+
+
+<div class="content">
+
+ <div class="heading"> Bibliographic Guide <br>
+ </div>
+ <div><b><br>
+   Books:</b><br>
+   <ul><li>Robert L. Friedheim, <I><a href="http://worldcat.org/oclc/250869">The Seattle General Strike</a></I> (University of Washington Press, 1964). This is the classic full-length account of the strike. Written by a political scientist, it is a lively yet careful institutional study of the Seattle labor movement during the months leading up to the strike.</li><br>
+     <li><a href="http://worldcat.org/oclc/27728745"><img src="images/purchasing_power.jpg" width="66" height="100" border="0" style="float:right;margin:7px;"></a>Dana Frank, <I><a href="http://worldcat.org/oclc/27728745">Purchasing Power: Consumer Organizing, Gender, and the Seattle Labor Movement, 1919-1929</a></I> (Cambridge University Press, 1994). This important book begins with the strike and follows the Seattle labor movement through the 1920s. Stressing gender dynamics, it develops a challenging new interpretation of the limits of labor action in that era.</li><br>
+     <li>Richard C. Berner, <I><a href="http://worldcat.org/oclc/24657254">Seattle 1900-1920: From Boomtown, Urban Turbulence, to Restoration</a></I> (Charles Press, 1991). An invaluable book that situates several chapters on the strike and labor events in the economic, social, and political history of Seattle. Berner's three volume series is the best overall guide to Seattle history. See also <I>Seattle 1921-1940: From Boom to Bust </I>(1992)<I> </I>and <I>Seattle Transformed: World War II to Cold War </I>(1999)</li><br>
+     <li>Harvey O'Connor, <i><a href="http://worldcat.org/oclc/232619">Revolution in Seattle</a></i>. (1964, Left Bank Books, 1981). This is a fascinating memoir by a noted labor radical who participated in the strike in his younger years. </li>
+    </ul>
+   <b><br>
+   Articles:</b>
+   <br>
+   Many of the important </FONT><A HREF="http://search.tpl.lib.wa.us/unsettling/unsettled.asp?load=General+Strike+of+1919&f=labor\genstrik.19">articles on the strike</A> have been compiled by the Tacoma Public Library <a href="http://wwwv3.tacomapubliclibrary.org/Page.aspx?nid=7">Northwest Room</a> and are available online. Included are articles by historians, journalists, and by former strike leaders. Unfortunately they are not separately indexed. Users must scroll through the entire collection of seven articles. But the format is fast and readable. This is but a small portion of the historical articles that the Tacoma Public Library maintains online. Check out the <A HREF="http://www.tpl.lib.wa.us/v2/nwroom/unsetl.htm">Unsettling Events Index.</A></div>
+
+
+
+ <div></div>
+
+</div>
+<div id="bottom"><!--#include file="footer.html" --></div>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+</html>

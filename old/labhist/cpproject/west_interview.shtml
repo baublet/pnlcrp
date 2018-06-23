@@ -1,0 +1,51 @@
+<!--#include file="metaheader2.html"-->
+<title>James West oral history</title>
+
+</head>
+<body id="about">
+<table id="pagetable" border="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="http://depts.washington.edu/labhist/cpproject/logos/divide_rule6.jpg" usemap="#Map">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;">
+			<div id="navigation">
+			<!--#include file="menu.html"-->
+			</div>
+		</td>
+		<td>
+			<div id="content">
+			<h1>James West </h1>
+			<img src="images/banner790.png" id="x"  style="border:0px !important;" alt="Click to view other segments of this interview" title="Click to view other segments of this interview"><br>
+			<iframe width="790" height="445" src="https://www.youtube.com/embed/TyLMFvgzni0?list=PLrnclw6j_Mi8glc5qofqlrmrcmHYD0u4I" frameborder="0" allowfullscreen></iframe>
+
+			   <p>A prominent Party leader who served for years on the US National Committee, James West was born Isador Wexler in New York city in 1914.  His father was a shoemaker and his mother worked in the needle trades. He was sixteen when he joined the Young Communist League in 1929 and soon was working for the<em> Daily Worker</em> and organizing Unemployed Council demonstrations.  While still a teenager, he was arrested on a picket line in New Jersey and served 21 days in jail. Soon after the Communist Party sent him to organizers school followed by organizing assignments in Buffallo and New Jersey</p>
+			   <p>.In 1935, age 21, he was sent to Moscow as a delegate to  the Sixth Congress of the Young Communist International. He stayed in Moscow for two years serving as a YCL representative to the 7th Congress of the Communist International.</p>
+			   <p>In 1937 he was sent to Seattle as the Northwest organizer for the Young Communist League, a position he held for five years. Working at Todd's shipyard in Seattle from 1940 to 1942, he was a member of the Shipscalers and Drydock Workers local of the Boilermakers Union. He was in the US Army from 1942-1945. </p>
+			   <p>After the war, James West organized steel workers in Indiana and in 1961 served a federal prison term for violating the Taft Hartley Act. In 1983 he became the CPUSA International Secretary. In the mid 1990s, West and his wife Audrey moved back to Seattle where they continued their life of political activism. James West died in 2005. </p>
+			   <p> James West shared memories of years in Communist Party in an interview conducted by Gordon Black and Brian Grijalva on March 8, 2002 at West's home in Seattle. Here are four brief excerpts from the interview. </p>
+			   <p>Here is the <a href="http://www.peoplesworld.org/jim-west-91-communist-leader/" target="_blank"><em>People's World</em></a> obituary from 2005. </p>
+			   <div style="clear:both;"></div>
+			</div>
+		</td>
+	</tr>
+
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.shtml"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

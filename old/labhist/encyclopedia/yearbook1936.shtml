@@ -1,0 +1,584 @@
+<!--#include file="metaheader.html"-->
+<title>Labor Yearbook 1936</title>
+<link rel="stylesheet" type="text/css" href="xfade2_o.css" />
+<script type="text/javascript" src="xfade2.js"></script>
+</head>
+<body id="home">
+<table id="pagetable" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="header_logo.jpg" width="1000" height="189" border="0" usemap="#pnlcrp">
+			<map name="pnlcrp">
+              <area shape="rect" coords="326,5,847,33" href="http://depts.washington.edu/labhist">
+            </map>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td bordercolor="#000000" style="vertical-align:top;background-color:black;">
+			<div id="navigation">
+			  <!--#include file="menu.html"-->
+			</div>
+	  </td>
+		<td>
+			<div id="content">
+			<h1>Labor Events Yearbook: 1936</h1>
+			<div class="redboxsm">
+    <h2 align="center" style="color:white;"><strong><a href="yearbook_introduction.shtml">Yearbook Home</a></strong></h2>
+	
+	<table id="redtable" border="0" cellpadding="0" cellspacing="3">
+	<tr>
+              <td><div align="center"><a href="yearbook1915.shtml"><strong>1915</strong></a></div></td>
+              <br>
+              <td><a href="yearbook1915.shtml"><img src="mages/yearbook-ufw2/1915-100x30.jpg" width="101" height="30" border="0"></a></a></span></td>
+            </tr>
+		<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1918.shtml"><strong>1918</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1918.shtml"><img src="mages/yearbook-ufw2/1918-100x30.jpg" width="100" height="30" border="0"></a></td>
+        </tr>
+		<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1919.shtml"><strong>1919</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1919.shtml"><img src="mages/yearbook-ufw2/1919-100x31.jpg" width="101" height="31" border="0"></a></td>
+        </tr>
+		 <tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1930.shtml"><strong>1930</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1930.shtml"><img src="mages/yearbook-ufw2/1930-100x30.jpg" width="100" height="30" border="0"></a></td>
+        </tr>
+        <tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1931.shtml"><strong>1931</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1931.shtml"><img src="mages/yearbook-ufw2/1931-100x30.jpg" width="101" height="30"></a></td>
+        </tr>
+			<tr>
+       <td style="width:75px;"><div align="center"><a href="yearbook1932.shtml"><strong>1932</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1932.shtml"><img src="mages/yearbook-ufw2/1932-100x30.jpg" width="100" height="31" border="0"></a></td>
+			</tr>
+			<tr>
+			  <td style="width:75px;"><div align="center"><a href="yearbook1933.shtml"><strong>1933</strong></a></div></td>
+			  <td style="vertical-align:top;"><a href="yearbook1933.shtml"><img src="mages/yearbook-ufw2/1933-100x30.jpg" width="101" height="30" border="0"></a></td>
+		    </tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1934.shtml"><strong>1934</strong></a></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1934.shtml"><img src="mages/yearbook-ufw2/1934-100x30.jpg" width="99" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1935.shtml"><strong>1935</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1935.shtml"><img src="mages/yearbook-ufw2/1935-100x30.jpg" width="100" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1936.shtml"><strong>1936</strong></a></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1936.shtml"><img src="mages/yearbook-ufw2/laborday100x30.jpg" width="100" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><strong><a href="yearbook1937.shtml">1937</a></strong></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1937.shtml"><img src="mages/yearbook-ufw2/1937-100x30.jpg" width="100" height="29" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><strong><a href="yearbook1938.shtml">1938</a></strong></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1938.shtml"><img src="mages/yearbook-ufw2/1938-100x30.jpg" width="100" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><strong><a href="yearbook1939.shtml">1939</a></strong></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1939.shtml"><img src="mages/yearbook-ufw2/1939-100x29.jpg" width="100" height="29" border="0"></a></td>
+			</tr>
+		</table>
+	
+   </div>
+        <p>This is a database of campaigns, strikes, and labor related events as recorded in the <em>Washington State Labor News</em> during 1936. It was researched by Caitlyn Hamilton with help from Katherine Edwards. 
+        <h2>Highlights 1936 by Katherine Edwards </h2>
+		<p> 1936 was a year of intense labor activism with union campaigns waged in many industries across Washington. The battle to organize logging and sawmill companies continued and the International Brotherhood of Teamsters succeeded in their effort to organize drivers working for dairy companies, laundries, and oil companies. A wide array of workers ranging from printers, machinists, and newsboys organized and struck. In Seattle, waitresses picketed and dressmakers walked off the job. The most publicized strike of 1936 involved the Newspaper Guild and writers for the Seattle Post-Intelligencer who defeated publishing magnate William Randolph Hearst. The year was also witness to political and judicial gains for labor. Executives for the Marinoff Northwest Brewing Company were found guilty in the killing of an unarmed picketer in the bloody 1935 brewery strike. </p>
+
+
+        <p> In January, organized labor received a blow when the Washington state legislature failed to pass a law that would require employers to install devices that minimized the risk of dust hazards in factories. Despite this initial setback, labor achieved substantial gains in April when the Superior Court upheld a minimum wage law that required a wage high enough for basic needs to be met. In June, an anti-picketing ordinance backed by the Auto Dealers’ Association failed in the legislature, sending a strong message of political support for organized labor. </p>
+        
+		
+		<P><a href="#" onclick="toggleview('desc');return false;">[read full report/ close report]</a></P>
+        
+        <div id="desc" style="display:none;"><p> Multiple conflicts erupted throughout 1936 between unions and employers. Workers at Yakima Creamery and at Spokane Broadview Dairy struck in January. In February conflicts surfaced at Home Dairy and K&amp;K Dairy of Port Orchard, and the union instituted a boycott of Centralia Creamery. In April, waitresses at the Hub Café struck, and in July, retail clerks in Auburn called a strike against chain stores, demanding fair pay and hours. In mid-June, unions in Oregon, Washington, and Idaho united in protest against Associated Oil and its employment of non-union truck drivers. Associated Oil began to feel real pressure when union truck drivers initiated a boycott of Associated Oil gas stations, compelling company acquiescence to union demands by late summer. In July, the management of the <em>Seattle Post-Intelligencer </em>(PI) tangled with organized labor, when the paper fired two American Newspaper Guild members, one of whom was a union organizer. In August, Guild members called a strike in protest of the firings and members of sympathetic unions volunteered for picket duty. The strike was successful, and the PI was unable to compose, print, or circulate papers. In August, workers at Tacoma and Seattle furniture plants increased labor’s presence as they called their own respective strikes. </p>
+        <p> Early in 1936, the sawmill and timber industries were also sites of employer-worker conflicts. Only a week after Tacoma timber and sawmill workers adopted a contract, workers at Sultan-based Miller Logging Company went on strike to protest the use of Fisher [Flour] Mills products. Fisher Flour Mills employees were embattled in their own strike, and workers at Miller Logging struck for three weeks until all Fisher Mills products were removed from the company kitchen. On January 24 th, Fisher Mills workers ended the strike after the company conceded to some labor demands. The Eatonville lumber strike of late 1935 continued for three months into January of 1936 with no resolution in sight. In March, workers at Panhandle Lumber also struck. By May, much of the conflict in the lumber and sawmill industries settled as the Aberdeen plywood strike ended, as union demands were met in the Panhandle Lumber strike, and as Carlisle Lumber was forced to pay back wages to the 200 men involved in the strike. </p>
+        <p> In late May, the Auto Mechanics Union called a strike against the Seattle Automobile Dealers’ Association after a resolution could not be reached between the union and Wilson Motor Company of Ballard; employees at thirty-four companies participated. Within only a few weeks, the Auto Mechanics Union succeeded in organizing most Seattle auto workers to join the strike. Organized workers effectively prevented strike-breakers from crossing picket lines and crippled the industry. After three weeks on strike, the Seattle Central Council appointed a committee to support the striking Auto Mechanics Union. By mid-June, the employers conceded to a forty-hour week and a wage increase, but refused to budge on issues of union recognition and collective bargaining. A week later, eleven auto dealers agreed to union recognition. </p>
+        <p> 1936 brought to light several instances of employer violence against unionized workers. In mid-January, Peter Marinoff and his accomplices were convicted of the 1935 killing of an unarmed picketer during the Marinoff Northwest Brewing Company strike. Marinoff received a 20-year sentence for his involvement, although in August, a judge granted Marinoff and his cohorts another trial on the grounds of a legal technicality. On February 7 th, the Von Herberg Company launched a violent physical attack on striking workers at the Liberty Theatre. Early in April, the Golden Rule Dairy, in the middle of a long labor conflict, hired a union-busting armed guard who had participated in the deadly 1935 Marinoff Northwest Brewing Company strike. In late April, J.F. Parker, the president of Northwest Metal Products, fired a shotgun from inside his building at unarmed and peacefully picketing longshoremen outside, fatally wounding one. </p>
+        <p> However, not all conflicts ended in violence; 1936 saw many conflicts peacefully settled favorably for employees. In early February, Bellingham laundry workers secured a one hundred per cent union shop with an 8-hour day and minimum wage. Tacoma printers won a $1 per day wage increase after arbitration and Seattle newsboys won a wage increase and support from the Central Council in their conflict with the <em>Seattle Post- Intelligencer</em>. In Kenworth, auto workers victoriously ended their strike against Kenworth Motor Truck Company with a wage increase and better working conditions. In late April, after a conflict dating back nearly a year, the Broom and Whisk Makers’ Union finally received recognition and union protections. </p>
+        <p> One of the most significant labor disputes of the year occurred when the notoriously anti-union Golden Rule Dairy finally conceded to Seattle unions after a long and arduous strike. In February, affiliated unions joined to prevent the transport and sale of Golden Rule products after calling a strike. The protest became violent in April as armed guards threatened picketers but sympathetic Seattle unions supported the Golden Rule picketers. In June, the strikers successfully ended their protest when Golden Rule agreed to “complete unionization.” </p>
+        <p> The year was certainly tumultuous for labor, with multiple battles waged across numerous occupations. Labor unions found success and solidarity in struggles against exploitative employers and their examples made an impact on future labor fights. </p>
+       
+	   </div>
+	   <table id="datatable">
+	    
+          <tr class="byline">
+            <td width="125" valign="top" class="byline"><strong>DATE</strong></td>
+            <td width="300" valign="top" class="byline"><strong>ARTICLE</strong></td>
+            <td width="119" valign="top" class="byline"><strong>PAPER</strong></td>
+            <td width="400" valign="top" class="byline"><strong>ABSTRACT</strong></td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">January, 3</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-01-3p1.jpg">&quot;Millions Suffer From Dust Hazards: Refusal of Legislature to Enact Compulsory Control Laws Opens Way to Abuse&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Despite the available technology to install some degree of safeguarding against health hazards in manufacturing and mechanical fields, many employers choose not to protect employees, who are forced to inhale dangerous dust each day. The legislature's failure to require such safeguards leaves millions of workers vulnerable and allows employers to violate employees' rights to safe working conditions.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">January, 3</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-01-3p1.jpg">&quot;Fisher Mill Case To Be Argued Monday January 6&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">A hearing against Fisher Mill set to being on January 6. The unions felt that they were not being protected under the law, while Fisher Mill argued that they were not an interstate commerce and therefore did not fall under the law. When bargaining was denied to the workers the workers left their jobs and started picketing the company. </td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">January, 10</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-01-10p3.jpg">&quot;Everett Will Fight Non-Union Dairies&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Local 38 put 9 small farms on the unfair business list.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">January, 10</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-01-10p1.jpg">&quot;Timber Workers to Adopt Blanket Contract Plan&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Sawmill and Timber Worker’s Union out of Tacoma have been drawing up a plan to be used through the Northwest. A few strikes have been in progress until the contract is drawn up and approved.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">January, 17</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-01-17p1.jpg">&quot;Sawmill Workers Strike When Cook Uses Fisher Flour&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Workers at the Miller Logging Company out of Sultan struck when they discovered their cook was using Fisher Mill Products. The strike lasted three weeks with the workers returning after all Fisher products had been removed permanently.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">January, 17</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-01-17p1.jpg">&quot;Picket Killers Guilty&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Superior Court Judge Hedges found Peter Marinoff, H.H. Hiatt, Theodore Ferguson, and J.L. Hanford guilty in the killing of an unarmed picketer at the Marinoff Northwest Brewing Company.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">January, 17</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-01-17p1.jpg">&quot;Strike Continues&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Striking workings at Eatonville Lumber Co. in Fairfax are holding strong. The strike has lasted three months.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">January, 17</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-01-17p3.jpg">&quot;Yakima City Creamery Fight Progressing&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Teamsters striking at the Yakima City Creamery put the Dairy on the unfair list.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">January, 22</td>
+            <td width="300" valign="top" class="byline">&quot;Fisher Controversy Ended Wednesday&quot;</td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">The unions agreed to the settlement issued by Fisher Mill. Fisher products removed from unfair list.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">January, 24</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-01-24p1.jpg">&quot;Unions Settle Fisher Controversy: Workmen Return to Jobs After Sixteen Weeks of Battling for Organization&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">After 16 weeks, the Fisher Mills Strike is settled and the original workers return to work.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">January, 24</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-01-24p1.jpg">&quot;Sawmill Workers After Strikebreakers&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Striking sawmill workers vow intolerance for strikebreakers and agree to drive them out immediately.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">January, 31</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-01-31p3.jpg">&quot;Twenty Years For Marinoff&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Judge Sutton sentenced Marinoff and Hiatt to twenty years after hiring armed men to break a strike at their plant. The man who fired the fatal shot was Theodore Ferguson who only received one year in prison.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">January, 31</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-01-31p1.jpg">&quot;Ferrymen on Puget Sound Win Small Wage Increase But Lose on 8-Hour Day&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">After a 33 day strike, seamen, truckers, and stevedores receive a small wage increase. However, their other demands, including an 8hour day and seniority rights, were not granted, and masters, mates, and pilots were not included in the pay raise.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">January, 31</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-01-31p3.jpg">&quot;Still Fighting Associated Oil&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Local 313 and various Teamsters continue to boycott Associated oil who uses non-unionized drivers.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">January, 31</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-01-31p3.jpg">&quot;Spokane Fighting Broadview Dairy&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Local 690 out of Spokane continues its fight against Broadview Dairy. Their union boasts over six hundred members. Centralia-Chehalis union continues its fight against Superfine Dairy.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">February, 7</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-02-7p1.jpg">&quot;Motor Worker's Strike&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Plant machinists and auto mechanics at the Kenworth Motor Truck Plant struck.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">February, 7</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-02-7p1.jpg">&quot;Liberty Theatre Pickets Mauled&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Von Herberg motion picture interests attempt to violently break strike at the Liberty Theatre.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">February, 7</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-02-7p1.jpg">&quot;Letter Carriers 'Struck' Saturday&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Having trouble keeping the 40-hour work week Seattle Letter Carriers Union struck.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">February, 7</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-02-7p3.jpg">&quot;Bremerton Fighting Two Unfair Dairies&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Home Dairy and K&amp;K Dairy of Port Orchard are being boycotted after they continually did not abide by union rules. </td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">February, 14</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-02-14p1.jpg">&quot;Golden Rule Feels Labor's Might!&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Seattle Unions decide to put more pressure on the Golden Rule Dairy and Bakery.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">February, 14</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-02-14p1.jpg">&quot;Newsboys Are Arbitrating&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Newsboys arbitrate with the Seattle Times Publishing, Co. Argument centered on the pay of newsboys on street under $.03 rate to customers.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">February, 14</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-02-14p1.jpg">&quot;Kenworth Strike Keeps Plant Closed&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">The strike in Kenworth is completely effective as striking workers also receive support from drivers and the labor movement.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">February, 14</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-02-14p3.jpg">&quot;Laundry Drivers Get Union Shop in Northern City&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Bellingham, WA, an eight-hour workday and minimum wage is guaranteed in 100% union shop. </td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">February, 28</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-02-28p1.jpg">&quot;Tacoma Printers Win Arbitration&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Tacoma Printers win $1 more per day in arbitration.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">February, 28</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-02-28p3.jpg">&quot;Golden Rule Losing Business: Stores and Others Cease Buying Unfair Merchandise As Fight Is Intensified&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Amid a strike, the Golden Rule Bakery loses steam as organized labor comes together to prevent the transport and sale of its merchandise.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">February, 28</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-02-28p3.jpg">&quot;Centralia Dairy Hurt by Teamsters' Fight&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Local 252 is picketing Centralia Creamery for not allowing unions. The Creamery has been loosing business since the actions started taking place.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">March, 6</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-03-6p1.jpg">&quot;Kenworth Strike Won By Workers&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">The strike against Kenworth Motor Truck Company was won by the unions with workers receiving better wages and working conditions. </td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">March, 13</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-03-13p1.jpg">&quot;Newsboys Win Award&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Newsboys win 1 ¾ cents and copy advance, they are also allowed to unionize despite great pressure from the owner of the Seattle Post-Intelligencer, William Randolph Hearst.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">March, 20</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-03-20p1.jpg">&quot;Lumber Company Refuses to Settle&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Panhandle Lumber Company out of Ione, WA will not recognize unions.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">March, 20</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-03-20p1.jpg">&quot;Central Council to Help Newsboys: Facts Behind Award of Arbitration Board to Be Subject of Investigation&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">After the Seattle Times raised the price of newspapers without increasing newsboy wages, the newsboys' union sought assistance from the Central Council, which agreed to investigate the conflict.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">March, 27</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-03-27p3.jpg">&quot;Two Golden Rule Drivers Quit&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Since the unions have started to focus heavy attention on to Golden Rule two drivers for the company have quit</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">April, 3</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-04-3p1.jpg">&quot;Cafe Being Picketed&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Waitresses started picketing at the Hub Café demanding better pay and working conditions. </td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">April, 3</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-04-3p3.jpg">&quot;Smith's Thugs at Golden Rule?&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">C.A. Smith, armed strike breakers, were hired by the Golden Rule to bust the strike. C.A. Smith was the same man who headed the armed union busting tactics at Marinoff that left one picketer dead.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">April, 10</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-04-10p3.jpg">&quot;Entire North End Organizing&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Seven districts in the North End of Seattle (outside of Ballard) enter the fight against Golden Rule. Two more Golden Rule drivers quit.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">April, 10</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-04-10p1.jpg">&quot;Broom and Whisk Makers Win Union Agreement&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">After the resolution of a conflict dating back to June, 1935, the Broom and Whisk-Makers gain union recognition. Skilled workers would also now be placed in appropriate jobs in the factory with a guarantee of work.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">April, 10</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-04-10p3.jpg">&quot;Golden Rule Driver Arrested With Gun&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Strikers** pulled over a Golden Rule van and found that the driver had a concealed pistol in his truck. </td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">April, 24</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-04-24p3.jpg">&quot;Mutual Creamery Men Are Striking&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Locals 174 and 353 are leading the actions against Mutual Creamery.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">April, 24</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-04-24p2.jpg">&quot;Minimum Wage Law of Washington Again Upheld&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">The Superior Court rules that employers must pay employees a wage high enough to meet the most basic needs.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">April, 24</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-04-24p3.jpg">&quot;Increased Activity Noted in Battle With Golden Rule: Guns Mark Sunday Picketing&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Strike breakers fight unions with guns.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">May, 1</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-05-1p1.jpg">&quot;Deadly Attack Pickets Centers on Longshoremen Goodman: Plant is Closed&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">President J.F. Parker of Northwest Metal Products fired at strikers from inside the company with a shotgun. Longshoremen Goodman was shot and killed. The strikers were not armed.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">May, 8</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-05-8p1.jpg">&quot;Aberdeen Plywood Strike Ended by Vote of 600 Men&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">A settlement was made between workers and management.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">May, 8</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-05-8p1.jpg">&quot;Unionists Awarded Lock-Out Wages: Carlisle Lumber Company Loses to Labor in Fight Before Regional Board&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Carlisle Lumber is forced to pay the 200 men involved in a labor dispute $65,000 in back wages from the period of the lockout.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">May, 15</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-05-15p1.jpg">&quot;Lumber Strike Settled&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">The men at the Panhandle Lumber Co. won all demands and ended the strike.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">May, 15</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-05-15p2.jpg">&quot;195 Wins Union Agreement Produce: Men Victorious Following One-Day Strike&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Produce drivers, salesmen, and helpers won a $25 a week minimum wage, a forty hour work week, and time and one half overtime. The Northwest Produce Merchants Association and Union Representatives signed an agreement after a one day strike by the Produce drivers, salesmen, and helpers. </td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">May, 15</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-05-15p2.jpg">&quot;Entire City Is Now in Fight On Golden Rule&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">The entire city of Seattle has joined the fight against Golden Rule.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">May, 29</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-05-29p1.jpg">&quot;Union Mechanics in Shops of Thirty-four Employers Forced to Resort to Strike&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">The Auto Mechanics Union is striking against the Seattle Automobile Dealers’ Association. The negotiations between AMU Local 289 and Wilson Motor Company of Ballard ceased and forced the strike.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">May, 29</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-05-29p1.jpg">&quot;Horowitz Fights For Low Wages&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Dressmakers Local 184 of the International Ladies Garment Worker’s Union walked out after Harry Horowitz of ** refused to renew and expired contract with the workers. Horowitz wanted to reduce wages ever further from the already low wages the women were receiving. </td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">May, 29</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-05-29p4.jpg">&quot;East Side Lumber Company Hits Union&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Biles-Coleman Lumber Company of Omak forced workers to strike after the Company used labor breaking tactics. The union once had 350 members, but almost all leaders were fired, thus breaking up the union through intimidation.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">June, 5</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-06-5p1.jpg">&quot;Golden Rule's War On Labor Ends!&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">The eleven year boycott of Golden Rule ends with Golden Rule agreeing to complete unionization. This is a huge win for the labor movement as the Golden Rule was notoriously anti-union.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">June, 5</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-06-5p1.jpg">&quot;Auto Mechanics Succeed In Calling Out Workmen And Closing Shops&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Though many workers in the dealerships were not organized the AMU successfully organized those workers in to leaving the shops and picketing unfair labor practices against the dealerships. </td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">June, 12</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-06-12p3.jpg">&quot;Teamsters To Center Attack On Non-Union Gasoline Distributor&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">All locals in Oregon, Washington, and Idaho have joined the fight against Associated Oil which employs non-union drivers.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">June, 12</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-06-12p1.jpg">&quot;Auto Mechanics Get Reinforcements!: Dealers Fight On While Strikers Win Additional Support From Movement&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">In the third week of a strike, the Central Council appoints a committee to assist the Auto Mechanics Union. The Auto Dealers are mostly unable to get strikebreakers across picket lines.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">June, 19</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-06-19p1.jpg">&quot;Jenson &amp; Van Herberg Houses Sign Up After Bitter Prolonged Fight&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Three theatres unionize after long standoff with Jenson and Van Herberg which refused to unionize. </td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">June, 19</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-06-19p1.jpg">&quot;Automobile Dealers Fight To Prevent Organization After Intimidation Fails&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Many dealers agree to a 40-hour week and a wage increase, but the issue of union representation and collective bargaining remains a major source of conflict among the Union and the Auto Dealers.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">June, 26</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-06-26p1.jpg">&quot;Automobile Dealers' Ranks Broken!&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">With the support of the Central Council and sympathetic unions, the Automobile Strike is successful as eleven dealers agree to recognize the union.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">June, 26</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-06-26p1.jpg">&quot;Anti-Picketing Proposal Killed&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">The Public Safety Committee decided not to support an anti-picketing proposal, which was backed by the Automobile Dealer’s Association. The proposal by Mrs. F. F. Powell stated that no more than three pickets could be present on one line in front of a striking plant. </td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">June, 26</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-06-26p3.jpg">&quot;Associate Oil Fight Goes On&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Union drivers have stopped patronizing gas stations that use Associated Oil. This caused a loss of revenue for stations situated on busy roads who pressure their employers to switch oil companies. </td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">July, 3</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-07-3p1.jpg">&quot;Strikers Hold Picket Lines And Shops Remain Closed; Union Money Pouring In&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Union drivers have stopped patronizing gas stations that use Associated Oil. This caused a loss of revenue for stations situated on busy roads who pressure their employers to switch oil companies. </td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">July, 3</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-07-3p3.jpg">&quot;Tacoma Unfair Beer Dumped&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Beer left in the Marinoff cellars for more than a year was dumped. Marinoff Plant was closed for more than a year. </td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">July, 3</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-07-3p3.jpg">&quot;Creamery Signed&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Local 524 signed with the Yakima City Creamery.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">July, 10</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-07-10p1.jpg">&quot;Strike Which Closes All Shops of Association Ends in Monday Victory&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Workers win a wage increase of $.90 per hour, a 44-hour work week, and no action was taken against the union men. All shops were to be organized as fast as possible.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">July, 10</td>
+            <td width="300" valign="top" class="byline">&quot;Olympia&quot;</td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">An agreement was reached with Acme Fuel Company after a two year boycott by Olympia local.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">July, 10</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-07-10p1.jpg">&quot;Post-Intelligencer 'Fires' Guild Worker&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">A union organizer by the name of Frank Lynch was fired from the Seattle P.I. after five years of service.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">July, 10</td>
+            <td width="300" valign="top" class="byline">&quot;Winning at Auburn&quot;</td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Retail Clerks are striking against chain stores which employees at low pay and long hours.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">July, 17</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-07-17p3.jpg">&quot;Eastern Washington Still Fights Marinoff&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">The Northwest Brewing Co. out of Walla Walla had been brewing Marinoff beer under a different name. The A.F.L. supported Northwest Brewing Co. though the Spokane Teamsters are still boycotting the beer.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">July, 17</td>
+            <td width="300" valign="top" class="byline">&quot;Newspaper Guild Member 'Fired'&quot;</td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Everhadt Armstrong was fired by the P.I. He had worked for the Seattle newspaper for seventeen years.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">July, 24</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-07-24p1.jpg">&quot;Newsboys to Organize&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Newsboys plan on organizing the entirety of Seattle.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">July, 31</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-07-31p1.jpg">&quot;Morrell Trying To Trick Unions In New Markets&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Morrell Packing Company had been forced out of local markets by unions started to sell their products through retail and wholesale groceries. Union members are told to keep an eye out for such products.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">August, 14</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-08-14p1.jpg">&quot;Central Council Approves Editorial Workers' Strike Against Anti-Union Policy&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Member of the American Newspaper Guild walked out of the Seattle-Post Intelligencer owned by William Randolph Hearst. This was after the firing of two Guild members and increased pressure of workers to not join unions. </td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">August, 21</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-08-21p3.jpg">&quot;New Marinoff Trial Expected&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">After a guilty verdict, Peter Marinoff is granted a retrial on the basis of a legal technicality. </td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">August, 23</td>
+            <td width="300" valign="top" class="byline">&quot;Post Intelligencer Heads Maintain Union Busting Policy, with Plant Closed&quot;</td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">P-I failed to put out any newspaper copies, after the American Newspaper Guild and Seattle Labor Unions called a strike. </td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">August, 23</td>
+            <td width="300" valign="top" class="byline">&quot;Signal Gasoline Is Unfair at Centralia&quot;</td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Warren Oil Company refused to recognize unions in Southwest Washington. This forced Centralia-Chehalis and Aberdeen unions to declare the company Unfair and start s boycott of Signal Gasoline.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">August, 28</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-08-28p1.jpg">&quot;Post-Intelligencer Plant Remains Closed While Strikers Win Support&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">The P.I. owned by Hearst remained closed for its second week. Members of other unions volunteer for picket duty.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">August, 28</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-08-28p1.jpg">&quot;Tacoma Furniture Workers Strike&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">Five furniture plants in Tacoma struck. Due to solidarity among workers the plants remain completely closed.</td>
+          </tr>
+          <tr>
+            <td width="125" valign="top" class="byline">August, 28</td>
+            <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1936-08-28p2.jpg">&quot;Five Furniture Plants in Seattle Closed by Strike&quot;</a></td>
+            <td width="119" valign="top" class="byline">WSLN</td>
+            <td width="400" valign="top" class="byline">After six months of working without a contract, Local 1007 struck in an attempt to get a new contract drawn up by the union. A previous contract drawn up by the union had been dismissed in favor of one drawn up by the employers. </td>
+          </tr>
+        </table>
+	    
+         
+          </div>
+	  </td>
+	</tr>
+	<tr>
+	<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.html"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

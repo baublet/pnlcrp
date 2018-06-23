@@ -1,0 +1,156 @@
+<!--#include file="metaheader.html"-->
+<title>Mapping Tacoma Race and Segregation</title>
+<link rel="stylesheet" type="text/css" href="xfade2_o.css" />
+<script type="text/javascript" src="xfade2.js"></script>
+<style type="text/css">
+<!--
+.greyboxnew {
+	background-color:#666;color:white;
+	padding:5px;
+	margin-bottom:5px;
+}
+
+.greyboxnew a, .redbox a:visited 
+{color:white;
+}
+.redboxnew {
+	background-color:#780000;color:white;
+	padding:5px;
+		margin-bottom:5px;
+}
+.redboxnew a, .redbox a:visited 
+{color:white;
+}
+.style20 {
+	font-size: xx-large;
+	font-weight: bold;
+}
+.style21 {font-size: 10pt}
+
+
+-->
+</style>
+</head>
+<body id="home">
+<table id="pagetable" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			  <a href="index.shtml"><img src="banner.jpg" width="1000" height="190" border="0"></a>
+			</div>
+			 <!--#include file="menu-top.shtml" -->
+		</td>
+	</tr>
+
+		<td>
+			<div id="content">
+			
+        	
+        
+
+			<div align="center">
+			   <p class="style20">Mapping Race Seattle/King County 1940-2010</p>
+		  </div>
+			  <div>
+			  <span class="arial10">Explore patterns of segregation and desegregation in this sequence of interactive maps. Move through the decades. Select a race category, either by percentage or number of residents. Click a census tract for detailed information about a neighborho</span>
+ 
+      
+       <p class="arial10">&nbsp;</p>
+       
+       <table width="100%" align="center" valign="top">
+       <tr><td width="450"><img src="tracts/1950 black.PNG" width="450" height="750" alt=""/></td><td width="200" valign="top">
+		   <h3><span class="arial10">1950 Black Population</span></h3>
+		   <p>&nbsp;</p>
+		   <p><span class="arial10">Explore patterns of segregation and desegregation in this sequence of interactive maps. Move through the decades. Select a race category, either by percentage or number of residents. Click a census tract for detailed information about a neighborhood. </span></p></td>
+		   <td width="330" valign="top">
+		   <p>Pierce County's population has tripled in the sixty years since 1950 with Asian American and African American numbers growing rapidly.
+	     </td></tr></table>
+         
+          <p>&nbsp;</p>
+			
+
+			<p class="arial10" style="margin-left: 0px">These maps and tables were created by Anna Yoon, Brian Lam, Gihoon Du, Jiang Wu, and Yurika Harada using data and shape files from the National Historical Geographic Information System (NHGIS). The work was a class project for Geography 469 GIS Workshop taught by Professor Sarah Elwood-Faustino Spring 2017. </font>
+         
+          <table width="100%" align="center" valign="top">
+       <tr><td width="450"><img src="tracts/1960 black.PNG" width="450" height="750" alt=""/></td><td width="200" valign="top">
+		   <h3>1960 Black Population</h3>
+		   <p>&nbsp;</p>
+		   <p><span class="arial10">Explore patterns of segregation and desegregation in this sequence of interactive maps. Move through the decades. Select a race category, either by percentage or number of residents. Click a census tract for detailed information about a neighborhood. </span></p></td>
+	      <td width="330" valign="top">
+		   <p>Pierce County's population has tripled in the sixty years since 1950 with Asian American and African American numbers growing rapidly.
+	     </td></tr></table>
+          
+			<p><strong> <span class="arial10">Source:</span></strong><span class="arial10"> calculated from Steven Manson, Jonathan Schroeder, David Van Riper, and Steven Ruggles. IPUMS National Historical Geographic Information System: Version 12.0 [Database]. Minneapolis: University of Minnesota. 2017. http://doi.org/10.18128/D050.V12.0</font></span></p>
+			 <table width="100%" align="center" valign="top">
+       <tr>
+         <td width="450"><img src="tracts/450/1970 black.jpg" width="450" height="750" alt=""/></td><td width="200" valign="top">
+		   <p>1970 Black Population</p>
+		   <p>&nbsp;</p>
+		   <p><span class="arial10">Explore patterns of segregation and desegregation in this sequence of interactive maps. Move through the decades. Select a race category, either by percentage or number of residents. Click a census tract for detailed information about a neighborhood. </span></p></td>
+	      <td width="330" valign="top">
+		   <p>Pierce County's population has tripled in the sixty years since 1950 with Asian American and African American numbers growing rapidly.
+	     </td></tr></table>
+	      <table width="100%" align="center" valign="top">
+       <tr>
+         <td width="450"><img src="tracts/450/1980 black.jpg" width="450" height="750" alt=""/></td><td width="200" valign="top">
+		   <p>1980 Black Population</p>
+		   <p>&nbsp;</p>
+		   <p><span class="arial10">Explore patterns of segregation and desegregation in this sequence of interactive maps. Move through the decades. Select a race category, either by percentage or number of residents. Click a census tract for detailed information about a neighborhood. </span></p></td>
+	      <td width="330" valign="top">
+		   <p>Pierce County's population has tripled in the sixty years since 1950 with Asian American and African American numbers growing rapidly.
+	     </td></tr></table>
+	      <table width="100%" align="center" valign="top">
+       <tr>
+         <td width="450"><img src="tracts/450/1990 black.jpg" width="450" height="750" alt=""/></td><td width="200" valign="top">
+		   <p>1990 Black Population</p>
+		   <p>&nbsp;</p>
+		   <p><span class="arial10">Explore patterns of segregation and desegregation in this sequence of interactive maps. Move through the decades. Select a race category, either by percentage or number of residents. Click a census tract for detailed information about a neighborhood. </span></p></td>
+	      <td width="330" valign="top">
+		   <p>Pierce County's population has tripled in the sixty years since 1950 with Asian American and African American numbers growing rapidly.
+	     </td></tr></table>
+			<p class="arial10" style="margin-left: 0px"><strong>Glossary: </strong>The Census Bureau adds and adjusts the boundaries of census tracts nearly every decade. It also changes the data it reports and often the racial categories. We have changed some labels for the sake of consistency and brevity. Below are the labels used in these visualizations and the actual terms used by census takers.</p>
+			<p class="arial10" style="margin-left: 0px">Asian: For 1940 all nonwhites were reported as a combined category. In 1950, this became two categories, &quot;Negroes&quot; and &quot;Other races.&quot; Since most of the &quot;others&quot; would have been Japanese, Chinese, and Filipinos with small numbers of Native Americans, we relabeled this as &quot;Asian/other races.&quot; From 1960 on the, census reported each Asian</p>
+          
+          
+          
+          
+          
+    
+		</table>
+		</td>
+	</tr>
+		
+			 
+			
+			
+			<div style="margin-bottom:10px;">
+			
+			
+       		
+			
+			
+       		
+			
+</div>
+
+  
+         
+		
+
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.html"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

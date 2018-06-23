@@ -1,0 +1,70 @@
+<!--#include file="metaheader2.html"-->
+<title>Communism in Washington State: About</title>
+
+</head>
+<body id="about">
+<table id="pagetable" border="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="http://depts.washington.edu/labhist/cpproject/logos/divide_rule6.jpg" usemap="#Map">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;">
+			<div id="navigation">
+			<!--#include file="menu.html"-->
+			</div>
+		</td>
+		<td>
+			<div id="content">
+			<h1>About the Project</h1>
+			<p>This site explores the controversial history of the Communist Party in the Pacific Northwest from 1919 to the present. The project is sponsored by the 
+              <a href="http://depts.washington.edu/pcls/">Harry Bridges Center for Labor Studies</a> at the University of Washington and is one of the <a href="http://depts.washington.edu/labhist/">Pacific Northwest Labor and Civil Rights Projects.</a></p>
+			<p>DIRECTOR: James Gregory<br> 
+			  PROJECT EDITOR: Daren Salter <br>
+			  WEB ARCHITECT: Peter Leonard<br>
+			  
+       
+			</p>
+			<h1>Contributors</h1>
+			<p>This project began when members of the Washington State Communist Party closed their Seattle headquarters and offered to donate collections of newspapers and other materials to the Harry Bridges Center for Labor Studies. Discussions about an oral history project followed and became part of the plan for History 498, a research course offered by Professor James Gregory during Winter Quarter, 2002.</p>
+			<p> Gordon Black, Stephanie Curwick, Brian Grijalva, Daeha Ko, Paul Landis, Jennifer Phipps, Shelley Pinckney, and Marian Spath were  responsible for much of the initial content.   Each contributed an essay to the eight-chapter narrative history and helped conduct oral history interviews.Brian Grijalva designed and built the initial version of the website. Stephanie Curwick and Marian Spath located and shot most of the photographs and helped with text editing. Gordon Black and Marian Spath created the timeline.</p>
+			<p>In 2008-2009 Daren Salter led the effort to expand the project. This involved new oral histories, new research reports, and several new sections.  Steve Beda and Jessie Kindig helped with editing. Mark Jenkins contributed video oral histories of Albert Canwell and John Caughlin, and helped interview Abe Osheroff. He also allowed us to use materials from the performances of his play, <em>All Powers Necessary and Convenient</em>. </p>
+			<p>We are especially grateful  to the  women and men who have contributed their oral histories: Paul Bowen, Marc Brodine, Lilian Feist, Irene Hull, B.J. Mangaoang, Art Mink, Lonnie Nelson, Abe Osheroff, James West.<br> </p>
+			<h1> Copyright
+</h1>
+			<p>&nbsp;</p>
+			<p>Everything on this site is protected by copyright. Here is information about <A 
+href="copyright.shtml">copyright, usage permission, and how to cite these pages</A>.<br></p>
+			<h1>Contact us</h1>
+			<p><A 
+href="mailto:civilr@u.washington.edu"><BR>
+			  civilr@u.washington.ed</A><br>c/o Professor James Gregory<BR>
+			  History Department<BR>
+University of Washington<BR>
+  Seattle, WA 98195-3560<BR>
+  206-543-7792<BR>
+  fax 206-543-9451 </p>
+			<p>&nbsp; </p>
+			<p>&nbsp;</p>
+			</div>
+		</td>
+	</tr>
+	
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.shtml"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

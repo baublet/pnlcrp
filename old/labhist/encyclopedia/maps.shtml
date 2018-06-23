@@ -1,0 +1,121 @@
+<!--#include file="metaheader.html"-->
+<title>Mapping Labor History</title>
+<link rel="stylesheet" type="text/css" href="xfade2_o.css" />
+<script type="text/javascript" src="xfade2.js"></script>
+</head>
+<body id="maps">
+<table id="pagetable" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="header_logo.jpg" width="1000" height="189" border="0" usemap="#pnlcrp">
+			<map name="pnlcrp">
+              <area shape="rect" coords="326,5,847,33" href="http://depts.washington.edu/labhist">
+            </map>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;background-color:black;">
+			<div id="navigation">
+			  <!--#include file="menu.html"-->
+			</div>
+		</td>
+		<td>
+			<div id="content">
+			<h1>Mapping the Labor History of the Pacific Northwest</h1>
+        
+        <table width="760" border="0" cellspacing="0" cellpadding="0">
+		<h3><span class="rightcap" style="width:400px;"><a href="http://depts.washington.edu/labhist/maps-laborhistory-seattle.shtml"><img src="http://depts.washington.edu/labhist/frontpagespecials/laborhistory_seattle.PNG" width="400" height="250" border="0"></a>
+  </span><a href="http://depts.washington.edu/labhist/maps-laborhistory-seattle.shtml">Seattle Labor History Locations 1900-1940</a></h3>
+				<p> Here are locations of important unions and key events in the history of Seattle labor. Blue pins show events from the General Strike era. Red pins are from the 1930s. Click on a pin to open a description window. Most of the photos show the location today but some have both historial an contemporary images. </p>
+          </tr> 
+            <tr>
+		  <tr>
+            <td>
+			<h2>&nbsp;</h2>
+			<h3><span class="rightcap" style="width:402px;"><a href="http://depts.washington.edu/labhist/strike/map.shtml"><img src="mages/maps/generalstrike400.jpg" width="400" height="250"border="0"></a></span><a href="http://depts.washington.edu/labhist/strike/map.shtml">Seattle's General Strike of 1919 </a></h3>
+            <p>Many of the events of January and February 1919 took place in the downtown and waterfront sections of Seattle. Click  to see photographs of strike events, and to see the offices and headquarters of the Central Labor Council, Union Record, Metal Trades Council, IWW, Socialist Party, Cooperative Union Market, Japanese Labor Association, and other unions and cooperatives. <BR> 
+              </p></td>
+          </tr>
+          
+            <td>
+			<h2>&nbsp;</h2>
+			<h3><span class="rightcap" style="width:400px;"><a href="http://depts.washington.edu/labhist/maps-seattle-segregation.shtml"><img src="http://depts.washington.edu/labhist/frontpagespecials/seattle1960.PNG" width="400" height="250"border="0"></a></span><a href="http://depts.washington.edu/labhist/maps-seattle-segregation.shtml">Race in Seattle/King County 1920-2010 </a></h3>
+            <p>Here we map patterns of racial segregation for African Americans, Asians Americans, Native Americans, Latinos, and Whites using census tract data. Explore 90 years of population growth and residential change in this sequence of interactive maps. Select a race category. Click a census tract for detailed information about a neighborhood. Some things to notice: The Central Area served as a ghetto for all peoples of color until the late 1970s. Since then, nonwhite groups have spread in different patterns.<BR> 
+              </p></td>
+          </tr>
+         
+		            
+		 
+           <tr>
+            <td>
+			<h2>&nbsp;</h2>
+			<h3><span class="rightcap" style="width:400px;"><a href="http://depts.washington.edu/labhist/maps-iww.shtml"><img src="http://depts.washington.edu/labhist/frontpagespecials/iww actions.PNG" width="400" height="250"border="0"></a></span><a href="http://depts.washington.edu/labhist/maps-iww.shtml">IWW Activities 1906-1920 </a></h3>
+            <p>These interactive maps locate more than <strong>300 IWW strikes, campaigns, arrests, and vigilante events</strong> in Washington State. We also map 60 IWW local unions formed in these years. Events can be filtered by year and by type of event. Hover to see short descriptions. </p> <BR> 
+              </p></td>
+          </tr>
+          <tr>
+            <td>
+			<h2>&nbsp;</h2>
+			<h3><span class="rightcap" style="width:400px;"><a href="http://depts.washington.edu/labhist/maps-sp.shtml"><img src="http://depts.washington.edu/labhist/frontpagespecials/sp members.PNG" width="400" height="250"border="0"></a></span><a href="http://depts.washington.edu/labhist/maps-sp.shtml">Socialist Party Activity 1900-1940 </a></h3>
+            <p>Washington was a stronghold of the Socialist Party with one of the highest per capita memberships in the country before World War I. Here are several interactive maps and charts. One  shows  <strong>votes for SP candidates in every county. </strong>  Another shows the 19 towns and cities where Socialists won elections. A third maps the newspapers associated with the Socialist Party. We also chart SP membership year by year. <BR> 
+              </p></td>
+          </tr>
+              <tr>
+            <td>
+			<h2>&nbsp;</h2>
+			<h3><span class="rightcap" style="width:402px;"><a href="http://depts.washington.edu/dock/map_seattle.shtml"><img src="mages/maps/longshoremap400.jpg" width="401" height="250"border="0"></a></span><a href="http://depts.washington.edu/dock/map_seattle.shtml">Seattle's Longshore Workers History 1886 to 2002</a></h3>
+            <p>This interactive map shows the location of key events in the history of Seattle waterfront workers beginning in 1886. Click the markers to see photos and descriptions of each event. <BR> 
+              </p></td>
+          </tr>
+		       
+             <tr>
+            <td><h3><span class="rightcap" style="width:400px;"><a href="http://depts.washington.edu/labhist/maps-ufw.shtml"><img src="http://depts.washington.edu/labhist/frontpagespecials/bpp/chavez_huelga_color_web.jpg" width="400" height="250" border="0"></a><br>
+ </span><a href="http://depts.washington.edu/labhist/maps-ufw.shtml">UFW strikes, boycotts, campaigns 
+  1965-1975</a></h3>
+              <p>When ethnic Mexican  farm workers led by Cesar Chavez joined with Filipino American workers led by Larry Itliong in 1965 to strike grape growers in Delano, California, the modern farm workers' movement was born. The UFW soon became active in the Pacific Northwest. Boycott committees formed in the cities and on college campuses. Organizing campaigns and strikes broke out in the valleys. Here we map these events across Washington, Oregon, and Idaho. </p></td>
+          </tr>
+          <tr>
+            <td>
+			<h2>&nbsp;</h2>
+			<h3><span class="rightcap" style="width:399px;"><a href="http://depts.washington.edu/depress/map_UCL.shtml"><img src="mages/maps/UCL%20branches400x260.JPG" width="399" height="260" border="0"></a></span></span><a href="http://depts.washington.edu/depress/map_UCL.shtml">Unemployed Citizens League Seattle Branches </a></h3>
+            <p>This interactive map shows the Seattle locations of the  the Unemployed Citizens League which established self-help commissaries and demanded jobs and relief services for the unemployed.  The politically powerful organization enrolled thousands of members from 1931-1934. Click to see this map and accompanying photos and descriptions of each site. </p></td>
+          </tr>
+          
+          <tr><td>
+          <h2>&nbsp;</h2>
+            <h3><span class="rightcap" style="width:402px;"><a href="http://depts.washington.edu/depress/hooverville_map.shtml"><img src="mages/maps/map_hoovervilles400.JPG" width="400" height="250" border="0"></a><br>
+  Click to see map and photos </span><a href="http://depts.washington.edu/depress/hooverville_map.shtml">Seattle's Hoovervilles and shack towns</a> </h3>
+              <p>Here are the locations of eight shack towns that housed homeless people in the Seattle area in the 1930s. The largest, known as &quot;Hooverville,&quot; was on Elliot Bay near the present site of Qwest stadium. Click to see this interactive google map and accompanying photos and descriptions of each site. </p></td>
+          </tr>
+		  <tr>
+        </table>
+        <p>&nbsp;</p>
+       
+  
+		
+		  <DIV closure_hashCode_3b6fok="7">
+              <DIV closure_hashCode_3b6fok="6">
+                <DIV class=msMapTitle closure_hashCode_3b6fok="5">
+                  <DIV dir=ltr class=title align=left>
+                    <h2>&nbsp;</h2>
+                  </DIV>
+                </DIV>
+              </DIV>
+            </DIV>
+            <DIV></DIV>
+            <DIV class=flag></DIV>
+            <p>&nbsp;</p>
+          </div>
+	  </td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.html"-->			</div>
+		</td>
+	</tr>
+</table>
+</body>
+<!--#include file="metafooter.html"-->

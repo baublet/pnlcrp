@@ -1,0 +1,69 @@
+<!--#include file="metaheader.html"-->
+<title>Communism in Washington State: Art & Journalism</title>
+
+<style type="text/css">
+<!--
+.style1 {
+	color: #000000;
+	font-style: italic;
+}
+.style3 {color: #000000; font-style: italic; font-weight: bold; }
+-->
+</style>
+</head>
+<body id="journalism">
+<table id="pagetable" border="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="http://depts.washington.edu/labhist/cpproject/logos/divide_rule6.jpg" usemap="#Map">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;">
+			<div id="navigation">
+			<!--#include file="menu.html"-->
+			</div>
+		</td>
+		<td>
+			<div id="content">
+			
+			<h4>Journalism:  Communist Newspapers </h4>
+			<p><img src="../images/history/spark300.jpg" width="302" height="231" class="right">Apart from New York and San Francisco, no city claimed a more active and enduring Communist Party press than Seattle. Headquartered in New York, the CP based its major  newspaper, <em>The Daily Worker</em>, its magazine, <em>New Masses</em>, and  other periodicals in that city. After 1938 San Francisco hosted a second major newspaper, The People's  World, which sometimes published as a daily. </p>
+			<p>The party's District 12 office in Seattle encouraged several short-lived publications in the 1920s, including <em>The Spark,</em> a lively mimeographed newsletter published by the University of Washington chapter of the Young Communist League. In 1933, shortly after Lowell Wakefield returned to Seattle in a party leadership rotation, the party began publishing the Voice of Action, with Wakefield serving as editor. </p>
+			<p>&nbsp;</p>
+			<h1>Voice of Action (1933-1936) </h1>			
+			<p><img src="../images/history/voa_unemployed300.jpg" width="302" height="208" class="right">The <em>Voice of Action </em>published weekly for three years and party members sold copies and circulated it in cities and towns of Washington and nearby states. Party ownership was not openly proclaimed until 1935, but the militant weekly was firmly controlled by the District 12 Executive committee. Well written, with loud headlines and eye-catching graphics, the weekly devoted much attention to the plight of unemployed workers in the Washington area, promoting the activities of the Communist controlled Unemployed Councils. Party efforts to organize unions, especially in the timber industry, were another focus. </p>
+			<p>Here is a detailed report about <span class="style1"><A href="http://depts.washington.edu/labhist/laborpress/VoiceofAction.htm" 
+target=_blank>The Voice of Action </A><STRONG>by Christine Davies </STRONG></span></p>
+			<p>&nbsp;</p>
+			<h1>Commonwealth News, Sunday News, Washington New Dealer, New World (1936-1948) </h1>
+			<p><img src="../images/history/SN_delacy300.jpg" width="301" height="242" class="right">In 1936, the Party closed the <em>Voice of Action</em> in order not to compete with the <em>Commonwealth News</em>, a weekly published by the Washington Commonwealth Federation. The WCF had been created two years earlier by radicals who hoped to turn the Democratic Party to the left. Embracing a broad coalition of interests, the WCF nominated candidates for state and local offices and promoted ballot measures and other political initiatives. Many of its candidates were successful and at times the WCF exercised a great deal of influence in the state legislature and in Washington's Congressional delegation. Fearing the disruptive tactics of Communists, the early WCF  banned CP members, but after 1935 Communists became more and more influential in the organization as WCF leaders like Howard Costigan and Hugh DeLacy became party supporters or members. </p>
+			<p>The Commonwealth News and its successor newspapers reflected the growing Communist influence. Several party members served in editorial positions, most notably Terry Pettus who worked for the New Dealer from 1937 on and served as editor of that newspaper and the New World until that newspaper closed in 1948. The WCF newspapers went through six name changes:</p>
+			<ol>
+			  <li><FONT size=2 face="Book Antiqua" class="MsoNormal"><span class="style1"><img src="../images/history/SN_pension300.jpg" width="302" height="233" class="right">Washington Commonwealth Builder </span>(Aug 1934-October 1935) </FONT></li>
+			  <li><FONT size=2 face="Book Antiqua" class="MsoNormal"><span class="style1">Washington Commonwealth</span> (Oct 1935-Nov 1936)</FONT> </li>
+			  <li><FONT size=2 face="Book Antiqua" class="MsoNormal"><I>Commonwealth News</I> (Aug 1936-Nov 1936)</FONT> </li>
+			  <li><FONT size=2 face="Book Antiqua" class="MsoNormal"><I>Sunday News </I>(Nov 1936-Sept 1938)</FONT> </li>
+			  <li><FONT size=2 face="Book Antiqua" class="MsoNormal"><I>Washington New Dealer</I> (Sept 1938-Jan 1943)</FONT> </li>
+			  <li><FONT size=2 face="Book Antiqua" class="MsoNormal"><I>New World</I> (Jan 1943-Nov 1948)</FONT></li>
+			  </ol>
+			<p>&nbsp;</p>
+			<p>We have detailed reports on three of the weeklies in the WCF sequence:</p>
+			<a href="http://depts.washington.edu/labhist/laborpress/CommonwealthBuilder.htm" target="_blank">The Washington Commonwealth Builder and Washington Commonwealth News</a> <strong><span class="style1">by Jessica Donahoo</span></strong>
+			<p> <I>The Washington Commonwealth Builder</I> and the <I>Washington Commonwealth</I> were the first of a series of names given to a weekly paper issued by the Washington Commonwealth Federation, a leftwing group in which Communists were active after 1936. This report describes the newspaper from 1934-1936 and includes digital images of selected articles. </p>
+			<a href="http://depts.washington.edu/labhist/laborpress/NewDealer.htm" target="_blank">The Washington New Dealer</a> <strong><span class="style1">by Joshua Stecker </span></strong><strong></strong>
+			<p> <I>The Washington New Dealer </I>was the fifth in a series of weekly newspapers sponsored by the Washington Commonwealth Federation (WCF). Published between 1938-1942, it was edited by Terry Pettus and strongly influenced by the Communist Party. This report describes the newspaper and includes digital images of selected articles.			</p>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.shtml"-->	</div>
+		</td>
+	</tr>
+</table>
+</body>
+<!--#include file="metafooter.html"-->

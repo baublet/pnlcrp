@@ -1,0 +1,59 @@
+<!--#include file="metaheader.html"-->
+<title>Fish Committee Hearings</title>
+
+</head>
+<body id="redscare">
+<table id="pagetable" border="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="http://depts.washington.edu/labhist/cpproject/logos/divide_rule6.jpg" usemap="#Map">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;">
+			<div id="navigation">
+			<!--#include file="menu.html"-->
+			</div>
+		</td>
+		<td>
+			<div id="content">
+			<h4> The U.S. Congress Special Committee on Communist Activities in Washington State Hearings (1930) </h4>
+			<p>Two decades before the more notorious Congressional hearings on “un-American activities” led by Senator Joseph McCarthy, U.S. Representative Hamilton Fish organized a special Congressional committee to investigate Communism in states and cities across the nation. In October 1930, the Fish committee held hearings in Seattle. The called sixteen witnesses including representatives of the Seattle police department, King County prosecutor, and employers and timber industry officials who claimed that Communists were a threat to public safety in Washington state. In addition, the committee subpoened five members or suspected members of the Communist Party.</p>
+			<p>The testimony of each is linked below. These are pdf copies taken from the published hearings: United States. Congress House Special Committee on Communist Activities in the United States, “Investigation of communist propaganda. Hearings ... pursuant to H. Res. 220, providing for an investigation of communist propaganda in the United States. Part 5, volume no. 1, Seattle, WA, October 3, 1930, Portland, OR October 4, 1930” </p>
+			<h2><strong>List of witnesses </strong></h2>
+			<p><a href="../images/hearings/fish/1_fish_hearing_forbes.pdf">Lewis Forbes, Chief of Police Seattle</a></p>
+			<p><a href="../images/hearings/fish/2_fish_hearing_colvin.pdf">Ewing D. Colvin, prosecuting attorney, King County</a></p>
+			<p><a href="../images/hearings/fish/3_fish_hearing_thorpe.pdf">Lloyd E. Thorpe, editor Pacific Pulp and Paper Industry, trade journal</a></p>
+			<p><a href="../images/hearings/fish/4_fish_hearing_shaffer.pdf">Ralph Shaffer, Shaffer Box Co, Tacoma</a></p>
+			<p><a href="../images/hearings/fish/5_fish_hearing_dubois.pdf">Mrs. W.H. Dubois, Daughters of the American Revolution, Spokane</a></p>
+			<p><a href="../images/hearings/fish/6_fish_hearing_greeley.pdf">W.B. Greeley, secretary-manager West Coast Lumberman’s Association</a></p>
+			<p><a href="../images/hearings/fish/7_fish_hearing_chisholm.pdf">Angus D. Chisholm, district manager, Puget Sound territory, Loyal Legion of Loggers and Lumberman</a></p>
+			<p><a href="../images/hearings/fish/8_fish_hearing_phelps_speed.pdf">F. Lesley Phelps, editor Pacific Coast Mechanic</a></p>
+			<p><a href="../images/hearings/fish/8_fish_hearing_phelps_speed.pdf">John Speed Smith, district director of naturalization, Department of Labor</a></p>
+			<p><a href="../images/hearings/fish/9_fish_hearing_hanrahan.pdf">George David Hanrahan, member Communist Party</a></p>
+			<p><a href="../images/hearings/fish/10_fish_hearing_scott.pdf">Leo Scott, staff Daily Worker</a></p>
+			<p><a href="../images/hearings/fish/11_fish_hearing_glaser.pdf">Leon Glaser, supporter Communist Party</a></p>
+			<p><a href="../images/hearings/fish/12_fish_hearing_roberg.pdf">Ralph M Roberg, manager Puget Sound Pulp and Timber Company</a></p>
+			<p><a href="../images/hearings/fish/13_fish_hearing_fields.pdf">Joseph Fields, member Communist Party</a></p>
+			<p><a href="../images/hearings/fish/14_fish_hearing_laurie.pdf">John Laurie, member Communist Party</a></p>
+			<p><a href="../images/hearings/fish/15_fish_hearing_jennings.pdf">Sowell E. Jennings, detective, Seattle police deparment</a></p>
+			<p>&nbsp; </p>
+			<h1>&nbsp;</h1>
+			
+			<ul style="list-style-type: square;">
+<li></li>
+</ul>
+		  </div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.shtml"-->	</div>
+		</td>
+	</tr>
+</table>
+</body>
+<!--#include file="metafooter.html"-->

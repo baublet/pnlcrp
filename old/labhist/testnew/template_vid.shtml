@@ -1,0 +1,144 @@
+<!--#include file="metaheader.html"-->
+<title>template video</title>
+<link rel="stylesheet" type="text/css" href="xfade2_o.css" />
+<script type="text/javascript" src="xfade2.js"></script>
+<style type="text/css">
+<!--
+.style10 {font-family: Arial, Helvetica, sans-serif; line-height: normal;}
+.style9 {font-size: x-small}
+-->
+</style>
+</head>
+<body id="home">
+<table id="pagetable" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="images/civilr%20banner4.jpg" width="1000" height="150">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;background-color:black;">
+			<div id="navigation">
+			  <!--#include file="menu.html"-->
+			</div>
+		</td>
+		<td>
+		<div id="content">
+			<div align="center"><img border="1" src="images/headshots/woo120.jpg" width="120" height="93" align="left"><span class="head24">template for oral videos
+	        </p> 
+		    </span>
+		  </div>
+			<p align="center"></p>
+			<div align="center">
+			  <p class="head14">United Construction Workers</p>
+		    </div>
+			<hr>		  <div style="float:right; margin-left:10px; width:320px;">   
+
+		  <div style="width:320px; height:305px;" id="vid"><a href="javascript:swap('1')"><img src="images/woo-vidpanel.JPG" width="320" height="306" border="0"></div>
+
+		  <div class="vidnavlinks">
+
+		  
+
+		 
+
+	<script type="text/javascript">
+
+
+
+var vidtitles=new Array()
+
+vidtitles[0]="+Awakening"
+
+vidtitles[1]="UCWA leaders helped Woo realize that his personal economic experience was connected to broader political and social issues."
+
+vidtitles[2]="+UCWA Enforces Desegregation"
+
+vidtitles[3]="&quot;Had the integration already started? Not willingly.&quot; White worker hostility to court-ordered desegregation created workplace environments that were hostile and unsafe. The UCWA responded by organizing workers to protect themselves, learn their trades, and enforce the court order."
+
+vidtitles[4]="&quot;We had always seen the employer group, ironically, the profit-makers, as being the ones that could actually help us get what we want&quot;: White workers initially resisted desegregation more than employers."
+
+vidtitles[5]="&quot;The UCWA kept the issue in the forefront&quot;: Black workers at the UCWA had to constantly agitate to ensure that the desegregation Court order was enforced."
+
+vidtitles[6]="+Movement Culture: Organizing Workers to Speak for Themselves"
+
+vidtitles[7]="&quot;I put my principles ahead of my pocketbook&quot;: Woo was fired from his job for attending UCWA demonstrations. Noting this commitment, the UCWA hired him as an organizer."
+
+vidtitles[8]="&quot;I had no idea that I would have something in common with these different black men that had assembled at this organization&quot;: Woo describes the UCWA’s radically democratic meetings, their importance in mobilizing workers, and pays tribute to several individual leaders."
+
+vidtitles[9]="The organizational structure of the UCWA was key to promoting worker empowerment, but had only mixed success in reforming the union movement."
+
+vidtitles[10]="&quot;We had to win by building unity.  We couldn’t win by sowing division&quot;: The UCWA sought solidarity among diverse groups of workers under the slogan &quot;No Separate Peace.&quot;"
+
+vidtitles[11]="&quot;The women that were part of the movement back then oftentimes get overlooked&quot;: Female activists and organizational allies like Radical Women were instrumental in the success of the UCWA."
+
+vidtitles[12]="+Alaska Cannery Workers Association"
+
+vidtitles[13]="&quot;The ACWA and what they were able to do really transformed that salmon canning industry&quot;: The UCWA served as a model for the Filipino-led Alaska Cannery Workers Association."
+
+vidtitles[14]="&quot;I’m just kind of lucky that I can just say that I’ve had an association with people like that.&quot;: Woo remembers assassinated labor leaders Silme Domingo and Gene Viernes."
+
+for (i=0;i<vidtitles.length;i++)
+
+{
+
+	if (vidtitles[i].indexOf('+') !=-1)
+
+			{
+
+			document.write("<span class=\"vidnavdividers\">" + vidtitles[i].substring(1) + "</span><br /><br />")
+
+			}
+
+		else
+
+			{
+
+			document.write("<a href=\"javascript:swap('" + i + "')\"><img src=\"images/speakericon.gif\">" + vidtitles[i] + "</a><br /><br />")
+
+			}
+
+	
+
+}
+
+
+
+                      </script>
+
+   	         </div></div>
+
+		    <p>Paste content beginning about line 24 (after div style="width:680px;") Might need to adjust closing /div /td /tr. 
+			 Add titles and photo.</p>
+		    <p>Michael Woo was born and raised in Seattle.&nbsp; He attended the University of Washington in the late 1960s and worked briefly in the airline industry before being hired by the United Construction Workers Association (UCWA) in 1970.&nbsp; Woo, a Chinese American, was quickly transformed by the experience of helping black workers enforce the court-ordered desegregation of Seattle&rsquo;s construction unions, and ended up doing organizing work for the UCWA throughout its lifespan (until roughly 1980). </p>
+		    <p>In the summer of 1972, Woo was hired by the UCWA to be one of its organizers, and he led its electrical and sheet metal worker subcommittees. In 1973, he helped expand the UCWA organizing model&mdash; organizing workers of color to advocate for themselves&mdash; when he co-founded the Alaska Cannery Workers Association (ACWA). From 1975 to 1980, Woo also helped put out No Separate Peace, a radical publication  to organize and give voice to Seattle&rsquo;s workers of color.</p>
+		    <p>Woo currently serves as the Director of Legacy of Equality, Leadership and Organizing (LELO), continuing the UCWA&rsquo;s community organizing tradition with an institution that traces its roots to the law office that coordinated UCWA and ACWA litigation in the 1970s, the Northwest Labor and Employment Law Office.&nbsp; </p>
+		    <p>To the right are streaming-video excerpts of the interview in windows media format. </p>
+			<p>Video editing by Daren Salter. Work on this interview was made 
+			possible by a grant from 4Culture/King County Lodging Tax.</p>
+			
+			<table width="100%"  border="1" cellspacing="3" cellpadding="3">
+              <tr>
+                <td><p>Problems viewing? Your browser may require you to authorize a microsoft add-on by clicking on the notice above. Then click the interview caption a second time. Mac users require a Windows Media Components for QuickTime. <a href="http://windows.microsoft.com/en-US/windows/products/windows-media-player/wmcomponents" target="_blank">Click here for a free Flip4Mac download.</a></p></td>
+              </tr>
+            </table>
+			<p class="MsoNormal" style="text-align: center">
+			<font face="Arial" size="2">
+			<img border="0" src="images/4culture_color.jpg" width="121" height="108" align="center" hspace="3" vspace="3"></font></div></td>
+			
+
+		</tr>
+
+	  </td>
+	
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.html"-->			</div>
+		</td>
+	</tr>
+</table>
+</body>
+<!--#include file="metafooter.html"-->

@@ -1,0 +1,48 @@
+<!--#include file="metaheader2.html"-->
+<title>Paul Bowen oral history</title>
+
+</head>
+<body id="about">
+<table id="pagetable" border="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="http://depts.washington.edu/labhist/cpproject/logos/divide_rule6.jpg" usemap="#Map">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;">
+			<div id="navigation">
+			<!--#include file="menu.html"-->
+			</div>
+		</td>
+		<td>
+			<div id="content">
+			<h1>Paul Bowen</h1>
+			<img src="images/banner790.png" id="x"  style="border:0px !important;" alt="Click to view other segments of this interview" title="Click to view other segments of this interview"><br>
+			<iframe width="790" height="445" src="https://www.youtube.com/embed/G8zpT-xOJDM?list=PLrnclw6j_Mi9f8VBpK-Uuxc2Ku1uy1Kxa" frameborder="0" allowfullscreen></iframe>
+
+			<p>Paul Bowen was born in Chicago in 1922. He grew up in an all-black neighborhood on Chicago's South Side, the oldest of seven children. He was first introduced to the Communist Party while working in the Chicago stockyards and joined in 1943, shortly before he and his family migrated to Seattle. Bowen served in the United States Army during World War II. He worked briefly at Boeing after the war but was fired for being a Communist. </p><p>A militant activist and a charismatic speaker, Bowen rose quickly through Party ranks. He was appointed Education Director of the Northwest District and also worked as Party Organizer in Duwamish Bay in the late 1940s and early 1950s. During this time he organized a string of demonstrations against local grocery and department stores that refused to hire black workers. </p><p> In April of 1953 Bowen and six other Party leaders in Seattle were indicted under the Smith Act for conspiracy to advocate the overthrow of the United States government. The arrest of the &quot;Seattle Seven&quot; was part of a larger roundup of Communist Party leaders by federal authorities in major cities across the nation. In a widely publicized trial, Bowen and the other Smith Act defendants were convicted and sentenced to prison terms, but the convictions were quickly overturned on appeal. </p>
+		  	<p>Bowen left the Party in 1957, upset over what he perceived as unnecessary sectarianism on the part of Party leaders and at the leadership's privileging of the &quot;Labor Question&quot; over civil rights for African Americans. He opened up his own television repair shop and largely withdrew from politics and the public eye. Bowen died in 2008 at age 86.</p>
+		  	<p>Just weeks before his death, Paul Bowen shared stories of his life and activism in a videotaped interview with Daren Salter at his home in Seattle on May 5, 2008.  Here are streaming video excerpts of the interview.</p>
+		  	<div style="clear:both;"></div>
+			</div>
+		</td>
+	</tr>
+
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.shtml"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

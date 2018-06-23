@@ -1,0 +1,60 @@
+<!--#include file="metaheader.html"-->
+<title>Communism in Washington State: History</title>
+
+</head>
+<body id="history">
+<table id="pagetable" border="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="http://depts.washington.edu/labhist/cpproject/logos/divide_rule6.jpg" usemap="#Map">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;">
+			<div id="navigation">
+			<!--#include file="menu.html"-->
+			</div>
+		</td>
+		<td style="vertical-align:top;">
+			<div id="content">
+			<h4>History 1919-2002</h4>
+			<p>Historical accounts of the Communist Party in particular locales are rare. There is no published history of Communism in Washington State. The essays that follow, written by students in History 498,  begin the process of building that history. For a quick overview start with the timeline created by Marian Spath. Then read the rest sequentially as chronological chapters or skip around.</p>
+
+<ul style="list-style-type: square;">
+<li><a href="gregory.shtml">Toward a History of Washington State Communism</a>  
+<em>            by James Gregory
+</em></li>
+<li><a href="ko.shtml">Rough Beginnings: The 1920s</a>  
+<em>           by Daeha Ko  	
+</em></li>
+<li><a href="black.shtml">Organizing the Unemployed: The Early 1930s</a>       
+<em>            by Gordon Black	
+</em></li> 
+<li><a href="grijalva.shtml">Organizing Unions: The 1930s and 1940s</a>
+<em>            by Brian Grijalva
+</em></li> 
+<li><a href="phipps.shtml">The Washington Commonwealth Federation and Washington Pension Union</a><em>            by Jennifer Phipps
+</em></li> 
+<li><a href="pinckney.shtml">Race and Civil Rights: The 1930s and 1940s</a><em>            by Shelley Pinckney
+</em></li>
+<li><a href="curwick.shtml">War and Red Scare: 1940-1960</a><em>           by Stephanie Curwick
+</em></li> 
+<li><a href="landis.shtml">A Partial Revival: The 1960s</a><em>           by Paul Landis	
+</em></li> 
+<li><a href="spath.shtml">Closing the Century: 1970-2002</a><em>            by Marian Spath	
+</em></li>
+</ul>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.shtml"-->	</div>
+		</td>
+	</tr>
+</table>
+</body>
+<!--#include file="metafooter.html"-->

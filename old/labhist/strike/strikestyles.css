@@ -1,0 +1,217 @@
+*{ margin: 0; padding: 0; }*
+
+body {
+
+  background-color:#000;
+ 
+}
+
+body A:link, A:visited  {text-decoration: none; color: red;}
+body A:visited {text-decoration: none;}
+body A:active {text-decoration: none;}
+body A:hover {text-decoration: underline; color: red;}
+
+
+.strikenav {
+width:819px;
+background-color:#FFFFFF;
+color:#FF0000;
+font-family:Courier, monospace;
+font-size:10pt;
+padding-left:10px;
+_padding-top:2px;
+_padding-bottom:2px;
+border-top:1px black solid;
+border-bottom:1px black solid;
+}
+.strikenav A:link, A:visited  {text-decoration: none; color: red;}
+.strikenav A:visited {text-decoration: none; color: red;}
+.strikenav A:active {text-decoration: none;}
+.strikenav A:hover {text-decoration: underline; color: red;}
+
+.content {
+width:759px;
+_width:719px;
+background-color:#CCCCCC;
+color:#000000;
+font-family:Georgia, "Times New Roman", Times, serif;
+font-size:11pt;
+text-align:justify;
+padding:10px 20px 0px 50px;
+line-height:160%;
+}
+
+.content li {
+list-style-type:square;
+}
+
+#toprightvideo {
+width:311px;
+position:relative;
+left:20px;
+_left:60px;
+top:-10px;
+float:right;
+border-bottom:1px solid black;
+border-left:1px solid black;
+margin-left:10px;
+_margin-left:-30px;
+margin-bottom:10px;
+background-color:#000000;
+}
+
+#toprightvideo1mbps {
+width:625px;
+margin-bottom:10px;
+background-color:#000000;
+position:relative;
+float:left;
+margin-top:5px;
+margin-right:10px;
+}
+
+
+
+.content P {
+text-indent:30px;
+margin-bottom:10px;
+}
+
+
+.content A:link, A:visited  {text-decoration: none; color: red;}
+.content A:visited {text-decoration: none;}
+.content A:active {text-decoration: none;}
+.content A:hover {text-decoration: underline; color: red;}
+
+.intro {
+font-size:12pt;
+}
+
+.heading {
+	color:#FF0000;
+	font-family:"Courier New", Courier, monospace;
+	font-size:20pt;
+	border-bottom:1px red dotted;
+	margin-top:20px;
+	position:relative;
+	width:100%;
+	left:-40px;
+		padding-right:40px;
+	font-weight: bold;
+}
+
+.subheading {
+	color:#000000;
+	font-family:Times, monospace;
+	line-height:130%;
+	font-size:18pt;
+	border-bottom:1px red dotted;
+	margin-top:20px;
+	position:relative;
+	width:100%;
+	left:-40px;
+	padding-right:40px;
+	font-weight: bold;
+}
+
+.subhead2 {
+	color:#000000;
+	font-family:Courier, monospace;
+	font-size:12pt;
+	border-bottom:1px red dotted;
+	margin-top:20px;
+	position:relative;
+	width:100%;
+	left:-40px;
+	padding-right:40px;
+	font-weight: bold;
+}
+
+.subheading A:link, A:visited  {text-decoration: none; color: black;}
+.subheading A:visited {text-decoration: none}
+.subheading A:active {text-decoration: none}
+.subheading A:hover {text-decoration: underline; color: red;}
+
+#datatable {
+width: 760px;
+
+	border-width: 1px;
+	border-spacing: 2px;
+	border-style: solid;
+	border-color: black;
+	border-collapse: separate;
+	background-color: white;
+
+}
+
+.title {
+color:black;
+font-family:"Courier New", Courier, monospace;
+font-size:18pt;
+border-bottom:1px red solid;
+margin-top:20px;
+position:relative;
+width:100%;
+left:-40px;
+}
+
+
+
+#bottom {
+background-image:url(headerimages/gradient.gif);
+background-repeat:repeat-x;
+height:auto;
+width:814px;
+font-family:"Courier New", Courier, monospace;
+font-size:10pt;
+color:#CCCCCC;
+padding-left:10px;
+padding-right:5px;
+padding-top:50px;
+padding-bottom:10px;
+}
+
+.caption {
+background-color:#FFFFFF;
+height:auto;
+position:relative;
+right:6px;
+bottom:7px;
+border-bottom:#999999 1px solid;
+margin-bottom:-1px;
+border-left:#999999 1px solid;
+border-right:#999999 1px solid;
+padding:2px 5px 5px 5px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:8pt;
+width:290px;
+line-height:100%;
+}
+
+.caption A:link, A:visited  {text-decoration: underline; color: red;}
+.caption A:visited {text-decoration: underline;color: red;}
+.caption A:active {text-decoration: underline;color: red;}
+.caption A:hover {text-decoration: underline; color: red;}
+
+
+
+.img-shadow {
+  float:right;
+  background: url(shadowAlpha.png) no-repeat bottom right !important;
+  background: url(shadow.gif) no-repeat bottom right;
+  margin: 10px 0 0 15px !important;
+  margin: 10px 0 0 10px;
+  }
+
+.img-shadow img {
+  display: block;
+  position: relative;
+  background-color: #fff;
+  border: 1px solid #a9a9a9;
+  margin: -6px 6px 6px -6px;
+  padding: 4px;
+  }
+
+.leftpic {
+float:left;margin-top:7px;margin-right:7px;
+}

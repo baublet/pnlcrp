@@ -1,0 +1,63 @@
+<!--#include file="metaheader2.html"-->
+<title>Communism in Washington State: History</title>
+
+</head>
+<body id="history">
+<table id="pagetable" border="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="http://depts.washington.edu/labhist/cpproject/logos/divide_rule6.jpg" usemap="#Map">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;">
+			<div id="navigation">
+			<!--#include file="menu.html"-->
+			</div>
+		</td>
+		<td>
+			<div id="content">
+			<h4>Copyright and Citation Information </h4>
+			<p>&nbsp;</p>
+			<p> Everything on this site is protected by the copyright laws of the United States and the Universal Copyright Convention. Photos, documents, films, reports, and articles are the property of the donors and authors. Oral histories, slideshows, and other materials are the property of the Seattle Civil Rights and Labor History Project. 
+			<h1>Permissions:</h1>
+            <p>Nothing on this site may be reproduced without the written permission of the director of the Communism in Washington State History and Memory Project.
+ This is an educational, non-commercial site. All materials on these pages (including all texts, images, descriptions, etc.) are for the personal and educational use of students, scholars, and the public. Any commercial use or publication of them without authorization is strictly prohibited.</P>
+            <p>Teachers and students are granted permission to print materials from this site for classroom use provided that the Communism in Washington State History and Memory Project is properly credited. </P>
+            <h1>Citing these pages: </h1>
+            <p>Anything quoted from this site must credit <U>Communism in Washington State History and Memory Project </U>as well as the author, title, and web address. Here is the recommended citation form:</P>
+            <p>Author, "article title or page title," <U>Communism in Washington State History and Memory Project <br>
+            </U>&lt; http://depts.washington.edu/labhist/cpproject/add the complete URL for the specific page)&gt;</P>
+            <h1>For more information:</h1>
+            <P>&nbsp;</P>
+            <A 
+href="mailto:civilr@u.washington.edu">civilr@u.washington.ed</A><br>
+              c/o Professor James Gregory <BR>
+History Department<BR>
+University of Washington<BR>
+Seattle, WA 98195-3560<BR>
+206-543-7792<BR>
+fax 206-543-9451 </font></P>
+            <P><BR>
+                </P>
+			</div>
+		</td>
+	</tr>
+	
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.shtml"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

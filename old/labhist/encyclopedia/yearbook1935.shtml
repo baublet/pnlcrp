@@ -1,0 +1,517 @@
+<!--#include file="metaheader.html"-->
+<title>Labor Yearbook 1935</title>
+<link rel="stylesheet" type="text/css" href="xfade2_o.css" />
+<script type="text/javascript" src="xfade2.js"></script>
+</head>
+<body id="home">
+<table id="pagetable" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="header_logo.jpg" width="1000" height="189" border="0" usemap="#pnlcrp">
+			<map name="pnlcrp">
+              <area shape="rect" coords="326,5,847,33" href="http://depts.washington.edu/labhist">
+            </map>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td bordercolor="#000000" style="vertical-align:top;background-color:black;">
+			<div id="navigation">
+			  <!--#include file="menu.html"-->
+			</div>
+	  </td>
+		<td>
+			<div id="content">
+			<h1>Labor Events Yearbook: 1935</h1>
+			<div class="redboxsm">
+    <h2 align="center" style="color:white;"><strong><a href="yearbook_introduction.shtml">Yearbook Home</a></strong></h2>
+	
+	<table id="redtable" border="0" cellpadding="0" cellspacing="3">
+	<tr>
+              <td><div align="center"><a href="yearbook1915.shtml"><strong>1915</strong></a></div></td>
+              <br>
+              <td><a href="yearbook1915.shtml"><img src="mages/yearbook-ufw2/1915-100x30.jpg" width="101" height="30" border="0"></a></a></span></td>
+            </tr>
+		<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1918.shtml"><strong>1918</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1918.shtml"><img src="mages/yearbook-ufw2/1918-100x30.jpg" width="100" height="30" border="0"></a></td>
+        </tr>
+		<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1919.shtml"><strong>1919</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1919.shtml"><img src="mages/yearbook-ufw2/1919-100x31.jpg" width="101" height="31" border="0"></a></td>
+        </tr>
+		 <tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1930.shtml"><strong>1930</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1930.shtml"><img src="mages/yearbook-ufw2/1930-100x30.jpg" width="100" height="30" border="0"></a></td>
+        </tr>
+        <tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1931.shtml"><strong>1931</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1931.shtml"><img src="mages/yearbook-ufw2/1931-100x30.jpg" width="101" height="30"></a></td>
+        </tr>
+			<tr>
+       <td style="width:75px;"><div align="center"><a href="yearbook1932.shtml"><strong>1932</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1932.shtml"><img src="mages/yearbook-ufw2/1932-100x30.jpg" width="100" height="31" border="0"></a></td>
+			</tr>
+			<tr>
+			  <td style="width:75px;"><div align="center"><a href="yearbook1933.shtml"><strong>1933</strong></a></div></td>
+			  <td style="vertical-align:top;"><a href="yearbook1933.shtml"><img src="mages/yearbook-ufw2/1933-100x30.jpg" width="101" height="30" border="0"></a></td>
+		    </tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1934.shtml"><strong>1934</strong></a></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1934.shtml"><img src="mages/yearbook-ufw2/1934-100x30.jpg" width="99" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1935.shtml"><strong>1935</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1935.shtml"><img src="mages/yearbook-ufw2/1935-100x30.jpg" width="100" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1936.shtml"><strong>1936</strong></a></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1936.shtml"><img src="mages/yearbook-ufw2/laborday100x30.jpg" width="100" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><strong><a href="yearbook1937.shtml">1937</a></strong></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1937.shtml"><img src="mages/yearbook-ufw2/1937-100x30.jpg" width="100" height="29" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><strong><a href="yearbook1938.shtml">1938</a></strong></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1938.shtml"><img src="mages/yearbook-ufw2/1938-100x30.jpg" width="100" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><strong><a href="yearbook1939.shtml">1939</a></strong></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1939.shtml"><img src="mages/yearbook-ufw2/1939-100x29.jpg" width="100" height="29" border="0"></a></td>
+			</tr>
+		</table>
+	
+   </div>
+        <p>This is a database of campaigns, strikes, and labor related events as recorded in the <em>Washington State Labor News</em> during 1935. It was researched by Andie Erhart with help from Katherine Edwards.
+        <h2>Highlights 1935 by Andie Erhart </h2>
+        <p>The year saw a number of dramatic strikes, many of them successful. Brewery workers, timber and sawmill workers, dairy wagon drivers, and dressmakers were among those organizing successful actions. Tensions within the labor movement were also evident in the <em>Washington</em><em> State</em><em> Labor News. </em>The AFL-linked newspaper reported with alarm about the activities of Communists in many unions, especially in connection with the Timber and Sawmill Workers’ Union.</p>
+        <p> The Brewery Worker’s strike proved one of the most violent clashes of the year. The strike officially began in May 1935, but tensions had been growing for several months. The union spent a great deal of time trying to negotiate a new contract, including provisions for the payment of overtime and the adjustment of back pay, but the Northwest Brewing Company, refused to acquiesce. The union declared a strike and set up picket lines, which soon turned violent. But the violence was not on the part of the picketers, rather directed toward them. The picketers were peaceful, or so the <em>Washington State Labor News</em> reported, but the company hired strike-breakers met them with violence. During the strike, one union man, Silver Vitro, was shot and wounded in the knee during the picketing. The pickets were frequently attacked by armed guards, gunfire, and tear gas. In addition to Vitro being wounded, William Usitalo, a member of the Seattle Teamsters’ Local No. 174 was shot in the head outside of Tacoma during the strike. It was alleged that Marinoff hired especially violent strike-breakers and encouraged them to use excessive force against the picketers. In the end, four men in addition to Marinoff himself were put on trial for murder. </p>
+         
+		<P><a href="#" onclick="toggleview('desc');return false;">[read full report/ close report]</a></P>
+        
+        <div id="desc" style="display:none;">
+<p>Violence was a common tactic used by company hired strike-breakers in many of the other strikes that took place in Seattle in 1935. The strikers at Arlington Dairy in March by milk wagon drivers were also met with excessive force. The milk wagon drivers walked out when Arlington Dairy refused to pay union scale wages for drivers and brought a restraining order against the union, saying it was interfering with retail business and should be kept out of the business. As in the brewery strike, milk wagon drivers picketing received threats of violence and destruction of property that were ignored by company and state officials. Guns were fired “accidentally” at picketers by scab drivers in an effort to intimidate and control the strikers, but these efforts were lost on the picketers who continued to protest against the company. The strike proved effective, cutting productivity at the Arlington Dairy and the Golden Rule Dairy. Huge community efforts were made to boycott the products and eventually most of Washington stopped buying products from both dairies. </p>
+<p>As was the case in the dairy campaign, boycotting often followed picketing and produced results. In October, a strike was declared by two unions at Fisher Flouring Mills when that company refused to recognize the chartered unions, pressured employees to join the company union and discriminated against those who were members of the chartered union. After two months of negotiations, the workers had enough and began picketing, followed by an almost national boycott of Fisher Flouring products. 
+</p>
+<p>The picket started October 2nd and continued to get stronger week after week. Trucks leaving the mill had to be escorted out of the mill by police, but returned soon after due to the fact that nobody was buying the product. In an effort to regain lost business, Fisher Co. started printing false advertisements stating that the strike was over and all the men were returning to work under a new agreement. These advertisements were unsuccessful, and in response, Washington State Labor News and other local newspapers printed lists of all Fisher products to boycott buying. The strikers were supported by the organized labor community one-hundred percent, and by December Fisher Flouring Co. realized how devastating not seriously negotiating with the union men was. A hearing to declare a ruling on the fairness of the union strike against Fisher Flouring Mills Co. was scheduled and took place in the early months of 1936. 
+</p>
+<p>Another strike that got a lot of local attention was that of the Timber and Sawmill Workers’ Union. Tensions between sawmill and timber workers were very clear, but ultimately, they stood united under the United Brotherhood of Carpenters and Joiners. The strike and picketing were a result of the opposition by management to change working conditions that were completely unsatisfactory and unsafe. Men at the McCormick Mills began negotiations to get union recognition, the right to collective bargaining,  time and a half for overtime, seniority rights, and the check-off system. Seattle mill workers used those as guidelines for an agreement to negotiate with local mills. Progress was slow, but several mills realized the potentially devastating effects of a strike and reopened under the new union agreements. Eventually, the strike was resolved and conditions were changed considerably, as well as an increase in union membership.
+</p>
+<p>One of the most significant labor events in 1935 was a strike organized by the Dressmakers’ Union No. 184 in Seattle. This action is so significant because it is one of the few and first labor movements led mainly by women. The garment workers were forced to a breaking point by the garment industry and intolerable working conditions. The strike began in early March and continued until the end of June with victory for the union. Not only were there picketers from the Dressmakers’ Union, but the strike drew immense community support. Men and women members loyal to other trade unions joined the demonstrations and showed support both morally and financially. 
+</p>
+<p>Favorable rulings for the union were made, all but forcing the company to bargain with the union and employees, but these rulings were met with resistance. The company brought in replacement workers and refused to let them leave; feeding and housing the replacements in the company building itself, saying it was for their safety. But by June 28th, the Dressmakers’ Local No. 184 reached a settlement with the Schoenfeld Bros. Company. The results included a twenty percent wage increase and an agreement for a thirty-six hour work week.  
+</p>
+<p>If there was one motto for the year 1935 with regard to the Seattle labor movement, it was best stated by Spencer Miller who said, “There’s only one thing upon which we can rely, organization.” That commitment to solidarity helped the labor movement win a number of important campaigns. In 1935. 
+</p>
+
+	 <p>&nbsp; </p>
+			</div>    
+        
+          <table id="datatable">
+            <tr>
+              <td width="125" valign="top" class="byline"><strong>DATE</strong></td>
+              <td width="300" valign="top" class="byline"><strong>ARTICLE</strong></td>
+              <td width="109" valign="top" class="byline"><strong>PAPER</strong></td>
+              <td width="400" valign="top" class="byline"><strong>ABSTRACT</strong></td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">January, 4</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-01-04p3.jpg">&quot;Five Retail Jewelry Code Changes Offered&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">Major changes are being made to the Retail Jewelry codes including five amendments, three of which have immediate labor provisions. The amendments regarding labor include: (1) Professional persons are required to receive the minimum wages required for executives. (This applies directly to artists doing design work.); (2) Skilled employees are permitted to work with out regard to the code’s maximum hour limitations during peak seasons, provided they are paid time and a half for overtime; (3) The limit of the number of employees who may work unrestricted hours was revised.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">January, 4</td>
+              <td width="300" valign="top" class="byline">&quot;Credentials Received by Council Wednesday&quot;</td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">The annual elections in many unions bring a large list of new delegates accepted by the Seattle Central Labor Council. </td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">January, 11</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-01-11p1.jpg">&quot;City Council Backs State Labor Program&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">Major headway made in support of the labor movement by city council officials in the past week. A resolution to “secure the enactment of a state which will provide for employment insurance” was adopted by Seattle City Council, a big step for the labor movement, represented by the Washington State Federation of Labor.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">January, 11</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-01-11p1.jpg">&quot;Postal Clerks Ask for Wage Restoration&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">The postal clerks of the Seattle area organized to back a bill with the full support of the employees to restore full wages as of January 1 st . This is a direct disregard to the executive order signed by Roosevelt to stay the return of the last five percent in wage reduction. </td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">January, 11</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-01-11p2.jpg">&quot;30 Hour Week Bill Introduced: Labor Gives Full Backing&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">The AFL concentrated its efforts this week to secure the enactment of the 30 hour work week bill as soon as possible. There are conflicted views regarding whether or not this bill will actually increase production and reconcile the unemployment issue. AFL plans to discuss the bill in depth at the headquarters in the city of Washington on Tuesday January 29 th , 1935.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">January, 18</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-01-18p1.jpg">&quot;Protection Asked for Outside Workers on Government Projects&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">A resolution was adopted to have all workers and independent contractors under exclusive jurisdiction of the United States government placed under the protection of the United States Employees’ Compensation Act by an act of Congress.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">January, 18</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-01-18p1.jpg">&quot;Dressmakers Start Big Drive&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">Frustrated by poor conditions and little protection from the New Deal, workers representing many Seattle dress shops meet to discuss proposals to end bad working conditions and form alliances.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">January, 18</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-01-18p1.jpg">&quot;Organization Campaign for Improved Conditions Starts with Comprehensive Plans&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">The Dressmaker’s Union No. 184 in Seattle had a successful gathering of workers to revive interest in the organization. The object of the organization is to establish real working conditions. This is the first of many labor organizing events by the Dressmakers Union that eventually result in a full blown worker’s strike.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">January, 18</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-01-18p3.jpg">&quot;Strike Brings Wage Increase&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">Locals 174 and 353 went on strike Wednesday, January 16 th , 1935 at San Juan Fish Company. The establishment was picketed and only one shipment was able to go in or out and had to be escorted by police. The two day strike ended with victory for the workers, resulting in over a twenty percent wage increase.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">January, 25</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-01-25p1.jpg">&quot;Dressmakers Will Present Agreement&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">Led by the vice president of the International Ladies' Garment Union, Seattle Dressmakers' Local No. 184 discussed the terms of an agreement to be presented to their employers.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">February, 1</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-02-01p1.jpg">&quot;Electricians Attack Power Company Union&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">The Seattle Electrical Workers No. 77 tried negotiating with the electric company over wages and working conditions but was refused. The company refuses to acknowledge the union because they don’t believe that the union represents the majority of workers, but records indicated otherwise. This is a call for action for members of organized labor and friends to reconsider signing any light and power contracts.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">February, 1</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-02-01p1.jpg">&quot;Nordstrom's Hit by NRA Decision&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">The Retail Clerks of Local No. 174 were victorious in a favorably decision handed down by the Regional Board of Labor. Nordstrom was ordered to enter into negotiations and collective bargaining with the union, in good faith, within ten days. If Nordstrom fails to do so, the matter will be referred to the National Relations Board for appropriate action</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">February, 1</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-02-01p2.jpg">&quot;Details Announced for Hearing on Labor Provisions of NRA Codes&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">An announcement was made for the issues that will be cover in the public hearings to modify labor policy. Some of the issues to be covered include the following: (1) Minimum wage structure and level; (2) Inequities in wages above the minimum wage; (3) Geographic and population and other wage differentials within employment conditions; (4) Maximum hour provisions; (5) General hours and wage provisions of the code; (6) Welfare of the workers for competition among industries; (7) Securing re-employment.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">February, 8</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-02-08p1.jpg">&quot;Electricians Take Strike Vote: Employees of Private Power Company Lose Patience in Their Delayed Recognition&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">After eight months of unsuccessful negotiations, Members of the Electrical Workers' Local 77, in alliance with their sister locals employed by Puget Sound Power and Light, take a strike vote. </td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">February, 8</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-02-08p4.jpg">&quot;Needed Changes in Auto Code Are Fought Desperately by Employers; Congressional Investigation Looms&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">Charging that the auto industry had profited from the NRA but had refused to allow its workers their collective bargaining rights, NRA Labor Advisory Board president seeks to rewrite the codes.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">February, 15</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-02-15p1.jpg">&quot;Nordstrom's Case Goes to Washington&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">Nordstrom’s shoe store in Seattle failed to comply with the decision made by the Regional Labor Board in a timely manner and will now have to face the higher tribunal of the National Labor Relations Board in Washington D.C.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">February, 22</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-02-22p2.jpg">&quot;Dressmakers Press Demand for Contract&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">Seattle Dressmakers' Union Local No. 184 presents a letter to their employers restating their demands for safe and tolerable conditions and fair wages.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">March, 15</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-03-15p1.jpg">&quot;Intolerable Conditions Force Seattle Girls on Streets to Gain Relief by Organization&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">A breaking point for the dressmakers employed in the garment industry was reached this week. Members of the Dressmakers’ Union No. 184 went on strike, picketing the company. There was huge moral and financial support for the ladies involved in the strike from the community. Historical event started here for this union and women driven labor movements.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">March, 22</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-03-22p1.jpg">&quot;History Made by Dressmakers&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">Dressmakers on strike, having been unable to garner publicity for their plight from the mainstream media, are able to practically cripple the dressmaking industry, thereby calling attention to their fight, and to the employers' transgressions.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">March, 22</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-03-22p3.jpg">&quot;Strike at Arlington Dairy: Restraining Order Requested When Drivers Walk Out&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">Seattle Central Labor council endorsed a strike of Milk Wagon Drivers this week and warns friends and members of organized labor against purchasing any products of the dairy, labeling them unfair. The drivers are protesting the refusal of the dairy to pay union scale wages and therefore walked off the job. Arlington Dairy is seeking a restraining order, complaining that the union is interfering with business and should be kept from “molesting the retail trade of Arlington Dairy Inc.” Some milk from the dairy is being delivered by Golden Rule Dairy and Bakery but buyers are boycotting the goods.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">March, 29</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-03-29p3.jpg">&quot;Beer Industry 100% Organized&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">The Washington State Labor News is happy to report that the beer industry in both Washington and Oregon is now one-hundred percent organized. The brewers, distributors and contract haulers are employing only union men in good standing. This feat is matched by few industries throughout America.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">March, 29</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-03-29p3.jpg">&quot;Arlington Dairy Strikers Winning&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">A ruling was made this week against the restraining order requested by Arlington Dairy on the grounds that it was ridiculous and the union members were breaking no laws by striking or being members of organized labor. The picketing of the dairy’s operations by the striking workers is a protected right, guaranteed to the workers by law. Customers are now refusing to purchase or accept any deliveries of the dairy’s goods made by non-union workers.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">April, 5</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-04-5p1.jpg">&quot;Dressmakers Beat Injunction: Will Hold Conference&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">Striking dressmakers were able to convince their employers to meet for negotiations. The strikebreakers are reportedly reaching the breaking point working in the intolerable conditions the union struck to improve, giving the striking dressmakers more publicity and fuel in their fight for better conditions and pay.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">April, 12</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-04-12p1.jpg">&quot;The So-Called Committee of 500 Have Been Paying Out Large Sums of Money for Paid Ads in the Daily Papers and Also Employing Child Labor to Pass Out Handbills From Door to Door!&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">After numerous ads placed in local papers libeling the striking dressmakers and hurling outlandish charges of communist and other ties, the dressmakers fire back with a front page letter, denouncing the employers' attacks as an attempt to prejudice public opinion of the strikers and hide the real issues. These they outline in the letter, reiterating that they are fighting for tolerable conditions and fair wages, as well as union recognition and job security.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">April, 12</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-04-12p3.jpg">&quot;Pickets Face 'Scab' Guns&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">Emboldened by a successful strike against Arlington Dairy, Seattle Milk Wagon drivers begin to picket Golden Rule Dairy. However, scab drivers employed by Golden Rule begin brandishing guns and threatening, even shooting at, the picketers.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">April, 12</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-04-12p1.jpg">&quot;Damage Suit of Dressmakers is Reply to Bosses&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">When the Dressmakers called a strike, the Olympic Garment Company responded with a restraining order against the strikers, which was dissolved after a two-day court hearing. The garment workers filed a 16-page complaint against Olympic Garment Company and its strikebreakers, seeking $30,500 in damages.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">April, 19</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-04-19p1.jpg">&quot;Dressmakers Scorn the 500&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">Representing the striking Dressmakers, Rose Pesotta's editorial again condemns the garment industry employers for their mud-slinging attacks on the striking dressmakers.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">April, 19</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-04-19p1.jpg">&quot;Libel Suits are Brought Against the Seattle Dailies&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">In response to the '500's' ads slamming the striking dressmakers and charging that the Garment Workers' Union was a racketeering operation, the union filed libel suits against three local papers, asking for $50,000 in damages</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">May, 3</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-05-3p1.jpg">&quot;Dressmakers Pleased with Regional Labor Board Decision Here&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">The case for the Dressmakers’ Local No. 184 was taken to the Regional Labor Board for a decision in regards to the current strike. The recommendations of the board returned favorable for the strikers. </td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">May, 3</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-05-3p1.jpg">&quot;Repeated Violations of Contract Force Truck Driver's Strike&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">Violations by the Northwest Brewing Company lead to a strike this week by the Teamsters’ Union. Northwest Brewing Company has failed to pay overtime and adjust back pay claims. While the Teamsters held off for months, they can no longer tolerate the bad conditions provided by the company.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">May, 3</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-05-3p3.jpg">&quot;Armed Threats Ignored by Milk Drivers' Pickets&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">Milk Wagon Drivers are still picketing for the unfair conditions at Arlington Dairy but are now receiving violent threats. Strike-breakers are shouting things like, “I’m going to blow your brains out,” if the striking and picketing does not come to an end. Though these assaults are being reported, there are no immediate consequences for those issuing these threats.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">May, 10</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-05-10p1.jpg">&quot;Armed Guard Shoots Union Picket&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">Silver Vitro suffered an injury to the knee from a gunshot during Marinoff Brewery picket this week. The man who shot him while he was peacefully picketing, Ehelers, is believed hired by Marinoff himself as a strikebreaker with the intent to used excessive force to break up the strike. This is the first of many attacks on the Brewery picket lines.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">May, 17</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-05-17p3.jpg">&quot;Victory in Cab Drivers' Strike</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">Fifty-five cab drivers struck a protest against the failure of the company to meet the terms of the union contract. The new conditions include working no more than one nine hour shift in a day, the company must hire union drivers, and the drivers will now be paid on a weekly basis. These conditions are the best of taxi drivers in the country.<br></td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">May, 24</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-05-24p3.jpg">&quot;Pickets Attacked by Guards&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">During a strike against Northwest Brewery, armed guards protecting strikebreakers who were transporting hot cargo shot at and threw tear gas bombs into the vehicles of pickets following their delivery trucks. The unarmed pickets were attempting to follow the strikebreakers to their destination and prevent delivery peacefully.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">May, 31</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-05-31p1.jpg">&quot;Picket Murdered&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">William Usitalo, a member of the Seattle Teamsters’ Local No. 174 was shot in the head on May 24 th outside of Tacoma. Murder charges are being sought for the four men in the killing car, but charges are also being brought against the president of Northwest Brewing Co., Peter Marinoff, for his role in hiring these men to use excessive force to break the strike.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">June, 7</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-06-7p1.jpg">&quot;Marinoff Charged with Murder&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">After four armed guards killed Teamster William Usitalo, who was picketing the Northwest Brewing Company, their employer and company head is charged with murder along with the four gunmen.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">June, 7</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-06-7p1.jpg">&quot;Timber Workers Tell of Strike&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">The Sawmill and Timber Workers’ Union in the Northwest went on strike this week. The efforts to change conditions in the mills were met by opposition and finally led to the strike. The conditions of the mills vary between locations but overall are very unsatisfactory. The strikers are striving for union recognition, the right to collective bargaining, fifteen percent common labor, time and a half for overtime, seniority rights and the check off system. McCormick mills have already negotiated and opened under this agreement, but Seattle mills are not as hopeful and currently none have opened in the Seattle district.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">June, 14</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-06-14p1.jpg">&quot;Timber Workers Making Progress Toward Victory&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">Negotiations are not underway with several mills and factories in Washington as a result of the Sawmill and Timber Workers’ strike. Though there is talk of a split between the sawmill and timber workers, they are standing together, united behind the United Brotherhood of Carpenters and Joiners. The strike is spreading out of the local area to eastern Washington and Idaho. Several mills have already agreed to the union terms and are now working under union agreements.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">June, 14</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-06-14p1.jpg">&quot;Armed Guards Attack Pickets&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">An armed group of former Marinoff guards sought out and brutally beat peacefully-picketing mill workers with blackjacks.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">June, 21</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-06-21p3.jpg">&quot;Repeated Attacks on Union Pickets Result in Arrest: Guns, Tear Gas Used Against Peaceful Pickets&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">Gene McArther, a driver for Golden Rule Dairy, was arrested this week. McArther was caught throwing milk bottles at a crowd of picketers. The day before his arrest, he threw a tear gas bomb into the interior of an automobile belonging to a picketer. The Milk Wagon Drivers’ Union is being met with continuous violence, but they are still holding strong on the strike.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">June, 21</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-06-21p1.jpg">&quot;Organized Farmers Join Forces with Labor&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">In a clear statement of fairness and labor equality, the Washington Cooperative Egg and Poultry Association unionize on a major scale, organizing more than 16,000 poultry workers in multiple plants.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">June, 28</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-06-28p1.jpg">&quot;Dressmakers Win Wage, Hour Fight&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">The Dressmakers’ Local No. 184 concluded the strike this week by reaching a settlement with Schoenfeld Bros. It was a strong victory for the union and brought two major results. The Dressmakers will get a wage increase of twenty percent and a thirty-six hour work week. The picketing and strike proved to be very effective in turning results in favor of this union.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">June, 28</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-06-28p1.jpg">&quot;Tacoma Terrorized by Reign of Gas Bomb, Bayonet&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">At Governor Clarence Martin's request, the National Guard entered Tacoma to control pickets and prevent a general strike, but their involvement resulted in chaos.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">July, 12</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-07-12p3.jpg">&quot;Western Union Exploits Boys&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">A boycott of Western Union services is being called for due to the recent discovery of the exploitation of boys employed by Western Union Telegraph Company. It has been reported that the boys are minors, working long hours for very little pay. They get twenty cents for every delivery, but the boys are only making five cents in commission from the work. The labor forces in Seattle and the Northwest demand Western Union change the unfair practices.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">July, 12</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-07-12p4.jpg">&quot;President Approves Labor Disputes Act––Rights of Workers Safeguarded&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">On July 5th, President Roosevelt signed into law the Wagner-Connery Labor Relations Bill. This bill would prohibit employer interference in unions and outlaw company unions, while protecting the employees' right to organize.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">July, 12</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-07-12p4.jpg">&quot;More than 25,000 Workers in Lumber Industry Now on Union Agreement Basis&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">There are now between 25,000 and 30,000 lumber and timber workmen across three states working under union agreements with mill operators. In Seattle alone, three mills are operating under these new conditions and more are expected to join in the near future. This is a key example of union men working for better conditions of living, despite threats of violence, and they are on their way to a better situation.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">August, 16</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-08-16p4.jpg">&quot;Colored Workers Get First Charter&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">The Executive Council granted a charter to the Brotherhood of Sleeping Car Porters. This is the first union of all black workers to get a Federation charter.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">August, 30</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-08-30p6.jpg">&quot;Meat Cutters Organize Washington 99 Percent&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">After five years, Meat Cutters Local 81 finally united with five other Locals to form a State Federation of meat-cutters. </td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">August, 30</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-08-30p10.jpg">&quot;'Suffering Public' Complains Only of Inconvenience and, Never of Intolerable Working Conditions&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">In an editorial, C.O. Young, the general representative of the AF of L admonishes the general public for interfering with recent strikes, particularly the lumber strike. He accuses the general public of personal attacks of pickets and reminds those who do not support labor that unions fight against intolerable conditions that should be a shared enemy for everyone.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">September, 6</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-09-6p1.jpg">&quot;Presbyterian Committee Takes Advanced Position on Wages, Child Labor&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">The Presbyterian Committee makes a powerful statement for &quot;human rights before property rights, liberty and equality for all.&quot; They tout organized labor, calling it &quot;essential&quot; and call for reform to eradicate the need for child labor and poor working conditions.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">October, 11</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-10-11p1.jpg">&quot;Men's Effort to Cooperate with Large Enterprise Fails: Strike Effective&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">The Fisher Flouring Mills Company was shut down this week by a worker’s strike. After two months of negotiations and delays by two unions within the mill, the workers declared a strike effective. Fisher Flouring Mills refuses to recognize the chartered unions, pressured employees to join the company union and has been outwardly discriminating against union men. Union members are calling for a boycott of all feed and flour under the Fisher Flouring brand.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">October, 11</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-10-11p3.jpg">&quot;Marinoff Guard Guilty of Assault&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">One of the Marinoff guards charged with the murder of picketer William Usatilo is found guilty on the assault of two striking garment workers the previous year, showing a pattern of violence against organized labor.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">October, 18</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-10-18p1.jpg">&quot;Failure to Deliver Flour to Wholesalers Under Armed Guard Shows Labor's Power&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">Picketing of the Fisher Flouring Mill started October 2 nd and is still holding strong. Trucks leaving the mill must be escorted by police to get out, only to be brought back due to failure to sell the goods in any market. In retaliation, Fisher Flouring Co. is printing advertisements claiming that the strike is over and men are returning to work as usual in a last attempt to retain the business they’re losing, but these are false advertisements. The strike is gaining power everyday and spreading nationally.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">November, 1</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-11-1p1.jpg">&quot;Fisher Mill Losing to Labor Power: Desperate Effort to Run Mill with Strikebreakers Shows Labor's Solid Front&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">Mill management is now realizing how powerful the strike really is and that the strike cannot be broken. A settlement would benefit the Fisher Flouring Co. at this point. The Fisher strikers are standing strong with the support of many local organized labor groups.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">November, 8</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-11-8p3.jpg">&quot;'Voice of Action' Attacked: Joint Council Resolution Denounces Radical Journal&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">Despite the Voice of Action's support of labor and labor causes, Teamsters Local 28 resolves to publicly denounce the Voice of Action for its Communist leanings and radicalism. Labor opponents regularly hurled Communist accusations at labor activists and striking unions, so the Teamsters' break from the Voice of Action was a strategic move to separate labor from Communism.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">November, 22</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-11-22p1.jpg">&quot;Strikebreakers at Fisher's Mill Realize Futility of Fighting for Co. Union&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">As the striking mill workers resolve to continue, the morale of their strike-breaking replacements wavers and mill operations slow.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">November, 22</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-11-22p1.jpg">&quot;Emergency Ferry Service Provided by Committee Representing All Unions&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">The strike of nearly 500 ferry and freight boat employees has Puget Sound tied up for the second week now and negotiations between groups are still deadlocked. There are now 47 vessels tied up and out of service. Eight vessels are working under special permission of the striking organization. The driving force behind the strike is the refusal of ship owners to recognize the eight hour work day and decent living wages. The strike now involves six companies; one other company has already reached an agreement with the union.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">November, 29</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-11-29p1.jpg">&quot;Fisher Case Up to U.S. Labor Board: Strikers Gain Support in Struggle for Rights Against 'Union-Busters'&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">With both local and national support from other unions, the strike continues against Fisher Mills. Local unions donate cash and local merchants refuse to sell Fisher products, making the mill's employment of strikebreakers futile.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">December, 6</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-12-6p1.jpg">&quot;Federal Labor Relations Board Conducts Inquiry Into Fisher Controversy&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">As the Fisher Mills Strike continues and both sides firmly plant their feet and refuse to concede, the Federal Labor Relations Board begins a hearing to gather facts about the conflict.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">December, 6</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-12-6p1.jpg">&quot;Governor Moves to End Ferry Strike: Unions Ready to Accept Joint Board Proposition While Committee Studies&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">The ferry strike enters its fifth week this week. The men of the unions are standing firm for a fair settlement and will stand for nothing less. Governor Martin has taken action to get involved now to settle the trouble and get the boats back on their normal schedules. The operators refuse all proposals brought to them so far.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">December, 13</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-12-13p1.jpg">&quot;Ferry Strike Ends When Unions Win Annulment of Gaines' Infamous Award&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">The ferry strike ended this past Tuesday in victory for the two unions directly involved, Masters, Mates and Pilots, and the Ferry Boatmen. An arbitration board will be appointed by Governor Martin to look into hours, wages and overtime discrepancies.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">December, 20</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-12-20p1.jpg">&quot;Mill's 'Union-Busting' Policy Shown: Inquiry Before Federal Labor Relations Board Makes Clear Fishers' Payroll Slashes&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">Two weeks into the FLRB inquiry into the Fisher Mill Strike, preliminary reports show that the Mill has laid off numerous workers after the installation of labor-saving machinery. More importantly, the Mill has attempted to conceal its involvement in the company union and its inception.</td>
+            </tr>
+            <tr>
+              <td width="125" valign="top" class="byline">December, 27</td>
+              <td width="300" valign="top" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1935-1936/wsln_1935-12-27p1.jpg">&quot;Chain Stores Declare War on Labor: Grocers Join Washington Industrial Council in Spy Schemes to Wreck Unions&quot;</a></td>
+              <td width="109" valign="top" class="byline">WSLN</td>
+              <td width="400" valign="top" class="byline">Claiming to have spies in organized labor, a council of Seattle grocers in alliance with the Washington Industrial Council wage a public war on organized labor and vow to make strikes futile.</td>
+            </tr>
+          </table>
+          
+         
+          </div>
+	  </td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.html"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

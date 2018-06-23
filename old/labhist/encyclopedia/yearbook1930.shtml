@@ -1,0 +1,420 @@
+<!--#include file="metaheader.html"-->
+<title>Labor Yearbook 1930</title>
+<link rel="stylesheet" type="text/css" href="xfade2_o.css" />
+<script type="text/javascript" src="xfade2.js"></script>
+<style type="text/css">
+<!--
+.style1 {color: #FFFFFF}
+-->
+</style>
+</head>
+<body id="home">
+<table id="pagetable" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="header_logo.jpg" width="1000" height="189" border="0" usemap="#pnlcrp">
+			<map name="pnlcrp">
+              <area shape="rect" coords="326,5,847,33" href="http://depts.washington.edu/labhist">
+            </map>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td bordercolor="#000000" style="vertical-align:top;background-color:black;">
+			<div id="navigation">
+			  <!--#include file="menu.html"-->
+			</div>
+	  </td>
+		<td>
+			<div id="content">
+			<h1>Labor Events Yearbook: 1930 </h1>
+			<div class="redboxsm">
+    <h2 align="center" style="color:white;"><strong><a href="yearbook_introduction.shtml">Yearbook Home</a></strong></h2>
+	
+	<table id="redtable" border="0" cellpadding="0" cellspacing="3">
+	<tr>
+              <td><div align="center"><a href="yearbook1915.shtml"><strong>1915</strong></a></div></td>
+              <br>
+              <td><a href="yearbook1915.shtml"><img src="mages/yearbook-ufw2/1915-100x30.jpg" width="101" height="30" border="0"></a></a></span></td>
+            </tr>
+		<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1918.shtml"><strong>1918</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1918.shtml"><img src="mages/yearbook-ufw2/1918-100x30.jpg" width="100" height="30" border="0"></a></td>
+        </tr>
+		<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1919.shtml"><strong>1919</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1919.shtml"><img src="mages/yearbook-ufw2/1919-100x31.jpg" width="101" height="31" border="0"></a></td>
+        </tr>
+		 <tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1930.shtml"><strong>1930</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1930.shtml"><img src="mages/yearbook-ufw2/1930-100x30.jpg" width="100" height="30" border="0"></a></td>
+        </tr>
+        <tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1931.shtml"><strong>1931</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1931.shtml"><img src="mages/yearbook-ufw2/1931-100x30.jpg" width="101" height="30"></a></td>
+        </tr>
+			<tr>
+       <td style="width:75px;"><div align="center"><a href="yearbook1932.shtml"><strong>1932</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1932.shtml"><img src="mages/yearbook-ufw2/1932-100x30.jpg" width="100" height="31" border="0"></a></td>
+			</tr>
+			<tr>
+			  <td style="width:75px;"><div align="center"><a href="yearbook1933.shtml"><strong>1933</strong></a></div></td>
+			  <td style="vertical-align:top;"><a href="yearbook1933.shtml"><img src="mages/yearbook-ufw2/1933-100x30.jpg" width="101" height="30" border="0"></a></td>
+		    </tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1934.shtml"><strong>1934</strong></a></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1934.shtml"><img src="mages/yearbook-ufw2/1934-100x30.jpg" width="99" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1935.shtml"><strong>1935</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1935.shtml"><img src="mages/yearbook-ufw2/1935-100x30.jpg" width="100" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1936.shtml"><strong>1936</strong></a></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1936.shtml"><img src="mages/yearbook-ufw2/laborday100x30.jpg" width="100" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><strong><a href="yearbook1937.shtml">1937</a></strong></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1937.shtml"><img src="mages/yearbook-ufw2/1937-100x30.jpg" width="100" height="29" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><strong><a href="yearbook1938.shtml">1938</a></strong></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1938.shtml"><img src="mages/yearbook-ufw2/1938-100x30.jpg" width="100" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><strong><a href="yearbook1939.shtml">1939</a></strong></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1939.shtml"><img src="mages/yearbook-ufw2/1939-100x29.jpg" width="100" height="29" border="0"></a></td>
+			</tr>
+		</table>
+	
+   </div>
+        <p>This is a database of campaigns, strikes, and labor related events as recorded in the <em>Washington State Labor News</em> during 1930. It was researched by Eunji Lee. Start by reading her labor highlights report. Below that is the database. Click the links to read the  articles. 
+        <h2>Highlights 1930 by Eunji Lee </h2>
+ 
+        <p>The Great Depression was beginning to make itself felt in 1930. Articles in the <em>Washington State Labor News </em>show the labor movement mostly attempting to carry on as usual. The weekly newspaper provided no information about changes in union membership, but did report that the American Federation of Labor announced a significant increase in membership nationwide. The article claimed that 3 million people were members of unions. But it is clear that with unemployment mounting unions were under pressure as employers broke unions or refused to renew contracts. </p>
+        
+     
+        <p> But it is clear that with unemployment mounting unions were under pressure as employers broke unions or refused to renew contracts. Many articles in the <em>WSLN </em>had to do with letting union members know which houses not to patronize. Companies and organizations that were not union-friendly were added to the “do not patronize” list that was published in most issues<em>.</em> Other articles encouraged citizens to buy products from local union houses in order to raise the demand for the service or product, providing jobs for other local union members. For instance, near Christmas, Blind Sam, known as the “Kandy King,” <span class="endnote">[1]</span> asked readers of the newspaper to purchase candy from the Queen Anne Candy Company, “the only all Seattle made and 100% unionized institution” to “give work and a Christmas to Seattle union men and women.”<span class="endnote">[2] </span></p>
+           <P><a href="#" onclick="toggleview('desc');return false;">[read full report/ close report]</a></P>
+        
+        <div id="desc" style="display:none;">
+           <p> Only a few strikes and boycotts were mentioned. One struggle involved the Follies Theatre, formerly known as the Pantages Theatre, which had been a union house [3]. Under new management, the theatre reopened as a non-union operation, cutting wages of its employees -- from the musicians to the janitors-- and demanding that they “take it or leave it,” forcing many of the union members to be out of a job. The unions fought back with a boycott. After four months of making headlines and encouragement from the Seattle Central Labor Council to not patronize the theatre, management admitted defeat and the theatre again became unionized [4]. The new employees were replaced with union employees and the unionization allows all union members to once again start patronizing the theatre. This kind of solidarity allowed union members to survive in a time where a shortage of jobs was prominent. </p>
+            <p> Theaters were a major site of union campaigns in 1930. In addition to the Follies Theatre, the Gala Theatre and Beacon Hill Theatre became unionized. Others like the Columbia Theatre in Columbia City, the Society Theatre and the Embassy Theatre were put on the banned list of theatres not to patronize until a union house. <em>Washington State Labor News</em> published numerous articles concerning theatres including one in August explaining that the best moving picture theatres were union houses [11]. </p>
+            <p> There was only one new union noted in the <em>Washington State Labor News </em>for the year. The new union is chartered by the Hod Carriers and Building Laborers, but after their acceptance into the Seattle Central Labor Council, the Plasterers and Cement Finishers protested against the new union having a seat in the labor council [5]. All other articles are of encouragement from the labor council to help one another and work together in bringing firms to more union-friendly relations. </p>
+            <p> Women are mentioned in the WSLN during the year, but mostly as members of women’s auxiliaries, not as union members. [6]. They would hold parties and help support their husbands in the labor movement. Auxiliaries mainly served to promote unionism and to talk about current events, such as which companies are no longer on the accepted list of firms to patronize. In this way, women were also actively participating in the labor movement, but weren’t part of the unions directly. There is a clear distinction in gender roles in the newspaper. The women’s department of the <em>Washington State Labor News</em> features recipes every week for foods such as apple sauce, loaf cake, or mock chicken [7]. This is a clear stereotype that women are seen as cooks and are responsible for looking after the family’s needs at home, not in the workplace. Recipes are found only in the women’s department and nowhere else. </p>
+            <p> One of the important causes of the year 1930 was the struggle for the 5-day work week and a 6 to 8-hour work day. The monthly newspaper reported on hours limitation campaigns worldwide. In Ottawa, Ontario, workers were approved for a 7¾-hour work day. In Vancouver B.C., a 5½-hour work day was enforced. In Washington, the Carpenters Local 131 of Seattle Washington foght for a 6-hour, 5-day work week [8]. Soon thereafter, Seattle painters negotiate with their contractors and employers for 6-hour work days, at least for the cold winter months, [9] followed by the fire fighters and even cooks. </p>
+            <br>
+            <p align="center"> Endnotes </p>
+         <p class="endnote">[1] “Blind Sam’s Holiday Rememberances.” <em>Washington State Labor News</em>, December 12, 1930, p.4. </p>
+            <p class="endnote"> [2] “Union Candy is Xmas Feature of ‘Blind Sam’.” <em>Washington State Labor News</em>, November 28, 1930, p.1. </p>
+            <p class="endnote"> [3] “Former Pantages Theatre Witnesses Betrayal of Loyal Union Employees.” <em>Washington State Labor News</em>, July 11, 1930, p.1. </p>
+            <p class="endnote"> [4] “Union Conditions Established With Present Company Leaving Prior to Arrival of Will King.” <em>Washington State Labor News</em>, November 7, 1930, p.1. </p>
+            <p class="endnote"> [5] “Pavement Workers Seat is Contested.” <em>Washington State Labor News</em>, September 19, 1930, p.1. </p>
+            <p class="endnote"> [6] “Milk Drivers’ Auxiliary Plan for Good Meetings.” <em>Washington State Labor News</em>, August 29, 1930, p.3. </p>
+            <p class="endnote"> [7] “Loaf Cake.” <em>Washington State Labor News</em>, July 25, 1930, p.3. </p>
+            <p class="endnote"> [8] “Six Hour Day is Advocated as Objective.” <em>Washington State Labor News</em>, July 18, 1930, p.1. </p>
+            <p class="endnote"> [9] “Painters Urge Six Hour Day.” <em>Washington State Labor News</em>, October 3, 1930, p.1. </p>
+            <p class="endnote"> [10] “Union Membership Gains During 1930.” <em>Washington State Labor News</em>, October 24, 1930, p.1. </p>
+            <p class="endnote"> [11] &nbsp;“ Non-Union Theatres Make Poor Showing .” <em> Washington State Labor News</em> , August 15, 1930, p.1. </p>
+          <p class="MsoNormal">&nbsp;</p>
+		   <p class="MsoNormal">&nbsp;</p>  
+        </div>
+  
+      
+		  <table id="datatable">
+            
+			
+              <tr>
+                <td class="byline">Date</td>
+                <td class="byline">Article</td>
+                <td class="byline">Paper</td>
+                <td class="byline">Abstract</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">July, 11</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/7.11.1930_former_pantages_theatre_witnesses_betrayal_of_loya.jpg"> &quot;Unemployment Shows No Sign of Abatement&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">William Green, president of the American Federation of Labor (AFL) has announced that unemployment is on the rise. He estimates that in the first 6 months of the year, due to unemployment, workers lost (or never gained) $2 billion. Nearly twice as many as in June of 1929 are out of work in June of 1930. The beginning of the “summer dull season” has left a lot of people jobless.</td>
+              
+			  </tr>
+			
+              <tr>
+                <td width="76" class="byline">July, 11</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/7.11.1930_former_pantages_theatre_witnesses_betrayal_of_loya.jpg"> &quot;Former Pantages Theatre Witnesses Betrayal of Loyal Union Employees&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">Pantages Theatre, the old Follies Theatre, reopens as a closed union house. After negotiation, the house opened with a full union crew, but at the end of thirty and hard work from the union members, they were forced to take lower wages or leave. “The trades affected are the musicians, stage employees, moving picture operators and janitors.” This article asks the public to not support or attend the Follies Theatre until employees are treated fairly.</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">July, 18</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/7.18.1930.jpg"> &quot;Follies Theatre Unfair to Union Labor&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">“The unions affected are the moving picture operators, the musicians, the stage employees and the janitors.” This article is continuing to notify other union members and friends to not patronage the Follies Theatre until they become a union house.</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">July, 18</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/7.18.1930.jpg"> &quot;Gala Theatre Union House&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">right next to the follies theatre article, the gala theatre article states that it is a strictly union house (implying that the audience reading the newspaper should attend the gala theatre instead of the follies theatre)</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">July, 18</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/7.18.1930.jpg"> &quot;Washington State Federation of Labor Delegates, Sweltering in Spokane Heat, Attend Labor’s Business with Dispatch&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">holds Spokane session where many union leaders join to give speeches and resolutions are introduced </td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">July, 18</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/7.18.1930.jpg"> &quot;Six Hour Day is Advocated as Objective&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">a proposal has been made for a six-hour day, 5-day week</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">July, 25</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/7.25.1930.jpg"> &quot;Management continues policy of alienating prospective patrons by attitude toward employees&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">people are continuing to avoid attending the follies theatre and loans are trying to be taken out to cover losses in patronage. Ever since the central labor council of seattle put the follies theatre on their list of places not to attend, attendance has been near none.</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">July, 25</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/7.25.1930.jpg"> &quot;Textile Workers Join Unions By Thousands&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">Thousands of textile workers in Columbus, Georgia joined unions and are receiving the help of the national women’s trade union league, the AFL, and the united textile workers of America.</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">August, 1</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/8.1_follies_theatre_nears_collapse.jpg"> &quot;unfriendly attitude forebodes coming crash of institution shown by declining patronage&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">the continuation of refusal of attendance of follies theatre almost puts them out of business</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">August, 1</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/8.1_pg2.jpg"> &quot;Queer compromise on length of day&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">in Ottawa, Ontario, a 7¾-hour work day was approved after the workers’ struggle for a 7½ work day again the employers’ struggle for an 8-hour day.</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">August, 8</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/8.8_pg2.jpg"> &quot;Government Wage Cut Given Blind Workers&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">in Vancouver B.C., work has been increased from 5 to 5½ work days for and wages cut for the blind employees of the Canadian national institute for the blind, not to mention speed-up measure.</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">August, 8</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/8.8_pg3_french_strike.jpg"> &quot;French Strike Due to Insurance Plan&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">75,000 people, mostly in the northern textile region of france, organized workers are striking against the French government’s social insurance plan, which would be taken out of their wages. They are demanding a wage increase to compensate</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">August, 15</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/8.15.jpg"> &quot;Union Savings Firm is Absolutely Safe&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">Frank Rust, officer of the organization, has denied all claims made against the union savings firm saying that it has made bad policy pursuits of loans.</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">August, 15</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/8.15.jpg"> &quot;Non-Union Theatres Make Poor Showing&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">the best moving picture theatres that are thriving are ones that are union houses. Article is a message from the seattle central labor council to keep in mind to not attend non-union houses.</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">August, 15</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/8.15_pg2.jpg"> &quot;State Aid to Curb Child Labor Evil&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">U.S. Children’s Bureau is urges state aid to keep children in school until the age of 16 so as to prevent employers from hiring children. Suggestion of paying fathers higher wages for a decent standard of living for their families and laws more effective for keeping children in schools such as school attendance laws.</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">August, 15</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/8.15_pg2.jpg"> &quot;Unions Resist Los Angles Wage Cuts&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">: the automobile club of southern California is taking advantage of the unemployment situation and hiring non-union workers, lowering the standard of living because the non-union workers are getting paid $1 a day. The LA district council of carpenters are asking trade unionists to not deal with the automobile club.</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">August, 15</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/8.15_pg3_cheap_women_workers.jpg"> &quot;Bosses Cut Workers' Pay in New Orleans&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">business in New Orleans is not doing well, resulting in wage cuts, even off white collar jobs. Some companies are not even employing enough people.</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">August, 15</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/8.15_pg4_la_garment_workers_organize.jpg"> &quot;Los Angeles Garment Workers Organize&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">“Long hours, small, pitiful wages, unbearable working conditions, discrimination and the speed-up system to the point where it is dangerous to the health of those who are employed and spells unemployment for many others…” Joseph Breslaw is vice president of a union and is going to help the LA garment workers so that al garment centers nationwide are successful. </td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">August, 15</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/8.15_pg5_workers_handed_new_industrial_disease.jpg"> &quot;Organization Drive Extending in South&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">AFL, working with the United Textile Workers is extending help in the Southern states</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">August, 22</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/8.22.jpg"> &quot;Politics Gets Third Round in Labor Council&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">President remains Levine and vice president, secretary amongst others are picked for the Seattle Central Labor Council</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">August, 22</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/8.22_pg4_seek_new_contract_-_urge_5_day_work_week.jpg"> &quot;Firefighters Strike to Get New Engine&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">Firefighters’ engine is unreliable. They want a new engine. They’ve even had to walk to a fire.</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">August, 22</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/8.22_pg4_seek_new_contract_-_urge_5_day_work_week.jpg"> &quot;British Rail Workers Seeking New Contract&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">Workers are coming up with a new contract for when the six month contract between the National Union of Railwaymen and the roads is over.</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">August, 29</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/8.29_pg_6.jpg"> &quot;Predicts Worst Winter in Labor's Experience&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">President of the building trades department of the AFL has estimated unemployment to be around 50% in his department nationwide. Predicting worse winter with lowest employment.</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">August, 29</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/8.29_best_improvement_for_workers_made_by_organization.jpg"> &quot;Amendments to Workers Compensation Law Ready for Legislature&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">proposed amendment includes workmen “engaged in, casually or incidentally, extra-hazardous work…teaming and truck-driving, stage, auto-freight…etc.” even includes burial allowance in the instance of death and a widow’s pension among other proposed changes.</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">August, 29</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/8.29_pg_3.jpg"> &quot;Carpenters of Washington Show Great Progress&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">for nearly 50 years, there have been disputes between the workers and the employers wanting speedy and cheaper ways of production. Now workers are controlling the machines, but there is always the health hazard of the dangerous machines. Well when carpenters are controlling the machines, they are, without question, paid less than carpenters doing the job themselves.</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">August, 29</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/8.29_pg_6.jpg"> &quot;Chamber is Stong Northwest Booster&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">seattle chamber of commerce is urging the state legislature to pass a law for lowering the price on goods made in Washington in public projects by 5%. Campaign is launched to encourage use of Washington-made products to increase industry in the state.</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">August, 29</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/8.29_best_improvement_for_workers_made_by_organization.jpg"> &quot;Plumbers Win Court Ruling for License&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">Tacoma plumbers were asked to prove their competency and pass an exam because they were already plumbing without licenses. The plumbers in question lost before the Supreme Court because the well-being of society is in question when an un-licensed individual goes to work</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">September, 5</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/9.5_no_labor_reduction_-_production_drops_to_new_low_level.jpg"> &quot;New Organizations Join Labor Council&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">Meat Cutters and Butcher Workmen’s local No. 186 joins the council</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">September, 12</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/9.12.jpg"> &quot;Labor Council has New Local&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">new union is chartered by the Hod Carriers and Building Laborers and accepted by the Seattle Central Labor Council.</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">September, 12</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/9.12_builders_get_5_day_week_-_lumber_works_facing_wage_cut.jpg"> &quot;Increasing Wage Cuts Reduce Ability&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">first unemployment, then wage cuts. There has been a steady increase of wage cuts since 1929. workers are not able to purchase as much, which in turn keeps the market from growing and cutting more wages or cutting jobs.</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">October, 3</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/10.3.jpg"> &quot;Painters Urge Six Hour Day&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">seattle painters are negotiating six hour work days during the winter months at least with their employers</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">October, 3</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/10.3_pg3_minimum_wage_law_lacks_life's_needs.jpg"> &quot;Minimum Wage Law Lacks Life's Needs&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">the director the United States Women’s Bureau says that with the exception of California and WA D.C., women’s minimum wages are not enough to survive. What was deemed unconstitutional 7 years ago by the U.S. Supreme Court is now enforced.</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">October, 24</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/10.24_union_membership_gains_during_1930.jpg"> &quot;Union Membership Gains During 1930&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">there has been an increase of more than 27,000 members in the last year that have paid for their membership, not including members involved in strikes or lockouts and those unemployed. There is an estimated 3 mill members.</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">November, 7</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/11.7_pg1_AFL_convention_report_made_-_union_busses_-_follies.jpg"> &quot;Union Conditions Established With Present Company Leaving Prior to Arrival of Will King&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">the follies theatre finally agrees to become unionized. This means a replacement of all employees with union employees, allowing the theatre to once again accept union patrons. Will King, a favorite performer will be attending the reopening, along with other entertainers.</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">November, 7</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/11.7_pg4_beacon_hill_theatre_now_union.jpg"> &quot;Beacon Hill Theatre Now Union House&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">the beacon hill theatre reopens as a union house and union help and employees are used in running the theatre. This article is telling union members to now attend the theatre that was once off limits.</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">November, 14</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/11.14_labor_party_to_spend_half_billion_-_best_congress_won_.jpg"> &quot;Where Labor Reaps Its Full Reward&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">the special needs committee set up a new and historic principle that all dependents of workers in the plant would get benefits of the company’s health plan because Dolly Roosey was found to be supporting her whole family with her $19 a week salary.</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">November, 21</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/11.21_pg1_dock_builders_-_workers_must_wait_5_years_for_pens.jpg"> &quot;Dail Resigns Positions in Labor Council&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">Harry Dail resigns as the vice president due to his job and his feeling of not being competent enough to also fill his role in the labor council</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">November, 21</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/11.21_pg1_dock_builders_-_workers_must_wait_5_years_for_pens.jpg"> &quot;Will King Expects to Draw Big Crowd&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">no long on the front page, but still making headlines, the follies theatre is a union house and drawing big crowds</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">November, 28</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/11.28_postal_workers_foes_beaten.jpg"> &quot;Union Candy is Xmas Feature of 'Blind Sam'&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">Blind Sam is campaigning for the purchase of seattle made, union made candy from Queen Anne Candy Company, the only one of its kind (seattle/union made) so that more seattle union men and women are employed</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">November, 28</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/11.28_postal_workers_foes_beaten.jpg"> &quot;James Taylor Thanks Labor for Support&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">the president of the Washington state federation of labor has announced that the labor movement has been successful in electing union-friendly House and Senate members and even judges</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">December, 12</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/12.12_employment_is_not_improving_-_monte_cristo_coffee_shop.jpg"> &quot;Monte Cristo Coffee Shop Workers Strike&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">in Everett, the Monte Cristo Hotel Coffee Shop suddenly cut its waitresses’ wages, so the waitresses local union was called upon and there has been organized a strike</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">December, 12</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/12.12_employment_is_not_improving_-_monte_cristo_coffee_shop.jpg"> &quot;Fire Fighters Ask 5-Day Week&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">the seattle fire fighters want a 5-day week and they get one day off every six days</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">December, 19</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/12.19_unemployment_measures_-_university_staff_union.jpg"> &quot;Cooks Aim for Five Day Week&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">cooks’ union aiming to have a 5-day week and also reminding people not to patronize non-union houses</td>
+              </tr>
+              <tr>
+                <td width="76" class="byline">December, 19</td>
+                <td width="172" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1930/12.19_pg7_raise_weekly_strike_fund_for_danville_textile_figh.jpg"> &quot;Council Will Raise Weekly Strike Fund for Danville Fight&quot;</a></td>
+                <td width="44" class="byline">WSLN</td>
+                <td width="468" class="byline">seattle central labor council is helping the textile workers by raising money to be sent off for the workers on strike.</td>
+              </tr>
+            </table>
+          
+         
+          </div>
+	  </td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.html"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

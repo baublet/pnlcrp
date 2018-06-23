@@ -1,0 +1,708 @@
+<!--#include file="metaheader.html"-->
+<title>Labor Yearbook 1939</title>
+<link rel="stylesheet" type="text/css" href="xfade2_o.css" />
+<script type="text/javascript" src="xfade2.js"></script>
+</head>
+<body id="home">
+<table id="pagetable" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="header_logo.jpg" width="1000" height="189" border="0" usemap="#pnlcrp">
+			<map name="pnlcrp">
+              <area shape="rect" coords="326,5,847,33" href="http://depts.washington.edu/labhist">
+            </map>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td bordercolor="#000000" style="vertical-align:top;background-color:black;">
+			<div id="navigation">
+			  <!--#include file="menu.html"-->
+			</div>
+	  </td>
+		<td>
+			<div id="content">
+			<h1>Labor Events Yearbook: 1939</h1>
+			<div class="redboxsm">
+    <h2 align="center" style="color:white;"><strong><a href="yearbook_introduction.shtml">Yearbook Home</a></strong></h2>
+	
+	<table id="redtable" border="0" cellpadding="0" cellspacing="3">
+	<tr>
+              <td><div align="center"><a href="yearbook1915.shtml"><strong>1915</strong></a></div></td>
+              <br>
+              <td><a href="yearbook1915.shtml"><img src="mages/yearbook-ufw2/1915-100x30.jpg" width="101" height="30" border="0"></a></a></span></td>
+            </tr>
+		<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1918.shtml"><strong>1918</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1918.shtml"><img src="mages/yearbook-ufw2/1918-100x30.jpg" width="100" height="30" border="0"></a></td>
+        </tr>
+		<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1919.shtml"><strong>1919</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1919.shtml"><img src="mages/yearbook-ufw2/1919-100x31.jpg" width="101" height="31" border="0"></a></td>
+        </tr>
+		 <tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1930.shtml"><strong>1930</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1930.shtml"><img src="mages/yearbook-ufw2/1930-100x30.jpg" width="100" height="30" border="0"></a></td>
+        </tr>
+        <tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1931.shtml"><strong>1931</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1931.shtml"><img src="mages/yearbook-ufw2/1931-100x30.jpg" width="101" height="30"></a></td>
+        </tr>
+			<tr>
+       <td style="width:75px;"><div align="center"><a href="yearbook1932.shtml"><strong>1932</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1932.shtml"><img src="mages/yearbook-ufw2/1932-100x30.jpg" width="100" height="31" border="0"></a></td>
+			</tr>
+			<tr>
+			  <td style="width:75px;"><div align="center"><a href="yearbook1933.shtml"><strong>1933</strong></a></div></td>
+			  <td style="vertical-align:top;"><a href="yearbook1933.shtml"><img src="mages/yearbook-ufw2/1933-100x30.jpg" width="101" height="30" border="0"></a></td>
+		    </tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1934.shtml"><strong>1934</strong></a></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1934.shtml"><img src="mages/yearbook-ufw2/1934-100x30.jpg" width="99" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1935.shtml"><strong>1935</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1935.shtml"><img src="mages/yearbook-ufw2/1935-100x30.jpg" width="100" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1936.shtml"><strong>1936</strong></a></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1936.shtml"><img src="mages/yearbook-ufw2/laborday100x30.jpg" width="100" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><strong><a href="yearbook1937.shtml">1937</a></strong></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1937.shtml"><img src="mages/yearbook-ufw2/1937-100x30.jpg" width="100" height="29" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><strong><a href="yearbook1938.shtml">1938</a></strong></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1938.shtml"><img src="mages/yearbook-ufw2/1938-100x30.jpg" width="100" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><strong><a href="yearbook1939.shtml">1939</a></strong></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1939.shtml"><img src="mages/yearbook-ufw2/1939-100x29.jpg" width="100" height="29" border="0"></a></td>
+			</tr>
+		</table>
+	
+   </div>
+        <p>This is a database of campaigns, strikes, and labor related events as recorded in the <em>Washington New Dealer</em> published by the <a href="Washington_Commonwealth_Federation.shtml">Washington Commonwealth Federation</a>  during 1939. It was researched, digitized, and compiled by Brittany Barrett.  Click the links to read the  articles.         
+        <h2>Highlights 1939</h2>
+        <p>The  year saw few major strikes but  important campaigns by ferry boat workers, longshoremen,  cannery workers,  machinists, miners, meat packers, and others. The strength of the labor movement was evident both in the agreements reached with employers and in the push to unionize new industries and sectors, including fishermen and farmers. Upholsterers formed a new union and the newspaper reported on the successful campaign of the Cracker Workers Union to organize Seattle cracker making companies. On the other hand, one of the major concerns of CIO unions and the Washington Commonwealth Federation was defending Longshore Union leader Harry Bridges who was threatened with deportation. The <em>New Dealer </em>also  supported the Workers Alliance in its attempt to protect jobs for WPA workers as Congress and the state government, led by Governor Clarence Martin, reduced funding. </p>
+        
+		
+		
+		<table width="796" id="datatable">
+            <tr>
+            <td width="81" class="byline">DATE</td>
+            <td width="188" class="byline">ARTICLE</td>
+            <td width="46" class="byline">PAPER</td>
+            <td width="445" class="byline">DESCRIPTION</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">January, 7</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_01_07_p1.jpg">&quot;N.W. Civic Leaders Urge Congress To Launch Giant Housing Program: $5,000,000 Slum Project Would Create Lumber Boom&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">Politicians are endorsing a large scale housing project which would replace the existing slums with low cost homes. The project is also to create a need for work in the lumber industry.</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">April, 21</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_01_21_p4.jpg">&quot;Pension Union Asks Demos To Keep Pledges&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;The Washington Old Age Pension Union&quot; wrote a letter to the democratic party expressing their support and requesting results in return.</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">April, 28</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_01_28_p4.jpg">&quot;Longshoremen Defend Bridges, Rap Chadwick&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;[A] resolution, passed by the Puget Sound sub-district council of International Longshoremen and warehousemen's union, condemned Chadwick's demand that Bridges be deported, and commended the U. S. Department of Labor for upholding the law and refusing to oust their leader&quot;</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">April, 28</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_01_28_p4.jpg">&quot;Machinists Win Ruby Dam Strike&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;Workers at Ruby Dam were assured payment of union wages when agreement between representatives of the General Shea Columbia Company, contractors for the project and union representatives.&quot;</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">February, 11</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_02_11_p1.jpg">&quot;Sportsmen, Unions Hit Martin Fish Trap Bill: House Group Denies Hearing to Opponents of Measures&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;Sportsmen and Union[men]&quot; oppose the fish trap bill which would reinstate the use of fishing traps in the state of Washington. The banishment of said traps was backed by the fishermen and unions in the interest of increasing the salmon population. The salmon population is still at risk and they believe that if this bill passes the salmon population will be destroyed beyond repair. (part 1)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">February, 11</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_02_11_p3.jpg">&quot;Sportsmen, Laborites Oppose Fish Traps&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">(part 2)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">February, 25</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_02_25_p4.jpg">&quot;Workers' Alliance Opens War On State Relief Cuts&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;Locals one and three of the Workers' Alliance began a fight to stop the cutting of relief by Governor Clarence D. Martin.&quot;</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">March, 18</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_03_18_p4.jpg">&quot;Post Office Clerks Rap Chadwick For Attack On Mooney&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;A recent public statement by Stephen Chadwick, national commander of the American legion, attacking motives of Tom Mooney's supporters was rebuked by the union meeting of Seattle Local 28, National Federation of Post Office Clerks.&quot;</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">March, 25</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_03_25_p1.jpg">&quot;Maritime Unions Assail 'Fink' Hall For Local Seamen&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;The maritime Federation of the Pacific declared vigorous opposition to the U. S. Maritime commission's intention to establish government non-union hiring halls in Seattle to furnish crews for government-subsidized vessels.&quot;</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">April, 1</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_01_01_p1.jpg">&quot;Jobless Plan Action Against Relief Cuts: Martin, Ernst Blamed For Slashes In Security Rolls&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">Several thousand unemployed workers along with non school aged children are being thrown off of aid. The workers are planning a demonstration against this action.</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">April, 1</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_04_01_p4.jpg">&quot;Lumber Barons Raise Slush Fund To Kill Wagner Law&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;Northwest lumber barons are contributing 15 cents per employee to an enormous slush fund for campaign to cripple the Wagner labor disputes law.&quot;</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">April, 8</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_04_08_p1.jpg">&quot;Meat Packers Fight change In Ordinance&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;A struggle over who is to pay the cost of meat inspection split the city council.&quot; This struggle arose due to a disagreement between the public and meet cutters over the meat grading system from which everyone but the meat cutters seem to benefit. </td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">April, 8</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_04_08_p4.jpg">&quot;Meat Packers Fight Change&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">(part 2)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">April, 8</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_04_08_p1.jpg">&quot;Union Ferry Workers Fired&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">When two union workers were fired and replaced by non-union workers, &quot;the Masters, Mates and Pilots union and the Island boatmen's union… decided to tie up the boat… until a settlement [can be] reached.&quot;</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">April, 15</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_04_15_p1.jpg">&quot;Meat Dealers Favor Grading&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">Meat dealers are in disagreement with meat packers' dislike of the grading system and believe that they should give in and pay their &quot;share of the inspection costs.&quot; </td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">April, 15</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_04_15_p1.jpg">&quot;Where Are The Many Jobs? Workers Ask&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;More than 22,000 workers alliance members throughout the state of Washington… began a campaign for employment or written proof that the longed for jobs simply do not exist.&quot; Many are requesting signatures from employers that refuse them work. </td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">April, 22</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_04_22_p1.jpg">&quot;State Cement Trust Exposed: Monopoly Retarded Recovery, Is Claim&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;Three Washington firms among the 75 charged with making millions by price fixing scheme&quot;<br>
+      (Part 1)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">April, 22</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_04_22_p4.jpg">&quot;State Cement Trust Exposed&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">(part 2)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">April, 29</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_04_29_p1.jpg">&quot;Scabs Hired On Hiway Job&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">An &quot;Oregon contractor['s]&quot; refusal to hire union men for a project in Skykomish Washington resulted in a stoppage in all work and union picketing. </td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">May, 6</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_05_06_p1.jpg">&quot;Unions Boycott Standard Oil&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">A national boycott has been placed on standard oil for it's refusal to &quot;deal fairly with organized labor.&quot;</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">May, 6</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_05_06_p4.jpg">&quot;Kelso Boycott Picket Jailed&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;R. D. Williams, I. W. A. business agent,&quot; was jailed for his involvement in a picket at the Kelso junk yard&quot; </td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">May, 13</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_05_13_p1.jpg">&quot;Agricultural Union Plans United Drive&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;Organized support of consumers and organized labor behind the &quot;cost of production&quot; campaign of the [rapidly growing] United Farmers of Washington was pledged at a conference attended by more than 600 persons.&quot;<br>
+      (part 1)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">May, 13</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_05_13_p4.jpg">&quot;Agricultural Union Active&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">(part 2)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">May, 13</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_05_13_p1.jpg">&quot;Efforts Made To Isolate Two Unions&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;A. F. Harding, Secretary of the Washington District of the Maritime Federation of the Pacific&quot; has charged &quot;the canned salmon industry&quot; with attempting to &quot;isolate two unions.&quot;</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">May, 18</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_05_18_p1.jpg">&quot;Tuna Fish Conference Is Called&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;A conference of all fishermen and maritime unions has been called [in Aberdeen, Washington]… to draft price scales for the albacore tuna prior to the opening of the season early in July.&quot;<br>
+      (part1)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">May, 18</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_05_18_p4.jpg">&quot;Tuna Fish Wage Scale&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">(part 2)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">May, 18</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_05_18_p1.jpg">&quot;Issaquah Backs alliance Strike&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;Every section of the Issaquah community&quot; has pledged to support &quot;the Workers Alliance which has 130 members on strike as a result of the refusal of WPA authorities to abide by state safety regulations and pay men according to the type of work required.&quot;</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">May, 18</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_05_18_p1.jpg">&quot;Wenatchee Alliance Supported&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;350 workers&quot; are striking &quot;on projects in&quot; Wenatchee and Ephrata, Washington after being ordered to &quot;to leave their homes and work for $32 a month.&quot; The strikers are receiving support from the community along with &quot;the AFL Central Labor Council and the local Chamber of Commerce.&quot;<br>
+      (part 1)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">May, 18</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_05_18_p4.jpg">&quot;Wenatchee Backs Strike&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">(part 2)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">May, 25</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_05_25_p1.jpg">&quot;Wenatchee Wins WPA Strike&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;Three hundred and fifty W.P.A. workers will return to work late this week, having won a week-strike against orders to go to Ephrata in Grant County for $32 a month.&quot;</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">May, 25</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_05_25_p1.jpg">&quot;Thousands of Workers Win Raises&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;Seven thousand CIO cannery workers will receive pay increases totaling more than $500,000 thru an industry-wide agreement between Local 7, United Cannery Agricultural, Packing and Allied Workers (CIO) and the Canned Salmon industry.&quot;<br>
+      (part 1)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">May, 25</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_05_25_p4.jpg">&quot;Many Workers Win Raises&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">(part 2)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">June, 1</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_06_01_p1.jpg">&quot;Earned four Cents Day In Beet Fields&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">Seasonal employees were disappointed to earn as &quot;low as four cents for a 12-hour day in the beet fields of Eastern Washington.&quot;</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">June, 1</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_06_01_p1.jpg">&quot;Business Group In Conspiracy: Grays Harbor Men Named In Anti-Union Campaign&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">Local businessmen were linked to &quot;a long range union wrecking campaign directed at Local 3-2- of the International Woodworkers of America.&quot;<br>
+      (part 1)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">June, 1</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_06_01_p3.jpg">&quot;Grays Harbor Men Accused&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">(part 2)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">June, 15</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_06_15_p1.jpg">&quot;State Grange Master Attacks corporations: King Urges Farmers To Take Action&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;Ervin E. King, master of the Washington State Grange,&quot; urges farmers to unite in order to fend off the &quot;huge feudal landlords&quot; also known as &quot;branding corporations.&quot;<br>
+      (part 1)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">June, 15</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_06_15_p4.jpg">&quot;Grange Master Urges Action&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">(part 2)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">June, 22</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_06_22_p1.jpg">&quot;Seattle Beach Club Adopts Jewish Ban&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;Merville W. McInnis, president of the Laurelhurst beach Club and other officers declared that they will accept no more Jews as members of their organization.&quot;<br>
+      (part 1)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">June, 22</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_06_22_p4.jpg">&quot;Beach Club Hits At Jews&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">(part 2)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">June, 22</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_06_22_p1.jpg">&quot;Machine Takes Tacoma Jobs&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">Replaced by a more efficient machine, many construction workers are now out of the job.</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">June, 22</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_06_22_p1.jpg">&quot;U. S. Bureau Alters Rule For Hiring&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;A telegram from Washington D. C. modifying former regulations of the bureau&quot; may be just the thing needed to &quot;the deadlock between the U. S. maritime commission and the maritime unions over hiring crews of government-operated ships.&quot;</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">June, 29</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_06_29_p1.jpg">&quot;Judge Stops Picketing of Scrap Iron&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">Picketing of Scrap iron shipments to Japan was banned after Longshoremen charged the employers with violation of &quot;the spirit of a coastwide agreement&quot; in an attempt &quot;to halt further shipments of war materials to the aggressor nation.&quot; <br>
+      (part 1)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">June, 29</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_06_29_p4.jpg">&quot;Judge Enjoins Scrap Pickets&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">(part 2)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">June, 29</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_06_29_p1.jpg">&quot;Claim Indians Denied Pensions&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">The recently formed &quot;Tulalip local of the Old Age Pension Union&quot; has charged &quot;the state department of social security&quot; with unlawfully carrying on a &quot;campaign against Indians eligible for old age assistance.&quot;</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">July, 6</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_07_06_p1.jpg">&quot;Scrap Iron Pickets Urged To Violence: GOP Leader Branded As Provocateur&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;John Majuras, secretary of the King county Republican Central Committee&quot; has been charged with attempting &quot;to incite violence on the scrap iron picket lines&quot; in Seattle, Washington.<br>
+      (part 1)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">July, 6</td>
+            <td class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_07_06_p4.jpg">&quot;Assert Agent Incited Trouble&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">(part 2)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">July, 6</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_07_06_p1.jpg">&quot;Police Chief Linked With Cell of Silver Shirts: Probe of Vigilante Activities Is Asked&quot; </a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;An investigation of Chief of Police Harold Robinson's activities as one of the leading members of the flourishing Silver Shirt fascist organization in this region has been demanded of the federal government by labor and other progressive forces&quot; of Yakima, Washington.<br>
+      (part 1)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">July, 6</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_07_06_p4.jpg">&quot;Police chief Linked With Silver Shirts&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">(part 2)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">July, 13</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_07_13_p1.jpg">&quot;Lake Chelan Miners Ask Higher Pay&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;Local 379 of the Miners Union, affiliate of the CIO International Union of Mine, Mill &amp; Smelter Workers&quot; &quot;shut down the largest metal mine in Washington state&quot; &quot;after 60 days worth of fruitless negotiations&quot; with employers for a &quot;modest wage increase.&quot;</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">July, 13</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_07_13_p1.jpg">&quot;Packers Hit Tuna Fishers By Injunction&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">Packers refuse to negotiate with fishers union and declare that they intend &quot;to maintain the open-market.&quot;<br>
+      (part 1)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">July, 13</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_07_13_p3.jpg">&quot;Packers Hit Tuna Fishers&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">(part 2)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">July, 13</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_07_13_p1.jpg">&quot;Stations Ban Bridges Hearing&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">The Bridges hearing has been banned from local radio stations.</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">July, 13</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_07_13_p1.jpg">&quot;Nation's WPA Strike Ends This Morning: 15,000 Workers In Washington Return To Jobs In Protest&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">A three day strike in the against WPA program cuts has ended. <br>
+      (part 1)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">July, 13</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_07_13_p4.jpg">&quot;WPA Strike Ended Today&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">(part 2)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">July, 20</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_07_20_p1.jpg">&quot;Wage Hike Need Shown In Strike&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">Miners are on strike after a fruitless 60 day &quot;negotiation with the Howe Sound Company for a dollar a day increase in pay, a 48 hour week and protection from occupational disease sillcosts.&quot;</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">July, 20</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_07_20_p1.jpg">&quot;Alliance To Fight For Job Return&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">The Workers Alliance is waging a campaign to return the jobs of several thousand workers being dropped from the WPA &quot;under the 30-day 'furlough' clause.&quot;</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">July, 20</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_07_20_p4.jpg">&quot;Cannery Paying 27 1/2c An Hour&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;Rinehold cannery&quot; workers &quot;now working 10 hours per day at the rate of 27 1/2 cents hourly&quot; with a new set of rules.</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">July, 27</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_07_27_p1.jpg">&quot;Inlandboatmen Cite Employers&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;The Inland Boatmen's Union will meet… to take action in its dispute with the Puget Sound ferry operators whom it accuses of failing to bargain in good faith.&quot;</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">August, 3</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_08_03_p1.jpg">&quot;Peace Effort Spurned In Ferry Strike&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;the Inlandboatsmen's Union denied an opportunity for a last-minute peace talk with the ferry owners [and] went on strike.&quot; <br>
+      (part 1)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">August, 3</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_08_03_p4.jpg">&quot;(continued from page 1)&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">(part 2)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">August, 10</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_08_10_p1.jpg">&quot;Union Gives Formula For Strike End&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;The Inlandboatsmen's Union announced the minimum conditions which it is willing to recommend to the membership and urge acceptance.&quot; <br>
+      (part 1)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">August, 10</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_08_10_p5.jpg">&quot;Ferry Union Wants Peace&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">(part 2)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">August, 10</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_08_10_p3.jpg">&quot;Northwest Responds To Bridges Defense appeal&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;A total of $1,062,95&quot; has been donated to &quot;the Harry Bridges Defense Committee.&quot;</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">August, 17</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_08_17_p1.jpg">&quot;Seeking To Ban Fascists In Chehalis&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">Chehalis veterans' organizations are making efforts to &quot;to ban further meetings of the silver shirts.&quot;</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">August, 17</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_08_17_p1.jpg">&quot;People Want Public Ferry Lines, Smith&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">The people of King County want the ferry lines to be publicly owned.</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">August, 24</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_08_24_p1.jpg">&quot;Bureau Deported Citizens, Claim&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;Harry Bridges Asserts American Born Residents Deported By Seattle Anti-Labor Immigration Head&quot;<br>
+      (Part 1)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">August, 24</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_08_24_p2.jpg">&quot;Claim Citizens Were Deported&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">(Part 2)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">August, 24</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_08_24_p1.jpg">&quot;Cut Wages Of Lowest Paid WPA Workers&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">In order to meet cut quotas the State W. P. A. &quot;administrator, Don G. Abel… released data on new wage schedules&quot; that will in effect benefit the higher paid workers and negatively effect lower wage bracket.</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">August, 24</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_08_24_p4.jpg">&quot;Cut Wages Of WPA Workers&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">(Part 2)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">August, 24</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_08_24_p6.jpg">&quot;Win Strike At Tacoma Mill&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">A strike ended at &quot;the Northwest Door Co.&quot; with an agreement of reasonable terms made between &quot;company and officials of the Lumber &amp; Sawmill Workers Union (AFL).&quot; </td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">August, 31</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_08_31_p6.jpg">&quot;Farmers Up Pear Prices With Union&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;Action by the growing United Farmers Union of this community has forced the price of pears from the season's opening price of $20 a ton ot as high as $36.50 a ton for No. 1 grade.&quot;</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">September, 7</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_09_07_p6.jpg">&quot;Yakima Farmers Union Ending Inspection Abuse: Blue Dye Is Proposed In Cull Control&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;A cull control program, sponsored by the United Farmers Union proposes to dip all discarded fruit in a blue vegetable dye to insure its being used as stock food instead of being poured into the local markets to compete with the grades of fruit which packers hat to pay regular prices for.&quot;</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">September, 8</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WSLN/WSLN_1939_09_08_p1.jpg">&quot;Cracker Workers Win 'War Clause' In New Agreement&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;In renewing its contract… with Seattle cracker manufacturers, the Cracker Workers' Union has been able to insert a clause which bases changes of wages in emergency on rise of living cost&quot;</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">September, 8</td>
+            <td width="188" class="byline">&quot;Taxi Drivers Win Increases in Pay&quot;</td>
+            <td width="46" class="byline">WSLN</td>
+            <td width="445" class="byline">Local No. 465 earned a 2 year agreement including an &quot;8 1/2- hour day on taxis and increases in pay&quot; along with paid vacations and a variety of other conditions.</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">September, 8</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WSLN/WSLN_1939_09_08_p1.jpg">&quot;Upholsterers' Win Higher Wage Scale&quot;</a></td>
+            <td width="46" class="byline">WSLN</td>
+            <td width="445" class="byline">A one year agreement involving &quot;Improved working conditions&quot; and wage increases were gained by &quot;the Upholsterers' union… working in casket factories in Seattle.&quot;</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">September, 14</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_09_14_p6.jpg">&quot;Waterfront Unions In Peace Move&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;The Waterfront Employers' association accepted the Longshoremen's Union invitation to put third differences before a mediator of the federal marime labor board, breaking a three week's deadlock that threatened a coastside tie-up.&quot;</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">September, 21</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_09_21_p1.jpg">&quot;Fish Buyers Act Provokes Strike Vote&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">Unsatisfied with consumer's unwillingness to pay decent living wages, salmon fishermen have decided to go on strike to raise the price over the current 5c per pound.</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">September, 28</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_09_28_p1.jpg">&quot;Company Unions On Seattle Times Drawing Fire&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">The Seattle Times is &quot;the only daily Seattle paper&quot; that maintains and encourages participation in company unions. They are being encouraged by other newspapers to do otherwise.</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">September, 28</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_09_28_p6.jpg">&quot;Strike Looming At Swift Plants&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;Butchers charge the company plants in Washington, oregon and California with discriminating against union members, refusing to recognize the union, and refusing to bargain with workers collectively.&quot;</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">October, 5</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_10_05_p3.jpg">&quot;Union Seeks War Boom Protection&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;The International Association of Machinists have been instructed to include a 30-day protective clause in all new contracts.&quot; That &quot;will give either unions or employers the power to call for negotiations on wage changes on 30 days notice.&quot;</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">October, 12</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_10_12_p1.jpg">&quot;Maritime Unions In Peace Move&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;The District Council No. 1, Maritime Federation of the Pacific,&quot; has adopted a &quot;peace program&quot; which protects the &quot;Bill of Rights&quot; as well as general labor rights.</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">October, 19</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_10_19_p1.jpg">&quot;Pension Groups Accuse State: Say Federal Regulations Are Violated&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;Charges that the state administration is willfully violating federal requirements in the administration of old age assistance will be formally presented to the Federal Social Security Board.&quot;</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">October, 19</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_10_19_p2.jpg">&quot;Government Probing Spokane WPA Sewing Project: Sweat Shop Conditions Are Charged&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">Supervisor Margaret Wyatt is charged with unlawfully maintaining &quot;sweat-shop conditions&quot; in &quot;the women's sewing project.&quot;</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">October, 26</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_10_26_p2.jpg">&quot;N.W. District of UCAPAWA Has Session&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;Delegates from Alaska, Oregon and Washington met in the first annual Northwst District convention of the United Cannery, Agricultural, Packing &amp; Allied Workers of America October 21 and 22&quot;</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">October, 26</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_10_26_p2.jpg">&quot;Unions Fight Operators of Car Caravans&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">Several unions and citizens alike argue against car caravans which have left several thousand people &quot;stranded&quot; in &quot;Pacific Coast cities.&quot;</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">November, 9</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_11_09_p1.jpg">&quot;Pension Union Will Launch Initiative: Liberalized Law Proposed For Elections&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;The Washington old Age Pension Union&quot; has launched &quot;a campaign to place an initiative on the 1940 ballot providing payment of $40 per month to single old age pensioners and $80 per month to married ones.&quot;<br>
+      (Part 1)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">November, 9</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_11_09_p3.jpg">&quot;Pension Union Plans Initiative&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">(Part 2)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">November, 9</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_11_09_p1.jpg">&quot;CIO Leaders Rap Attack On Bridges&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;Matt Meehan, district secretary of the International Longshoremen and Warehousemen's Union, and Paul Stumpf, secretary of the Seattle Industrial Labor Union council&quot; asked &quot;that CIO President John L. Lewis repudiate State Director Richard Francis' attack on Harry Bridges.&quot;<br>
+      (part 1)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">November, 9</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_11_09_p3.jpg">&quot;CIO Leaders Defend Bridges&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">(part 2)</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">November, 16</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_11_16_p1.jpg">&quot;Gov. Martin's Mill Accused By Union Men: Charges Employees Coerced, Fired For Organizing&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;the Flour, Feed and Cereal Workers Union, AFL,&quot; filed charges against &quot;the Martin Grain and Milling Company of Cheney, Wash., with violations of the Wagner Labor Act.&quot;</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">November, 16</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_11_16_p1.jpg">&quot;Farmers Get No Benefits In Increases&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">Despite the increase in prices, Yakima farmers are making little profit and are forced to take out loans that they are unable to pay back in order to survive.</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">November, 16</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_11_16_p10.jpg">&quot;Scab Meters For Seattle Are Doomed&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">Attempts &quot;of the city council to buy… non-union parking meters&quot; were crushed by organized labor.</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">December, 7</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_12_07_p6.jpg">&quot;Fishermen Rap Mob At Convention&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">&quot;The protection of civil liberties and organizing the unorganized appeared as major projects before the annual convention of the CIO International Fishermen and Allied Workers of America.&quot;</td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">December, 21</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_12_21_p4.jpg">&quot;Seattle Star Challenged By Marine Unions&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">The &quot;Washington District Council No. 1&quot; adopted a resolution charging the Seattle star attempting &quot;to confuse and disrupt the unity of organized labor in the Northwest&quot; by repeatedly attacking &quot;the Washington Commonwealth Federation.&quot; </td>
+          </tr>
+          <tr>
+            <td width="81" class="byline">December, 21</td>
+            <td width="188" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1939/WND/WND_1939_12_21_p6.jpg">&quot;Kinnear Urges Slash In Schools&quot;</a></td>
+            <td width="46" class="byline">WND</td>
+            <td width="445" class="byline">State Representative George Kinnear suggested a &quot;four-five million&quot; dollar slash in school funds to fund the new $30 monthly payments secured by the Old Age Pension Union.</td>
+          </tr>
+        </table>
+        
+         
+          </div>
+	  </td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.html"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

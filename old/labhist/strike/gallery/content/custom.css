@@ -1,0 +1,137 @@
+#previewFull {
+  background-color: #666666 !important;
+  width: 642px !important;
+  color: inherit;
+}
+
+#liveUpdateContactInfo {
+  color: #C0C0C0 !important;
+  background-color: inherit;
+}
+
+#content {
+  background-color: #000000 !important;
+  color: inherit;
+}
+
+#stage {
+  width: 645px !important;
+}
+
+.preview {
+  border: 1px solid #000000 !important;
+}
+
+.borderRightDotted {
+  border-right: 1px dotted #C0C0C0 !important;
+}
+
+#stage, #stage2 {
+  border-bottom: 1px dotted #7F7F7F !important;
+}
+
+body {
+  background-color: #000000 !important;
+  color: inherit;
+}
+
+.selectedThumbnail, .thumbnail:hover {
+  background-color: #6F0000 !important;
+  color: inherit;
+}
+
+#liveUpdateCollectionDescription {
+  color: #C0C0C0 !important;
+  background-color: inherit;
+}
+
+.caption {
+  color: #C0C0C0 !important;
+  background-color: inherit;
+}
+
+#sitetitle {
+  border-bottom: 1px dotted #7F7F7F !important;
+}
+
+.thumbnail {
+  background-color: #949494 !important;
+  color: inherit;
+}
+
+.previewFullImage {
+  height: 610px !important;
+  width: 642px !important;
+}
+
+#stage2 {
+  width: 645px !important;
+}
+
+.itemNumber {
+  display: none !important;
+  color: #9C9C9C !important;
+  background-color: inherit;
+}
+
+#wrapper {
+  width: 645px !important;
+}
+
+.borderTopLeft {
+  border-top: 1px solid #C0C0C0 !important;
+  border-left: 1px solid #C0C0C0 !important;
+}
+
+.emptyThumbnail {
+  background-color: #949494 !important;
+  color: inherit;
+}
+
+.borderBottomRight {
+  border-right: 1px solid #C0C0C0 !important;
+  border-bottom: 1px solid #C0C0C0 !important;
+}
+
+#wrapper2 {
+  width: 645px !important;
+}
+
+.logo {
+  display: none !important;
+}
+
+.thumb, .preview {
+}
+
+#liveUpdateCollectionTitle {
+  color: #C0C0C0 !important;
+  background-color: inherit;
+}
+
+.paginationLinks, .pagination, #liveUpdatePagination {
+  color: #C0C0C0 !important;
+  background-color: inherit;
+}
+
+.thumb {
+  border: 1px solid #000000 !important;
+}
+
+#liveUpdateSiteTitle {
+  color: #C0C0C0 !important;
+  background-color: inherit;
+}
+
+.borderBottom {
+  border-bottom: 1px solid #C0C0C0 !important;
+}
+
+.borderRight {
+  border-right: 1px solid #C0C0C0 !important;
+}
+
+.detailNav, .detailLinks, #detailCaption, #detailTitle {
+  color: #B3B3B3 !important;
+  background-color: inherit;
+}

@@ -1,0 +1,181 @@
+<!--#include file="metaheader.html"-->
+<title>Communism in Washington State: John Caughlan Oral History</title>
+
+<script type="text/javascript" language="JavaScript">
+function swap(url){ 
+
+var vidurls=new Array();
+vidurls[0]=""
+
+vidurls[1]="caughlan-1roots.wmx";
+
+vidurls[2]="caughlan-2thrown.wmx";
+
+vidurls[3]="caughlan-3kids.wmx";
+
+vidurls[4]=""
+
+vidurls[5]="caughlan-4hysteria.wmx";
+
+vidurls[6]="caughlan-5hearings.wmx";
+
+vidurls[7]="caughlan-9community.wmx";
+
+vidurls[8]="caughlan-6fifth.wmx";
+
+vidurls[9]="caughlan-12badlawyer.wmx";
+
+vidurls[10]="";
+
+vidurls[11]="caughlan-7bad.wmx";
+
+vidurls[12]="caughlan-10noreelection.wmx";
+
+vidurls[13]="caughlan-8after.wmx";
+
+vidurls[14]="caughlan-11indicted.wmx";
+
+vidurls[15]="caughlan-15huac2.wmx";
+
+vidurls[16]="caughlan-14huac.wmx";
+
+vidurls[17]="";
+
+vidurls[18]="caughlan-13today.wmx";
+
+
+	document.getElementById("oralvid").innerHTML= '<embed type="application/x-mplayer2" src="/labhist/vid/' + vidurls[url] + '" showStatusBar="true" showControls="true" height="305" width="320"><\/embed>';
+	}
+</script>
+
+
+</head>
+<body id="oralhistory">
+<table id="pagetable" border="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="http://depts.washington.edu/labhist/cpproject/logos/divide_rule6.jpg" usemap="#Map" alt="Communism in Washington State">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;">
+			<div id="navigation">
+			<!--#include file="menu.html"-->
+			</div>
+		</td>
+		<td>
+			<div id="content">
+			<h1>Albert Canwell</h1>
+			
+			
+			
+		  <div style="float:right; margin-left:10px; width:320px;">   
+
+		  <div style="width:320px; height:305px;" id="oralvid"><img src="/labhist/cpproject/images/caughlan/caughlan-vidpanel.jpg" alt="Interviewee" width="320" height="306"></div>
+
+		  <div class="vidnavlinks">
+
+		  
+
+		 
+
+	<script type="text/javascript">
+
+
+
+var vidtitles=new Array()
+
+
+
+
+vidtitles[0]="+Beginnings and Early Activism"
+
+vidtitles[1]="John Cauglhlan was born in 1909 in Nevada, MO.  His father, a radical Methodist minister, was influential in his early life and would support him in his future struggles."
+
+vidtitles[2]="&quot;I was thrown into the struggle, and from then on, I was kind of recognized as the Commie lawyer.&quot;"
+
+vidtitles[3]="Growing up with a father who represented controversial causes, Caughlan's children faced a unique set of difficulties."
+
+vidtitles[4]="+The Canwell Hearings"
+
+vidtitles[5]="&quot;It was a scary atmosphere.&quot; Caughlan discusses the political and social atmosphere that surrounded the Canwell hearings."
+
+vidtitles[6]="The hearings were &quot;...an amazing display of the arrogance of small people who suddenly feel invested with the power of the state.&lsquo;"
+
+vidtitles[7]="&quot;The fact that these hearings were brutally arbitrary and unfair was being conveyed to the entire community.&quot;"
+
+vidtitles[8]="Caughlan represented many victims of the Canwell hearings and advised his clients on how to stand up to the committee's members."
+
+vidtitles[9]="Caughlan was personally attacked during the hearings.  Additionally, the nature of the hearings put lawyers in a tough position."
+
+vidtitles[10]="+Aftermath of the Canwell Hearings"
+
+vidtitles[11]="&quot;The tide turned against Canwell as a result of these hearings.&quot;"
+
+vidtitles[12]="After the hearings and because of the public's outrage, Canwell and others failed to win reelection."
+
+vidtitles[13]="&quot;Many UW professors and affiliates affected by the Canwell hearings never recovered from their persecution.&quot;"
+
+vidtitles[14]="&quot;It was a set up.&quot; As a result of the hearings, Caughlan was indicted on perjury charges."
+
+vidtitles[15]="Caughlan was instrumental in advising people on how to come up with unique legal responses to the HUAC hearings in the Northwest."
+
+vidtitles[16]="The Canwell hearings laid the groundwork for the HUAC hearings in Seattle, but also turned the media against HUAC."
+
+vidtitles[17]="+Reflections on Today's Sociopolitical Environment"
+
+vidtitles[18]="Caughlan talks about the social stratification, imperialism, and military-industrial complex of today."
+
+
+for (i=0;i<vidtitles.length;i++)
+
+{
+
+	if (vidtitles[i].indexOf('+') !=-1)
+
+			{
+
+			document.write("<span class=\"vidnavdividers\">" + vidtitles[i].substring(1) + "<\/span><br /><br />")
+
+			}
+
+		else
+
+			{
+
+			document.write("<a href=\"javascript:swap('" + i + "')\"><img style=\"border:none;\" src=\"/labhist/cpproject/images/speakericon.gif\" alt=\"Film Icon\">" + vidtitles[i] + "<\/a><br /><br />")
+
+			}
+
+	
+
+}
+
+
+
+                      </script>
+       	      </div></div>
+
+		 <p>With a career that spanned more than six decades, John Caughlan became one of Seattle&rsquo;s most prominent and dedicated civil rights attorneys.  Born in 1909 to a radical Methodist family in Missouri, Caughlan graduated from Harvard Law School in 1935 and came to Seattle shortly thereafter.</p>
+		  	<p>Caughlan first became involved in progressive causes when he represented the Communist Party in 1937 and defended their right to hold a rally in the Seattle Civic Auditorium.  In the 1940s, Caughlan provided legal council to many people brought before the Canwell Committee and represented many UW professors and affiliates fired for alleged ties to the Communist Party.            
+		  	</p><p>In his latter years, Caughlan represented civil rights activists in Mississippi, members of the Black Panther Party, and many others who had faced legal prosecution based on radical beliefs.            
+		  	</p><p>In 1987, Caughlan received the ACLU&rsquo;s William O. Douglas award for &ldquo;outstanding and sustained contributions to the cause of civil liberties and freedom.&rdquo;            
+		  	<p>Caughlan passed away in 1999.  In 2003, the ACLU established a fellowship for law students in his honor.</p>
+
+
+  </p>       
+	          <div style="clear:both;"></div>   
+		  </div>
+	</td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.shtml"-->	</div>
+		</td>
+	</tr>
+</table>
+</body>
+<!--#include file="metafooter.html"-->

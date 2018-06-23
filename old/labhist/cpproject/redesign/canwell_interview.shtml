@@ -1,0 +1,199 @@
+<!--#include file="metaheader.html"-->
+<title>Communism in Washington State: Albert Canwell Oral History</title>
+
+<script type="text/javascript" language="JavaScript">
+function swap(url){ 
+
+var vidurls=new Array();
+vidurls[0]=""
+
+vidurls[1]="can-adventist.wmx";
+
+vidurls[2]="can-intro.wmx";
+
+vidurls[3]="can-journalist.wmx";
+
+vidurls[4]=""
+
+vidurls[5]="can-expert.wmx";
+
+vidurls[6]="can-cpinleg.wmx";
+
+vidurls[7]="can-informant.wmx";
+
+vidurls[8]="can-cpinnw.wmx";
+
+vidurls[9]=""
+
+vidurls[10]="can-elected.wmx";
+
+vidurls[11]="can-form.wmx";
+
+vidurls[12]="can-rounding.wmx";
+
+vidurls[13]="can-melvin.wmx";
+
+vidurls[14]="can-jameses.wmx";
+
+vidurls[15]="can-insane.wmx";
+
+vidurls[16]="can-naming.wmx";
+
+vidurls[17]=""
+
+vidurls[18]="can-blacks.wmx";
+
+vidurls[19]=""
+
+vidurls[20]="can-goldmarks.wmx";
+
+vidurls[21]=""
+
+vidurls[22]="can-unamericanism.wmx";
+
+
+	document.getElementById("oralvid").innerHTML= '<embed type="application/x-mplayer2" src="http://depts.washington.edu/civilr/vid/' + vidurls[url] + '" showStatusBar="true" showControls="true" height="305" width="320"><\/embed>';
+	}
+</script>
+
+
+</head>
+<body id="oralhistory">
+<table id="pagetable" border="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="http://depts.washington.edu/labhist/cpproject/logos/divide_rule6.jpg" usemap="#Map" alt="Communism in Washington State">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;">
+			<div id="navigation">
+			<!--#include file="menu.html"-->
+			</div>
+		</td>
+		<td>
+			<div id="content">
+			<h1>Albert Canwell</h1>
+			
+			
+			
+		  <div style="float:right; margin-left:10px; width:320px;">   
+
+		  <div style="width:320px; height:305px;" id="oralvid"><img src="/labhist/cpproject/images/canwell/canwell-vidpanel.jpg" alt="Interviewee" width="320" height="306"></div>
+
+		  <div class="vidnavlinks">
+
+		  
+
+		 
+
+	<script type="text/javascript">
+
+
+
+var vidtitles=new Array()
+
+
+vidtitles[0]="+Early Politics"
+
+vidtitles[1]="&quot;That was probably the most important part of my education&quot;: Seventh Day Adventist schooling nurtured Canwell's sense of skepticism."
+
+vidtitles[2]="&quot;They called this guy a bull, and that's what he was full of&quot;: Encountering Marxism as a teenager in Spokane, WA."
+
+vidtitles[3]="&quot;By that time I had become somewhat of an expert or an authority on communist activity and beliefs&quot;: Traveling the country as a freelance journalist after high school."
+
+vidtitles[4]="+Anti-Communist"
+
+vidtitles[5]="&quot;It became very obvious that [communism] as a political system would never work without force.&quot;"
+
+vidtitles[6]="&quot;By that time... the Communists had practically taken over the Washington State Legislature.&quot; Canwell returned to Washington in 1938 to serve as an anticommunist investigative reporter."
+
+vidtitles[7]="&quot;I had the best informant in this area of anybody, far better than the FBI had&quot;: Infiltrating the Spokane CP in the late 1930s."
+
+vidtitles[8]="&quot;It was a well-known fact that the Communists had made one of their big plays for the Pacific Northwest.&quot;"
+
+vidtitles[9]="+The Joint Legislative Fact-Finding Committee on Un-American Activities"
+
+vidtitles[10]="&quot;The only thing I ever said was I wouldn't vote for any new taxes and I'd do something about the Communist situation&quot;: Elected to the Washington State House of Representatives in 1946."
+
+vidtitles[11]="&quot;Everybody was talking about doing something about communism, nobody was really doing anything, nobody was taking an informed approach&quot;: Creating the &quot;Canwell Committee&quot; in 1947."
+
+vidtitles[12]="&quot;Nobody within that period of time and on that level was ever mistreated; they were treated so much better than they were entitled to by their conduct.&quot;"
+
+vidtitles[13]="&quot;He was the first recruit to the Communist Party at the University of Washington&quot;: Canwell’s Committee got Philosophy professor Melvin Rader fired."
+
+vidtitles[14]="Canwell accuses Florence and Burton James, founders of the Seattle Repertory Playhouse, of being communists and of using the playhouse to sexually exploit young women."
+
+vidtitles[15]="&quot;These two were certified loonies and the other one should have been&quot;: Canwell defends himself against charges of recklessness in his treatment of UW faculty."
+
+vidtitles[16]="&quot;The Communists, the real ones, had no hesitancy in naming names.&quot;"
+
+vidtitles[17]="+African Americans and the Communist Party"
+
+vidtitles[18]="&quot;I don’t have the greatest confidence in most Negroes... They never make good Communists because they're not intellectual.&quot;"
+
+vidtitles[19]="+The Goldmark Case"
+
+vidtitles[20]="Canwell defends his accusations against John and Sally Goldmark, who sued Canwell for libel in 1962."
+
+vidtitles[21]="+Watching for Un-Americanism"
+
+vidtitles[22]="&quot;I don't think anybody is qualified to point the finger at somebody and say he's un-American unless he's doing something that everybody could see as being subversive.&quot;"
+
+
+for (i=0;i<vidtitles.length;i++)
+
+{
+
+	if (vidtitles[i].indexOf('+') !=-1)
+
+			{
+
+			document.write("<span class=\"vidnavdividers\">" + vidtitles[i].substring(1) + "<\/span><br /><br />")
+
+			}
+
+		else
+
+			{
+
+			document.write("<a href=\"javascript:swap('" + i + "')\"><img style=\"border:none;\" src=\"/labhist/cpproject/images/speakericon.gif\" alt=\"Film Icon\">" + vidtitles[i] + "<\/a><br /><br />")
+
+			}
+
+	
+
+}
+
+
+
+                      </script>
+       	      </div></div>
+
+		  	<p>Mark Jenkins interviewed Albert Canwell in 1994 while doing the 
+			research for <i>All Powers Necessary and Convenient</i>. That video 
+			oral history is made available here for the first time.&nbsp; To the 
+			right are streaming-video excerpts in windows media format. A high 
+			speed connection is recommended for viewing them. Video editing by 
+			Daren Salter.<p>Albert F. Canwell was born in Spokane, Washington in 1907. He worked as a journalist in the early 1930s, starting his own newspaper in Yakima in 1932 before traveling the country as a freelance reporter. While traveling, he found a niche writing articles about the threat of Communist subversion in the labor movement. Canwell returned to Spokane in 1938, ostensibly as a correspondent with the International News Service, but actually as an undercover investigator for the Hearst Press. During World War II, he worked briefly as a deputy sheriff in Spokane, where he served with the Narcotics Department and continued his investigations into Communist activity as Chief of the Identification Bureau.            
+		  	<p>In 1946, Canwell was elected to the Washington State Legislature as a Republican Representative from the 5th District, and he immediately set about making good on his campaign pledge to &quot;do something about the Communist situation.&quot; In March 1947, he pushed through a resolution establishing the Joint Legislative Fact-Finding Committee on Un-American Activities. Initially targeting the Washington Pension Union, by July 1948 the Canwell Committee had focused its attention on reputed subversive faculty at the University of Washington. Three professors&ndash; Herbert Phillips, Joe Butterworth, and Ralph Gundlach&ndash; were fired in the aftermath of the hearings, while numerous others were threatened with dismissal or sanctioned. The Canwell Committee became a model for subsequent legislative investigations of &quot;un-American&quot; activities on both the state and national levels as McCarthyism and the Red Scare gripped the nation.            
+		  	<p>Canwell served only one term in the state legislature. He left his seat in 1948 to run for a State Senate position, but lost in the general election. In 1950, he lost in a bid for the Republican nomination for the U.S. Senate, and in 1952 and 1954, he conducted an unsuccessful campaigns for&nbsp; a U.S. Congressman-at-large seat.&nbsp;             
+		  	<p>Though Canwell&rsquo;s political career was short-lived, his commitment to anti-communism was lifelong, and he continued to collect information on supposed communists as part of his private security and consulting business for much of his life. As part of this ongoing work, Canwell made headlines again in 1962 when he was sued for libel by State Representative John Goldmark after Canwell claimed both Goldmark and his wife Sally were former Communists. Canwell spent the remaining years of his life in Spokane, where he died on April 1, 2002.
+		  	  <p>In addition to this interview, researchers interested in Canwell and the history of the Red Scare may want to consult The Washington State Oral History Progam's comprehensive, 350 page life history of Albert Canwell. The full transcript is <a href="http://www.secstate.wa.gov/oralhistory/canwell.pdf">here</a>.
+
+  </p>       
+	          <div style="clear:both;"></div>   
+		  </div>
+	</td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.shtml"-->	</div>
+		</td>
+	</tr>
+</table>
+</body>
+<!--#include file="metafooter.html"-->

@@ -1,0 +1,60 @@
+<!--#include file="metaheader.html"-->
+<title>template2</title>
+<link rel="stylesheet" type="text/css" href="xfade2_o.css" />
+<script type="text/javascript" src="xfade2.js"></script>
+<style type="text/css">
+<!--
+.style10 {font-family: Arial, Helvetica, sans-serif; line-height: normal;}
+.style9 {font-size: x-small}
+-->
+</style>
+</head>
+<body id="home">
+<table id="pagetable" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="images/civilr%20banner4.jpg" width="1000" height="150">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;background-color:black;">
+			<div id="navigation">
+			  <!--#include file="menu.html"-->
+			</div>
+		</td>
+		<td>
+		<div id="content">
+			<h1>Economics and Poverty </h1>
+      
+         
+            <div class="rbox260">
+			
+			  <p> Special Sections:</p>
+			  <p><a href="farmwk_intro.htm" class="arial12">Farm Workers in Washington State<br>
+  History Project</a> </font></strong></p>
+			 <p> <img src="images/ufw/muralALL_171.jpg" width="174" height="118" align="right">This multi-media special section details the history of farm workers from the 1890s to the present and explores their labor activism from the IWW to the UFW.<a href="farmwk_intro.htm"> [more] </a></span></p>
+			 <p> <a href="kkk_intro.htm">The Ku Klux Klan in Washington State, 1920s</a></font></p>
+			  <p> <img src="images/kkk/KKK-CrystalPool-cr171b.jpg" width="171" height="126" align="right">With thousands of members and dangerous ambitions, the KKK became an important political force in W</span>ashington in the early 1920s, electing mayors and officials in several cities. This special section includes rare pictures, documents, and a detailed history of the Klan's effort to take power&nbsp;<a href="kkk_intro.htm">[more]</a></font></p>
+			 <p> <a href="BPP.htm">Seattle ack Panther Party</a></p>
+  
+		  </div>
+		
+			<p>Far from Wall Street, Washington residents were slow to react to the events of October 1929. As the stock market tumbled, the <em>Seattle Times</em> reassured readers in a big headline that there would be &quot;No Depression.&quot;<A title="" href="#_edn2" name="_ednref2">[2]</A> Indeed, job losses were modest for the first year. But the optimism faded toward the end of 1930 as banks began to fail, stores closed, and unemployment surged. </p>
+            <p>Policy makers then managed to make things worse. In the nation's capital, President Herbert Hoover presided over a series of decisions that accelerated and globalized the economic decline. In Olympia, the state legislature, meeting early in 1931, passed a bill to help the unemployed and stimulate the economy with an ambitious program of public works projects. They also passed a state income tax to take some of the burden off property taxes. Governor Roland Hartley vetoed both measures and preceded to slash spending, as did many of the cities and counties. Bank failures, business failures, and job losses accelerated. </p>
+            <p>The stock market crash of October 1929 signalled the start of what became known as the Great Depression. Falling stock values helped undermine consumer confidence and business investment, leading to a sharp economic decline that spread from the United States to other countries and continued for nearly three and a half years. Not until the spring of 1933 did the American economy begin to recover.</p>
+		<p>Washington experienced the crisis in ways that were somewhat different than other states. The economy had been highly dependent on extractive industries, especially forest products. A government report explained that the economy of the region &quot;largely resembles that of a colonial possession, exporting raw and semifinished materials&quot; while importing &quot;most of the common manufactured articles.&quot;<A title="" href="#_edn1" name="_ednref1">[1]</A> Forest products, agriculture, fishing, and mining accounted for most of the state's exports and many of its jobs on the eve of the Depression, but the state's cities, where most of the population lived, also produced jobs based on trade, commerce, small manufacturing, and professional services. </p>
+		</div>
+		  </div>
+	  </td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.html"-->			</div>
+		</td>
+	</tr>
+</table>
+</body>
+<!--#include file="metafooter.html"-->

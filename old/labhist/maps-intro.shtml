@@ -1,0 +1,237 @@
+<!--#include file="metaheader.html"-->
+<title>Data Mapping Washington Labor and Civil Rights History</title>
+<link rel="stylesheet" type="text/css" href="xfade2_o.css" />
+<script type="text/javascript" src="xfade2.js"></script>
+<style type="text/css">
+<!--
+.greyboxnew {
+	background-color:#666;color:white;
+	padding:5px;
+	margin-bottom:5px;
+}
+
+.greyboxnew a, .redbox a:visited 
+{color:white;
+}
+.redboxnew {
+	background-color:#780000;color:white;
+	padding:5px;
+		margin-bottom:5px;
+}
+.redboxnew a, .redbox a:visited 
+{color:white;
+}
+.style20 {
+	font-size: xx-large;
+	font-weight: bold;
+}
+.style21 {font-size: 10pt}
+
+
+-->
+</style>
+</head>
+<body id="home">
+<table id="pagetable" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			  <a href="index.shtml"><img src="banner8.jpg" width="1000" height="190" border="0"></a>
+			</div>
+			 <!--#include file="menu-top.shtml" -->
+		</td>
+	</tr>
+
+		<td>
+			<div id="content">
+			
+        	
+        
+
+			<div align="center">
+			   <p class="style20">Data Mapping Washington Labor and Civil Rights History</p>
+		  </div>
+		  
+		 
+			  <div>
+			       
+  <p>Using the new tools of digital history, this project explores the dimensions of race, politics, and social movements in Washington State. We have developed detailed geographic data and maps showing the history of racial segregation in major cities, tracking the political history of leftwing and mainstream political parties, locating key locations in Seattle's labor history, and exploring key social movements, identitying locations where membership, activities, or other measures of support were concentrated. 
+  <p> The project consists of more than a dozen pages grouped in five categories: (1) Washington voting history; (2) Race and segregation history for Seattle, Tacoma, Spokane; (3) Labor history locations in Seattle 1900-1940; (4) Radical movements: Socialist Party, Industrial Workers of the World, and Unemployed Citizens League (5) Racial justice movements: the NAACP, Black Panther Party, United Farm Workers (UFW), MEChA and other Chicana/o organizations. 
+		  <table width="980" border="0" cellspacing="0" cellpadding="0">
+		  <tr><td>
+<hr>
+<span class="style20">Voting History</span></td></tr>
+			 		<tr>
+            <td>
+			<h2>&nbsp;</h2>
+			<h3><span class="rightcap" style="width:400px;"><a href="maps-votes.shtml"><img src="frontpagespecials/votes1944.PNG" width="400" height="250"border="0"></a></span><a href="maps-votes.shtml">Votes for Radical Parties, Democrats, and Republicans in Washington State 1892-1968 </a></h3>
+            <p>Here are several interactive maps and charts that show the geography of elections featuring detailed information about support for minor and major parties for Presidential, Gubernatorial and Congressional elections. Track the county-by-county support for Socialist Party, Farmer Labor Party, Communist Party, Progressive Party, Peoples Party, as well as for Democratic and Republican parties. <BR> 
+              </p></td>
+          </tr>
+           <tr><td>
+			  <hr>
+<span class="style20">Race and Segregation </span></td></tr>
+			   </td></tr>
+          <tr>
+            <td>
+			<h2>&nbsp;</h2>
+			<h3><span class="rightcap" style="width:400px;"><a href="maps-seattle-segregation.shtml"><img src="frontpagespecials/seattle1960.PNG" width="400" height="250"border="0"></a></span><a href="maps-seattle-segregation.shtml">Race in Seattle/King County 1920-2010 </a></h3>
+            <p>Here we map patterns of racial segregation for African Americans, Asians Americans, Native Americans, Latinos, and Whites using census tract data. Explore 90 years of population growth and residential change in this sequence of interactive maps. Select a race category. Click a census tract for detailed information about a neighborhood. Some things to notice: The Central Area served as a ghetto for all peoples of color until the late 1970s. Since then, nonwhite groups have spread in different patterns.<BR> 
+              </p></td>
+          </tr>
+           <tr>
+            <td>
+			<h2>&nbsp;</h2>
+			<h3>Race and Segregation Tacoma, Spokane, and Portland 1950-2010 </h3>
+            <p>Here we map patterns of racial segregation for Tacoma, Spokane, and Portland in sequences of interactive maps. Select a race category. Click a census tract for detailed information about a neighborhood. <BR> 
+            <table width="100%"><tr>
+				<td width="325"><a href="maps-race-tacoma.shtml"><strong>Tacoma 1950-2010</strong></a></td>
+				<td width="325"><a href="maps-race-spokane.shtml"><strong>Spokane 1950-2010</strong></a></td>
+				<td width="325">Portland 1950-2010</td></tr>
+            <tr>
+            <td width="325">
+            
+				<span class="rightcap" style="width:310px;"><a href="maps-race-tacoma.shtml"><img src="frontpagespecials/tacoma 1970.PNG" width="310" height="250"border="0"></a></span></td>
+             <td width="325">
+				 <span class="rightcap" style="width:310px;"><a href="maps-race-spokane.shtml"><img src="frontpagespecials/spokane2000-402.PNG" width="310" height="250"border="0"></a></span></td>
+             <td width="325">
+				</td></tr></table>
+              </p></td>
+          </tr>
+         <tr><td>
+			<hr>
+<span class="style20">Labor History Locations</span></td></tr>
+			   </td></tr>
+           <tr>
+            <td>
+            <h2>&nbsp;</h2>
+            <h3><span class="rightcap" style="width:400px;"><a href="maps-laborhistory-seattle.shtml"><img src="frontpagespecials/laborhistory_seattle.PNG" width="400" height="250" border="0"></a>
+  </span><a href="maps-laborhistory-seattle.shtml">Seattle Labor History Locations 1900-1940</a></h3>
+				<p> Here are locations of important unions and key events in the history of Seattle labor. Blue pins show events from the General Strike era. Red pins are from the 1930s. Click on a pin to open a description window. Most of the photos show the location today but some have both historial an contemporary images. </p>
+          </tr> 
+            <tr>
+            <td>
+			<h2>&nbsp;</h2>
+			<h3><span class="rightcap" style="width:402px;"><a href="http://depts.washington.edu/labhist/strike/map.shtml"><img src="frontpagespecials/generalstrike400.jpg" width="400" height="250"border="0"></a></span><a href="http://depts.washington.edu/labhist/strike/map.shtml">Seattle's General Strike of 1919 </a></h3>
+            <p>Many of the events of January and February 1919 took place in the downtown and waterfront sections of Seattle. Here are locations and photographs of strike events, offices and headquarters of the Central Labor Council, Union Record, Metal Trades Council, IWW, Socialist Party, Cooperative Union Market, Japanese Labor Association, and other unions and cooperatives. <BR> 
+              </p></td>
+          </tr>
+           <tr>
+            <td>
+			<h2>&nbsp;</h2>
+			<h3><span class="rightcap" style="width:400px;"><a href="http://depts.washington.edu/dock/map_seattle.shtml"><img src="frontpagespecials/longshore map.PNG" width="400" height="250"border="0"></a></span><a href="http://depts.washington.edu/dock/map_seattle.shtml">Seattle's Longshore Workers History 1886 to 2002</a></h3>
+            <p>This interactive map shows the location of key events in the history of Seattle waterfront workers beginning in 1886. Click the markers to see photos and descriptions of each event. <BR> 
+              </p></td>
+          </tr>
+		   <tr>
+          <tr><td>
+			  <hr>
+<span class="style20">Radical Movements: Maps and Data</span></td></tr>
+			   </td></tr>
+          <tr>
+            <td>
+			<h2>&nbsp;</h2>
+			<h3><span class="rightcap" style="width:400px;"><a href="maps-iww.shtml"><img src="frontpagespecials/iww actions.PNG" width="400" height="250"border="0"></a></span><a href="maps-iww.shtml">IWW Activities 1906-1920 </a></h3>
+            <p>These interactive maps locate more than <strong>300 IWW strikes, campaigns, arrests, and vigilante events</strong> in Washington State. We also map 60 IWW local unions formed in these years. Events can be filtered by year and by type of event. Hover to see short descriptions. </p> <BR> 
+              </p></td>
+          </tr>
+          <tr>
+            <td>
+			<h2>&nbsp;</h2>
+			<h3><span class="rightcap" style="width:400px;"><a href="maps-sp.shtml"><img src="frontpagespecials/sp members.PNG" width="400" height="250"border="0"></a></span><a href="maps-sp.shtml">Socialist Party Activity 1900-1940 </a></h3>
+            <p>Washington was a stronghold of the Socialist Party with one of the highest per capita memberships in the country before World War I. Here are several interactive maps and charts. One  shows  <strong>votes for SP candidates in every county. </strong>  Another shows the 19 towns and cities where Socialists won elections. A third maps the newspapers associated with the Socialist Party. We also chart SP membership year by year. <BR> 
+              </p></td>
+          </tr>
+         
+          
+           <tr><td>
+           <hr>
+<span class="style20">Racial Justice Movements</span></td></tr>
+</td><tr>
+           <tr> <td>
+           <h2>&nbsp;</h2>
+           
+           <h3><span class="rightcap" style="width:400px;"><a href="maps-naacp.shtml"><img src="frontpagespecials/naacp table.PNG" width="400" height="250" border="0"></a>
+  </span><a href="maps-naacp.shtml">NAACP in Washington and Oregon 1913-1964</a></h3>
+              <p> In 1913, Tacoma became one of ten cities to host a branch of the NAACP, the first west of Kansas City. Seattle followed the next year, Portand in 1915, and several other communities in the next couple of years. Despite the tiny African American population in the region, NAACP chapters started early and quickly made an impact. In 1914, Tacoma NAACP officers reported that the branch  had successfully lobbied the state legislature to stop passage of a law that would have banned mixed race marriages. These maps and data tables display  the spread of NAACP chapters along with membership numbers, names of officers, and branch activity reports.  
+          </tr> 
+           
+                 
+         
+             
+             <tr>
+            <td><h3><span class="rightcap" style="width:400px;"><a href="maps-bpp.shtml"><img src="frontpagespecials/bpp/bpp-map.PNG" width="400" height="250" border="0"></a><br>
+   </span><a href="maps-bpp.shtml">Black Panther Party </a></h3>
+              <p>Founded in Oakland in 1967, the Black Panther authorized only 12 additional chapters, one of them the Seattle's chapter, formed in 1969. This map shows&nbsp;<strong>BPP offices, facilities</strong>, and the location of&nbsp;<strong>key events</strong>, combining historic images  with&nbsp;<strong>google street views</strong>&nbsp;of the locations today.&nbsp;As part of its 1970 investigation of the Seattle 
+chapter of the BPP, Congressional investigators for the Committee on Internal 
+Security Hearings secured photographs of buildings that the Panthers used as 
+	 offices or as Breakfast Centers where they served hot meals to children. Click to see photos on the map. They are also reproduced below the map.</p></td>
+          </tr>  
+         
+          <tr>
+            <td><h3><span class="rightcap" style="width:400px;"><a href="maps-ufw.shtml"><img src="frontpagespecials/bpp/chavez_huelga_color_web.jpg" width="400" height="250" border="0"></a><br>
+ </span><a href="maps-ufw.shtml">UFW strikes, boycotts, campaigns 
+  1965-1975</a></h3>
+              <p>When ethnic Mexican  farm workers led by Cesar Chavez joined with Filipino American workers led by Larry Itliong in 1965 to strike grape growers in Delano, California, the modern farm workers' movement was born. The UFW soon became active in the Pacific Northwest. Boycott committees formed in the cities and on college campuses. Here is an interactive map showing year by year actions across the three state region </p></td>
+          </tr>
+          
+          <tr>
+            <td><h3><span class="rightcap" style="width:400px;"><a href="maps-mecha.shtml"><img src="frontpagespecials/mecha-map.PNG" width="400" height="250" border="0"></a><br>
+            </span><a href="maps-mecha.shtml">MEChA and Chicana/o Student Organizations 1967-2012</a></h3>
+              <p>Chicano students began to organize on college campuses in the late 1960s, forming organizations with various names. In 1969 most of these organizations merged forming El  Movimiento Estudiantil Chicano/a de Aztlan (MEChA). MEChA spread in stages and as of 2012 claimed <strong>more than 500 chapters</strong>. California has long been MEChA's strongest base, but energetic chapters formed early in the Pacific Northwest and have been active ever since. </p></td>
+          </tr>
+                
+               
+		  
+               
+		    <tr>
+            <td>
+			<h2>&nbsp;</h2>
+			<h2><a href="about.shtml">About the Project</a></h2>
+				<p>Directed by Professor James Gregory, the Data Mapping Washington Labor and Civil Rights project has been  supported by a 2016-2017 Washington State Labor Research grant from the <a href="http://depts.washington.edu/pcls/"> Harry Bridges Center for Labor Studies</a>, University of Washington.</p>
+         
+				<p>Research Associates: Katie Anastas, Josue Estrada, Rebecca Flores, Arianne Hermida</p>
+
+				<p>Technology Advisor: Jason Lee Grills</p>
+         
+         </td>
+          </tr>
+		  
+		</table>
+		</td>
+	</tr>
+		
+			 
+			
+			
+			<div style="margin-bottom:10px;">
+			
+			
+       		
+			
+			
+       		
+			
+</div>
+
+  
+         
+		
+
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.html"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

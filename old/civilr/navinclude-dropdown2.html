@@ -1,0 +1,190 @@
+
+
+
+
+<script type="text/javascript"><!--
+
+
+
+function hov(loc,cls){
+
+
+
+   if(loc.className)
+
+
+
+      loc.className=cls;}
+
+
+
+//--></script>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+/*
+Script by FPMC at http://jsarchive.8m.com
+Submitted to JavaScript Kit (http://javascriptkit.com)
+For this and 400+ free scripts, visit http://javascriptkit.com
+*/
+
+//set image paths
+src = ["http://depts.washington.edu/civilr/images/video_teasers/lewis.jpg", "http://depts.washington.edu/civilr/images/video_teasers/gallegos.jpg", "http://depts.washington.edu/civilr/images/video_teasers/adams.jpg", "http://depts.washington.edu/civilr/images/video_teasers/adixon.jpg", "http://depts.washington.edu/civilr/images/video_teasers/alexander.jpg", "http://depts.washington.edu/civilr/images/video_teasers/acevez.jpg",  "http://depts.washington.edu/civilr/images/video_teasers/veloria.jpg", "http://depts.washington.edu/civilr/images/video_teasers/woo.jpg", "http://depts.washington.edu/civilr/images/video_teasers/williams-s.jpg", "http://depts.washington.edu/civilr/images/video_teasers/white-bobby.jpg", "http://depts.washington.edu/civilr/images/video_teasers/west.jpg", "http://depts.washington.edu/civilr/images/video_teasers/uhlman.jpg", "http://depts.washington.edu/civilr/images/video_teasers/tagawa.jpg", "http://depts.washington.edu/civilr/images/video_teasers/simmons.jpg", "http://depts.washington.edu/civilr/images/video_teasers/sugiyama.jpg", "http://depts.washington.edu/civilr/images/video_teasers/sims.jpg",  "http://depts.washington.edu/civilr/images/video_teasers/bennett.jpg","http://depts.washington.edu/civilr/images/video_teasers/santos.jpg","http://depts.washington.edu/civilr/images/video_teasers/saldana.jpg", "http://depts.washington.edu/civilr/images/video_teasers/jrodriguez.jpg", "http://depts.washington.edu/civilr/images/video_teasers/riojas.jpg", "http://depts.washington.edu/civilr/images/video_teasers/reyes.jpg", "http://depts.washington.edu/civilr/images/video_teasers/raymond.jpg", "http://depts.washington.edu/civilr/images/video_teasers/paul.jpg", "http://depts.washington.edu/civilr/images/video_teasers/owens.jpg", "http://depts.washington.edu/civilr/images/video_teasers/murray.jpg", "http://depts.washington.edu/civilr/images/video_teasers/mercer.jpg", "http://depts.washington.edu/civilr/images/video_teasers/mckinney.jpg", "http://depts.washington.edu/civilr/images/video_teasers/matsuda.jpg", "http://depts.washington.edu/civilr/images/video_teasers/martinez.jpg", "http://depts.washington.edu/civilr/images/video_teasers/maestas.jpg", "http://depts.washington.edu/civilr/images/video_teasers/maeda.jpg", "http://depts.washington.edu/civilr/images/video_teasers/lewis-janet.jpg", "http://depts.washington.edu/civilr/images/video_teasers/johnson-ron.jpg", "http://depts.washington.edu/civilr/images/video_teasers/king.jpg", "http://depts.washington.edu/civilr/images/video_teasers/johnson-doug.jpg", "http://depts.washington.edu/civilr/images/video_teasers/johnson-charles.jpg", "http://depts.washington.edu/civilr/images/video_teasers/hubbard.jpg", "http://depts.washington.edu/civilr/images/video_teasers/irigon.jpg", "http://depts.washington.edu/civilr/images/video_teasers/hobbs.jpg", "http://depts.washington.edu/civilr/images/video_teasers/dhollingsworth.jpg", "http://depts.washington.edu/civilr/images/video_teasers/hayasaka.jpg", "http://depts.washington.edu/civilr/images/video_teasers/lgossett.jpg","http://depts.washington.edu/civilr/images/video_teasers/guillen.jpg", "http://depts.washington.edu/civilr/images/video_teasers/gamboa.jpg", "http://depts.washington.edu/civilr/images/video_teasers/fiddler.jpg", "http://depts.washington.edu/civilr/images/video_teasers/durham.jpg", "http://depts.washington.edu/civilr/images/video_teasers/ldomingo.jpg", "http://depts.washington.edu/civilr/images/video_teasers/cdomingo.jpg","http://depts.washington.edu/civilr/images/video_teasers/mdixon.jpg", "http://depts.washington.edu/civilr/images/video_teasers/edixon.jpg", "http://depts.washington.edu/civilr/images/video_teasers/della.jpg", "http://depts.washington.edu/civilr/images/video_teasers/cornish.jpg", "http://depts.washington.edu/civilr/images/video_teasers/cordovas.jpg", "http://depts.washington.edu/civilr/images/video_teasers/cook.jpg", "http://depts.washington.edu/civilr/images/video_teasers/dchin.jpg", "http://depts.washington.edu/civilr/images/video_teasers/chew.jpg", "http://depts.washington.edu/civilr/images/video_teasers/caver.jpg", "http://depts.washington.edu/civilr/images/video_teasers/bill.jpg", "http://depts.washington.edu/civilr/images/video_teasers/amen-allah.jpg", "http://depts.washington.edu/civilr/images/video_teasers/bocanegra.jpg", "http://depts.washington.edu/civilr/images/video_teasers/.jpg" ]
+
+
+//set corresponding urls
+url = [
+"http://depts.washington.edu/civilr/lewis_randy.htm", "http://depts.washington.edu/civilr/gallegos.htm","http://depts.washington.edu/civilr/adams.htm", "http://depts.washington.edu/civilr/aaron_dixon.htm", "http://depts.washington.edu/civilr/alexander.htm", "http://depts.washington.edu/civilr/acevez.htm", "http://depts.washington.edu/civilr/veloria.htm", "http://depts.washington.edu/civilr/woo.htm", "http://depts.washington.edu/civilr/williams_s.htm", "http://depts.washington.edu/civilr/white.htm", "http://depts.washington.edu/civilr/west.htm", "http://depts.washington.edu/civilr/uhlman.htm", "http://depts.washington.edu/civilr/tagawa.htm", "http://depts.washington.edu/civilr/simmons.htm", "http://depts.washington.edu/civilr/sugiyama.htm", "http://depts.washington.edu/civilr/sims.htm", "http://depts.washington.edu/civilr/bennett.htm","http://depts.washington.edu/civilr/santos.htm", "http://depts.washington.edu/civilr/Saldana.htm", "http://depts.washington.edu/civilr/jesus_rodriguez.htm", "http://depts.washington.edu/civilr/riojas.htm", "http://depts.washington.edu/civilr/reyes.htm", "http://depts.washington.edu/civilr/raymond.htm", "http://depts.washington.edu/civilr/paul.htm", "http://depts.washington.edu/civilr/owens.htm", "http://depts.washington.edu/civilr/murray_m.htm", "http://depts.washington.edu/civilr/mercer.htm", "http://depts.washington.edu/civilr/mckinney.htm", "http://depts.washington.edu/civilr/matsuda.htm", "http://depts.washington.edu/civilr/martinez.htm", "http://depts.washington.edu/civilr/maestas.htm", "http://depts.washington.edu/civilr/maeda.htm", "http://depts.washington.edu/civilr/janet_lewis.htm", "http://depts.washington.edu/civilr/ron_johnson.htm", "http://depts.washington.edu/civilr/king.htm", "http://depts.washington.edu/civilr/doug_johnson.htm", "http://depts.washington.edu/civilr/johnson.htm", "http://depts.washington.edu/civilr/irigon.htm", "http://depts.washington.edu/civilr/hubbard.htm", "http://depts.washington.edu/civilr/hobbs.htm", "http://depts.washington.edu/civilr/hollingsworth.htm", "http://depts.washington.edu/civilr/hayasaka.htm", "http://depts.washington.edu/civilr/gossett.htm", "http://depts.washington.edu/civilr/guillen.htm", "http://depts.washington.edu/civilr/Erasmo_Gamboa.htm", "http://depts.washington.edu/civilr/fiddler.htm", "http://depts.washington.edu/civilr/durham.htm", "http://depts.washington.edu/civilr/lynn_domingo.htm", "http://depts.washington.edu/civilr/cindy_domingo.htm", "http://depts.washington.edu/civilr/michael_dixon.htm", "http://depts.washington.edu/civilr/elmer_dixon.htm", "http://depts.washington.edu/civilr/della.htm", "http://depts.washington.edu/civilr/cornish.htm", "http://depts.washington.edu/civilr/cordovas.htm", "http://depts.washington.edu/civilr/cook.htm", "http://depts.washington.edu/civilr/chin.htm", "http://depts.washington.edu/civilr/chew.htm", "http://depts.washington.edu/civilr/caver.htm", "http://depts.washington.edu/civilr/bill.htm", "http://depts.washington.edu/civilr/amen-allah.htm", "http://depts.washington.edu/civilr/bocanegra.htm"]
+
+//set duration for each image
+duration = 5;
+
+//Please do not edit below
+ads=[]; ct=0;
+function switchAd() {
+var n=(ct+1)%src.length;
+if (ads[n] && (ads[n].complete || ads[n].complete==null)) {
+document["Ad_Image"].src = ads[ct=n].src;
+}
+ads[n=(ct+1)%src.length] = new Image;
+ads[n].src = src[n];
+setTimeout("switchAd()",duration*1000);
+}
+function doLink(){
+location.href = url[ct];
+} onload = function(){
+if (document.images)
+switchAd();
+}
+//-->
+</SCRIPT>
+
+
+
+<div class="leftnavbox" id="navigation">
+
+
+
+  <p><a href="/civilr/">Home</a><br />
+    <a href="/civilr/about.htm">About</a><br>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <a href="/civilr/segregated.htm">Segregated Seattle</a><br>
+    
+    <a href="research_reports.htm"> Essays/ reports</a><br>
+    
+    
+    
+    
+    
+    <a href="/civilr/press.htm">Seattle&rsquo;s Ethnic Press</a><br>
+    
+    <a href="organizations.htm">Civil Rights Groups</a> <br>
+    
+    
+    <a href="http://depts.washington.edu/labpics/zenPhoto/">Photo Collections </a><br>
+    <a href="segregation_maps.htm">Maps</a><br>
+    
+    
+    <a href="/civilr/films&slides.htm">Films & Slide Shows</a><br>
+    <a href="/civilr/teachers.htm">For Teachers</a><br>
+    <br>
+    <A HREF="javascript:doLink();" onMouseOver="status=url[ct];return true;" 
+onMouseOut="status=''">
+        <IMG NAME="Ad_Image" SRC="http://depts.washington.edu/civilr/images/video_teasers/lewis.jpg" BORDER=0>
+    </A><br />	  
+    <a href="/civilr/interviews.htm"><img src="/civilr/images/speakericon.gif" border="0" align="top" />&nbsp;Video Oral Histories</a><br>
+<hr>
+
+
+	<form style="display: inline;" method="get" action="http://www.google.com/search">
+	<input style="vertical-align: middle;" type="text" name="q" class="leftnavsearch"  onFocus="if(this.value=='Google Search')value=''" onBlur="if(this.value=='')value='Google Search';" value="Google Search" maxlength="255">
+	<input type="submit" name="sa" class="leftnavbutton" style="vertical-align: middle;width:30px;"  value="Go" onmouseover="hov(this,'leftnavbutton leftnavbuttonhover')" onmouseout="hov(this,'leftnavbutton')">
+	<input type=hidden name=hq value="site:depts.washington.edu/depress OR site:depts.washington.edu/civilr OR site:depts.washington.edu/labhist">
+	<input type="hidden" name="site" value="search">
+	<input type="hidden" name="hl" value="en">
+	<input type="hidden" name="lr" value="">
+	<input type="hidden" name="safe" value="off">
+</form>
+
+
+<hr />
+<a><strong>BROWSE CONTENTS</strong></a><br>
+<a href="/civilr/site_index.htm">By date and subject</a>  <br>
+
+    <a href="/civilr/African%20Americans.htm">African American issues</a><br>
+    
+      <a href="/civilr/Asian%20Americans.htm">Asian American issues</a><br>
+  
+      <a href="/civilr/Latinos.htm">Latino issues</a><br>
+    <a href="/civilr/lgbtq_intro.htm">LGBTQ issues</a><br>
+      <a href="/civilr/UrbanIndians.htm">Urban Indian issues</a><br>
+<a href="/civilr/women.htm">Women's issues </a>
+
+<hr>
+
+
+
+	<form style="display: inline;" name="specialnavform">
+      <select name="specialnavmenu" style="width:140px;font-size:12px;background-color: #fff;	border-color:#800000;border-width:1px; border-style:solid;" onChange="window.location=document.specialnavform.specialnavmenu.options[document.specialnavform.specialnavmenu.selectedIndex].value">
+        <option selected="selected" value="sections.htm" style="font-size:12px;">Special Sections:</option>
+        <option style="margin-top:2px;" value="BPP.htm">Black Panther Party History and Memory Project</option>
+        <option style="margin-top:2px;" value="Cannery_intro.htm">Filipino Cannery Unionism</option>
+        <option style="margin-top:2px;" value="lgbtq_intro.htm">LGBTQ Activism in Seattle History Project</option>
+        <option style="margin-top:2px;" value="ucwa.htm">United Construction Workers Project</option>
+        <option style="margin-top:2px;" value="mecha_intro.htm">Chicano Movement in Washington State Project</option>
+		 <option style="margin-top:2px;" value="aa_intro.htm">Asian American Movement</option>
+		 <option style="margin-top:2px;" value="kkk_intro.htm">KKK in Washington State</option>
+		 <option style="margin-top:2px;" value="CORE_intro.htm">CORE Campaigns 1960s</option>
+		 <option style="margin-top:2px;" value="BSU_intro.htm">Black Student Union at UW</option>
+		  <option style="margin-top:2px;" value="bham_intro.htm">1907 Bellingham Riots</option>
+        <option style="margin-top:2px;" value="farmwk_intro.htm">Farm Workers in Washington State Project</option>
+        <option style="margin-top:2px;" value="http://depts.washington.edu/labhist/strike">1919 General Strike Project</option>
+        <option style="margin-top:2px;" value="http://depts.washington.edu/labhist/cpproject">Communism in Washington State Project</option>
+        <option style="margin-top:2px;" value="http://depts.washington.edu/labhist/laborpress/">Labor Press Project</option>
+        <option style="margin-top:2px;" value="segregated.htm">Segregated Seattle</option>
+      </select>    
+  </form>
+
+
+<hr>
+<a href="segregation_maps.htm"><img src="images/video_teasers/mapdots.jpg" width="130" height="135" border="0"  /></a>
+  
+<a href="segregation_maps.htm">Segregation Maps</a><br>
+
+
+
+	<hr>
+	<p><a><strong>RELATED PROJECTS</strong></a><br>
+      <a href="http://depts.washington.edu/labhist/">Pacific Northwest Labor and Civil Rights Projects</a></p>
+	<p>
+	<a href="http://www.facebook.com/pages/Seattle-Civil-Rights-and-Labor-History-Project/126908547034"><img src="images/logo_facebook200.jpg" width="120" height="50">
+  <br>
+<span class="arial10_red">Join Seattle Civil Rights &amp; Labor History Project on Facebook </span></p>
+
+</div>
+	           
+		
+    
+    </p>
+</div>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+
+
+

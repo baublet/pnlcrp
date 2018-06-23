@@ -1,0 +1,217 @@
+<!--#include file="metaheader.html"-->
+<title>Mapping Seattle Race and Segregation</title>
+<link rel="stylesheet" type="text/css" href="xfade2_o.css" />
+<script type="text/javascript" src="xfade2.js"></script>
+<style type="text/css">
+<!--
+.greyboxnew {
+	background-color:#666;color:white;
+	padding:5px;
+	margin-bottom:5px;
+}
+
+.greyboxnew a, .redbox a:visited 
+{color:white;
+}
+.redboxnew {
+	background-color:#780000;color:white;
+	padding:5px;
+		margin-bottom:5px;
+}
+.redboxnew a, .redbox a:visited 
+{color:white;
+}
+.style20 {
+	font-size: xx-large;
+	font-weight: bold;
+}
+.style21 {font-size: 10pt}
+
+
+-->
+</style>
+</head>
+<body id="home">
+<table id="pagetable" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			  <a href="index.shtml"><img src="banner.jpg" width="1000" height="190" border="0"></a>
+			</div>
+			 <!--#include file="menu-top.shtml" -->
+		</td>
+	</tr>
+
+		<td>
+			<div id="content">
+			
+        	
+        
+
+			<div align="center">
+			   <p class="style20">Mapping Race and Segregation Seattle/King County 1920-2010</p>
+		  </div>
+			  <div>
+			 
+			  <table width="100%" align="center" >
+			  <tr> <td width="498" valign="top">
+			    <p class="arial10">For most of its history, Seattle was a tightly segregated city, fully committed to white supremacy and the separation or exclusion of those considered to not white. Here we map  the neighborhood by neighborhood distributions of African Americans, Asian Americans, Native Americans, Latinos, and Whites across nine decades. Scroll down to view static maps with short summaries of decad- by-decade changes. We also provide interactive maps and data that allow you to see the population mix of each neighborhood and filter for particular populations. Click the model interactive map at right.</p>
+					  <p> The map-essay below starts with decade by decade displays of the residential patterns of African Americans and Asian Americans/ Pacific Islanders. Continue further for displays of Native American, Hispanic/Latino, and white population distributions.</p>
+					  <p>These maps and tables were created by Anna Yoon, Brian Lam, Gihoon Du, Jiang Wu, and Yurika Harada using data and shape files from the National Historical Geographic Information System (NHGIS). The work was a class project for Geography 469 GIS Workshop taught by Professor Sarah Elwood-Faustino Spring 2017.</p>
+					  <p><strong>Source:</strong> calculated from Steven Manson, Jonathan Schroeder, David Van Riper, and Steven Ruggles. IPUMS National Historical Geographic Information System: Version 12.0 [Database]. Minneapolis: University of Minnesota. 2017. http://doi.org/10.18128/D050.V12.0</p></td>
+				  <td width="498"> <img src="tracts/450/1970 interactive.PNG" width="524" height="523" alt=""/><p><strong><center>(Click to go to interactive maps)</center></strong></td></tr></table>
+			  
+			   <p class="arial10">&nbsp;</p>
+       <hr>
+				  <h3> 1920</h3>
+				  <p> Segregation began with Asian Americans, who have outnumbered African Americans through most of Seattle's history. Chinese people were tightly confined in Chinatown before that community was destroyed and its residents forced to flee in 1886. Japanese immigrants built Nihommache (Japan town) next to the rebuilt Chinatown in the early 1900s and soon became the largest nonwhite group in Seattle. African Americans filtered slowly into the area and initially residential restrictions were loose and informal. By 1920, as can be seen on these maps, Black families were more dispersed than Asians, but were mostly living in the Central Area near Japanese and Chinese residents. In the following decades, new tools of segregation would be used to make the boundaries firmer. Racial restrictive covenants<a href="http://depts.washington.edu/civilr/covenants.htm"> (see database and article)</a> and other deed provisions would make it illegal for property to be sold or rented by Blacks, Asians, and often Jews in most parts of the city and surrounding county. </p>
+				  
+      
+       <table width="100%" align="center" valign="top">
+		   <tr>
+		     <td width="250"><strong>Japanese Americans (7,874)</strong></td>
+		   <td width="250"><strong>Chinese Americans (1,351)</strong></td>
+		   <td width="250"><strong>African Americans (2,894)</strong></td>
+		   <td width="250"><strong></strong></td>
+			 
+       <tr>
+         <td width="250"><img src="tracts/450/schmidt japanese 1920.jpg" width="230" height="350" alt=""/></td>
+       <td width="250"><img src="tracts/450/schmidt chinese 1920 lg.jpg" width="230" height="350" alt=""/></td>
+       <td width="250"><img src="tracts/450/schmidt black 1920-800.jpg" width="230" height="350" alt=""/></td>       
+        <td width="250">
+       	  Click to enlarge these 1920 maps. They are from  Calvin F. Schmid, <em>Growth and distribution of minority races in Seattle, Washington </em>(Seattle, 1964). A professor of Sociology at the University of Washingon, Schmid does not explain how he obtained census tract data for 1920.</td> 
+	</tr>  
+		  </table>
+			  <p class="arial10">&nbsp;</p>
+			     <hr>
+				  <h3> 1940</h3>
+				
+				  
+      
+       <table width="100%" align="center" valign="top">
+		   <tr><td width="450" valign="top"></td>
+			 <td width="450" valign="top"><strong>Nonwhites in 1940 Seattle (% of population)</strong></td>
+       <tr><td width="450" valign="top"> On the eve of World War II, Seattle had a population of 368,302; King County claimed 504,908, a nine percent increase since 1930.  population had nearly doubled in the decade since 1940 thanks to the World War II influx of defense workers and military personnel. The county claimed 675,290 residents in 1950. Despite significant increases in the number of African Americans who had come to help the war effort, the population remained 96% white. Blacks numbered 16,453 and the combined Asian origin population was 12,790. Rules of segregation limited where Blacks, Asians, and Jews might live, enforced by deed restrictions, racial restrictive covenants, and by compounding systems of discrimination organized by the real estate industry and white neighborhoods. Still, Seattle and the county had not reached the level of segregation that would be in place by 1960</td>
+       <td width="450"><img src="tracts/450/1940 nonwhite.jpg" width="450" height="475" alt=""/></td>
+	</tr>  
+			    </table>
+		  <p class="arial10">&nbsp;</p>
+       <hr>
+				  <h3> 1950</h3>
+				  <p> King County population had nearly doubled in the decade since 1940 thanks to the World War II influx of defense workers and military personnel. The county claimed 675,290 residents in 1950. Despite significant increases in the number of African Americans who had come to help the war effort, the population remained 96% white. Blacks numbered 16,453 and the combined Asian origin population was 12,790. Rules of segregation limited where Blacks, Asians, and Jews might live, enforced by deed restrictions, racial restrictive covenants, and by compounding systems of discrimination organized by the real estate industry and white neighborhoods. Still, Seattle and the county had not reached the level of segregation that would be in place by 1960. </p>
+				  
+      
+       <table width="100%" align="center" valign="top">
+		   <tr><td width="450"><strong>African Americans (% of population)</strong></td>
+			 <td width="450"><strong>Asian Americans and Pacific Islanders (% of population)</strong></td>
+       <tr><td width="450"><img src="tracts/450/1950 black.jpg" width="450" height="670" alt=""/></td>
+       <td width="450"><img src="tracts/450/1950 asian-other.jpg" width="450" height="670" alt=""/></td>
+	</tr>  
+			    </table>
+      
+       <p class="arial10">&nbsp;</p>
+       <hr>
+				  <h3> 1960</h3>
+				  <p> King County population had increased 38% in the previous decade, reaching 935,014 by the time of the April Census. Whites accounted for 94% of county residents joined by 27,758 African Americans, 23,360 Asian Americans, xxxx Native Americans, and a small but uncounted number of Latinos. Tight segregation remained the rule. Discrimination on the basis of race remained fully legal and widely practiced by real estate agents, landlords, white property owners and neighborhood associations. Nearly Black, Asian, and Native American families were locked in a triangle of census tracts in the Central District and Chinatown. Small pockets of Black residents remained in the High Point housing project, but the number living in Sodo and Georgetown area had declined as did the total population of these areas as freeways, warehouses and industrial sites moved in. </p>
+				  
+      
+       <table width="100%" align="center" valign="top">
+        <tr><td width="450"><strong>African Americans (% of population)</strong></td>
+			 <td width="450"><strong>Asian Americans and Pacific Islanders (% of population)</strong></td>
+       <tr><td width="450"><img src="tracts/450/1960 black.jpg" width="450" height="750" alt=""/></td>
+       <td width="450"><img src="tracts/450/1960 asian.jpg" width="450" height="750" alt=""/></td>
+	</tr>  
+			    </table>
+			   <p class="arial10">&nbsp;</p>
+       <hr>
+				  <h3> 1970</h3>
+				  <p> King County population had increased 14% in the previous decade, reaching 935,014 by the time of the April Census. Whites accounted for 94% of county residents joined by 27,758 African Americans, 23,360 Asian Americans, xxxx Native Americans, and a small but uncounted number of Latinos. In 1968, Congress had passed a law banning racial discrimination in housing and Seattle's City Council enacted a similar ordinance. By 1970, there was little evidence that King County housing markets had responded. Both African Americans and Asian Americans (especially Japanese and Chinese) were spreading south from the CD into the contiguous neihborhoods of Beacon Hill and Black families had broken the barriers that previous had kept them out of the Madrona District. But North Seattle and the rest of King County remained as racially restricted as ever.</p>
+				  
+      
+       <table width="100%" align="center" valign="top">
+        <tr><td width="450"><strong>African Americans (% of population)</strong></td>
+			 <td width="450"><strong>Asian Americans and Pacific Islanders (% of population)</strong></td>
+       <tr><td width="450"><img src="tracts/450/1970 black.jpg" width="450" height="750" alt=""/></td>
+       <td width="450"><img src="tracts/450/1970 asian.jpg" width="450" height="750" alt=""/></td>
+	</tr>  
+			    </table>	  
+				  <p class="arial10">&nbsp;</p>
+       <hr>
+				  <h3> 1980</h3>
+				  <p> King County population had reaching a population of 1, 266,241 by 1980, still 89% white.  Arican Americans now numbered 55,950 and had recently been surpassed by the combined number of Asian Americans and Pacific Islanders at 58,712. There was new diversity in that population as new immigrants from Korea, Vietnam, and other Asian nations joined the older populations of Japanese, Chinese, and Filipinos.  The southern spread that had begun in the late 1960s continued for both African Americans and Asian Americans and the first glimers of Central District gentrification appeared as the number of whites increased in that area for the first time since World War II. But for most of Seattle and the rest of the county little had changed. North of the ship canal remained virtually all White, as did West Seattle, the East Side,  and South King County.</p>
+				  
+      
+       <table width="100%" align="center" valign="top">
+        <tr><td width="450"><strong>African Americans (% of population)</strong></td>
+			 <td width="450"><strong>Asian Americans and Pacific Islanders (% of population)</strong></td>
+       <tr><td width="450"><img src="tracts/450/1980 black.jpg" width="450" height="750" alt=""/></td>
+       <td width="450"><img src="tracts/450/1980 asian.jpg" width="450" height="750" alt=""/></td>
+	</tr>  
+			    </table>	
+      
+          
+        	  <p class="arial10">&nbsp;</p>
+       <hr>
+				  <h3> 1990</h3>
+				  <p> King County population had increased 19% in the previous decade to a total of 1,506,373, whites accounting for 84%, a slowly declining ration. The population growth among peoples of  Asian and Pacific Island ancestries had grown fastest and now at 118,753 significantly outnumbered the county's 76,212. The Hispanic/Latino population was also surging. Only 3,282 in 1970, they numbered 44,286 in 1990. Urban Indians had also been moving to Seattle, more than doubling their population to 17,286 from 1970. The southern diaspora from Central Seattle continued for all of the populations of color. Now all of southeast Seattle from the Beacon Hill through the Rainier Valley as becoming a multiracial zone where Asians of many nationalities, Blacks, Whites, Native Americans, and Latinos shared census tracts, if not every school and neighborhood. Some Asian Americans were breaking barriers in other neighborhoods. In parts of Bellevue, Kent, and far north Seattle, census tracts the percentage of Asian American residents moved gently past 10%. That was not the case for African American families. In North Seattle, West Seattle, and the East Side, the segregation needle had barely budged. Most of these census tracts claimed 1-2% Black residents, if that.</p>
+				  
+      
+       <table width="100%" align="center" valign="top">
+        <tr><td width="450"><strong>African Americans (% of population)</strong></td>
+			 <td width="450"><strong>Asian Americans and Pacific Islanders (% of population)</strong></td>
+       <tr><td width="450"><img src="tracts/450/1990 black.jpg" width="450" height="750" alt=""/></td>
+       <td width="450"><img src="tracts/450/1990 asian.jpg" width="450" height="750" alt=""/></td>
+	</tr>  
+			    </table>	
+				  	  <p class="arial10">&nbsp;</p>
+       <hr>
+				  <h3> 2010</h3>
+				  <p> Jumping ahead 20 years, the county had maintained its impressive growth rates, 28% over the two decades. In 2010, the population reached 1,931,249. These decades had registered significant changes in racial distributions. Whites now comprised 69% of the population and immigration had greatly increased both Asian ancestered and Hispanic populations. The King County population had increased 14% in the previous decade, reaching 935,014 by the time of the April Census. Whites accounted for 94% of county residents joined by 27,758 African Americans, 23,360 Asian Americans, xxxx Native Americans, and a small but uncounted number of Latinos. In 1968, Congress had passed a law banning racial discrimination in housing and Seattle's City Council enacted a similar ordinance. By 1970, there was little evidence that King County housing markets had responded. Both African Americans and Asian Americans (especially Japanese and Chinese) were spreading south from the CD into the contiguous neihborhoods of Beacon Hill and Black families had broken the barriers that previous had kept them out of the Madrona District. But North Seattle and the rest of King County remained as racially restricted as ever.</p>
+				  
+      
+       <table width="100%" align="center" valign="top">
+        <tr><td width="450"><strong>African Americans (% of population)</strong></td>
+			 <td width="450"><strong>Asian Americans and Pacific Islanders (% of population)</strong></td>
+       <tr><td width="450"><img src="tracts/450/2010 black.jpg" width="450" height="750" alt=""/></td>
+       <td width="450"><img src="tracts/450/2010 asian.jpg" width="450" height="750" alt=""/></td>
+	</tr>  
+			    </table>	  
+    
+		</table>
+		</td>
+	</tr>
+		
+			 
+			
+			
+			<div style="margin-bottom:10px;">
+			
+			
+       		
+			
+			
+       		
+			
+</div>
+
+  
+         
+		
+
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.html"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

@@ -1,0 +1,57 @@
+<!--#include file="metaheader.html"-->
+<title>Labor Highlights 1930</title>
+<link rel="stylesheet" type="text/css" href="xfade2_o.css" />
+<script type="text/javascript" src="xfade2.js"></script>
+</head>
+<body id="home">
+<table id="pagetable" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="header_logo.jpg" width="1000" height="189">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td bordercolor="#000000" style="vertical-align:top;background-color:black;">
+			<div id="navigation">
+			  <!--#include file="menu.html"-->
+			</div>
+	  </td>
+		<td>
+			<div id="content">
+			<h1>Labor Highlights 1930</h1>
+        <p>by Eunji Lee</p>
+            <p> The Great Depression was beginning to make itself felt in 1930. Articles in the <em>Washington State Labor News </em>show the labor movement mostly attempting to carry on as usual. The weekly newspaper provided no information about changes in union membership, but did report that the American Federation of Labor announced a significant increase in membership nationwide. The article claimed that 3 million people were members of unions [10]. </p>
+            <p> But it is clear that with unemployment mounting unions were under pressure as employers broke unions or refused to renew contracts. Many articles in the <em>WSLN </em>had to do with letting union members know which houses not to patronize. Companies and organizations that were not union-friendly were added to the “do not patronize” list that was published in most issues<em>.</em> Other articles encouraged citizens to buy products from local union houses in order to raise the demand for the service or product, providing jobs for other local union members. For instance, near Christmas, Blind Sam, known as the “Kandy King,” [1] asked readers of the newspaper to purchase candy from the Queen Anne Candy Company, “the only all Seattle made and 100% unionized institution” to “give work and a Christmas to Seattle union men and women.” [2] </p>
+            <p> Only a few strikes and boycotts were mentioned. One struggle involved the Follies Theatre, formerly known as the Pantages Theatre, which had been a union house [3]. Under new management, the theatre reopened as a non-union operation, cutting wages of its employees -- from the musicians to the janitors-- and demanding that they “take it or leave it,” forcing many of the union members to be out of a job. The unions fought back with a boycott. After four months of making headlines and encouragement from the Seattle Central Labor Council to not patronize the theatre, management admitted defeat and the theatre again became unionized [4]. The new employees were replaced with union employees and the unionization allows all union members to once again start patronizing the theatre. This kind of solidarity allowed union members to survive in a time where a shortage of jobs was prominent. </p>
+            <p> Theaters were a major site of union campaigns in 1930. In addition to the Follies Theatre, the Gala Theatre and Beacon Hill Theatre became unionized. Others like the Columbia Theatre in Columbia City, the Society Theatre and the Embassy Theatre were put on the banned list of theatres not to patronize until a union house. <em>Washington State Labor News</em> published numerous articles concerning theatres including one in August explaining that the best moving picture theatres were union houses [11]. </p>
+            <p> There was only one new union noted in the <em>Washington State Labor News </em>for the year. The new union is chartered by the Hod Carriers and Building Laborers, but after their acceptance into the Seattle Central Labor Council, the Plasterers and Cement Finishers protested against the new union having a seat in the labor council [5]. All other articles are of encouragement from the labor council to help one another and work together in bringing firms to more union-friendly relations. </p>
+            <p> Women are mentioned in the WSLN during the year, but mostly as members of women’s auxiliaries, not as union members. [6]. They would hold parties and help support their husbands in the labor movement. Auxiliaries mainly served to promote unionism and to talk about current events, such as which companies are no longer on the accepted list of firms to patronize. In this way, women were also actively participating in the labor movement, but weren’t part of the unions directly. There is a clear distinction in gender roles in the newspaper. The women’s department of the <em>Washington State Labor News</em> features recipes every week for foods such as apple sauce, loaf cake, or mock chicken [7]. This is a clear stereotype that women are seen as cooks and are responsible for looking after the family’s needs at home, not in the workplace. Recipes are found only in the women’s department and nowhere else. </p>
+            <p> One of the important causes of the year 1930 was the struggle for the 5-day work week and a 6 to 8-hour work day. The monthly newspaper reported on hours limitation campaigns worldwide. In Ottawa, Ontario, workers were approved for a 7¾-hour work day. In Vancouver B.C., a 5½-hour work day was enforced. In Washington, the Carpenters Local 131 of Seattle Washington foght for a 6-hour, 5-day work week [8]. Soon thereafter, Seattle painters negotiate with their contractors and employers for 6-hour work days, at least for the cold winter months, [9] followed by the fire fighters and even cooks. </p>
+            <br>
+            <p align="center"> Endnotes </p>
+            <p> [1] “Blind Sam’s Holiday Rememberances.” <em>Washington State Labor News</em>, December 12, 1930, p.4. </p>
+            <p> [2] “Union Candy is Xmas Feature of ‘Blind Sam’.” <em>Washington State Labor News</em>, November 28, 1930, p.1. </p>
+            <p> [3] “Former Pantages Theatre Witnesses Betrayal of Loyal Union Employees.” <em>Washington State Labor News</em>, July 11, 1930, p.1. </p>
+            <p> [4] “Union Conditions Established With Present Company Leaving Prior to Arrival of Will King.” <em>Washington State Labor News</em>, November 7, 1930, p.1. </p>
+            <p> [5] “Pavement Workers Seat is Contested.” <em>Washington State Labor News</em>, September 19, 1930, p.1. </p>
+            <p> [6] “Milk Drivers’ Auxiliary Plan for Good Meetings.” <em>Washington State Labor News</em>, August 29, 1930, p.3. </p>
+            <p> [7] “Loaf Cake.” <em>Washington State Labor News</em>, July 25, 1930, p.3. </p>
+            <p> [8] “Six Hour Day is Advocated as Objective.” <em>Washington State Labor News</em>, July 18, 1930, p.1. </p>
+            <p> [9] “Painters Urge Six Hour Day.” <em>Washington State Labor News</em>, October 3, 1930, p.1. </p>
+            <p> [10] “Union Membership Gains During 1930.” <em>Washington State Labor News</em>, October 24, 1930, p.1. </p>
+            <p> [11] &nbsp;“ Non-Union Theatres Make Poor Showing .” <em> Washington State Labor News</em> , August 15, 1930, p.1. </p>
+            <p class="MsoNormal">&nbsp;</p>
+            </div>
+	  </td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.html"-->			</div>
+		</td>
+	</tr>
+</table>
+</body>
+<!--#include file="metafooter.html"-->

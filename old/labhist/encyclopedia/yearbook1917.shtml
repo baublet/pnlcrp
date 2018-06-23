@@ -1,0 +1,725 @@
+<!--#include file="metaheader.html"-->
+<title>Labor Yearbook 1918</title>
+<link rel="stylesheet" type="text/css" href="xfade2_o.css" />
+<script type="text/javascript" src="xfade2.js"></script>
+<style type="text/css">
+<!--
+.style1 {color: #FFFFFF}
+-->
+</style>
+</head>
+<body id="home">
+<table id="pagetable" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="header_logo.jpg" width="1000" height="189" border="0" usemap="#pnlcrp">
+			<map name="pnlcrp">
+              <area shape="rect" coords="326,5,847,33" href="http://depts.washington.edu/labhist">
+            </map>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td bordercolor="#000000" style="vertical-align:top;background-color:black;">
+			<div id="navigation">
+			  <!--#include file="menu.html"-->
+			</div>
+	  </td>
+		<td>
+			<div id="content">
+        <h1>Labor Events Yearbook: 1917</h1>
+        <div class="redboxsm">
+          <h2 align="center" style="color:white;"><strong><a href="yearbook_introduction.shtml">Yearbook Home</a></strong></h2>
+          <table id="redtable" border="0" cellpadding="0" cellspacing="3">
+            <tr>
+              <td><div align="center"><a href="yearbook1915.shtml"><strong>1915</strong></a></div></td>
+              <br>
+              <td><a href="yearbook1915.shtml"><img src="mages/yearbook-ufw2/1915-100x30.jpg" width="101" height="30" border="0"></a></a></span></td>
+            </tr>
+            <tr>
+              <td><div align="center"><a href="yearbook1918.shtml"><strong>1918</strong></a> </div></td>
+              <td><a href="yearbook1918.shtml"><img src="mages/yearbook-ufw2/1918-100x30.jpg" width="100" height="30" border="0"></a></td>
+            </tr>
+            <tr>
+              <td><div align="center"><a href="yearbook1919.shtml"><strong>1919</strong></a> </div></td>
+              <td><a href="yearbook1919.shtml"><img src="mages/yearbook-ufw2/1919-100x31.jpg" width="101" height="31" border="0"></a></td>
+            </tr>
+            <tr>
+              <td><div align="center"><a href="yearbook1930.shtml"><strong>1930</strong></a> </div></td>
+              <td><a href="yearbook1930.shtml"><img src="mages/yearbook-ufw2/1930-100x30.jpg" width="100" height="30" border="0"></a></td>
+            </tr>
+            <tr>
+              <td><div align="center"><a href="yearbook1931.shtml"><strong>1931</strong></a> </div></td>
+              <td><a href="yearbook1931.shtml"><img src="mages/yearbook-ufw2/1931-100x30.jpg" width="101" height="30"></a></td>
+            </tr>
+            <tr>
+              <td><div align="center"><a href="yearbook1932.shtml"><strong>1932</strong></a> </div></td>
+              <td><a href="yearbook1932.shtml"><img src="mages/yearbook-ufw2/1932-100x30.jpg" width="100" height="31" border="0"></a></td>
+            </tr>
+            <tr>
+              <td><div align="center"><a href="yearbook1933.shtml"><strong>1933</strong></a></div></td>
+              <td><a href="yearbook1933.shtml"><img src="mages/yearbook-ufw2/1933-100x30.jpg" width="101" height="30" border="0"></a></td>
+            </tr>
+            <tr>
+              <td><div align="center"><a href="yearbook1934.shtml"><strong>1934</strong></a></div></td>
+              <td><a href="yearbook1934.shtml"><img src="mages/yearbook-ufw2/1934-100x30.jpg" width="99" height="30" border="0"></a></td>
+            </tr>
+            <tr>
+              <td><div align="center"><a href="yearbook1935.shtml"><strong>1935</strong></a> </div></td>
+              <td><a href="yearbook1935.shtml"><img src="mages/yearbook-ufw2/1935-100x30.jpg" width="100" height="30" border="0"></a></td>
+            </tr>
+            <tr>
+              <td><div align="center"><a href="yearbook1936.shtml"><strong>1936</strong></a></div></td>
+              <td><a href="yearbook1936.shtml"><img src="mages/yearbook-ufw2/laborday100x30.jpg" width="100" height="30" border="0"></a></td>
+            </tr>
+            <tr>
+              <td><div align="center"><strong><a href="yearbook1937.shtml">1937</a></strong></div></td>
+              <td><a href="yearbook1937.shtml"><img src="mages/yearbook-ufw2/1937-100x30.jpg" width="100" height="29" border="0"></a></td>
+            </tr>
+            <tr>
+              <td><div align="center"><strong><a href="yearbook1938.shtml">1938</a></strong></div></td>
+              <td><a href="yearbook1938.shtml"><img src="mages/yearbook-ufw2/1938-100x30.jpg" width="100" height="30" border="0"></a></td>
+            </tr>
+            <tr>
+              <td><div align="center"><strong><a href="yearbook1939.shtml">1939</a></strong></div></td>
+              <td><a href="yearbook1939.shtml"><img src="mages/yearbook-ufw2/1939-100x29.jpg" width="100" height="29" border="0"></a></td>
+            </tr>
+          </table>
+        </div>
+        <p>This is a database of campaigns, strikes, and labor related events as recorded in the <em>Seattle Union Record </em> during 1917. It was researched by Charles Armstrong. Start by reading his labor highlights report. The database follows. Click the links to read the articles in a pdf format. Each link opens a full issue of the weekly newspaper. Find the designated page. If you prefer, here is the full year of <em>Seattle Union Record</em>.
+        <h2>Highlights 1917 by Charles Armstrong </h2>
+        <DIV class=WordSection1>
+          <p>Coverage of the legal proceedings related to charges stemming from the “Bloody Sunday” events the previous year dominates the headlines of the weekly for most of the issues up until May. During the first 6 months of the year there are several major strikes, and early signs of trouble that would eventually become strikes or protests later on in the year. Significant legislation for labor passes in the form of a worker’s compensation bill, but not before being amended in the process, becoming “rotten” in the opinion of the paper. </p>
+          <p>The first major strike of the year, besides the seemingly perpetually striking shingle weavers, is that of the “Carmen” (car men) striking for wage increases among other complaints, reaching a settlement by the time the printing for the 20 th of January is printed. At the same time there is a strike by the “steamboatmen’s association,” although it is called off by January 20 th. News from Portland, Oregon foreshadows eventual strikes in the shipyards in Seattle in September and October. While the reports from the mining union page are often brief, there are frequent strikes and walkouts throughout the year; among the reasons for discontent were inadequate provisions, and safety concerns. </p>
+          <p>In early February E.W. Olson of the state’s industrial insurance commission is murdered by a “disgruntled claimant”; his obituary indicates either his favorable disposition to the labor movement or an inclination to distance organized labor from any and all incidents of violence. Related to this anxiety is perhaps the interesting story regarding a supposed bomb tossed at the headquarters of the waterfront employers, blamed on the I.W.W. and later debunked as essentially a fabricated story concocted by the Seattle P-I. The same month that the workers compensation bill passes, the “Overman Spy Bill” passes in the senate; a staunchly anti-conscription if not anti-war paper, the Seattle Union Record prints an anti-conscription article that gets several men arrested for “sedition” for distributing it as a leaflet (they are later acquitted). </p>
+          <p>The trial and conviction of Tom Mooney in San Francisco draws condemnation and appeals for support and sympathy action, such as the call for a 10-minute work stoppage urged by the central labor council in late April. This is typical of the strategies employed by the unions affiliated with the paper, stressing the need for wide-ranging support action and protest, “solidarity” as it were, whenever possible or necessary for successful direct-action. </p>
+          <p>The second major strike wave occurs in late march and early April, with strikes by milk-condensary workers in Kent (working for Carnation). At the same time, the local no. 24 union of laundry girls seeks laws prohibiting basement level workplaces; in early July the paper reports on a wage-increase demand, and two weeks later there is a major strike, with “900 workers out” initially and many more as the strike continues. Unions and the formation of new unions composed of female workers seem to be one of the major sources of labor conflict throughout the year, with strikes not only by female laundry workers but by newly-organized telephone operators(“telephone girls”), who are locked out after unionizing in late July(the union gains recognition two weeks later). The timber trades see frequent strikes and protest actions, some of the more significant being as agitation for the 8-hour workday, and appealing to union men in the transportation industry to boycott “10 hour lumber” from mills that continue to operate for 10 hours. </p>
+          <p>In mid-September various unions associated with the shipyards go on strike, largely metal workers, along with striking transportation work related to the continuing agitation for industry wide 8-hour workdays in the shingle mills. </p>
+          <p>By the end of the year, many of the strikes are resolved, albeit some settled grudgingly. By the end of December, the most newsworthy strike is that of the “meat-cutters and butcher workmen.” </p>
+          <p> It is a bad time for IWW and AFL relations, with wholesale condemnation and frequent criticism of the IWW increasing as the year wears on. Scabs are the only creatures treated worse than IWW men in the paper, with tabloid-style smears on strikebreakers, painting them as criminals and dope fiends. What stands out in this category is one article reporting a “strike of strikebreakers” where African American (“colored”) strikebreakers “refuse to scab” in late December’s Butcher and meat industry strike; the article mentions an offer of union membership for these striking “colored workers,” an inclusive measure that seems peculiar given the various anti-“Asiatic” (“coolies”) articles, and articles in favor of immigration legislation restricting the influx of Asian-originating peoples. The reasoning given for supporting such measures isn’t given as explicitly racist, but in terms of labor value and suspicions of employers exploiting cheap migrant labor to get around unions altogether. Interestingly enough, one article in January mentions Japanese government nationalization of health care/workers compensation, a favorable sentiment at odds with oversimplified understandings of west coast anti-Asian racism. </p>
+          <p>Several major issues for the paper throughout the year are tied to the US involvement in the ongoing conflict in Europe, mostly being in protest of conscription, outrage at incursions on the freedom of the press by wartime speech laws (outlawing “seditious” speech), and labor-related rulings at both the state and federal level (such as one striking down a 1914 state law prohibiting charging fees in exchange for employment-finding service as unconstitutional). After the anti-conscription debacles early in the year quiet down, and following likely anxiety given the arrests for “seditious activity” of labor organizers, there is a marked effort by the paper, and likely on a national scale by the AFL, to proclaim the movements patriotism, no doubt motivated also by negative coverage of labor activity by non-labor press, like the P-I. </p>
+          <p>The paper itself becomes its own news, with a campaign to garner support for a daily version of the labor-publication for the state. Various announcements of particular union donations and pledges of support for such a paper are printed quite often, and the appeal for a daily is loudest in the September 29 th front page, devoted entirely to pushing the issue. The basic argument for the paper is that of raising awareness of labor issues, and emphasizes the role of the weekly and potential role of the hoped-for daily edition in providing news from the perspective of organized labor. The paper itself is a fascinating glimpse into AFL culture and priorities, as both a newspaper and a tool to enforce the means of labor action, such as against “unfair” employers, better coordinating strikes regionally and among wider groups of unions, and maintaining the tactical moderation of the goals of unions by criticizing more radical, fundamental social-change. There are certainly fundamental concerns that are region-wide, if not nationally, and in 1917 agitation and opinion focuses on establishing a definition of a living wage, promoting the time-worn struggle for 8-hour workdays, the right to organize, and safe working conditions. Wartime concerns intrude as well, and both help and hinder agitation variously. Expansions of government power to restrict speech are decried, but at the same time the demand for products such as those produced in the timber industry enhances the bargaining power of organized labor, when work-stoppage threatens to bring state-control to the industry. </p>
+          <p>&nbsp; </P>
+          <a href="#" onclick="toggleview('desc');return false;">[read full report/close report]</a>
+          </p>
+          <dr>
+          <div id="desc" style="display:none;">
+            </p>
+          </div>
+        </div>
+      </div>
+      <table id="datatable">
+        <tr>
+          <td width="77" class="byline">DATE</td>
+          <td width="166" class="byline">ARTICLE TITLE</td>
+          <td width="75" class="byline">PAPER</td>
+          <td width="442" class="byline">SUMMARY</td>
+        </tr>
+        <tr>
+          <td class="byline">January, 5</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_1-5-1918.jpg">&quot;Spokane to Have Butcher's Strike&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">With Seattle and Tacoma meat workers already on strike, the meat workers' unions from the Carstens and Armour plants in Spokane vote whether to strike. Seattle has began importing meat from Spokane with its own plants running at no more than 20 percent.</td>
+        </tr>
+        <tr>
+          <td class="byline">January, 12</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_1-12-1918.jpg">&quot;Paper Makers Still on Strike&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">The strike of more than 600 workers from the Crown-Willamette Paper Company enters its 11th week. The workers have asked for an increase in wage and the company has refused both this and arbitration. The strike has affected mills in Camas, WA, Oregon City, OR, Lebanon, OR, and a Hawley mill also in Oregon City.</td>
+        </tr>
+        <tr>
+          <td class="byline">January, 19</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_1-19-1918.jpg">&quot;Upholsterers on Strike in Seattle&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Upholsterers and mattress makers' union members walk out of the Washington Mattress, Seattle Mattress, and Carman Manufacturing companies on January 10th and 11th. The companies seek to place non-skilled workers on new tufting machines, while the union wants the jobs to be with skilled union members.</td>
+        </tr>
+        <tr>
+          <td class="byline">January, 19</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_1-19-1918_2.jpg">&quot;Iron Workers Back Butchers&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Pile Drivers' Local No. 86 and Bridge and Ornamental Iron Workers vote to buy $100 of stock to aid striking butchers and meat cutters in creating a co-operative packing plant and meat market. They also vote to donate $60 to the paper workers striking in Camas, WA.</td>
+        </tr>
+        <tr>
+          <td class="byline">January, 19</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_1-19-1918_3.jpg">&quot;Union Crackers&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Striking cracker and candy makers gain ground with numerous stores and restaurants in Seattle selling union made products from San Francisco.</td>
+        </tr>
+        <tr>
+          <td class="byline">January, 26</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_1-26-1918.jpg">&quot;Meat Trust Wars on Union Labor&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">The Independent Packing Co. at the South End Market is being threatened with a boycott by the meat trust if they do not layoff union workers. The meat trust has taken similar action against local small businesses during the past two weeks</td>
+        </tr>
+        <tr>
+          <td class="byline">January, 26</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_1-26-1918.jpg">&quot;Candy Trusts Goes on the Skids in Seattle&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Many small candy factories have appeared, hiring skilled candy makers who have walked out against the candy trusts. The trusts have struggled to find non-union workers and may be close to embracing organized labor.</td>
+        </tr>
+        <tr>
+          <td class="byline">January, 26</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_1-26-1918_2.jpg">&quot;Candy Workers Make Progress&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Two more candy factories have agreed to terms with the cracker and candy makers' union. The trust factories, whom union workers have been on strike against since August, have been forced to look for non-union workers as far away as Chicago and Los Angeles.</td>
+        </tr>
+        <tr>
+          <td class="byline">February, 2</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_2-2-1918.jpg">&quot;Enormous Meat Wastage Goes Son&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Large amounts of meat is being wasted by strike breakers because of unskilled cutting and handling, including seventy beef carcasses at Barton's plant due to improper dressing. A fight in the Frye packing plant between strike breakers caused the wastage of seven truck loads of hams.</td>
+        </tr>
+        <tr>
+          <td class="byline">February, 9</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_2-9-1918.jpg">&quot;Grants Damages to Meat Bosses&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Judge grants restraining orders to master butchers against striking union butchers' picketing. Meat bosses also are awarded monetary compensation for damages to their business from the picketing.</td>
+        </tr>
+        <tr>
+          <td class="byline">February, 9</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_2-9-1918.jpg">&quot;Strikebreakers Strike&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Strikebreakers at the Frye &amp; Company walked out from their jobs to strike for shorter hours after the implementation of a 9 hour day. A further 2,000 pounds of meat at the plant was thrown out as waste due to unacceptable conditions.</td>
+        </tr>
+        <tr>
+          <td class="byline">February, 9</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_2-9-1918_2.jpg">&quot;Ship Builders in Co-operative&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Boilermakers, Shipbuilders and Helpers' Local No. 104 votes to give $5,000 to the Co-operative Food Products Association. Another $2,000 will be given at a later time, and the plant should be running within a month.</td>
+        </tr>
+        <tr>
+          <td class="byline">February, 9</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_2-9-1918_2.jpg">&quot;Unions Behind Butchers' Plans&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Many unions have bought shares in the Butchers' co-operative, including: Laundry &amp; Dye Works Drivers, Steam &amp; Operating Engineers, Street Car Employees, Teamsters, Meat cutters, and more.</td>
+        </tr>
+        <tr>
+          <td class="byline">February, 9</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_2-9-1918_2.jpg">&quot;Rents too High in Bremerton&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Bremerton workers arise in protest against rising rent prices in the city. The Bremerton Trades and Labor Council is preparing to write a letter of protest to the United States Shipping Board over the landlords' war profiteering.</td>
+        </tr>
+        <tr>
+          <td class="byline">February, 16</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_2-16-1918.jpg">&quot;Tenth Week of Butcher Strike&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">The butchers' strike is entering its tenth week with the 800 strikers standing firm on their demands. Frye &amp; Company attempts to bring in 30 Mexican workers, although all but three refuse to work when informed of the strike.</td>
+        </tr>
+        <tr>
+          <td class="byline">February, 16</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_2-16-1918.jpg">&quot;Mooney Case Still to Fore&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">A mass meeting, endorsed by the Central Labor Council and the Metal Trade Council, will be held by the molders' union to demand the release of Tom Mooney, a union molder sentenced to death. Members of unions across the country believe that Mooney was framed.</td>
+        </tr>
+        <tr>
+          <td class="byline">February, 16</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_2-16-1918_2.jpg">&quot;Telegraphers Start Big Fight&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">The Commercial Telegraphers' Union of America have declared April 28th as &quot;Organization Day&quot;, calling for a general strike should any worker be fired for joining the union.</td>
+        </tr>
+        <tr>
+          <td class="byline">March, 2</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_3-2-1918.jpg">&quot;Leather Workers Forced to Strike&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Thirty-four men from Leather Workers' Local No. 36 have been on strike from three suitcase factories since February 21. The workers have been denied the first wage increase that they have requested in years. A resolution is expected by the week's end.</td>
+        </tr>
+        <tr>
+          <td class="byline">March, 2</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_3-2-1918_2.jpg">&quot;Striking Butchers Endorse Bradford&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Fifty-seven strike breakers have walked out from their jobs at Carsten's packing plant to join the union and another fifteen have left their jobs at Barton's plant. The strike has now entered into its fourth month and the union is endorsing James E. Bradford for mayor.</td>
+        </tr>
+        <tr>
+          <td class="byline">March, 16</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_3-16-1918.jpg">&quot;Painters Protest to the President&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Painters' Local No. 300 is drafting a letter to President Wilson to protest the persecution of Tom Mooney. </td>
+        </tr>
+        <tr>
+          <td class="byline">March, 16</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_3-16-1918_2.jpg">&quot;Candy and Cracker Striking Girls Help Other Union&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Candy and Cracker Makers' Local No. 156 votes to provide 25 cents per member to the striking meat workers. The candy and cracker workers have been on strike against candy and cracker trust companies since August. Although, this week three shops have signed up to become union shops.</td>
+        </tr>
+        <tr>
+          <td class="byline">March, 23</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_3-23-1918.jpg">&quot;Yakima Machinists Compelled to Strike&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Machinists in Yakima walk out of their jobs after demanding an eight hour work day, and double pay for overtime.</td>
+        </tr>
+        <tr>
+          <td class="byline">March, 23</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_3-23-1918_2.jpg">&quot;Real Union Man&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Memorial services were held for Charles Nichols Jr., a union butcher, who was the first casualty of the meat industry's labor struggle.</td>
+        </tr>
+        <tr>
+          <td class="byline">March, 30</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_3-30-1918.jpg">&quot;Help From East for Butchers&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">The striking butchers in the Northwest have gained support from the president of the Amalgamated Meat Cutters and Butcher Workmen of America, who will visit the area to assess the strike.</td>
+        </tr>
+        <tr>
+          <td class="byline">March, 30</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_3-30-1918.jpg">&quot;Big Mooney Protest Meet&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">The Central Labor Council held a large meeting of union workers in Spokane to protest the convictions of Tom Mooney and Warren K. Billings in San Francisco. Action from federal authorities has been demanded, as it is believed that Mooney has been &quot;persecuted&quot; for his participation in the labor movement.</td>
+        </tr>
+        <tr>
+          <td class="byline">April, 6</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_4-6-1918.jpg">&quot;Peace in Sight in Northwest&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">A settlement has been reached in Chicago in favor of striking packing house workers. The striking meat cutters and butchers in the Northwest hope that this will be able to set precedent to end their strike, which has entered its seventh month.</td>
+        </tr>
+        <tr>
+          <td class="byline">April, 13</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_4-13-1918.jpg">&quot;Machinists Strike Vote&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Machinists in the Northwest are set to meet and vote in favor of a strike if Tom Mooney and his co-defendant are not released by May 1st. </td>
+        </tr>
+        <tr>
+          <td class="byline">April, 13</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_4-13-1918_2.jpg">&quot;Labor Asks Acquittal of Mooney&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">The Central Labor Council has called for the federal government to investigate the case of Tom Mooney, as it believes he has been framed. Unions throughout the city have been asked to on striking on May 1st if Mooney has not been released. </td>
+        </tr>
+        <tr>
+          <td class="byline">April, 20</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_4-20-1918.jpg">&quot;Monster Mooney Demonstration in San Francisco by Unionists&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Ten thousand union members met in San Francisco to protest the trial of Tom Mooney and his co-defendants.</td>
+        </tr>
+        <tr>
+          <td class="byline">April, 20</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_4-20-1918_2.jpg">&quot;Iron Workers Behind Mooney&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Iron Workers' and Piledrivers' Local No. 86 have supported the machinists demand for Mooney's release by May 1st, and have also threatened to vote on striking.</td>
+        </tr>
+        <tr>
+          <td class="byline">April, 20</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_4-20-1918_3.jpg">&quot;Butchers Get Aid From East&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">The president of the Amalgamated Meat Cutters and Butcher Workmen of America, John F. Hart, is scheduled to arrive on Friday to Union Recordvey and aid the meat cutters and butchers strike in the Northwest.</td>
+        </tr>
+        <tr>
+          <td class="byline">April, 20</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_4-20-1918_4.jpg">&quot;Label League Wives to Strike to Free Mooney&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">The Seattle Union Card and Label League announced that in support of the Central Labor Council and the release of Tom Mooney, housewives would essentially strike and not do any work around their houses on May 1st.</td>
+        </tr>
+        <tr>
+          <td class="byline">April, 27</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_4-27-1918.jpg">&quot;Council Votes for One Day Strike May 1&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">The Central Labor Council overwhelmingly passed a vote to strike on the day of May 1st in protest of the conviction of Tom Mooney, and in support of his release. A permanent strike was voted against to prevent such a thing from affecting the war effort in Europe. </td>
+        </tr>
+        <tr>
+          <td class="byline">April, 27</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_4-27-1918.jpg">&quot;Telegraph Operators May Strike&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">In Chicago the president of the Commercial Telegraphers of America, S.J. Konenkamp, began preparing instructions for a strike as a result of increasing layoffs of union telegraphers and the threat of lockouts. The Telegraphers' Union's sole demand to this point has been the right to organize. </td>
+        </tr>
+        <tr>
+          <td class="byline">April, 27</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_4-27-1918_2.jpg">&quot;Metal Trades Vote to Strike May 1st&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">The Metal Trades Council has voted unanimously to strike on May 1st in support of the release of Tom Mooney. </td>
+        </tr>
+        <tr>
+          <td class="byline">April, 27</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_4-27-1918_2.jpg">&quot;Machinists Favor Strike&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">The Machinists Hope Lodge Local No. 79 voted to strike on May 1st if Tom Mooney has not been released.</td>
+        </tr>
+        <tr>
+          <td class="byline">April, 27</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_4-27-1918_3.jpg">&quot;Telegraphers Take Steps to Organize&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">The unionization of all telegraphers, telephone operators, and telegraph clerks is to be discussed at a meeting of Seattle workers. It is hoped that by unionizing on one day mass layoffs can be avoided. The workers have declared that they will not strike, although the threat of lockouts is present as a result of unionization.</td>
+        </tr>
+        <tr>
+          <td class="byline">April, 27</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_4-27-1918_3.jpg">&quot;Tacoma Case of Interest to Butchers&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">The trial began against a man accused in the stabbing murder of Charles Nicholls, a striking union butcher. The accused had been working as a strikebreaker in the Carsten packing plant in Tacoma and was said to have previously been threatening the strikers.</td>
+        </tr>
+        <tr>
+          <td class="byline">April, 27</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_4-27-1918_3.jpg">&quot;President Hart Here&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">The president of the Amalgamated Meat Cutters and Butcher Workmen of America, John F. Hart, arrived on Friday and is set to Union Recordvey and aid the meat cutters and butchers strike in the Northwest for the next two to three weeks.</td>
+        </tr>
+        <tr>
+          <td class="byline">April, 27</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_4-27-1918_4.jpg">&quot;Gas Workers Against Strike&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">The Gas Workers Union has unanimously voted against striking on May 1st in response to the Tom Mooney trial.</td>
+        </tr>
+        <tr>
+          <td class="byline">May, 4</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_5-4-1918.jpg">&quot;Central Council Abandons May 1 Demonstration&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">In accordance with the request of Tom Mooney, the Central Labor Council has voted unanimously to call of its strike on May 1st. The Metal Trades Council has also called off its strike, and it has been suggested that all local unions do the same. </td>
+        </tr>
+        <tr>
+          <td class="byline">May, 11</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_5-11-1918.jpg">&quot;Butchers Submit Agreement Plan&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">The striking meat cutters and butchers have submitted an agreement to the packers. The only cause for debate from the packers is the clause giving the workers the right to organize. The agreement plan was ratified and underwritten by the Central Labor Council.</td>
+        </tr>
+        <tr>
+          <td class="byline">May, 18</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_5-18-1918.jpg">&quot;Wiremen Vote Assistance to Telegraphers&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Wiremen's unions of the Pacific Telephone Company, Western Union and Postal Telegraph Companies have agreed to assist the striking telegraphers by not stringing wire for the telegraph companies.</td>
+        </tr>
+        <tr>
+          <td class="byline">May, 25</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_5-25-1918.jpg">&quot;Big Strike at Winnipeg Off&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">An agreement has been reached to end a civic strike and 20,000 workers will return to work. The striking workers have agreed to not strike again until their grievances have been heard in a court of arbitration.</td>
+        </tr>
+        <tr>
+          <td class="byline">May, 25</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_5-25-1918.jpg">&quot;Telegraphers to Stand Pat&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">The Central Labor Council has voted to hold a meeting calling for justice for the striking telegraphers. The locked out telegraphers have pledged to not back down and continue to fight for the labor movement.</td>
+        </tr>
+        <tr>
+          <td class="byline">May, 25</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_5-25-1918_2.jpg">&quot;Butchers Vote to Call Off Long Strike&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Butcher Workmen Local No. 156 has ended their six month long strike for the duration of the war after an appeal from a mediator. The packers of Seattle had refused to sign a pact for peace between them and the unions during the war.</td>
+        </tr>
+        <tr>
+          <td class="byline">May, 25</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_5-25-1918_2.jpg">&quot;Teamsters in Spokane Out for 8 Hours&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Teamsters had their request for mediation on an eight hour work day rejected by their employers. The two sides have reached agreements on all issues except hours. The employers have insisted that they have met the teamsters in the middle by reducing hours from ten to nine.</td>
+        </tr>
+        <tr>
+          <td class="byline">June, 1</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_6-1-1918.jpg">&quot;Four Cities Are in Strike Zone&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Over 10,000 workers are striking in British Columbia in the largest strike to have ever taken place on the Canadian Pacific Coast. The strike has caused 27 ships set to enter the war to remain moored.</td>
+        </tr>
+        <tr>
+          <td class="byline">June, 1</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_6-1-1918.jpg">&quot;Nome Strike Not Settled&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Hundreds of miners in Nome, Alaska are on strike until their union is recognized and an eight hour day is implemented.</td>
+        </tr>
+        <tr>
+          <td class="byline">June, 1</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_6-1-1918.jpg">&quot;Portland Freight Handlers Strike&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Forty freight handlers from the Southern Pacific in Portland have gone on strike citing an insufficient wage for their 10 hour work day to cover living expenses.</td>
+        </tr>
+        <tr>
+          <td class="byline">June, 1</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_6-1-1918.jpg">&quot;Confiscation of Telegraph Lines Urged&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Mayor Hansen has warned Washington Detective Bureau to cease in impersonating federal agents in attempts to intimidate telegraphers. The mayor is also working on an ordinance that would revoke the license of any agency that is found to be doing so. The Central Labor Council has demanded that the government take control of the telegraph lines in addition to prosecuting the impersonators.</td>
+        </tr>
+        <tr>
+          <td class="byline">June, 1</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_6-1-1918_2.jpg">&quot;Meat Cutters Still on Strike Says Hofmann&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">The meat cutters' union has stated that it remains on strike against the master butchers despite sympathizing with the butcher workmen who have called off their strike against the packing companies at the request of the government.</td>
+        </tr>
+        <tr>
+          <td class="byline">June, 8</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_6-8-1918.jpg">&quot;Telegraphers Do Not Want Trust's Bonus&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">The Western Telegraph Company has offered a bonus in pay to employees who remain at their jobs in response to the impending strike. The locked out union telegraphers have claimed this as a bribe to workers to Union Recordrender their right to organize. Union telegraphers view the bonus as money that should have already been theirs if it weren't for unfair conditions by the telegraph companies. The Central Labor Council has reaffirmed its stance backing the telegraphers' unions involved in the lockout, which has reached its fifth week.</td>
+        </tr>
+        <tr>
+          <td class="byline">June, 15</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_6-15-1918.jpg">&quot;Government Should Own Telegraphs&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">The American Federation of Labor has drafted resolutions that will ask the federal government to take over the Western Union and Postal companies to avoid a strike. Postmaster-General Burleson has opposed unionism for postal employees.</td>
+        </tr>
+        <tr>
+          <td class="byline">June, 15</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_6-15-1918.jpg">&quot;Strike May Be Called to Aid Telegraphers&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">A vote will be held by the Central Labor Council of unions in Seattle in support of the potential telegrapher strike. The propositions that will be voted on include striking on behalf of the telegraphers.</td>
+        </tr>
+        <tr>
+          <td class="byline">July, 6</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_7-6-1918.jpg">&quot;Metal Trades Plan Meeting for Mooney&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">The Seattle Metal Trades Council has called for a mass meeting to be held on July 28th in protest against the prosecution of Tom Mooney.</td>
+        </tr>
+        <tr>
+          <td class="byline">July, 6</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_7-6-1918.jpg">&quot;Linemen Will Aid Keymen&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">The Electrical Workers' Local No. 77 has voted to assist the telegraphers if they go on strike. The linemen have previously agreed to go on a sympathetic strike if asked to do so. A meeting has also been called to discuss demanding an increase in wage for light and electrical employees.</td>
+        </tr>
+        <tr>
+          <td class="byline">July, 6</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_7-6-1918.jpg">&quot;Wilson Asks Power to Take Telegraph Lines&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">President Wilson has asked Congress for the power to take control of the telegraph lines. Postmaster-General Burleson and Secretary Daniels are supporting the president and have claimed it is necessary in order to avoid a shut down of the services and to protect governments communications.</td>
+        </tr>
+        <tr>
+          <td class="byline">July, 6</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_7-6-1918.jpg">&quot;Strike Ties Up Street Car Lines in B.C.&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Street railway men and electricians in Vancouver have gone on strike causing a stoppage of transportation. The strikers have demanded an increase in wage and an eight hour day.</td>
+        </tr>
+        <tr>
+          <td class="byline">July, 6</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_7-6-1918_2.jpg">&quot;Nation Wide Protest for Tom Mooney&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Organized labor groups across the country will protest on July 28th against the prosecution of Tom Mooney. A meeting will be held in Seattle on that day by the Central Labor Council, Metal Trades Council and the Mooney Defense League of Seattle. Similar meetings will be held in New York, Chicago, Washington D.C. and additional cities.</td>
+        </tr>
+        <tr>
+          <td class="byline">July, 13</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_7-13-1918.jpg">&quot;Minneapolis Strike is Off&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Newsboys in Minneapolis have called off their strike after compromising with their employers. Mayor Van Lear had been threatened with suspension from Governor Burnquist due to riots from the strike.</td>
+        </tr>
+        <tr>
+          <td class="byline">July, 20</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_7-20-1918.jpg">&quot;Minnesota Labor Protests Against Hanging Mooney&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">The Minnesota State Federation of Labor has sent a letter of protest to President Wilson against the hanging of Tom Mooney.</td>
+        </tr>
+        <tr>
+          <td class="byline">July, 20</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_7-20-1918.jpg">&quot;Typos Strike on Salem Rag&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Printers of the Capital Journal of Portland have gone on strike. </td>
+        </tr>
+        <tr>
+          <td class="byline">July, 20</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_7-20-1918.jpg">&quot;Vancouver Goes Dark When Electricians Go on Strike&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">The Electricians' Union of Vancouver has gone on strike against B.C. Electric. The union believes that union men were discriminated against when they were laid off. Electricians shut down their power house at midnight on Saturday, and Vancouver went without power for several hours.</td>
+        </tr>
+        <tr>
+          <td class="byline">July, 27</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_7-27-1918.jpg">&quot;Canadian Mail Carriers Strike in Many Cities&quot;</a></td>
+          <td class="byline"></td>
+          <td width="442" class="byline">Mail carriers in Toronto, Winnipeg, Calgary and many other Canadian cities have gone on strike.</td>
+        </tr>
+        <tr>
+          <td class="byline">July, 27</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_7-27-1918.jpg">&quot;Telegraphers to be Reinstated Says Konenkamp&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">President Konenkamp of the Commercial Telegraphers' International Union has stated that all locked out telegraphers shall be reinstated to their jobs, as has been asUnion Recorded by Postmaster-General Burleson.</td>
+        </tr>
+        <tr>
+          <td class="byline">July, 27</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_7-27-1918.jpg">&quot;Tacoma Labor Says Strike&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Tacoma Central Labor Council has called for a general strike on August 1st that shall extend until Tom Mooney is released or is given a new trial. Seattle's Labor Council has been against further local strikes, but is in favor of a nation wide strike.</td>
+        </tr>
+        <tr>
+          <td class="byline">July, 27</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_7-27-1918.jpg">&quot;Ninety Men Go on Strike&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Ninety non-union workers from Bruce &amp; Nettleton contractors have gone on strike after being denied a 50 cents per day wage increase.</td>
+        </tr>
+        <tr>
+          <td class="byline">July, 27</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_7-27-1918_2.jpg">&quot;Telegraphs to be Taken Over July 31&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">President Wilson has signed an executive order for the federal government to take control of telegraph lines on July 31st. </td>
+        </tr>
+        <tr>
+          <td class="byline">August, 3</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_8-3-1918.jpg">&quot;County Hospital Nurses Threaten to go on Strike&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">In Los Angeles 120 nurses, house physicians and interns declared that they would strike if an order permitting black girls to enter the hospital as student nurses.</td>
+        </tr>
+        <tr>
+          <td class="byline">August, 10</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_8-10-1918.jpg">&quot;Picture Men to Walk Out&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Employees at four theaters owned by the Greater Theaters Company will walk out if the theaters do not grant fair conditions to janitors.</td>
+        </tr>
+        <tr>
+          <td class="byline">August, 10</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_8-10-1918.jpg">&quot;Strike Follows Shooting of Canadian Draft Evader&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">A general strike was held in Vancouver for the day to protest the killing of Albert Goodwin, who had fled to the forest with six other men to avoid the draft. Laborites believe the shooting was unnecessary while the constable claims that it was self defense.</td>
+        </tr>
+        <tr>
+          <td class="byline">August, 10</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_8-10-1918_2.jpg">&quot;Three More Unfair Shops Made Clean by Meat Cutters&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Three butcher shops have settled with the meat cutters and butchers, while it has also been uncovered that the butcher shops had locked out its workers.</td>
+        </tr>
+        <tr>
+          <td class="byline">August, 17</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_8-17-1918.jpg">&quot;Tugboat Men Talk Strike&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Ship workers in San Francisco have threatened to strike in favor of a nine hour work day, although they have already been granted a pay increase.</td>
+        </tr>
+        <tr>
+          <td class="byline">August, 17</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_8-17-1918.jpg">&quot;Big Majority in Favor of Strike&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Shipyard Laborers, Riggers, and Fasteners' Local No. 38-A2 has passed a vote with 98 percent voting to strike should it be necessary to secure a new trial for Tom Mooney.</td>
+        </tr>
+        <tr>
+          <td class="byline">August, 24</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_8-24-1918.jpg">&quot;Scottish Miners Protest Against Mooney Sentence&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">The National Union of Scottish Mine Workers of Edinburgh, Scotland have sent a letter of protest to Governor William Stephens of California protesting the sentence of Tom Mooney and requesting a new trial.</td>
+        </tr>
+        <tr>
+          <td class="byline">August, 31</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_8-31-1918.jpg">&quot;Golf Caddies at Jefferson Links Strike for Raise&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Thirty boy have gone on strike from the Jefferson Links until their request for a wage of 30 cents per hour is granted.</td>
+        </tr>
+        <tr>
+          <td class="byline">September, 7</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_9-7-1918.jpg">&quot;Steel Workers Back on Job&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Steel mill workers voted to return to work after a week of striking. The strikers have decided to drop their demands due to a shortage of steel in shipyards.</td>
+        </tr>
+        <tr>
+          <td class="byline">September, 7</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_9-7-1918_2.jpg">&quot;Tailors Insist on Increase in Wages by Friday&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">A walk out of roughly 500 tailors, as voted on by Tailors' Local No. 71, has been set if their demands for a wage increase has not been met.</td>
+        </tr>
+        <tr>
+          <td class="byline">September, 14</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_9-14-1918.jpg">&quot;Electricians May Walk Out&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Electrical Workers' Local No. 77 has passed a vote to walk out if their demand for a wage increase has not been met and has issued its ultimatum to the city council budget committee.</td>
+        </tr>
+        <tr>
+          <td class="byline">September, 21</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_9-21-1918.jpg">&quot;Electricians Defer Walkout for Two Weeks&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">The electrical workers have voted to defer the date of their strike to October 1st in an effort to give the city council additional time to meet their demand for a wage increase. </td>
+        </tr>
+        <tr>
+          <td class="byline">September, 28</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_9-28-1918.jpg">&quot;Doyle is Instructed to Work to Reinstate the Keymen&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">An agent of the Seattle Central Labor Council, C.W. Boyle, is in Washington D.C. working with the department of labor until a promise is secured that the locked out telegraphers will be given their jobs back at Western Union Telegraph Company with back pay.</td>
+        </tr>
+        <tr>
+          <td class="byline">October, 5</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_10-5-1918.jpg">&quot;Congressman Investigates Case of Locked-Out Keymen&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Secretary of the Central Labor Council James A. Duncan has been contacted by Congressman John F. Miller regarding the reinstatement of the locked out telegraphers. Duncan informed Miller that reinstatement enUnion Recordes that the telegraphers do not receive the pay of a new employee.</td>
+        </tr>
+        <tr>
+          <td class="byline">October, 5</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_10-5-1918.jpg">&quot;Candy Workers Making Progress&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">The striking candy workers have made another small step of progress with an agreement with the Bon Marche candy department.</td>
+        </tr>
+        <tr>
+          <td class="byline">October, 5</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_10-5-1918.jpg">&quot;Buffalo Trolley Employees Go Out&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Trolley workers in Buffalo went on strike demanding higher wages.</td>
+        </tr>
+        <tr>
+          <td class="byline">November, 2</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_11-2-1918.jpg">&quot;Western Union Operators May Be Forced to Strike&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">A report will be sent out by the president of the Commercial Telegraphers' Union, S. J. Konenkamp, instructing workers whether or not to strike due to the unsatisfactory meaUnion Recordes by Western Union to reinstate telegraphers.</td>
+        </tr>
+        <tr>
+          <td class="byline">November, 2</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_11-2-1918_2.jpg">&quot;Printers of New York Go Out on Strike&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">More than 5,000 workers have gone on strike from New York publications, and are seeking a wage increase of over 35 percent.</td>
+        </tr>
+        <tr>
+          <td class="byline">November, 16</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_11-16-1918.jpg">&quot;Workers Lay Down Tools to Celebrate&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Industrial workers in Seattle left their jobs for a day and paraded through the streets to celebrate the end of the war in Europe. Confetti and flags were everywhere as people yelled and made noise with whatever they could find. Both the mayor and governor declared the day a holiday, but the people had already taken the liberty.</td>
+        </tr>
+        <tr>
+          <td class="byline">November, 16</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_11-16-1918_2.jpg">&quot;Mine Strike Settled Now&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">The United Mine Workers have called off their strike of two weeks after settling their grievances with the Centralia Mine Company.</td>
+        </tr>
+        <tr>
+          <td class="byline">November, 30</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_11-30-1918.jpg">&quot;Bremerton Unions Back Mooney Strike&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Unions in Bremerton are supporting a general strike that has been called for by the Seattle Central Labor Council on December 9th to support Tom Mooney.</td>
+        </tr>
+        <tr>
+          <td class="byline">November, 30</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_11-30-1918.jpg">&quot;Yakima Unions Are to Strike&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">A vote was passed by the Machinists' Local No. 318 to strike on December 9th if Tom Mooney is not released. The Trades Council will also vote on a similar motion.</td>
+        </tr>
+        <tr>
+          <td class="byline">December, 7</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_12-7-1918.jpg">&quot;Labor Council Will Call Off the Walk Out&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">The Central Labor Council has asked unions to delay their strikes planned for December 9th. They have instead requested that unions send representatives to a meeting on January 14th to organize a nation wide strike.</td>
+        </tr>
+        <tr>
+          <td class="byline">December, 14</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_12-14-1918.jpg">&quot;Car Builders on Strike for Higher Wages&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">In Renton, 500 employees of the Pacific Car &amp; Foundry Company have been on strike since November 31st. The workers are demanding an increase in wages. The Seattle Metal Trades Council is backing the strikers and labeling the factory unfair.</td>
+        </tr>
+        <tr>
+          <td class="byline">December, 14</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_12-14-1918.jpg">&quot;Mayer Strike Now Settled&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Workers of the Joseph Mayer Bros. jewelry manufacturer have avoided striking by reaching a settlement covering all of the workers' grievances of the company. The jewelers have also passed a vote to participate in the general strike in support of Tom Mooney.</td>
+        </tr>
+        <tr>
+          <td class="byline">December, 21</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_12-21-1918.jpg">&quot;Strike Nearing a Settlement&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Agreements have been made between workers and the Pacific Car &amp; Foundry Company in Renton. The workers are waiting for the company to sign a contract before ending the strike.</td>
+        </tr>
+        <tr>
+          <td class="byline">December, 21</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_12-21-1918.jpg">&quot;Wyatt Tells About Strike&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Dye wagon drivers' have been on strike, seeking a standardization in pay between different plants. </td>
+        </tr>
+        <tr>
+          <td class="byline">December, 28</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_12-28-1918.jpg">&quot;Workers to Aid Strikers&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Laundry and Dye Workers Drivers' Local No. 566 has voted to raise $500 to support the 24 dye wagon drivers who are on strike. The union will also fine any member $25 for shopping at a non-union market in support of the striking butchers.</td>
+        </tr>
+        <tr>
+          <td class="byline">December, 28</td>
+          <td width="166" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1918/SUR_12-28-1918.jpg">&quot;Newswriters Go on Strike&quot;</a></td>
+          <td class="byline">Union Record</td>
+          <td width="442" class="byline">Newspaper workers in Berlin have gone on strike to demand an increase in wages; several papers were unable to publish as a result.</td>
+        </tr>
+      </table>
+      </DIV>
+      </div></td>
+  </tr>
+  <tr>
+  <td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.html"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

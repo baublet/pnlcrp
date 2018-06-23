@@ -1,0 +1,1002 @@
+<!--#include file="metaheader.html"-->
+<title>Labor Yearbook 1933</title>
+<link rel="stylesheet" type="text/css" href="xfade2_o.css" />
+<script type="text/javascript" src="xfade2.js"></script>
+</head>
+<body id="home">
+<table id="pagetable" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="header_logo.jpg" width="1000" height="189" border="0" usemap="#pnlcrp">
+			<map name="pnlcrp">
+              <area shape="rect" coords="326,5,847,33" href="http://depts.washington.edu/labhist">
+            </map>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td bordercolor="#000000" style="vertical-align:top;background-color:black;">
+			<div id="navigation">
+			  <!--#include file="menu.html"-->
+			</div>
+	  </td>
+		<td>
+			<div id="content">
+			<h1>Labor Events Yearbook: 1933</h1>
+			<div class="redboxsm">
+    <h2 align="center" style="color:white;"><strong><a href="yearbook_introduction.shtml">Yearbook Home</a></strong></h2>
+	
+	<table id="redtable" border="0" cellpadding="0" cellspacing="3">
+	<tr>
+              <td><div align="center"><a href="yearbook1915.shtml"><strong>1915</strong></a></div></td>
+              <br>
+              <td><a href="yearbook1915.shtml"><img src="mages/yearbook-ufw2/1915-100x30.jpg" width="101" height="30" border="0"></a></a></span></td>
+            </tr>
+		<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1918.shtml"><strong>1918</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1918.shtml"><img src="mages/yearbook-ufw2/1918-100x30.jpg" width="100" height="30" border="0"></a></td>
+        </tr>
+		<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1919.shtml"><strong>1919</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1919.shtml"><img src="mages/yearbook-ufw2/1919-100x31.jpg" width="101" height="31" border="0"></a></td>
+        </tr>
+		 <tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1930.shtml"><strong>1930</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1930.shtml"><img src="mages/yearbook-ufw2/1930-100x30.jpg" width="100" height="30" border="0"></a></td>
+        </tr>
+        <tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1931.shtml"><strong>1931</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1931.shtml"><img src="mages/yearbook-ufw2/1931-100x30.jpg" width="101" height="30"></a></td>
+        </tr>
+			<tr>
+       <td style="width:75px;"><div align="center"><a href="yearbook1932.shtml"><strong>1932</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1932.shtml"><img src="mages/yearbook-ufw2/1932-100x30.jpg" width="100" height="31" border="0"></a></td>
+			</tr>
+			<tr>
+			  <td style="width:75px;"><div align="center"><a href="yearbook1933.shtml"><strong>1933</strong></a></div></td>
+			  <td style="vertical-align:top;"><a href="yearbook1933.shtml"><img src="mages/yearbook-ufw2/1933-100x30.jpg" width="101" height="30" border="0"></a></td>
+		    </tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1934.shtml"><strong>1934</strong></a></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1934.shtml"><img src="mages/yearbook-ufw2/1934-100x30.jpg" width="99" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1935.shtml"><strong>1935</strong></a> </div></td>
+          <td style="vertical-align:top;"><a href="yearbook1935.shtml"><img src="mages/yearbook-ufw2/1935-100x30.jpg" width="100" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><a href="yearbook1936.shtml"><strong>1936</strong></a></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1936.shtml"><img src="mages/yearbook-ufw2/laborday100x30.jpg" width="100" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><strong><a href="yearbook1937.shtml">1937</a></strong></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1937.shtml"><img src="mages/yearbook-ufw2/1937-100x30.jpg" width="100" height="29" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><strong><a href="yearbook1938.shtml">1938</a></strong></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1938.shtml"><img src="mages/yearbook-ufw2/1938-100x30.jpg" width="100" height="30" border="0"></a></td>
+			</tr>
+			<tr>
+          <td style="width:75px;"><div align="center"><strong><a href="yearbook1939.shtml">1939</a></strong></div></td>
+          <td style="vertical-align:top;"><a href="yearbook1939.shtml"><img src="mages/yearbook-ufw2/1939-100x29.jpg" width="100" height="29" border="0"></a></td>
+			</tr>
+		</table>
+	
+   </div>
+        <p>This is a database of campaigns, strikes, and labor related events as recorded in the <em>Washington State Labor News</em> and the <em>Voice of Action </em>from March through December 1933. It was researched, digitized, and compiled by Brittany Barrett.  Click the links to read the  articles.         
+        <h2>Highlights 1933</h2>
+        <p>Labor activism revived  in 1933, much of it animated by radicals associated with the Communist Party and the Unemployed Citizens League. The<em> Voice of Action </em>(published by the Communist Party) records small strikes and protest in dozens of settings--notably among unemployed workers protesting meagre relief funds, timber workers, fishermen, coal miners, and even University of Washington students.  The early 1933 issues of <em>Washington State Labor News</em>, official voice of the state's AFL unions, are not available. Our survey begins in June and finds organizing campaigns in various trades, including bakers, barbers, steel workers, garment workers, shingle weavers, firefighters, retail clerks, and government employees. Not to be outdone, the Embalmers Union began organizing mortuary workers. The year also saw the start of an angry jurisdictional battle between the Brewery Workers Union and Teamsters Union over who would organize brewery drivers.</p>
+        <table id="datatable">
+            <tr>
+              <td width="81" class="byline">DATE</td>
+              <td width="186" class="byline">ARTICLE</td>
+              <td width="42" class="byline">PAPER</td>
+              <td width="451" class="byline">DESCRIPTION</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">March, 25</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_03_25_p1.jpg">&quot;18,000 Won't Scab!: King County Unemployed Strike Against Forced Labor&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">The radical newspaper calls for unemployed to refuse to accept the new  work relief  system implemented in King County. Unemployed must now work to receive food vouchers. The Unemployed Citizens League and Voice of Action call this &quot;forced labor&quot; and  insist on a 50 cent minimum wage.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">March, 25</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_03_25_p1.jpg">&quot;1900 Burien Families Win Big Victory&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">&quot;1,900 families&quot; are receiving vouchers after a strike at &quot;the gravel pit&quot; which began after &quot;the committee of action from the Mount View local got thrown out of the relief depot…, and a female member was harassed by the police.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">March, 25</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_03_25_p2.jpg">&quot;Boeing Plant Cuts Wages&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Employees are experiencing large cuts in wages. Company achieving cuts through lay offs, and changes of job titles and work positions.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">March, 25</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_03_25_p3.jpg">&quot;The Truth About the March to Olympia&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Summary/analysis of the hunger march on Olympia in which &quot;Approximately 3,500 delegates, elected by 114 working class organizations, marched upon Olympia to petition the governor and legislature for the repeal of the MacDonald Bill, for emergency cash relief and for the Job-less-social Insurance Bill.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">March, 25</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_03_25_p4.jpg">&quot;Seize Renton Relief Office&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Strikers took over Renton relief board's office demanding vouchers without forced labor. Vouchers were increased to $1/person/week, and forced labor became &quot;prohibited in the city of Renton.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">April, 3</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_04_03_p1.jpg">&quot;Claim County Killed Babe: Death laid to Gross Neglect of Whatcom Co.&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Fueled by rage at death of a child, &quot;75 farmers&quot; and their families are pressing for a free clinic in the area. Families are also putting pressure on organizations such as the &quot;red cross&quot; to better their services.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">April, 3</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_04_03_p1.jpg">&quot;Strikers Plan March: Demonstration Apr. 7 Called by Central Strike Committee&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">&quot;[Mass march to the offices of the King County Relief Board… is planned by the unemployed on strike against forced labor. Led by the hundreds of women and children denied food because the head of the family has refused to be reduced to slavery.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">April, 3</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_04_03_p3.jpg">&quot;Picket Spokane Light co. Office&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">A parade culminating in an extended picket line resulted when three workers &quot;were arrested on suspicion that they had turned on lights for workers whose lights had been turned off for delinquent light bills.&quot; Workers were eventually &quot;released on their own recognizance.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">April, 3</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_04_03_p3.jpg">&quot;Strike Continues (Continued from Page 1)&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Unsuccessful attempts are made by Renton business men to end strike.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">April, 3</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_04_03_p4.jpg">&quot;A Song Against Slavery&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Song &quot;Sung by the unemployed strikers against forced labor Same tune as 'Solidarity'.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">April, 10</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_04_10_p1.jpg">&quot;Yakima Workers Join Fight: 2800 Yakima Unemployed Refuse Work at 20c Scale&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">All Yakima unemployed strike against new McDonald bill set up…, and forced labor. Strikers demand &quot;42 1/2 cents an hour&quot; relief payment.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">April, 17</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_04_17_p1.jpg">&quot;Salvation Army of Grays Harbor Aid Forced Labor&quot; (part 1)</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">&quot;Grays Harbor Relief Commission made its first open step in launching the forced labor program.&quot; </td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">April, 17</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_04_17_p3.jpg">&quot;Everett Votes Strike&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Strike to be held in Everett starting May 1 if demands of unemployed workers are not met. Demands: refuse &quot;to scab, want six hour day at $3/day and industrial insurance compensation.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">April, 17</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_04_17_p4.jpg">&quot;Angered Farmers Scare Gyp Attorney&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">&quot;Farmers' committees of action took&quot; over attorney's office demanding a refund of $5 filing fee after finding out the money was not used for the intended purpose.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">Apritl, 17</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_04_17_p3.jpg">&quot;More About Salvation Army&quot; (part 2)</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Bribed with &quot;three meals a day&quot; at worst restaurant in town, men were asked to volunteer to save dignity. Few volunteered, unemployed are now planning &quot;to picket the bridge and the Brook's Cafe.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">April, 24</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_04_24_p1.jpg">&quot;Filipino Workers Strike&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Filipino cannery workers refuse to sail. Organizing &quot;to fight the lowest wages offered for many years.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">May, 8</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_05_08_p1.jpg">&quot;Spokane Unity Demonstration Starts Unemployed Strike in 'Hotel de Gink&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Large demonstration held in Spokane. Speakers and general feeling of unity inspires next day strike.<br>
+      (Part 1)</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">May, 8</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_05_08_p4.jpg">&quot;May Day of Struggles: In Spokane&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Strike held at the &quot;Trent Billet, better known as the 'Hotel de Gink'.&quot; Strikers created &quot;list of demands to be presented to Walter DeLong, head of the Welfare Relief of Spokane County.&quot; Strike continued throughout the second day. <br>
+      (Part 2)</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">May, 8</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_05_08_p1.jpg">&quot;Police use Tear Gas Against Women in Everett Relief Station; forced Labor Strike: Women Fight for Food Vouchers When may Day Crowds Strike&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Committees outraged when tear gas is used against women who had occupied &quot;the relief station in a demand for vouchers without forced labor.&quot; incident set of several &quot;sympathy strikes&quot; across the county. <br>
+      (Part 1)</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">May, 8</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_05_08_p4.jpg">&quot;May Day of Struggles: At Everett&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Description of the actual incident with the women being tear gassed.<br>
+      (Part 2)</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">May, 8</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_05_08_p3.jpg">&quot;Force hospital To Take Indian&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Indian woman suffering from poverty and tuberculosis accepted by Tacoma hospital after the 11th St. Neighborhood Committee intervened.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">May, 16</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_05_16_p1.jpg">&quot;Try to Smash Printer Union: Seattle Typographical Union Locked Out By Star, Times and P-I&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Spurred by &quot;H. W. Norton of Hearst's San Francisco office&quot; several Seattle newspapers locked out union workers demanding that they accept not only a pay cut but also revoke their rights to seniority.<br>
+      (part 1)</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">May, 16</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_05_16_p3.jpg">&quot;More About Printers' Lockout&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Continued from page one (part 2)</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">May, 16</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_05_16_p1.jpg">&quot;Everett Wins Food Without Forced Labor&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Strike on Forced labor continues in Everett despite various bribe offers and scare tactics. Strikers hope to gain &quot;food vouchers without&quot; forced labor, as well as the removal of the police chief who gassed defenseless women&quot;<br>
+      (part 1)</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">May, 16</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_05_16_p3.jpg">&quot;More About Everett Strike&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">On the topic of the dismissal of the police officers, the &quot;Chamber of commerce proposed the three new members be chosen as follows: one from the chamber of commerce, one from the A. F. of L., [and] one from the workers.&quot; Strikers refused offer upon hearing that the committee wished to be in charge of the selections.<br>
+      (part 2)</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">May, 16</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_05_16_p4.jpg">&quot;Boost Olympia Relief by 25 Per Cent&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Thurston county gypped by relief board, who lied about forced labor and dulled out minimum relief checks. Forced labor was stopped and a 25% increase in relief was gained through the intervention of the unemployed council.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">May, 24</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_05_24_p1.jpg">&quot;Seize Red cross Flour AT Orting&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">&quot;Committee of action&quot; created in Orting, WA to fight against the injustices shown by the local relief board. Aside from helping to raise the relief given to families, the committee also drove a truck over to the relief warehouse and commandeered Red Cross flour which was being stockpiled by the relief board rather than dulled out.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">May, 24</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_05_24_p4.jpg">&quot;Youth to March Against War on Memorial Day&quot; Seattle conference Calls Youth Parade May 30&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Seattle Youth are making their opinions known.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">May, 24</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_05_24_p4.jpg">&quot;Relief Would Send Boys To Slave Camps&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Relief board has been scouting military aged boys out to send to &quot;reforestation camps&quot; at which they would be forced to work as well as get semi-military training.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">May, 31</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_05_31_p1.jpg">&quot;U. of W. bans Free Speech: Nine Students Ousted When They Defy Order of President to Bar Jessie Wakefield on Harlan mine Strike&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Jessie Wakefield was brought to speak about the mine strike at the UW against the will of the president and the students of the club responsible were suspended. Restrictions are now being placed on bringing activist speakers to campus.<br>
+      (part 1)</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">May, 31</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_05_31_p3.jpg">&quot;More on Student Free Speech Fight&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">(part 2)</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">May, 31</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_05_31_p1.jpg">&quot;Renton Mine Strike for A Living Wage&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Non-union miners fight for $5 a day wages. The union will not help them as they must be a &quot;member of the union two months before they are entitled to relief.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">May, 31</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_05_31_p4.jpg">&quot;Picket Bellingham&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Picket on the &quot;welfare board&quot; started in &quot;Whatcom county&quot; when the &quot;people's council&quot; was denied &quot;increases on the food vouchers.&quot; County is incapable of stopping picketers so long as they abide by picketing rules. </td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">June, 7</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_06_07_p1.jpg">Vouchers Won by Hooverville Demonstration&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Efforts of the citizens of Hooverville gained $1 relief food vouchers after marching &quot;to the city hall under the banner of Waterfront local, U.C.L. and demanded that the graft on the soup line be investigated.&quot; The march continued to the local relief board where the marchers set out a list of demands.<br>
+      (part 1)</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">June, 7</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_06_07_p3.jpg">&quot;More About Hooverville&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">List of demands continued, and the decision given by the head of the relief board.<br>
+      (part 2)</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">June, 7</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_06_07_p1.jpg">&quot;Salvation army Wood Camp's Crew on Strike&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Men strike after being denied a bonus of &quot;$15-$30 per man&quot; which was promised to them at the beginning of the month. The men are holding out until they have received everything they were charged for during their time at the camp including food, tools and unrecieved clothing items for which they were often over charged.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">June, 7</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_06_07_p4.jpg">&quot;Committee has Free Car Ride&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">A committee of about 20 men from &quot;the North End Neighborhood Committee&quot; was sent to see &quot;the pierce county relief head,&quot; Mr. Comfort to discuss a case regarding a &quot;worker being discriminated against in the matter of relief.&quot; In order to get to Mr. Comfort's office the 20 men boarded a street car and charged the fare to the welfare boards budget. </td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">June, 14</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_06_14_p1.jpg">&quot;Fishermen Win Strike; will Get Demand of 8Cts&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">&quot;the Columbia River sector of the fishermen's strike, involving thousands of men, has been settled in favor of the fishermen. They will now receive the demanded &quot;eight cents per pound.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">June, 14</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_06_14_p4.jpg">&quot;4-L Type Union Offered Waterfront Workers&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Shipowners are looking to interest workers in a &quot;4-L type union&quot; in which the shipowners would have more sway in actions and outcomes. &quot;Move would prevent rank and file control; exclude militants.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">June, 14</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_06_14_p4.jpg">&quot;Doctors Have Airtight Union&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Everett doctors freeze out female tear gas victims after &quot;the authorities issued the statement that they had not used tear gas, only smoke bombs, that if they had used tear gas the eyes of the victims would be affected and they would require medical care.&quot; The women were forced to travel to Seattle to seek the medical attention that the police said they wouldn't need.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">June, 21</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_06_21_p1.jpg">&quot;Strike at Forced Labor: Port Angeles unemployed Demand Cash&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">&quot;Strike against forced labor for the unemployed... in Port Angeles and surrounding vicinity.&quot; Strikers have a list of demands and are gaining public support.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">June, 21</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_06_21_p1.jpg">&quot;Truck Farmers Win Strike&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Janitorial services are reinstated after farmers went on a five hour strike, refusing to sell their produce in the market. Inspired by the victory &quot;the farmers organization is now seeking to have the rental rates for the market stalls reduced.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">June, 30</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_06_30_p1.jpg">&quot;American Federation of Labor Urges Unorganized Workers to Unite Under Recovery Measure&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">&quot;President Green declares that higher wages, shorter hours and improved working conditions possible under new act can only be obtained by complete labor organization and collective bargaining. Employers are prohibited by law from interfering with right to organize. Company unions condemned--banned by recovery act.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">June, 30</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_06_30_p1.jpg">&quot;Timber Workers Organizing; Four L Not Representative of Workers in Big Industry&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Industry Recovery Act expected to &quot;result in the formation of&quot; the first &quot;bona-fide labor union in... the lumber industry... since 1922&quot; which marked the end of &quot;the International Union of Timberworkers.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">June, 30</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_06_30_p1.jpg">&quot;Steel Workers Sign New Wage Agreement&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">&quot;The Western Bar Iron Association and the Amalgamated Association of Iron, Steel and Tin Workers&quot; signed a one year agreement with &quot;the Northwest Steel Rolling Mills, Inc.&quot; to improve working conditions.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">June, 30</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_06_30_p2.jpg">&quot;Carnegie Steel Organizes a &quot;Union&quot;&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Carnegie Steel Company, anti-union company, tries to impose a company &quot;union&quot; on their workers to create the impression that the needs of their workers are being met.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">June, 30</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_06_30_p3.jpg">&quot;Embalmers Gain in Union Membership&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">&quot;Three new members initiated&quot; into the growing Embalmer's Union.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">June, 30</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_06_30_p3.jpg">&quot;12,540,000 Workers are Jobless, Green Declares&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Green paints a picture of the current unemployment situation.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">June, 30</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_06_30_p3.jpg">&quot;Mill Workers End Strike: Arrest of Pickets Blocked&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">~300 employees of Aurora cotton Mill returned to work after 10day walkout. Issue was settled, &quot;The wage controversy will be adjusted.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">July, 5</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_07_05_p1.jpg">&quot;Bread Price Rises 2 Cents&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Nationally farmers have been compensated to reduce acreage of wheat crops to reduce &quot;over production.&quot; Reduction of production has caused the price of flour and thereby of bread to rise rapidly. Bread in Seattle is already &quot;being raised 33 per cent… the pound loaf is to be raised from 6 cents to 8 cents.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">July, 5</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_07_05_p1.jpg">&quot;300 Daily Cut Off King County Dole&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">&quot;The drop in the number on relief has been over ten per cent in the past month. The decrease has been credited by officials to more jobs, but… the number of men employed has gone up the same period only about 4 per cent. The other 6 per cent cut from the relief roles are left to starve.&quot; </td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">July, 7</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_07_07_p1.jpg">&quot;Lumber Organization Grows Apace Against Boss Controlled 4-L&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">&quot;Organizer Young&quot; explains that the 4-Ls are a coercive, unhelpful group and the timber worker's best chance for labor betterment is to join or organize a union.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">July, 12</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_07_12_p3.jpg">&quot;Vet Relief Slashed&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">&quot;Under the administration's Economy Bill approximately 400,000 veterans lost disability benefits… about 150,000 more veterans will be cut 25%.... Living conditions for the ex-servicemen have been growing steadily worse, until some veterans have been driven to commit suicide to secure&quot; the money owed to them for their families.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">July, 14</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_07_14_p1.jpg">&quot;Government Employees Organized at Yakima&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Yakima &quot;local lodge of the American Federation of Government Employees was organized... Fourth lodge of&quot; its kind in the state.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">July, 21</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_07_21_p1.jpg">&quot;Labor Council Protests Chain Store System Code&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Chain stores are suspected by unions to have drafted a &quot;code of fair competition.&quot; Unions fear that the interests and values of the two entities may clash. A resolution is adopted to even the playing field and provide security for the unions interests. </td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">July, 21</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_07_21_p1.jpg">&quot;Bakers Start Campaign for Seattle Industry&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Seattle's Baker's Unions are concerned about the impact of the &quot;3cent tax on wheat.&quot; The Union believes that the Chain bakeries' influence in the Seattle area is negatively impacting their cause and are prepared to fight as &quot;necessary to save the industry in the city and&quot; surrounding area.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">July, 21</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_07_21_p1.jpg">&quot;Barbers launch Fight for Early Closing Law</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">&quot;Seattle Barbers Union&quot; goes before City Council to obtain a 6pm &quot;closing law for barbers shops in [the] city.&quot; </td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">July, 21</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_07_21_p3.jpg">&quot;Garment Workers Secure Wage Gain&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">&quot;United garment Workers Union, Local No. 17,&quot; gained a 20% increase in wages along with several new and reinstated members.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">July, 21</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_07_21_p4.jpg">&quot;In fairness to Seattle Brewers and Bottlers: Victims of an internal Quarrel Among Unions&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Strip of 3 articles summarizing the situation being faced by the brewery and bottling workers as the Teamsters fight the brewery workers union for power over &quot;drivers and other outside workers of breweries and bottling plants.&quot; </td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">July, 26</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_07_26_p1.jpg">&quot;Lumber workers Strike: Demand 6 Hour Day&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">&quot;Industry 'paralyzed' in Grays harbor and at Klamath Falls; Many Ask $3 minimum; 30 percent pay increase.&quot; More strikers coming out across the state.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">July, 26</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_07_26_p3.jpg">&quot;More About wave of Lumber Strikes&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Demands drafted by National Lumber workers Union listed.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">July, 26</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_07_26_p3.jpg">&quot;Strike Wins 80 Percent Pay Raise&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">&quot;Shingle mill workers at Lake Whatcom, who struck twice this month, are now back at work with approximately an 80% increase in pay.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">July, 26</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_07_26_p3.jpg">&quot;All Single Men Cut From Relief&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Whatcom County cut all single men from the relief roles and are expecting them to make a living &quot;picking cherries, cutting wood and working in the fields&quot; even though the prices and wages are very low and &quot;Harvesting has not begun yet.&quot; </td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">July, 28</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_07_28_p1.jpg">&quot;Tacoma Retail Clerks Form New Local Union&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">New retail union formed against the will of employers.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">July, 28</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_07_28_p1.jpg">&quot;Raymond Shingle Weavers Forming New Local Union&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Inspired by the formation of the Grays &quot;Harbor local&quot; union, Raymond Shingle workers are determined to form one of their own.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">July, 28</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_07_28_p1.jpg">&quot;Lumber Baron's Code Rejected; Company Union proposal Finds hard Sledding Under &quot;New Deal&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">&quot;Minimum wage and hours schedule entirely unacceptable. Administrator withholds comment on other sections for present. President Green makes vigorous protest for wage earners. Four L constitution proves organization 'Company Union.'&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">August, 4</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_08_04_p1.jpg">&quot;Shingle Union Gets Ten Per Cent Wage Increase&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Wages have been increasing since June and are expected to continue to do so. The union is using its current strength to get back at those companies they feel have treated workers particularly unfairly in the past.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">August, 7</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_08_07_p1.jpg">&quot;Loggers Spread Strike&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Strikes in Klamath Falls and Grays Harbor continue and are inspiring other lumber workers throughout the northwest to take action to improve their conditions. A list of demands is given.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">August, 7</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_08_07_p1.jpg">&quot;Censor Hits Free Speech In All U. W. Publications&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Editor Nelson Cheney, editor of &quot;U. W. Journal... The voice of Liberal Ideas,&quot; refused to have his name printed on the most recent issue when his editorial was thrown out by the new &quot;censor of University publication,&quot; Roy Rosenthal. Cheney and other staff members refuse to work under such censorship.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">August, 11</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_08_11_p1.jpg">&quot;Tacoma Organizes New Local Unions&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Local unions of Tacoma area are making large gains in membership and organization.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">August, 11</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_08_11_p1.jpg">&quot;Monument Dealers Form Association; Adopt Two Codes&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">30 state &quot;monument dealers met...in Seattle to organize the Washington Monument Dealers Association.&quot; Two codes were adopted.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">August, 18</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_08_18_p1.jpg">&quot;Cannery Workers are Gypped Thru Changes in Season Contracts&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Working contracts changed without the cannery workers' consent. The returned workers were outraged to find themselves &quot;short changed,&quot; receiving significantly less than they had originally signed on for. </td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">August, 18</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_08_18_p1.jpg">&quot;Shipwrights Sigh Many New Members&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Shipwrights union expanded their membership with a successful open meeting. They have also made progress with codes from which both &quot;shipwrights and carpenters would benefit.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">August, 18</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_08_18_p3.jpg">&quot;Girl Wanderers Number Thousands&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">An underrepresented group, &quot;More than 12,680 homeless girls knocked at the doors of the Salvation Army, Y.M.C.A., Y.W.C.A., Family Welfare, Jewish Social Services and community chests for shelter in one night.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">August, 21</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_08_21_p1.jpg">&quot;WN. Miners Strike!: Roslyn, Cle Elum Strikers Demand $5.40 for 6 Hours Defy Lewis, Nichols, N.R.A.&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Miners strike in Cle Elum as well as nationally against the will of the National Union leaders. Strikers are &quot;demanding a new wage scale of $5.40 for a six hour day, and a five day week.&quot; They are refusing orders to go back at &quot;old scale and 8 hour day.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">August, 21</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_08_21_p3.jpg">&quot;Rebellion in Miners' Union&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">(part 2)</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">August, 21</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_08_21_p2.jpg">&quot;Hunger Strike In Spokane Jail&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">The 5 prisoners being held in Spokane jail for deportation went on a semi-successful hunger strike to improve the quality of their meals; county keeping event secret. </td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">August, 21</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_08_21_p2.jpg">&quot;Longshoremen 'Too Old' At 35&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">A speed up has been placed on Longshoremen workers who are now considered old at age 35 and immediately fired to be replaced with fresh young workers. Union is rising up against this as well as other injustices currently being faced in the workplace.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">August, 21</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_08_21_p4.jpg">&quot;Indians fight For Fair Wage&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Tulalip Indians organizing and demanding a &quot;wage scale equal to the mills in the CCC camps and for adequate relief.&quot; &quot;The Indians are in a very bad condition,&quot; their &quot;only means of livelihood is cutting pulp wood: dawn to dark for 75 cents a day. The tribe is slowly starving, while the Indian agent looks on and does nothing&quot; </td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">August, 25</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_08_25_p1.jpg">&quot;Bakers to Strike Unfair Shops Here&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">&quot;Seattle Bakers Union No. 9&quot; striking at two bakeries. Members of organized labor urged to boycott goods from these institutions.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">August, 25</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_08_25_p1.jpg">&quot;Cereal and Flour Workers Planning New Local union&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Flour and Cereal workers becoming organized. Holding off on recruitment until all papers are signed.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">August, 25</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_08_25_p1.jpg">&quot;Sulphite Workers are Organized at Shelton&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Workers of the &quot;Rainier pulp and paper Company&quot; Create Local union in Shelton &quot;to be affiliated with the International Pulp &amp; Sulphite Workers Union.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">August, 28</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_08_28_p1.jpg">&quot;Tacoma Lumber mill Workers fight NRA Slash in Weekly pay&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Strike started when it was learned that &quot;weekly wages [were] to be reduced under the N. R. A. code.&quot; Strike spread quickly from afternoon shift to entire day shift equaling out to about 280 workers. N. R. A. and Workers are working together to settle the dispute.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">August, 28</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_08_28_p1.jpg">&quot;Marital Law Rules as Yakima Fruit Workers Fight 15 Cents per Hour Wage Scale&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">&quot;80 or more face prison as vigilante terror sweeps through valley. Class war rages thru the fruit orchards of this valley. The city and surrounding territory are... jammed with state police, national guardsmen and vigilantes.&quot; Workers are striking for 50 cents an hour. Serious action is being taken to quell the strike.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">September, 1</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_09_01(2)_p1.jpg">&quot;Label Trades Secretary Urges Support For All Union Labels&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Secretary encourages unions to establish their individuality to the public through their personal union labels. Also emphasized is the importance of the labels' connections to union history.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">September, 1</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_09_01(2)_p5.jpg">&quot;Milk Drivers Settle Strike; Up to NRA Now&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Milkmen went on a two day strike after employers refused their demand for a 50% daily increase. The strike was ended and the matter was passed to a conciliator given the task of negotiating an agreeable alternative. </td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">September, 1</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_09_01(2)_p6.jpg">&quot;Everett Workers File Protest Against Code&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">&quot;Washington Timber workers have protested the minimum wage and maximum hour provisions of the new lumber code.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">September, 1</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_09_01(3)_p1.jpg">&quot;Seattle Barbers Make Real Progress&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">775 out of 800 Seattle barbers have agreed to set prices to 50cents/hair cut and 25cents/shave. Work week has also been reduced by 13 hrs.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">September, 4</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_09_04_p3.jpg">&quot;Indians Denied Treaty Rights&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Two Indians arrested for fishing in the &quot;Ulwha river.&quot; Both men were freed after pleading not guilty and citing the treaty between their tribe and the U. S., both say &quot;they will continue fishing&quot; even though warned not to as it is their right to fish for subsistence and is necessary as &quot;many [Indians] are without relief whatsoever.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">September, 8</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_09_08_p1.jpg">&quot;State Labor News Taken Over By Central Labor Council&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">&quot;Beginning with this issue of the Labor News the ownership and control of this newspaper passes from its present owner to the Seattle Central labor Council.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">September, 8</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_09_08_p2.jpg">&quot;Insurance Rates to be Reduced Through Truck Organization&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">&quot;New association organized for highway safety. Inspection bureau under way. 'Merit Rating' Is prospect for motorists.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">September, 11</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_09_11_p1.jpg">&quot;Yakima C. C. Engineered Riots: chamber of commerce &amp; Politicians guilty; Voice of Action can Name Leaders of Mob&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">&quot;National Labor Defense will open Yakima campaign with street corner meeting to test workers' rights of free speech and assembly.&quot; Ruckus in Yakima previously blamed on disgruntled workers has been found to have been plotted by a group of men high up in the financial food chain with the goal of obtaining an excuse to close down the county relief boards. (part 1)</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">September, 11</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_09_11_p2.jpg">&quot;Inside Story of Yakima Terror&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">More on how the plot played out. (part 2)</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">September, 15</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_09_15_p1.jpg">&quot;Bakers Get Shops Back&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">After &quot;short strike... two Seattle bakeries…. were [removed] from the Central Labor Council's 'unfair list,'&quot; union bakers were reemployed, and their clientele returned.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">September, 15</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_09_15_p1.jpg">&quot;Navy Yard Employees Win Pay Cut Protest&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">&quot;As a result of taking their grievances to President Roosevelt the 16 per cent pay cut recently imposed by secretary of the Navy Swanson on the civilian employees of the navy yards through out the United States in connection with the 40-hr week was rescinded.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">September, 18</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_09_18_p3.jpg">&quot;Logger Fired For Belonging To the NLWU&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">A man found to be affiliated with the NLWU was fired from company along with three other workers who stood up for him. All workers are being quizzed for past affiliation and forced to submit to camp requirements that further eat up their earnings.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">September, 22</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_09_22_p1.jpg">&quot;Shoe Workers Win In Injunction Case&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">A case regarding incorrectly served restraining orders served to union members during a picketing event was resolved in court through use of attorney Presley Gill.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">September, 25</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_09_25_p1.jpg">&quot;Roslyn Miners Defy National Board Big Shot&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Miners agree to hear &quot;Mr. smothers of the International Board of the U. M. W. A.&quot; however continue their strike after receiving unsatisfactory answers from him.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">September, 25</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_09_25_p3.jpg">&quot;Relief Workers Want 6HR. Day&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">&quot;The relief workers on the Tulalip Job packed up their tools at the end of six hours labor and went to the boss to have their tickets signed.&quot; Tickets were signed and taken down to the local relief station where they &quot;were given their vouchers but were ordered to go back and finish out the other two hours&quot; of the work day. Workers are striking the last two hours.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">September, 29</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_09_29_p2.jpg">&quot;Butchers Aim to Help Idle&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Seattle Butchers Union makes plans to help unemployed members get &quot;at least one day's work a week.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">September, 29</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_09_29_p4.jpg">&quot;Pilsner Beer Unfair to Labor&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">company refuses to cooperate with Seattle labor movement. Union supporters encourage public to buy from union friendly producers instead.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">September, 29</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_09_29_p4.jpg">&quot;Embalmers Have Trouble on Code&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">American Federation of Labor and Master Licensed Embalmers union have yet to find an agreeable middle ground for code.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">September, 29</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_09_29_p4.jpg">&quot;Bremerton Supports Certified Welders' Case in Convention&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">A large group of specialized welders, former mechanics, has is looking for a place to sign up on the union lists. Bremerton is looking into either fitting them in under previously formed groups or creating a new organization.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">October, 2</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_10_02_p1.jpg">&quot;Workers Lose Under Blue Bird&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Conditions for workers in the lumber industry grow steadily worse. &quot;All police forces in the county are practicing for riot duties with clubs, gas guns and bombs&quot; as they wait for workers to become unsatisfied to the point of riot. </td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">October, 2</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_10_02_p1.jpg">&quot;How To solve Fall Canning Problems Free&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">&quot;Refused wood by the Welfare Board [families]&quot; took their canning to the park and used city wood to fuel their canning fire.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">October, 6</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_10_06_p1.jpg">&quot;Musicians Find outlook Brighter&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Finding weakness in words and paperwork, Seattle musicians decided to take direct action in placing live bands back into the market by &quot;re-opening… the Metropolitan Theater&quot; with an orchestra. This action has already begun to inspire &quot;other showhouses&quot; throughout the state. </td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">October, 6</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_10_06_p1.jpg">&quot;Boeing Wage Raise Charged to Eastern Organizing Effort&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Boeing employees received &quot;a 5% wage raise on September 1st.&quot; Raise was inspired by actions and results gained by unions working at Pratt-Whitney Aircraft Co.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">October, 6</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_10_06_p1.jpg">&quot;Flour Mill Workers Effect Organization&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">&quot;Milling executives&quot; continuous refusal to recognize the organized flour Mill employees has only served to fuel their numbers and their cause. The fight continues and is being expanded to include &quot;the Northwest, California and the East Coast.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">October, 6</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_10_06_p1.jpg">&quot;Apartment House Workers Organize&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Apartment house workers union created in Seattle received many new members. Tacoma is following suit in the betterment of their &quot;apartment house workers.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">October, 13</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_10_13_p1.jpg">&quot;New Charters Put In By Machinists&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">New unions of mixed &quot;auto mechanics and machinists was organized... in Kelso, Washington.&quot; A similar organization was also created in Deen, Washington.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">October, 13</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_10_13_p1.jpg">&quot;Apartment House Workers Get Seat&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">&quot;The Seattle Central labor Council... [granted] affiliation to... Local No. 104.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">October, 13</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_10_13_p4.jpg">&quot;General Petroleum Faces Stiff Fight&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Teamsters &amp; Truck Drivers International Union punishing General Petroleum Co. through collection of &quot;19,000 signatures of car owners&quot; as pledges not to purchase the company's products.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">October, 13</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_10_13_p4.jpg">&quot;Cement Finishers Start Huge Drive For Organization&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">interest expressed by non-members resulted in the Cement Finishers' Union opening its doors wide open and lowering its initiation fees.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">October, 16</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_10_16_p3.jpg">&quot; NRA Monthly Quota filled in 15 Days By High Speed-Up&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Workers were required to meet &quot;their quota in 15 days then [they were]laid... off until Oct. 1.&quot; </td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">October, 20</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_10_20_p1.jpg">&quot;Metal Trades Workers Organization Meeting Finds Great Response&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">A rousing speeches given by several union officials to unorganized caused increases in membership for several Seattle unions along with the organization of a new Seattle Blacksmiths organization. </td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">October, 20</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_10_20_p1.jpg">&quot;Teamsters Given Jurisdiction In Brewery Dispute&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Teamsters were given jurisdiction over outside workers involved in brewery work, including: &quot;mechanics, engineers, firemen, machinists and all others.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">October, 20</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_10_20_p1.jpg">&quot;Navy Yard Scale on Construction Work Protested&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">&quot;Bremerton Navy Yard wage scale&quot; being protested, Seattle Trades Council seeks &quot;enforcement of the NRA.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">October, 20</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_10_20_p4.jpg">&quot;Fire Fighters Seek Shorter Working Time&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Firefighters looking to reduce 84hr work week and claim unpaid back wages.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">October, 20</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_10_20_p4.jpg">&quot;Carpenters Gain Wage Increases&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">desired wage increase gained by Seattle carpenters union through meetings with the governor</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">October, 23</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_10_23_p3.jpg">&quot;Darigold Workers Demand Higher Pay: Bellingham Dairy Strike 100% Solid&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Dairy workers, &quot;mostly members of Teamster's local No. 231&quot; are striking for a 30% wage increase, steady wage scale and &quot;union recognition.&quot; </td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">October, 27 </td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_10_27_p1.jpg">&quot;Blacksmiths in Big Effort Ask New Charter&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Newly organized Seattle Blacksmiths' Union asks &quot;for a charter to the blacksmiths' international.&quot; Applied for new charter through member of previous Seattle blacksmiths' union.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">October, 27 </td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_10_27_p1.jpg">&quot;Beer Situation in Seattle: Central Labor Council Official Statement&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Overview of the mess created by Seattle breweries along with the passed resolutions establishing the Central Labor Council's opinion in the matter.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">October, 27 </td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_10_27_p2.jpg">&quot;Flour Mill Workers Meet Big obstacles&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">The fight for recognition within the industry continues. The president of the organization may become the first casualty of the battle.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">October, 27 </td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_10_27_p2.jpg">&quot;Elevator Operators Seek Organization&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Elevator operators seek to organize to raise wages and working conditions.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">November, 3</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_11_03_p1.jpg">&quot;Retail Code in Operation&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">&quot;Retailers employing five or less located in towns of fewer that 2500 are exempt from code.&quot; This exemption developed in hopes of evening the playing field between larger and smaller retail operations.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">November, 3</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_11_03_p1.jpg">&quot;Coal Miners Returned To Work: Roslyn Cle Elum Miners Returned To Fields After Long Periods of Idleness&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">950 union miners returned to work after &quot;an idleness of over four months over wage differences, hours, and recognition of their union.&quot; Return was based on the &quot;belief that [a] satisfactory agreement will be reached through arbitration.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">November, 3</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_11_03_p1.jpg">&quot;Laborers Win Back Pay Suit&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Local No. 440, Street Pavers, Sewer and Watermen win in court after a two year dispute over back payment for several jobs.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">November, 6</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_11_06_p3.jpg">&quot;Strike at Wage Cuts&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">10 day strike continues at &quot;the tar and paper manufacturing plant of J. E. Berkheimer and Co.&quot; Workers are protesting &quot;against wage cuts to below even the NRA code minimum and&quot; lay offs.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">November, 10</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_11_10_p1.jpg">&quot;Pheasant Wiggen Firm Signs With Embalmers&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Ballard funeral home joins Master Licensed Embalmers union.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">November, 10</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_11_10_p1.jpg">&quot;EBA Agrees to the Program: Chain Stores Removed From Unfair List Pending Outcome of Organization conference&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Owner of chain stores agreed to meet with clerks unions in exchange for removal from the &quot;Unfair List.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">November, 10</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_11_10_p3.jpg">&quot;Beauticians Sign Three More Shops&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Organized Beauticians gained three new shops, and are optimistic that membership will increase with increased moral support from females in the labor movement.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">November, 13</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_11_13_p1.jpg">&quot;Cash Offered As Strike Spreads: Unemployed Winning Gains Third Week of Forced Labor Strike&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Forced labor strikers get a small taste of a coming victory as their demand for cash for work is gradually being offered to strikers.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">November, 13</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_11_13_p2.jpg">&quot;More On Strike&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">(part 2)</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">November, 17</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_11_17_p1.jpg">&quot;Engineers Find Coulee Dam Job Conditions Bad&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">A resolution was passed by the Seattle Central labor Council to remedy the working condition problems voiced by Coulee Dam engineers.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">November, 17</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_11_17_p1.jpg">&quot;Blacksmiths Get Charter&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Seattle's Blacksmiths Union receive charter and will now &quot;be known as Seattle Union No. 106.&quot; The new union is beginning the officer selection process and increasing advertisement efforts.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">November, 17</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_11_17_p1.jpg">&quot;Bellingham Strike situation Reviewed&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">&quot;Strike at the Whatcom Co-operative Dairymen's Association plant... [began] October 19 over hours, wages and recognition of the union, the right to bargain collectively.&quot; The issues continue to be unresolved.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">November, 24</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_11_24_p1.jpg">&quot;Labor Council Issues Reply to Misleading Letter From Brewery Workers Union 42&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">A misleading letter was drafted and sent out to laborers and friends by &quot;the Brewery Workers' union&quot; with the intention of gaining support from sympathetic readers. This article clears up come of the misconceptions.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">November, 24</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_11_24_p1.jpg">&quot;Big Brewery Gains Victory: Hemrich Brewing Company Gets Temporary Injunction; Brewery Workers Criticized&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Hemrich Brewing company wins battle due to brewery workers' violations of the rules. The first violation being beginning the strike without first notifying their employers, second being sending out false information in print.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">December, 1</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_12_01_p1.jpg">&quot;State Coal Mines Now Union: Collective bargaining Again Established Between United Mine Workers and Operators&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Agreements have been signed, and the issues previously in question &quot;have been satisfactorily adjusted,&quot; union miners can now return to work.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">December, 4</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_12_04_p1.jpg">&quot;Seattle, Longshoremen Smash Ship Owners' Splitting Tactic&quot; </a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">Seattle ship owners' attempts to hire alternative workers at lower wages backfires when Seattle &quot;seamen and longshoremen&quot; became involved, preventing any cargo from leaving the docs.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">December, 18</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_12_18_p1.jpg">&quot;Lumber Worker Hail N. L. W. U.: Workers Storm Washington Capitol for Unemployment Insurance: Workers Thunder Their Demands at Legislature&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">&quot;146 worker delegates from all parts of the state&quot; went to Olympia demanding &quot;unemployment insurance, $100 immediate cash relief and industrial insurance on all relief jobs.&quot; No mercy was shown to the &quot;house and senate committees on unemployment.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">December, 22</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_12_22_p1.jpg">&quot;Coulee Dam Reply Not Satisfactory&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">After an extended wait, the workers received a less than satisfactory reply from the &quot;United States Department of the Interior, Bureau of Reclamation.&quot;</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">December, 25</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/VOA_33_12_25_p1.jpg">&quot;Seattle Jobless To Demonstrate Demanding work&quot;</a></td>
+              <td width="42" class="byline">VOA</td>
+              <td width="451" class="byline">&quot;The Unemployed Citizens League and the Workers Ex-Servicemen's league of Seattle are planning a demonstration&quot; to take place on Jan. 15 for: 1) Jobs for all without discrimination, or cash relief to the amount paid on CWA jobs. 2) Unemployment Insurance.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">December, 29</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_12_29_p1.jpg">&quot;Bakers to Hold Up Conditions&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Seattle bakers announce &quot;a determined fight will be waged in the coming year to&quot; keep their hard earned working conditions.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">December, 29</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_12_29_p1.jpg">&quot;Milk Drivers Warn of Unfair Dairies&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Reminder that &quot;Qualitee Dairy&quot; and &quot;Golden Rule Dairy&quot; are both &quot;unfair&quot; and commonly cut prices and thereby cut &quot;dairymen's&quot; profits.</td>
+            </tr>
+            <tr>
+              <td width="81" class="byline">December, 29</td>
+              <td width="186" class="byline"><a href="http://depts.washington.edu/ufw2/yearbook/1933/WSLN_33_12_29_p3.jpg">&quot;Boilermakers Win Suit For Back Wages&quot;</a></td>
+              <td width="42" class="byline">WSLN</td>
+              <td width="451" class="byline">Boilermakers' Union wins 3-year fight for back wage payment of $3,500.</td>
+            </tr>
+          </table>
+		 
+          </div>
+	  </td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.html"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

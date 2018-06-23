@@ -1,0 +1,168 @@
+<!--#include file="metaheader.html"-->
+<title>Pacfic Northwest Labor and Civil Rights Projects</title>
+<link rel="stylesheet" type="text/css" href="xfade2_o.css" />
+<script type="text/javascript" src="xfade2.js"></script>
+<style type="text/css">
+<!--
+.greyboxnew {
+	background-color:#666;color:white;
+	padding:5px;
+	margin-bottom:5px;
+}
+
+.greyboxnew a, .redbox a:visited 
+{color:white;
+}
+.redboxnew {
+	background-color:#780000;color:white;
+	padding:5px;
+		margin-bottom:5px;
+}
+.redboxnew a, .redbox a:visited 
+{color:white;
+}
+.style20 {
+	font-size: xx-large;
+	font-weight: bold;
+}
+.style21 {font-size: 10pt}
+
+
+-->
+</style>
+</head>
+<body id="home">
+<table id="pagetable" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			  <a href="index.shtml"><img src="banner.jpg" width="1000" height="190" border="0"></a>
+			</div>
+		</td>
+	</tr>
+
+		<td>
+			<div id="content">
+			
+        	
+        
+
+			<div align="center">
+			   <p class="style20">Data Mapping Washington Labor and Civil Rights  History</p>
+		  </div>
+			  <div>
+			       
+  <p>Labor and civil rights movements have helped shape Washington before statehood but especially in the 20th Century. This project explores the dimensions of those movements using new tools of digital history. We are developing detailed geographic data about each movement, identitying locations where membership, activities, or other measures of support were concentrated and display these data in interactive maps showing the historical geography of many of social movements that have influenced Washington State since the start of the 20th century. 
+  <p> The project consists of more than a dozen pages grouped in three categories: voting history, race and segregation history, social movements. We started with maps and charts that show the activist geography of the  <a href="SP_intro.shtml">Socialist Party</a>,<a href="http://depts.washington.edu/labhist/maps-iww.shtml"> Industrial Workers of the World</a>, and the <a href="CP_intro.shtml">Communist Party</a>, then developed similar maps on Black Freedom movements: <a href="NAACP_intro.shtml">NAACP</a>, <a href="CORE_map-events.shtml">Congress of Racial Equality</a>, <a href="SNCC_intro.shtml">SNCC</a>, and the <a href="BPP_map-cities.shtml">Black Panther Party</a>. We have added a battery of visualizations showing the geography of Chicano/Latino movements: <a href="UFW_map-events.shtml">United Farm Workers (UFW)</a>, <a href="MEChA_map.shtml">MEChA</a>, <a href="Raza_Unida_map.shtml">Raza Unida Party</a>, <a href="brown_beret_map.shtml">Brown Berets</a>, <a href="LULAC_map.shtml">League of United Latin American Citizens</a>, including hundreds of <a href="Chicano_news_map.shtml">Chicano movement periodicals</a> published between 1966 and 1977. And we have mapped<a href="laborpress_intro.shtml"> radical and labor newspapers</a>, many from the early 20th century and also 2,000 <a href="altnews_intro.shtml">Underground newspapers from the 1965-75</a>. Our most recent unit tracts the activities of the <a href="NWP_intro.shtml">National Woman's Party 1913-1922</a>. We will add data and maps for other organizations as we move forward.
+		  <table width="980" border="0" cellspacing="0" cellpadding="0">
+		<tr>
+            <td>
+			<h2>&nbsp;</h2>
+			<h3><span class="rightcap" style="width:300px;"><a href="SP_intro.shtml"><img src="images/SP map.JPG" width="300" height="175"border="0"></a></span><a href="SP_intro.shtml">Socialist Party Activity 1900-1940 </a></h3>
+            <p>Here are several interactive maps and charts that show the geography of Socialist Party activity. One set shows  <strong>votes for SP candidates in every county. </strong>  Another displays <strong>SP membership</strong> by state and year. A third maps the location of <strong>380 newspapers</strong> associated with the Socialist Party. And we map the <strong>353 towns and cities that elected socialists to  office</strong> between 1904 and 1920. <BR> 
+              </p></td>
+          </tr>
+          <tr>
+            <td><h3><span class="rightcap" style="width:300px;"><a href="http://depts.washington.edu/labhist/maps-iww.shtml"><img src="images/IWW locals3-400.jpg" width="300" height="175" border="0"></a></span><a href="http://depts.washington.edu/iww/map_intro.shtml">Industrial Workers of the World Activity 1905-1920</a></h3>
+              <p>These interactive maps locate <strong>more than 1,800 strikes, campaigns, arrests, and vigilante events</strong> involving the Industrial Workers of the World from 1905 to 1920. Events can be filtered by year or advanced in a month by month sequence. They can be filtered by state or type of event. Hover to see short descriptions. A second set maps<strong> more than 900 local unions</strong> affiliated with the IWW with filtering by industry and date of operation. </p></td>
+          </tr>
+		    <tr>
+            <td><h3><span class="rightcap" style="width:300px;"><a href="NAACP_intro.shtml"><img src="images/naacp charts-400.jpg" width="300" height="175" border="0"></a>
+  </span><a href="NAACP_intro.shtml">NAACP at the Grass Roots 1909-1977</a></h3>
+              <p> From an early date, the NAACP was a grass roots organization with a membership that expanded  across the nation. These interactive maps and charts show the growth of the NAACP from a single branch with a few members in New York City to 80 branches by 1917, to 400 branches in 1923, then surging to more than <strong>1,000 branches</strong> and 300,000 members during World War II, and then the regional surge into the South in the 1950s and 1960s.</p></td>
+          </tr> 
+           
+          <tr>
+            <td><h3><span class="rightcap" style="width:300px;"><a href="CP_intro.shtml"><img src="images/CPvotes403.jpg" width="300" height="175" border="0"></a><br>
+</span><a href="CP_intro.shtml">Communist Party membership and support 1920-1948</a></h3>
+              <p>The geography of the CP was different than earlier radical movements. Here are several maps and charts that show where party support was concentrated. We show changing party membership by region and <strong> county by county</strong>, and map the number of votes won by CP candidates in elections. In close detail, <strong>CP activities in Chicago</strong> are mapped.</p></td>
+          </tr>
+          
+         
+             
+             <tr>
+            <td><h3><span class="rightcap" style="width:300px;"><a href="BPP_map-cities.shtml"><img src="images/BPP-NY.PNG" width="300" height="190" border="0"></a><br>
+   </span><a href="BPP_map-cities.shtml">Black Panther Party in six cities</a></h3>
+              <p>Founded in Oakland, the Black Panther authorized only 12 additional chapters. Still the Party stages actions across a wider geography. Here are maps and timelines showing <strong>more than 500 BPP actions</strong>. In addition we show in detail  the six metropolitan areas where the Panthers enrolled that largest number of members and made the greatest impact: Oakland-SF Bay Area; New York; Chicago; Los Angeles; Seattle; Philadelphia. </p></td>
+          </tr>  
+         
+          <tr>
+            <td><h3><span class="rightcap" style="width:300px;"><a href="UFW_map-events.shtml"><img src="images/ufw/400/ufw1.jpg" width="300" height="175" border="0"></a><br>
+ </span><a href="UFW_intro.shtml">UFW strikes, boycotts, campaigns 
+  1965-1975</a></h3>
+              <p>When ethnic Mexican  farm workers led by Cesar Chavez joined with Filipino American workers led by Larry Itliong in 1965 to strike grape growers in Delano, California, the modern farm workers' movement was born. Here we map more than<strong> 1000 strike actions, boycotts, and other UFW related events</strong> showing the movement's support across the United States and Canada. </p></td>
+          </tr>
+          
+          <tr>
+            <td><h3><span class="rightcap" style="width:300px;"><a href="MEChA_map.shtml"><img src="images/chicano/Chicano Power cr395.jpg" width="300" height="175" border="0"></a><br>
+            </span><a href="MEChA_map.shtml">MEChA and Chicano Student Organizations 1967-2012</a></h3>
+              <p>Chicano students began to organize on college campuses in the late 1960s, forming organizations with various names. In 1969 most of these organizations merged forming El  Movimiento Estudiantil Chicano/a de Aztlan (MEChA). MEChA spread in stages and as of 2012 claimed <strong>more than 500 chapters</strong>. </p></td>
+          </tr>
+            <tr>
+            <td><h3><span class="rightcap" style="width:300px;"><a href="Chicano_news_map.shtml"><img src="images/chicanopress2-403.PNG" width="300" height="175" border="0"></a><br>
+            </span><a href="Chicano_news_map.shtml">Chicano Newspapers and Periodicals 1966-1979</a></h3>
+              <p>Here are more than <strong>300 newspapers and newsletters </strong>associated with the surge in Chicano activism in the 1960s and 1970s. Some were published by movement organizations, others served local communities. </p></td>
+          </tr>
+            
+             
+		 
+          
+          
+		  
+               
+		  <tr>
+            <td><h3><span class="rightcap" style="width:300px;"><a href="altnews_intro.shtml"><img src="images/underground press500.jpg" width="300" height="175" border="0"></a><br>
+            </span><a href="altnews_intro.shtml">Underground/Alternative Newspapers 1965-1975</a></h3>
+              <p>The social movements of 1960s and 1970s would not have been possible without the underground press, an explosive new media system that spread through hundreds of communities. Here we explore the history and geography of alternative media system with (1) interactive maps, charts, and lists that  show<strong> 2,024 underground</strong>/ alternative periodicals from the decade between 1965 and 1975; (2) a filterable database of these publications.</p></td>
+          </tr>
+               <tr>
+            <td><h3><span class="rightcap" style="width:300px;"><a href="altnews_intro.shtml"><img src="images/news/Voice 400.jpg" width="300" height="240" border="0"></a><br>
+            </span><a href="altnews_intro.shtml">Labor and Radical Press: History and Geography 1880-1980</a></h3>
+              <p>Denied access to major media, labor and radical movements  have published thousands of periodicals, constituting  an alternative press that was vital to these movements and important to the history of American journalism. Here we explore this history and show the  geography of radical journalism across nearly a century with maps and databases that include more than 1,000 publications linked to the American Federation of Labor, the Socialist Party, Industrial Workers of the World, Anarchist movements in the decades between 1880 and 1925. </p></td>
+          </tr>
+		    <tr>
+            <td>
+			<h2>&nbsp;</h2>
+			<h2><a href="about.shtml">About the Project</a></h2>
+			<p>Directed by Professor James Gregory, the project has been  supported by a Digital Humanities grant from the Walter J. Simpson Center for the Humanities, by the History Department Digital History Initiative and Hanauer Fund, and by the Harry Bridges Center for Labor Studies, all at the University of Washington. The <em>Mapping Social Movements </em>project includes two stand-alone websites <em> <a href="http://depts.washington.edu/iww/index.shtml">IWW History Project--The Industrial Workers of the World 1905-1935</a></em> and <em><a href="http://depts.washington.edu/epic34/index.shtml">Upton Sinclair's End Poverty in California Campaign</a></em>. These are collaborative efforts, depending upon contributions from many scholars.<a href="about.shtml"> [more]</a></p>
+			<p class="byline">Banner image: Richard Correll, Vineyard March, courtesy Leslie Correll and University of Washington Libraries Special Collections, Richard V. Correll Prints and Papers.</p></td>
+          </tr>
+		  
+		</table>
+		</td>
+	</tr>
+		
+			 
+			
+			
+			<div style="margin-bottom:10px;">
+			
+			
+       		
+			
+			
+       		
+			
+</div>
+
+  
+         
+		
+
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.html"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

@@ -1,0 +1,43 @@
+<!--#include file="metaheader.html"-->
+<title>Communism in Washington State: History</title>
+
+</head>
+<body id="history">
+<table id="pagetable" border="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="http://depts.washington.edu/labhist/cpproject/logos/divide_rule6.jpg" usemap="#Map">
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;">
+			<div id="navigation">
+			<!--#include file="menu.html"-->
+			</div>
+		</td>
+		<td>
+			<div id="content">
+			<h4>Template</h4>
+			<p>Historical accounts of the Communist Party in particular locales are rare. There is no published history of Communism in Washington State. The essays that follow, written by students in History 498,  begin the process of building that history. For a quick overview start with the timeline created by Marian Spath. Then read the rest sequentially as chronological chapters or skip around.</p>
+
+</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.shtml"-->			</div>
+		</td>
+	</tr>
+	
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->

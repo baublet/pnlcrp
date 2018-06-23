@@ -1,0 +1,148 @@
+<!--#include file="metaheader.html"-->
+<title>Strikes! labor history</title>
+<link rel="stylesheet" type="text/css" href="xfade2_o.css" />
+<script type="text/javascript" src="xfade2.js"></script>
+<style type="text/css">
+<!--
+.greyboxnew {
+	background-color:#666;color:white;
+	padding:5px;
+	margin-bottom:5px;
+}
+
+.greyboxnew a, .redbox a:visited 
+{color:white;
+}
+.redboxnew {
+	background-color:#780000;color:white;
+	padding:5px;
+		margin-bottom:5px;
+}
+.redboxnew a, .redbox a:visited 
+{color:white;
+}
+
+
+-->
+</style>
+</head>
+<body id="home">
+<table id="pagetable" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2">
+			<div id="header">
+			<img src="header_logo.jpg" width="1000" height="189" border="0" usemap="#pnlcrp">
+			<map name="pnlcrp">
+              <area shape="rect" coords="326,5,847,33" href="http://depts.washington.edu/labhist">
+            </map>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top;background-color:black;">
+			<div id="navigation">
+			<!--#include file="menu.html"-->
+			</div>
+		</td>
+		<td>
+			<div id="content">
+			
+        	<div id="imageContainer" style="float:right;margin-left:7px;">		
+			<a href="http://depts.washington.edu/labhist/strike"><img src="/labhist/frontpagespecials/general%20strike%20project.jpg" width="400" height="325" border="0"  />
+		<a href="yearbook_introduction.shtml"><img src="/labhist/frontpagespecials/yearbooks.jpg" width="400" height="325" /></a>
+		<a href="http://depts.washington.edu/labhist/laborpress"><img src="/labhist/frontpagespecials/LaborPress%20project.jpg" width="400" height="325" /></a>
+		<a href="http://depts.washington.edu/depress/Unemployed_Citizens_League.shtml"><img src="/labhist/frontpagespecials/unemployed.jpg" width="400" height="325" /></a>		
+		<a href="http://depts.washington.edu/civilr/farmwk_intro.htm"><img src="/labhist/frontpagespecials/farmworkers%20project.jpg" width="400" height="325"  /></a>
+		<a href="http://depts.washington.edu/dock"><img src="/labhist/frontpagespecials/waterfront%20project.jpg" width="400" height="325" /></a>
+		<a href="http://depts.washington.edu/depress/hooverville.shtml"><img src="/labhist/frontpagespecials/hooverville1.jpg" width="400" height="325" /></a>
+			</div>
+        
+   <p>     
+        Few regions have experienced a labor history as dramatic or as consequential as the Pacific Northwest. Unions and labor radicals have helped shape Washington, Oregon, and Idaho since the late 19th century. </p>
+   <p>This project assembles the most extensive online collection of materials about labor history for this, or any other, region. Here you will find detailed information and primary sources about  key historical events, including the Seattle General Strike of 1919, the unemployed movements and labor crusades of the 1930s, farmworker campaigns from the 1930s to 1980s, timber worker unions, waterfront strikes, Filipino cannery worker unions, the Industrial Workers of the World, and the history-making WTO confrontation of 1999. </p>
+   <h2><a href="yearbook_introduction.shtml">Labor Yearbooks </a></h2>
+   <p>We have also compiled year-by-year chronicles of labor activism for certain decades. These Labor Yearbooks are a unique resource. In detail never before attempted we have sifted the key labor newspapers of Washington State creating a database of hundreds of strikes, boycotts, organizing campaigns, and other labor initiatives for each year. Digital copies of original news items are part of the Yearbook.</p>
+   <h2><a href="http://depts.washington.edu/labhist/laborpress/">Labor Press</a> </h2>
+   <p>Labor journalism has always been an important subset of American media and one of the keys to effective organizing and labor's political influence. Here are profiles of more than 50 union and radical newspapers that have published in the region since the 1890s. </p>
+   <h2><a href="photographs.shtml">Photos, Newsreels, Films</a> </h2>
+   <p>Here are  hundreds of digitized historical photographs and several important films and newsreels.</p>
+    <h2><a href="maps.shtml">Mapping Labor History</a> </h2>
+   <p>Here are interactive maps, including a walking tour of Seattle General Strike sites, locations of Hoovervilles, CCC camps, and waterfront workers history. In addition, there are more than a dozen maps tracking racial and ethnic distributions.</p>
+   
+   <h2><a href="browse.shtml">Subject Areas</a></h2>
+   <p>Below are links to more than one hundred essays, maps, timelines, and photo collections organized in the following categories. 
+   <table width="100%" border="0" cellspacing="3">
+          <tr>
+            <td><a href="browse.shtml#timber">Timber Workers</a><br>
+              <a href="browse.shtml#farm">Farm Workers</a><br>
+              <a href="browse.shtml#cannery">Cannery Workers</a><br>
+              <a href="browse.shtml#longshore">Longshore Workers</a><br>
+              <a href="browse.shtml#maritime">Maritime Workers</a><br>
+              <a href="browse.shtml#shipyard">Shipyard Workers</a><br>
+              <a href="browse.shtml#aerospace">Aerospace Workers</a><br>
+              <a href="browse.shtml#construction">Construction Workers</a><br>
+            </td>
+            <td>
+            <a href="browse.shtml#general">1919 Seattle General Strike</a><br>
+            <a href="browse.shtml#dockstrike">1934 Longshore Strike</a><br>
+           <a href="browse.shtml#unemployed">Unemployed and Hoovervlles</a><br>
+              <a href="browse.shtml#public">Public Works and Workers</a><br>
+              
+            <a href="browse.shtml#latino">Latino Workers</a><br>
+            <a href="browse.shtml#women">Women Workers</a><br>
+            <a href="browse.shtml#black">Black Workers</a><br>
+            <a href="browse.shtml#asian">Asian-American Workers</a><br></td>
+            <td><a href="browse.shtml#iww">Industrial Workers of the World</a><br>
+              <a href="browse.shtml#cp">Communist Party</a><br>
+              <a href="browse.shtml#sp">Socialists/Anarchists</a><br>
+              <a href="browse.shtml#wcf">Washington Commonwealth Federation</a><br>
+              <a href="browse.shtml#bpp">Black Panther Party</a><br>
+              <a href="browse.shtml#red">Red Scares and Anti-Labor Action</a><br>
+              <a href="browse.shtml#harry"></a><a href="#culture">Labor Culture, Labor Arts</a><br>
+              <a href="browse.shtml#press">Labor Newspapers</a><br>
+            <a href="browse.shtml#harry">Harry Bridges </a><br></td>
+          </tr>
+        </table>
+   </p>
+  
+   <h2><a href="http://depts.washington.edu/labhist/about.shtml"><strong>About the project</strong></a><strong> </strong></h2>
+   <p>. This site is one of a collection of <a href="http://depts.washington.edu/labhist/">Pacific Northwest Labor and Civil Rights Projects</a> based at the University of Washington under the direction of Professor James Gregory.</p>
+   <table width="100%">
+            <tr>
+            <td width="50%">&nbsp;</td>
+            <td width="5">&nbsp;</td>
+            <td width="50%" valign="top">&nbsp;</td>
+            </tr>
+            </table>
+			<div style="margin-bottom:10px;">
+			
+			
+       		
+			
+			
+       		  <p>&nbsp;</p>
+            
+			
+</div>
+
+  
+         
+		
+</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align: bottom">
+			<div id="footer">
+			<!--#include file="footer.html"-->			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1972947-1";
+urchinTracker();
+</script>
+</body>
+<!--#include file="metafooter.html"-->
