@@ -36,3 +36,7 @@ button:hover,
 button:focus {
 	background: $color-foreground;
 }
+
+input[type=hidden] {
+	display: none;
+}

@@ -5,7 +5,7 @@
 }
 
 @mixin onMobile() {
-  @media screen and (max-width: $mobile-breakpoint) {
+  @media screen and (max-width: $mobile-breakpoint - 1) {
     @content;
   }
 }

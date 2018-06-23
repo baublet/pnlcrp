@@ -1,0 +1,27 @@
+.pageTitle {
+	margin-bottom: $spacing-normal;
+	background: $color-primary;
+	background: linear-gradient($color-primary, darken($color-primary, 15));
+	color: $color-background;
+	padding: $spacing-large 0;
+	* {
+		max-width: $max-body-width;
+		margin: 0 auto;
+		padding: 0 $spacing-normal;
+		+ * {
+			margin-top: $spacing-small;
+		}
+	}
+	.author {
+		margin-top: $spacing-large;
+		font-weight: bold;
+		font-size: $font-size-small;
+	}
+	h1 {
+		font-size: $font-size-larger;
+	}
+	h2 {
+		font-size: $font-size-large;
+		font-weight: normal;
+	}
+}

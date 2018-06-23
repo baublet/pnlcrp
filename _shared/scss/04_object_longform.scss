@@ -1,0 +1,37 @@
+.longForm {
+	h2 {
+		font-size: $font-size-large;
+	}
+
+	h3 {
+		font-size: $font-size-normal;
+	}
+
+	h4, h5 {
+		font-size: $font-size-normal;
+		text-transform: uppercase;
+	}
+
+	h5 {
+		font-size: $font-size-smaller;
+	}
+	hr {
+		border: 0;
+		border-bottom: 1px solid rgba($color-foreground, .25);
+	}
+	a[name*="ref"] {
+		color: $color-foreground;
+		font-size: $font-size-smallest;
+		text-decoration: none;
+		display: inline-block;
+		vertical-align: super;
+	}
+	a[href*="ref"][href*="#_"] {
+		color: $color-foreground;
+		font-weight: bold;
+		display: inline-block;
+		clear: left;
+		margin-right: $spacing-small;
+		text-decoration: none;
+	}
+}

@@ -11,16 +11,38 @@
 
 .search--top .searchInput {
 	display: block;
-	margin-bottom: $spacing-smaller;
+	height: $spacing-large;
+	padding-right: $spacing-large;
 	@include onDesktop() {
 		display: inline-block;
 		margin-bottom: 0;
 	}
 }
 
+.search--top .searchForm {
+	position: relative;
+	height: $spacing-large;
+}
+
 .search--top .searchButton {
-	float: right;
-	@include onDesktop() {
-		float: none;
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	right: $spacing-smallest;
+	background: transparent;
+	color: $color-foreground;
+	opacity: .5;
+	&:after {
+		font-family: $font-family-icons;
+		content: "\f002";
 	}
+	&:hover,
+	&:focus,
+	&:active {
+		opacity: 1;
+	}
+}
+
+.searchInput:focus + .searchButton {
+	opacity: 1;
 }

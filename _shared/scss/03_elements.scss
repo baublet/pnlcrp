@@ -1,8 +1,6 @@
 html {
   font-size: $font-size-base;
   min-width: 320px;
-  overflow-x: auto;
-
   @include onDesktop() {
     font-size: $font-size-base-desktop;
   }
@@ -15,6 +13,8 @@ body {
   line-height: 1.6;
   margin: 0;
   padding: 0;
+  position: relative;
+  overflow-x: hidden;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -37,15 +37,23 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1, h2 {
-  font-size: $font-size-larger;
+  font-size: $font-size-large;
   @include onDesktop() {
-    font-size: $font-size-largest;
+    font-size: $font-size-larger;
   }
 }
 
 h3 {
-  font-size: $font-size-large;
+  font-size: $font-size-normal;
+}
 
+h4 {
+  font-size: $font-size-small;
+  text-transform: uppercase;
+}
+
+h5 {
+  font-size: $font-size-small;
 }
 
 p {
@@ -63,4 +71,23 @@ a {
 
 a:hover, a:focus {
   color: $color-foreground;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+table, caption, tbody, tfoot, thead, tr, th, td {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
 }

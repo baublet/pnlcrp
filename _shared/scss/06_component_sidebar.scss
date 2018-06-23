@@ -1,0 +1,80 @@
+.sidebar {
+	background: $color-background;
+	padding: $spacing-small;
+	box-shadow: 3px 3px 15px rgba($color-foreground, .15);
+	font-family: $font-family-heading;
+	font-size: $font-size-smaller;
+	line-height: 1.25;
+	
+	float: right;
+	min-width: 25vw;
+	width: 250px;
+
+	margin-top: -$spacing-large - $spacing-large;
+	margin-right: calc(-200px - #{$spacing-normal});
+	margin-left: $spacing-normal;
+
+	transition: all .075s ease-in-out;
+
+	overflow: hidden;
+	border-radius: 3px;
+	border-top-right-radius: 0;
+	border-bottom-right-radius: 0;
+
+	@include onMobile() {
+		img {
+			width: 100%;
+			height: auto;
+		}
+		* {
+			pointer-events: none;
+		}
+		&.shown {
+			transform: translateX(-200px);
+			* {
+				pointer-events: auto;
+			}
+		}
+	}
+
+	img {
+		box-shadow: 3px 3px 5px -3px rgba($color-foreground, .15);
+		margin-right: auto;
+		margin-left: auto;
+		display: block;
+		border-radius: 3px;
+	}
+
+	@include onDesktop() {
+		padding: $spacing-normal;
+		position: relative;
+		transform: translateX($spacing-small);
+		margin-right: 0;
+
+		width: 300px;
+		max-width: 40vw;
+
+		border-radius: 10px;
+	}
+
+	&:after {
+		display: block;
+		content: "";
+		width: 1px;
+		position: absolute;
+		top: 0;
+		left: 0;
+		bottom: 50%;
+		background: linear-gradient(rgba($color-foreground, .15), transparent);
+	}
+
+	table {
+		border: 1px solid rgba($color-foreground, .15);
+		width: 100%;
+	}
+
+	td {
+		padding: $spacing-normal;
+	}
+
+}

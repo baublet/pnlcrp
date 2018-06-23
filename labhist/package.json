@@ -1,0 +1,16 @@
+{
+  "name": "labhist",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node-sass ./scss/main.scss -o css",
+    "watch": "node-sass -w ./scss/main.scss -o css --source-map-embed"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "node-sass": "^4.9.0"
+  }
+}

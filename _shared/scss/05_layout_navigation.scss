@@ -1,7 +1,6 @@
 .navigation {
 	width: 100%;
 	margin: $spacing-small 0;
-	position: relative;
 	@include onDesktop() {
 	white-space: nowrap;
 		margin: $spacing-small 0 0 $spacing-normal;
@@ -19,8 +18,17 @@
 .navigation label {
 	position: absolute;
 	right: $spacing-normal;
-	bottom: -$spacing-normal;
+	bottom: -$spacing-small;
 	z-index: 1;
+	text-transform: uppercase;
+	font-size: $font-size-smallest;
+	font-weight: bold;
+	padding: $spacing-smaller  0 $spacing-smaller $spacing-normal;
+	color: rgba($color-foreground, .75);
+	cursor: pointer;
+
+	display: flex;
+    align-items: center;
 }
 
 @include onMobile() {
@@ -35,14 +43,16 @@
 
 	.navigation input + label:after {
 		display: inline-block;
-		content: "\25bc";
-		padding-left: $spacing-small;
-		font-size: $font-size-small;
+		font-family: $font-family-icons;
+		content: "\f142";
+		padding-left: $spacing-normal;
+		font-size: $font-size-large;
 		opacity: .5;
+		font-weight: normal;
 	}
 
 	.navigation input:checked + label:after {
-		content: "\25b2";
+		content: "\f331";
 	}
 
 	.navigation input:checked ~ a {
