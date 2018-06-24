@@ -1,6 +1,7 @@
 @include onMobile() {
 	.header {
-		background: linear-gradient(transparent 75%, rgba($color-foreground, .1));
+		background: $color-background;
+		position: relative;
 	}
 }
 
