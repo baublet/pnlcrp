@@ -3,7 +3,7 @@
 	background: $color-primary;
 	background: linear-gradient($color-primary, darken($color-primary, 15));
 	color: $color-background;
-	padding: $spacing-large 0;
+	padding: $spacing-larger 0;
 	* {
 		max-width: $max-body-width;
 		margin: 0 auto;

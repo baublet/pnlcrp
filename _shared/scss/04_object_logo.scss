@@ -8,7 +8,6 @@
 
 .logoLink {
 	display: block;
-	border: 3px solid $color-foreground;
 	line-height: 0;
 }
 
@@ -18,4 +17,18 @@
 
 .logo svg {
 	fill: fillCurrent;
+}
+
+.logoDesktop {
+	display: none;
+}
+
+@include onDesktop() {
+	.logoDesktop {
+		display: block;
+	}
+
+	.logoMobile {
+		display: none;
+	}
 }
