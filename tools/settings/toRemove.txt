@@ -1,3 +1,5 @@
 <\s*>
 <\s*style\s*type\s*=\s*"text\/css"\s*>.*<\/style>
-\s*style\s*=\s*".*"\s*
+<\s*br[\s\\]*>
+title\s*=\s*"\s*"
+height\s*=\s*".*"

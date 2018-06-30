@@ -49,22 +49,37 @@ $sidebarOffset: 180px;
 	}
 
 	@include onDesktop() {
-		padding: 0 $spacing-normal $spacing-normal;
+		padding: $spacing-normal;
 		position: relative;
 		transform: 0;
 		margin-right: -#{$spacing-normal};
 		max-width: 40vw;
+		background: transparent;
+		color: $color-foreground;
+		box-shadow: none;
 	}
 
-	&:after {
-		display: block;
-		content: "";
-		width: 1px;
-		position: absolute;
-		top: 0;
-		left: 0;
-		bottom: 50%;
-		background: linear-gradient(rgba($color-foreground, .15), transparent);
+	@include onMobile() {
+		a {
+			color: $color-background;
+			text-decoration: underline;
+			&:hover,
+			&:focus,
+			&:active {
+				background: $color-background;
+				color: $color-foreground;
+			}
+		}
+		&:after {
+			display: block;
+			content: "";
+			width: 1px;
+			position: absolute;
+			top: 0;
+			left: 0;
+			bottom: 50%;
+			background: linear-gradient(rgba($color-foreground, .15), transparent);
+		}
 	}
 
 	table {
