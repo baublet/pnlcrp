@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node-sass ./scss/main.scss -o css",
-    "watch": "node-sass -w ./scss/main.scss -o css --source-map-embed"
+    "build": "node-sass ./scss/main.scss -o css && node-sass ./scss/print.scss -o css",
+    "watch": "node-sass -w ./scss/main.scss -o css --source-map-embed",
+    "watch:print": "node-sass -w ./scss/print.scss -o css"
   },
   "author": "",
   "license": "BSD-2-Clause",

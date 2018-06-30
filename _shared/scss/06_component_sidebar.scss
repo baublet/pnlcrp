@@ -1,27 +1,28 @@
 $sidebarOffset: 180px;
 
 .sidebar {
-	background: $color-background;
-	padding: $spacing-small;
+	background: $color-primary;
+	background: linear-gradient(darken($color-primary, 15), darken($color-primary, 20));
+	color: $color-background;
+	padding: 0 $spacing-small $spacing-small;
 	box-shadow: 3px 3px 15px rgba($color-foreground, .15);
 	font-family: $font-family-heading;
 	font-size: $font-size-smaller;
 	line-height: 1.25;
 	
 	float: right;
-	min-width: 25vw;
-	width: 250px;
+	width: 300px;
 
-	margin-top: -$spacing-large - $spacing-large;
+	margin-top: calc(-#{$spacing-large} - 1px);
 	margin-right: calc(-#{$sidebarOffset} - #{$spacing-normal});
 	margin-left: $spacing-normal;
 
-	transition: all .075s ease-in-out;
+	transition: all 1s $animation-easing-function;
 
 	overflow: hidden;
 	border-radius: 3px;
+	border-top-left-radius: 0;
 	border-top-right-radius: 0;
-	border-bottom-right-radius: 0;
 
 	@include onMobile() {
 		img {
@@ -48,15 +49,11 @@ $sidebarOffset: 180px;
 	}
 
 	@include onDesktop() {
-		padding: $spacing-normal;
+		padding: 0 $spacing-normal $spacing-normal;
 		position: relative;
-		transform: translateX($spacing-small);
-		margin-right: 0;
-
-		width: 300px;
+		transform: 0;
+		margin-right: -#{$spacing-normal};
 		max-width: 40vw;
-
-		border-radius: 10px;
 	}
 
 	&:after {

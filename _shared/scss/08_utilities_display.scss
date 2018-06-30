@@ -10,3 +10,15 @@
 	width: 1px;
 	word-wrap: normal !important;
 }
+
+.hide-on-mobile {
+	@include onMobile() {
+		display: none !important;
+	}
+}
+
+.hide-on-desktop {
+	@include onDesktop() {
+		display: none !important;
+	}
+}

@@ -19,6 +19,15 @@
 	}
 }
 
+.navigation label span + i {
+	margin-left: $spacing-small;
+	font-size: 1.2em;
+	opacity: .5;
+}
+.navigation label:hover span + i {
+	opacity: 1;
+}
+
 .navigation input {
 	display: none;
 }
@@ -31,7 +40,7 @@
 	text-transform: uppercase;
 	font-size: $font-size-smaller;
 	font-weight: bold;
-	padding: 0 $spacing-normal;
+	padding: $spacing-small $spacing-normal;
 	color: rgba($color-foreground, .75);
 	cursor: pointer;
 	background: $color-background;
@@ -55,6 +64,9 @@
 
 
 @include onMobile() {
+	.navigation h3 {
+		margin-bottom: $spacing-normal;
+	}
 
 	.navigation {
 		padding: $spacing-small 0;
@@ -62,11 +74,17 @@
 
 	.navigationList {
 		display: flex;
-		flex-direction: column;
+		flex-direction: row;
+		flex-wrap: wrap;
 	}
 
 	.navigationList a {
-		padding: $spacing-normal 0;
+		padding: $spacing-small 0;
+		width: calc(50% - 4px);
+		text-align: center;
+		border: 1px solid rgba($color-foreground, .15);
+		border-radius: 3px;
+		margin: 2px;
 	}
 
 	.navigationItems {
@@ -79,24 +97,14 @@
 		overflow-y: auto;
 	}
 
-	.navigation input + label:after {
-		display: inline-block;
-		font-family: $font-family-icons;
-		content: "\f142";
-		padding-left: $spacing-normal;
-		font-size: $font-size-large;
-		opacity: .5;
-		font-weight: normal;
-	}
-
-	.navigation input:checked + label:after {
-		content: "\f331";
-	}
-
 	.navigation input:checked ~ .navigationItems {
 		opacity: 1;
 		position: relative;
 		pointer-events: auto;
+	}
+
+	.navigationOverflow {
+		margin-top: $spacing-normal;
 	}
 }
 
@@ -127,18 +135,6 @@
 	}
 }
 
-@include onDesktop() {
-	.navigation input,
-	.navigation label {
-		display: none;
-	}
-
-	.navigation a {
-		max-height: none;
-		opacity: 1;
-	}
-}
-
 navigation a:active,
 navigation a:focus {
 	background: $color-primary;
@@ -146,6 +142,17 @@ navigation a:focus {
 }
 
 @include onDesktop() {
+	.navigationList {
+		padding: $spacing-large 0;
+	}
+	#navigationToggleLabel {
+		display: none;
+	}
+
+	.navigation a {
+		max-height: none;
+		opacity: 1;
+	}
 	.navigation a:hover:after,
 	.navigation a:focus:after {
 		opacity: 1;
@@ -153,6 +160,50 @@ navigation a:focus {
 		border: transparent;
 	}
 	.navigation h3 {
+		display: none;
+	}
+	.navigationOverflow {
+		font-family: $font-family-heading;
+		font-size: $font-size-small;
+		background: $color-background;
+		position: absolute;
+		top: 100%;
+		right: 0;
+		left: 0;
+		text-align: left;
+		box-shadow: 0 15px 0 -5px rgba(0, 0, 0, 1);
+		padding: 0 $spacing-normal $spacing-normal;
+	}
+	.navigationOverflow a {
+		text-decoration: none;
+		&:hover,
+		&:focus,
+		&:active {
+			text-decoration: underline;
+		}
+	}
+	.navigationOverflow ul,
+	.navigationOverflow ol {
+		padding-left: 0;
+		margin-left: 0;
+		list-style-type: none;
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.navigationOverflow li {
+		width: 25%;
+	}
+
+	#navigationOverflow ~ .navigationOverflow {
+		opacity: 0;
+		pointer-events: none;
+	}
+
+	#navigationOverflow:checked ~ .navigationOverflow {
+		opacity: 1;
+		pointer-events: auto;
+	}
+	#navigationOverflow:checked ~ label {
 		display: none;
 	}
 }

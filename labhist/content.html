@@ -4,11 +4,14 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Pacific Northwest Labor and Civil Rights Project</title>
-		<link href="css/main.css" rel="stylesheet" type="text/css">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+		<link rel="stylesheet" href="css/main.css">
+		<link rel="stylesheet" href="css/print.css" media="print">
 		<meta content='width=device-width, initial-scale=1' name='viewport'>
 		<script type="text/javascript" src="js/hammer.js"></script>
 	</head>
 	<body>
+		<a href="#content" class="screen-reader-text">Skip to content</a>
 		<div class="header">
 			<div class="contentBlock">
 				<div class="logo">
@@ -32,9 +35,12 @@
 				</div>
 				<div class="navigation">
 					<input type="checkbox" id="navigationToggleCheck" />
-					<label for="navigationToggleCheck" id="navigationToggleLabel">Navigation</label>
+					<label for="navigationToggleCheck" id="navigationToggleLabel">
+						<span>Navigation</span>
+						<i class="fas fa-bars"></i>
+					</label>
 					<div class="navigationItems">
-						<div class="navigationOtherProjects" id="projects">
+						<div class="navigationOtherProjects" id="projects" data-on-click-toggle-class="on">
 							<h3>The Civil Rights and Labor History Consortium</h3>
 							<div class="navigationOtherProjectsList">
 								
@@ -113,6 +119,44 @@
 							<a href="/">Photos</a>
 							<a href="/">For Teachers</a>
 						</div>
+						<input type="checkbox" id="navigationOverflow" />
+						<label for="navigationOverflow" class="hide-on-mobile">
+							<span>Explore the Project</span>
+							<i class="fas fa-bars"></i>
+						</label>
+						<div class="navigationOverflow" id="navigationOverflow">
+							<label for="navigationOverflow" class="hide-on-mobile">
+								<span>Close</span>
+								<i class="far fa-times-circle"></i>
+							</label>
+							<h3>Navigation</h3>
+							<ul>
+								<li><a href="index.shtml">Home</a></li>
+								<li><a href="about.shtml">About</a></li>
+								<li><a href="history.shtml">Concise History</a></li>
+								<li><a href="photographs.shtml">Photographs &amp; Films</a></li>
+								<li><a href="economics_poverty.shtml">Economics &amp; Poverty</a></li>
+								<li><a href="hooverville.shtml">Hoovervilles</a></li>
+								<li><a href="strikes_unions.shtml">Strikes &amp; Unions</a></li>
+								<li><a href="politics.shtml">Politics</a></li>
+								<li><a href="wa_new_deal.shtml">Public Works</a></li>
+								<li><a href="radicalism.shtml">Radicalism</a></li>
+								<li><a href="civil_rights.shtml">Civil Rights</a></li>
+								<li><a href="university_washington.shtml">University of Washington</a></li>
+								<li><a href="everyday_life.shtml">Everyday Life</a></li>
+								<li><a href="culture_arts.shtml">Culture &amp; the Arts</a></li>
+								<li><a href="visual_arts_index.shtml">Visual Arts</a></li>
+								<li><a href="theater_arts_index.shtml">Theatre Arts</a></li>
+								<li><a href="maps_great_depression.shtml">Maps</a></li>
+								<li><a href="whos_who.shtml">Who's Who</a></li>
+							</ul>
+							<p>
+								<a href="http://www.facebook.com/pages/Seattle-Civil-Rights-and-Labor-History-Project/126908547034">
+									<i class="fab fa-facebook"></i>
+									<span>Join Pacific Northwest Labor and Civil Rights Projects on Facebook</span>
+								</a>
+							</p>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -126,7 +170,7 @@
 		</div>
 		<!-- End Page Title -->
 		<!-- Start Content -->
-		<div class="body contentBlock longForm">
+		<div class="body contentBlock longForm" id="content">
 			<div class="sidebar">
 				<div><img src="http://depts.washington.edu/civilr/images/segregated/covenants/Innis-Arden-sign_200.jpg" width="230" height="182"></div>
 				<p>This sign at the entrance of  Innis Arden advertised to all entering the Shoreline subdivision that it was a "restricted community." </p>

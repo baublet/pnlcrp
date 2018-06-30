@@ -4,6 +4,8 @@
 	background: linear-gradient($color-primary, darken($color-primary, 15));
 	color: $color-background;
 	padding: $spacing-larger 0;
+	text-shadow: 2px 2px 0 black, 2px 2px 5px rgba(black, .5);
+
 	* {
 		max-width: $max-body-width;
 		margin: 0 auto;
