@@ -1,0 +1,85 @@
+.navigationOtherProjects {
+	border-bottom: 1px solid rgba($color-foreground, .15);
+	width: 100%;
+}
+
+.navigationOtherProjectsList {
+	overflow-x: auto;
+	overflow-y: hidden;
+	display: flex;
+}
+
+.navigationOtherProjectsList .projectBox {
+	padding: 0;
+	background: transparent;
+	min-width: 100px;
+}
+
+@include onMobile() {
+	.navigationOtherProjects {
+		padding: $spacing-small;
+	}
+	.navigationOtherProjectsList {
+		margin-top: $spacing-normal;
+		padding-bottom: $spacing-normal;
+	}
+}
+
+@include onDesktop() {
+	.navigationOtherProjects {
+		padding: $spacing-small 0;
+	}
+	.navigationOtherProjects h3 {
+		opacity: .5;
+		max-width: $max-body-width;
+		margin: 0 auto;
+		font-size: $font-size-smaller;
+		text-transform: uppercase;
+	}
+	.navigationOtherProjects .navigationOtherProjectsList {
+		max-height: 0;
+		pointer-events: none;
+		opacity: 0;
+		transition: all 1s $animation-easing-function;
+	}
+	.navigationOtherProjects:hover,
+	.navigationOtherProjects.on {
+		background: darken($color-background, 2.5);
+		h3 {
+			opacity: 1;
+			&:after {
+				display: inline-block;
+				content: "browse our other projects";
+				margin-left: $spacing-normal;
+				opacity: .5;
+			}
+		}
+	}
+	.navigationOtherProjects:hover .navigationOtherProjectsList,
+	.navigationOtherProjects.on .navigationOtherProjectsList {
+		max-height: 300px;
+		opacity: 1;
+		pointer-events: auto;
+		margin-top: $spacing-normal;
+	}
+	.navigationOtherProjectsList .projectBox {
+		min-width: 150px;
+	}
+}
+
+.header .navigationOtherProjects {
+	background: darken($color-background, 2.5);
+	border: 1px solid rgba($color-foreground, .15);
+	border-left: 0;
+	border-right: 0;
+	margin: 0 -#{$spacing-normal} 0;
+	width: calc(100% + (#{$spacing-normal} * 2));
+}
+
+.navigationOtherProjects h3 {
+	padding: 0 $spacing-normal;
+}
+
+.navigationOtherProjectsList .projectBoxTitle {
+	display: none;
+}

@@ -54,31 +54,28 @@ function removeStyleElements(DOMNode $domNode) {
 	}
 }
 
-function removeEmptyNodes(DOMNode $domNode, $parentIsEmpty = false) {
-	// Remove nodes that have no attributes and aren't semantic
+function removeEmptyNodes(DOMNode $domNode) {
+	echo ".";
 	if(isNodeType($domNode, ["span", "div"])) {
-		// If it's unsemantic and has no children, just remove it
 		if(!$domNode->hasChildNodes()) {
-			$domNode->parentNode->removeChild($domNode);
+			$parentNode = $domNode->parentNode;
+			$parentNode->removeChild($domNode);
+			removeEmptyNodes($parentNode);
+			return;
 		}
-		// If it has children, look through its attributes and remove the node
-		// if its attributes aren't useful, or it has no attributes
-		if(!nodeHasAttributes($domNode, ["class", "id"])) {
-			foreach($domNode->childNodes as $child) {
-				$domNode->parentNode->insertAfter($domNode, $child);
-				removeEmptyNodes($child);
-			}
-			if(method_exists($domNode->parentNode, "removeChild")) {
-				$domNode->parentNode->removeChild($domNode);
-			}
+		// If it has only one child node, just replace this one with the
+		// child node
+		if($domNode->childNodes->length == 1) {
+			$parentNode = $domNode->parentNode;
+			$parentNode->replaceChild($domNode->firstChild, $domNode);
+			removeEmptyNodes($parentNode);
 			return;
 		}
 	}
-	if(!$domNode->hasChildNodes()) {
-		return;
-	}
-	foreach($domNode->childNodes as $child) {
-		removeEmptyNodes($child);
+	if($domNode->hasChildNodes()) {
+		foreach($domNode->childNodes as $child) {
+			removeEmptyNodes($child);
+		}
 	}
 }
 
@@ -93,9 +90,9 @@ function isNodeType(DOMNode $domNode, array $tagNames) {
 // Returns "true" if $domNode has any attribute in the array $attributeNames
 function nodeHasAttributes(DOMNode $domNode, array $attributeNames) {
 	if(!$domNode->hasAttributes()) return false;
-	foreach($attributeNames as $attribute) {
+	foreach($attributeNames as $attributeName) {
 		foreach($domNode->attributes as $domAttribute) {
-			if($domAttribute->name == $attribute) {
+			if($domAttribute->name == $attributeName) {
 				return true;
 			}
 		}
@@ -136,8 +133,7 @@ foreach($files as $file) {
 	}
 
 	$newContents = $doc->saveHTML();
-	$newContents = preg_replace('#<span[^>]*(?:/>|>(?:\s|&nbsp;)*</span>)#im', "", $newContents);
-
+	
 	file_put_contents($target, $doc->saveHTML());
 	echo strlen($fileContents) . "  -> " . strlen($doc->saveHTML()) . "\n\n";
 }

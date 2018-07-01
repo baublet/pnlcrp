@@ -1,0 +1,48 @@
+body {
+	margin: 0.5in
+}
+
+a {
+	text-decoration: underline !important;
+	color: black !important;
+}
+
+.navigationOtherProjects,
+.search--top,
+.navigation {
+	display: none !important;
+}
+
+.pageTitle {
+	background: transparent !important;
+	color: black !important;
+	text-shadow: none;
+}
+
+.sidebar {
+	margin-right: 0;
+	box-shadow: none !important;
+	padding: 1rem !important;
+	border: 1px solid #ccc;
+	box-decoration-break: clone;
+	background: transparent !important;
+	color: black !important;
+}
+.sidebar:after {
+	display: none !important;
+}
+.sidebar a {
+	color: black !important;
+	text-decoration: underline !important;
+}
+
+p {
+	max-width: 40em;
+}
+
+.footer,
+.footer a {
+	background: transparent !important;
+	color: black !important;
+	font-size: 12px !important;
+}

@@ -1,0 +1,14 @@
+.media {
+	margin: $spacing-normal 0;
+	font-size: $font-size-small;
+	font-family: $font-family-heading;
+}
+
+.media img {
+	border-radius: 3px;
+	box-shadow: 3px 3px 5px -3px rgba($color-foreground, .15);
+}
+
+.media img + * {
+	margin-top: $spacing-normal;
+}
