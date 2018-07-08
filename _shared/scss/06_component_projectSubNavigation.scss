@@ -1,0 +1,16 @@
+.projectSubNavigation {
+    margin: $spacing-large 0;
+    font-size: $font-size-smaller;
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+
+.projectSubNavigation a {
+    color: $color-primary;
+    text-decoration: none;
+    display: inline-block;
+    + a {
+        margin-left: $spacing-small;
+    }
+}

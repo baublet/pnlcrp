@@ -1,0 +1,98 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>{{ title }}</title>
+        {% block css %}
+            <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+            <link rel="stylesheet" href="css/main.css">
+            <link rel="stylesheet" href="css/print.css" media="print">
+        {% endblock %}
+        <meta content='width=device-width, initial-scale=1' name='viewport'>
+        {% block headerJs %}
+            <script type="text/javascript" src="../shared/js/hammer.js"></script>
+        {% endblock %}
+    </head>
+    <body>
+        <a href="#content" class="screen-reader-text">Skip to content</a>
+        <div class="header">
+            <div class="contentBlock">
+                <div class="logo">
+                    <h1 class="logoH1">
+                    <a href="/civilr/" class="logoLink">
+                        <img src="img/base/logo-mobile.svg" alt="Pacific Northwest Labor and Civil Rights Project" class="logoImage logoMobile" />
+                        <img src="img/base/logo-mobile.svg" alt="Pacific Northwest Labor and Civil Rights Project" class="logoImage logoDesktop" />
+                    </a>
+                    </h1>
+                </div>
+                <div class="search search--top">
+                    <form method="get" action="http://www.google.com/search" _lpchecked="1" class="searchForm">
+                        <input type="text" name="q" class="searchInput" placeholder="Search the Projects" maxlength="255">
+                        <button type="submit" name="sa" class="searchButton"><span class="screen-reader-text">Search</span></button>
+                        <input type="hidden" name="hq" value="site:depts.washington.edu/depress OR site:depts.washington.edu/civilr OR site:depts.washington.edu/labhist">
+                        <input type="hidden" name="site" value="search">
+                        <input type="hidden" name="hl" value="en">
+                        <input type="hidden" name="lr" value="">
+                        <input type="hidden" name="safe" value="off">
+                    </form>
+                </div>
+                <div class="navigation">
+                    <input type="checkbox" id="navigationToggleCheck" />
+                    <label for="navigationToggleCheck" id="navigationToggleLabel">
+                        <span>Navigation</span>
+                        <i class="fas fa-bars"></i>
+                    </label>
+                    <div class="navigationItems">
+                        {% include "./projects.html" %}
+                        <h3 class="navigationCurrentProject">{{ projectTitle }}</h3>
+                        <div class="navigationList">
+                            <a href="/">Home</a>
+                            <a href="about.html">About</a>
+                            <a href="/">Oral Histories</a>
+                            <a href="/">Maps and Data</a>
+                            <a href="/">Photos</a>
+                            <a href="/">For Teachers</a>
+                        </div>
+                        <input type="checkbox" id="navigationOverflow" />
+                        <label for="navigationOverflow" class="hide-on-mobile">
+                            <span>Explore the Project</span>
+                            <i class="fas fa-bars"></i>
+                        </label>
+                        <div class="navigationOverflow" id="navigationOverflow">
+                            <label for="navigationOverflow" class="hide-on-mobile">
+                                <span>Close</span>
+                                <i class="far fa-times-circle"></i>
+                            </label>
+                            <h3>Navigation</h3>
+                            <ul>
+                                <li><a href="index.shtml">Home</a></li>
+                                <li><a href="about.shtml">About</a></li>
+                                <li><a href="history.shtml">Concise History</a></li>
+                                <li><a href="photographs.shtml">Photographs &amp; Films</a></li>
+                                <li><a href="economics_poverty.shtml">Economics &amp; Poverty</a></li>
+                                <li><a href="hooverville.shtml">Hoovervilles</a></li>
+                                <li><a href="strikes_unions.shtml">Strikes &amp; Unions</a></li>
+                                <li><a href="politics.shtml">Politics</a></li>
+                                <li><a href="wa_new_deal.shtml">Public Works</a></li>
+                                <li><a href="radicalism.shtml">Radicalism</a></li>
+                                <li><a href="civil_rights.shtml">Civil Rights</a></li>
+                                <li><a href="university_washington.shtml">University of Washington</a></li>
+                                <li><a href="everyday_life.shtml">Everyday Life</a></li>
+                                <li><a href="culture_arts.shtml">Culture &amp; the Arts</a></li>
+                                <li><a href="visual_arts_index.shtml">Visual Arts</a></li>
+                                <li><a href="theater_arts_index.shtml">Theatre Arts</a></li>
+                                <li><a href="maps_great_depression.shtml">Maps</a></li>
+                                <li><a href="whos_who.shtml">Who's Who</a></li>
+                            </ul>
+                            <p>
+                                <a href="http://www.facebook.com/pages/Seattle-Civil-Rights-and-Labor-History-Project/126908547034">
+                                    <i class="fab fa-facebook"></i>
+                                    <span>Join Pacific Northwest Labor and Civil Rights Projects on Facebook</span>
+                                </a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Header -->

@@ -1,0 +1,11 @@
+{% include "./header.html" %}
+
+{% if subProjectTemplate %}
+    {% include subProjectTemplate %}
+{% endif %}
+
+{% block content %}
+    Content
+{% endblock %}
+
+{% include "./footer.html" %}

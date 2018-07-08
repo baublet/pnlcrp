@@ -1,0 +1,43 @@
+.projectBox {
+    display: inline-block;
+    max-width: 200px;
+    white-space: normal;
+    vertical-align: top;
+    padding: $spacing-small;
+    background: rgba($color-foreground, .15);
+    border-radius: 3px;
+    transition: transform .10s ease-in-out;
+}
+
+.projectBox:hover {
+    background: rgba($color-foreground, .25);
+    transform: scale(1.05);
+}
+
+.projectBox + .projectBox {
+    margin-left: $spacing-normal;
+}
+
+.projectBoxImage {
+    width: 100%;
+    height: auto;
+}
+
+.projectBoxImageLink {
+    display: block;
+}
+
+.projectBoxTitle {
+    line-height: 1;
+    font-weight: bold;
+}
+
+.projectBoxTitleLink {
+    text-decoration: none;
+    color: inherit;
+}
+
+.projectBoxTitleLink:hover,
+.projectBoxTitleLink:focus {
+    color: inherit;
+}

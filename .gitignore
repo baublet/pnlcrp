@@ -3,3 +3,4 @@
 .sass-cache
 node_modules
 !/formatted/.gitkeep
+.DS_Store
