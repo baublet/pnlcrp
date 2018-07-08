@@ -1,0 +1,11 @@
+{% if title %}
+<div class="pageTitle">
+    <h1>{{ title }}</h1>
+    {% if subtitle %}
+        <h2>{{ subtitle }}</h2>
+    {% endif %}
+    {% if author %}
+        <div class="author">by Eleanor Mahoney</div>
+    {% endif %}
+</div>
+{% endif %}
