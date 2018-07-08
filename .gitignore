@@ -2,3 +2,4 @@
 !.gitkeep
 .sass-cache
 node_modules
+!/formatted/.gitkeep
