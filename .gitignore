@@ -1,4 +1,4 @@
-/formatted
+/formatted/*
 !.gitkeep
 .sass-cache
 node_modules
