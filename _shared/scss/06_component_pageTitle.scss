@@ -7,9 +7,6 @@
 	text-shadow: 2px 2px 0 black, 2px 2px 5px rgba(black, .5);
 
 	* {
-		max-width: $max-body-width;
-		margin: 0 auto;
-		padding: 0 $spacing-normal;
 		+ * {
 			margin-top: $spacing-small;
 		}

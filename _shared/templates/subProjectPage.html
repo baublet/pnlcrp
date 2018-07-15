@@ -1,0 +1,121 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta content="width=device-width, initial-scale=1" name="viewport">
+		<title>
+		{% if title %}
+			{{ title }}
+			{% if subProjectTitle %} - {% endif %}
+		{% endif %}
+		{% if subProjectTitle %}{{ subProjectTitle }}{% endif %}
+		</title>
+		{% include "./stylesHeader.html" %}
+		{% block css %}{% endblock %}
+		{% include "./scriptsHeader.html" %}
+		{% block headerJs %}{% endblock %}
+	</head>
+	<body>
+		<a href="#content" class="screen-reader-text">Skip to content</a>
+		<div class="header">
+			<div class="contentBlock">
+				<div class="logo">
+					<h1 class="logoH1">
+					<a href="/civilr/" class="logoLink">
+						<img src="img/base/logo-mobile.svg" alt="Pacific Northwest Labor and Civil Rights Project" class="logoImage logoMobile" />
+						<img src="img/base/logo-mobile.svg" alt="Pacific Northwest Labor and Civil Rights Project" class="logoImage logoDesktop" />
+					</a>
+					</h1>
+				</div>
+				<div class="search search--top">
+					<form method="get" action="http://www.google.com/search" _lpchecked="1" class="searchForm">
+						<input type="text" name="q" class="searchInput" placeholder="Search the Projects" maxlength="255">
+						<button type="submit" name="sa" class="searchButton"><span class="screen-reader-text">Search</span></button>
+						<input type="hidden" name="hq" value="site:depts.washington.edu/depress OR site:depts.washington.edu/civilr OR site:depts.washington.edu/labhist">
+						<input type="hidden" name="site" value="search">
+						<input type="hidden" name="hl" value="en">
+						<input type="hidden" name="lr" value="">
+						<input type="hidden" name="safe" value="off">
+					</form>
+				</div>
+				<div class="navigation">
+					<input type="checkbox" id="navigationToggleCheck" />
+					<label for="navigationToggleCheck" id="navigationToggleLabel">
+						<span>Navigation</span>
+						<i class="fas fa-bars"></i>
+					</label>
+					<div class="navigationItems">
+						{% include "./projects.html" %}
+						<h3 class="navigationCurrentProject">{{ projectTitle }}</h3>
+						<div class="navigationList">
+							{% block navigation %}{% endblock %}
+						</div>
+						<input type="checkbox" id="navigationOverflow" />
+						<label for="navigationOverflow" class="hide-on-mobile">
+							<span>Explore the Project</span>
+							<i class="fas fa-bars"></i>
+						</label>
+						<div class="navigationOverflow" id="navigationOverflow">
+							<label for="navigationOverflow" class="hide-on-mobile">
+								<span>Close</span>
+								<i class="far fa-times-circle"></i>
+							</label>
+							<h3>Navigation</h3>
+							{% block navigationOverflow %}{% endblock %}
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="pageTitle pageTitle--subProject">
+			<div class="contentBlock">
+				<h1>{{ subProjectTitle }}</h1>
+				{% if subProjectSubtitle %}
+					<h2>{{ subProjectSubtitle }}</h2>
+				{% endif %}
+				{% block subProjectMenu %}{% endblock %}
+			</div>
+		</div>
+		{% if not subProjectLanding %}
+			{% if title %}
+				<div class="subProjectPageTitle">
+					<h1>{{ title }}</h1>
+					{% if subtitle %}
+						<h2>{{ subtitle }}</h2>
+					{% endif %}
+					{% if author %}
+						<div class="author">by Eleanor Mahoney</div>
+					{% endif %}
+				</div>
+			{% endif %}
+		{% endif %}
+		<div class="body contentBlock longForm" id="content">
+			{% block content %}
+				Content
+			{% endblock %}
+		</div>
+		<div class="footer">
+			<div class="contentBlock">
+				<div class="grid">
+					<div class="w-1/3">
+						<a href="/civilr/copyright.htm">©2004-2018</a>
+						<br />
+						<a href="/civilr/copyright.htm">How to cite and copyright information</a>
+					</div>
+					<div class="w-1/3">
+						About project
+						<br>
+						Contact James Gregory
+					</div>
+					<div class="w-1/3">
+						Pacific Northwest Labor and Civil Rights Projects
+						<br>
+						University of Washington
+					</div>
+				</div>
+			</div>
+		</div>
+		{% include "./scriptsFooter.html" %}
+		{% block footerJs %}{% endblock %}
+	</body>
+</html>

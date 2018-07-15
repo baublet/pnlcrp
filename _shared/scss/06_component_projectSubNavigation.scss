@@ -1,16 +1,31 @@
+.pageTitle--subProject {
+    padding-bottom: $spacing-normal;
+}
+
 .projectSubNavigation {
-    margin: $spacing-large 0;
-    font-size: $font-size-smaller;
+    margin: $spacing-normal 0 0;
+    font-size: $font-size-small;
     overflow-x: auto;
     overflow-y: hidden;
     white-space: nowrap;
+    max-width: $max-body-width;
 }
 
 .projectSubNavigation a {
-    color: $color-primary;
+    color: $color-background;
     text-decoration: none;
     display: inline-block;
+    background: $color-primary;
+    padding: $spacing-small;
+    border-radius: 3px;
+    text-shadow: none;
     + a {
         margin-left: $spacing-small;
+    }
+    &:hover,
+    &:focus,
+    &:active {
+        background: $color-background;
+        color: $color-foreground;
     }
 }

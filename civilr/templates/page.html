@@ -1,9 +1,7 @@
-{% include "./header.html" %}
-
-{% include "./templates/pageTitle" %}
-
-{% block content %}
-    Content
+{% extends "../../_shared/templates/page.html" %}
+{% block navigation %}
+	{% include "./navigation.html" %}
 {% endblock %}
-
-{% include "./footer.html" %}
+{% block navigationOverflow %}
+	{% include "./navigationOverflow.html" %}
+{% endblock %}

@@ -17,7 +17,9 @@
 	}
 	hr {
 		border: 0;
-		border-bottom: 1px solid rgba($color-foreground, .25);
+		border-bottom: 1px solid rgba($color-foreground, .15);
+		margin: $spacing-larger 0;
+		width: 50%;
 	}
 	a[name*="ref"] {
 		color: $color-foreground;
@@ -33,5 +35,8 @@
 		clear: left;
 		margin-right: $spacing-small;
 		text-decoration: none;
+	}
+	li {
+		max-width: $max-paragraph-line-width;
 	}
 }

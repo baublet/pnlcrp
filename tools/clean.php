@@ -72,11 +72,25 @@ function removeUnusedElements(DOMNode $domNode)
     }
 }
 
+function removeInlineUtf8($output)
+{
+    return str_replace(
+        ["‘", "’", "“", "”"],
+        ["&lsquo;", "&rsquo;", "&ldquo;", "&rdquo;"],
+        $output
+    );
+}
+
+function removeMsoStuff($output)
+{
+    return str_replace("class=\"MsoNormal\"", "", $output);
+}
+
 function removeWhiteSpace($output)
 {
     return preg_replace(
-        ["/>\s+/", "/\s+/", "/\s+</"],
-        [">"  ,    " ",     "<"],
+        ["/>\s+/", "/\s+/", "/\s+</", "/<p>\s+/"],
+        ["> "  ,    " ",     " <",    "<p>"],
         $output
     );
 }
@@ -203,14 +217,18 @@ echo "\n\n";
 $files = scanDirectories($sourceDirectory);
 
 // Setup our processor functions
+$preprocessors = [
+    "removeInlineUtf8"
+];
+
 $processors = [
     "removeAttributes",
     "removeUnusedElements",
     "removeEmptyNodes"
 ];
 
-// Setup our post-processors
 $postProcessors = [
+    "removeMsoStuff",
     "removeNbsp",
     "removeComments",
     "removeTables",
@@ -225,6 +243,10 @@ foreach ($files as $file) {
     $fileContents = file_get_contents($source);
 
     echo "Running filters on " . $file . " ";
+
+    foreach ($preprocessors as $process) {
+        $fileContents = $process($fileContents);
+    }
 
     $doc = new DOMDocument();
     @$doc->loadHTML($fileContents);

@@ -10,7 +10,6 @@
 	@include onDesktop() {
 		box-shadow: none;
 		position: static;
-		white-space: nowrap;
 		margin: $spacing-small 0 0 $spacing-normal;
 		text-align: right;
 		overflow: hidden;
@@ -36,7 +35,6 @@
 	position: absolute;
 	right: $spacing-normal;
 	top: 100%;
-	z-index: 1;
 	text-transform: uppercase;
 	font-size: $font-size-smaller;
 	font-weight: bold;
@@ -61,7 +59,6 @@
     	color: $color-foreground;
     }
 }
-
 
 @include onMobile() {
 	.navigation h3 {
@@ -108,12 +105,23 @@
 	}
 }
 
+.navigationList {
+	white-space: nowrap;
+}
+
 .navigationList a {
 	font-size: $font-size-small;
 	display: block;
 	text-decoration: none;
 	font-weight: bold;
 	color: $color-foreground;
+	text-align: center;
+	.fas {
+		display: block;
+		font-size: $font-size-large;
+		margin-bottom: $spacing-small;
+		opacity: .5;
+	}
 	@include onDesktop() {
 		position: relative;
 		display: inline-block;
@@ -135,8 +143,8 @@
 	}
 }
 
-navigation a:active,
-navigation a:focus {
+.navigation a:active,
+.navigation a:focus {
 	background: $color-primary;
 	color: $color-background;
 }
@@ -171,7 +179,7 @@ navigation a:focus {
 		right: 0;
 		left: 0;
 		text-align: left;
-		box-shadow: 0 15px 0 -5px rgba(0, 0, 0, 1);
+		box-shadow: 0 3px 10px -5px rgba($color-foreground, .5);
 		padding: 0 $spacing-normal $spacing-normal;
 	}
 	.navigationOverflow a {
@@ -192,8 +200,17 @@ navigation a:focus {
 	}
 	.navigationOverflow li {
 		width: 25%;
+		padding-left: 1rem;
+    	text-indent: -.35rem;
 	}
-
+	.navigationOverflow li a:before {
+		display: inline-block;
+		content: "\00BB";
+		font-weight: bold;
+		font-size: $font-size-small;
+		margin-right: $spacing-smaller;
+		color: rgba($color-foreground, .5);
+	}
 	#navigationOverflow ~ .navigationOverflow {
 		opacity: 0;
 		pointer-events: none;
@@ -216,4 +233,19 @@ navigation a:focus {
 	content: "Current Project";
 	pointer-events: none;
 	margin-bottom: $spacing-small;
+}
+
+.navigationOverflow h4 {
+	color: rgba($color-foreground, .5);
+	text-transform: uppercase;
+	font-size: $font-size-small;
+	margin-bottom: $spacing-normal;
+}
+
+.navigationOverflow hr {
+	border: 0;
+	height: 1px;
+	border-top: 1px solid rgba($color-foreground, .15);
+	margin: $spacing-large auto;
+	max-width: 90%;
 }
