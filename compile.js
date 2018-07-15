@@ -2,7 +2,8 @@ const config = require("./configuration.json"),
     nunjucks = require("nunjucks"),
     fs = require("fs"),
     path = require("path"),
-    ncp = require("ncp");
+    ncp = require("ncp"),
+    sharedDir = path.resolve(".", "_shared");
 
 for (let i = 0; i < config.directories.length; i++) {
     const baseDir = config.directories[i],
@@ -34,6 +35,8 @@ for (let i = 0; i < config.directories.length; i++) {
 
     // Copy all of the assets to the build directory
     ncp(path.resolve(baseDir, "css"), path.resolve(buildDir, "css"));
+    ncp(path.resolve(baseDir, "images"), path.resolve(buildDir, "images"));
+    ncp(path.resolve(sharedDir, "js"), path.resolve(buildDir, "js"));
 }
 
 function ensureDirectoryExistence(filePath) {

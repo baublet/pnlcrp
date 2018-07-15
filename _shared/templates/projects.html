@@ -1,11 +1,3 @@
 <div class="navigationOtherProjects" id="projects" data-on-click-toggle-class="on">
-    <h3>The Civil Rights and Labor History Consortium</h3>
-    <div class="navigationOtherProjectsList">
-    {% for project in projects %}
-        <div class="projectBox">
-            <a href="{{ project.url }}" class="projectBoxImageLink"><img src="{{ project.img }}" alt="{{ project.title }}" class="projectBoxImage" /></a>
-            <div class="projectBoxTitle"><a class="projectBoxTitleLink" href="{{ project.url }}">{{ project.title }}</a></div>
-        </div>
-    {% endfor %}
-    </div>
+    <div class="navigationOtherProjectsList" id="navigationProjectsList"></div>
 </div>

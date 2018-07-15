@@ -7,6 +7,7 @@
 	left: 0;
 	right: 0;
     box-shadow: 0 3px 5px -3px rgba($color-foreground, .5);
+    font-family: $font-family-small;
 	@include onDesktop() {
 		box-shadow: none;
 		position: static;
@@ -42,7 +43,7 @@
 	color: rgba($color-foreground, .75);
 	cursor: pointer;
 	background: $color-background;
-	background: linear-gradient($color-background, lighten($color-foreground, 70));
+	background: linear-gradient($color-background, darken(desaturate($color-background, 50), 15));
 	border-radius: 3px;
 	border-top-left-radius: 0;
 	border-top-right-radius: 0;
@@ -61,6 +62,14 @@
 }
 
 @include onMobile() {
+
+	.navigationList a:active,
+	.navigationList a:focus,
+	.navigationList a:active {
+		background: $color-primary;
+		color: $color-background;
+	}
+
 	.navigation h3 {
 		margin-bottom: $spacing-normal;
 	}
@@ -120,7 +129,14 @@
 		display: block;
 		font-size: $font-size-large;
 		margin-bottom: $spacing-small;
-		opacity: .5;
+		opacity: .15;
+	}
+	&:hover,
+	&:active,
+	&:focus {
+		.fas {
+			opacity: .25;
+		}
 	}
 	@include onDesktop() {
 		position: relative;
@@ -134,19 +150,13 @@
 			right: 0;
 			bottom: 0;
 			left: 0;
-			height: 3px;
+			height: 2px;
 			background: $color-primary;
 			opacity: 0;
 			transform: translateY(15px);
 			transition: all .15s ease-in-out;
 		}
 	}
-}
-
-.navigation a:active,
-.navigation a:focus {
-	background: $color-primary;
-	color: $color-background;
 }
 
 @include onDesktop() {
@@ -162,7 +172,8 @@
 		opacity: 1;
 	}
 	.navigation a:hover:after,
-	.navigation a:focus:after {
+	.navigation a:focus:after,
+	.navigation a:active:after {
 		opacity: 1;
 		transform: translateY(0);
 		border: transparent;
@@ -171,7 +182,7 @@
 		display: none;
 	}
 	.navigationOverflow {
-		font-family: $font-family-heading;
+		font-family: $font-family-small;
 		font-size: $font-size-small;
 		background: $color-background;
 		position: absolute;

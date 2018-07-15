@@ -26,6 +26,11 @@ function scanDirectories($rootDir, $allData = array())
 
 function removeAttributes(DOMNode $domNode)
 {
+    // Don't do this for iframes, since we need their width,
+    // height, and other attributes
+    if (isNodeType($domNode, ["iframe"])) {
+        return;
+    }
     if ($domNode->hasAttributes()) {
         $domNode->removeAttribute("style");
         $domNode->removeAttribute("height");
@@ -83,7 +88,11 @@ function removeInlineUtf8($output)
 
 function removeMsoStuff($output)
 {
-    return str_replace("class=\"MsoNormal\"", "", $output);
+    return str_replace(
+        ["class=\"MsoNormal\"", "class=\"arial10\""],
+        ["", ""],
+        $output
+    );
 }
 
 function removeWhiteSpace($output)
@@ -132,9 +141,10 @@ function removeTables($output)
     return preg_replace(
         [   "/<table.*>/U", "/<\/table>/U",
             "/<tr.*>/U", "/<\/tr>/U",
-            "/<td.*>/U", "/<\/td>/U"
+            "/<td.*>/U", "/<\/td>/U",
+            "/<tbody.*>/U", "/<\/tbody>/U",
         ],
-        ["", "", "", "", "", ""],
+        ["", "", "", "", "", "", ""],
         $output
     );
 }

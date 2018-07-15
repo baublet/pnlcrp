@@ -3,13 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta content="width=device-width, initial-scale=1" name="viewport">
-		<title>
-		{% if title %}
-			{{ title }}
-			{% if subProjectTitle %} - {% endif %}
-		{% endif %}
-		{% if subProjectTitle %}{{ subProjectTitle }}{% endif %}
-		</title>
+		<title>{{ title }}</title>
 		{% include "./stylesHeader.html" %}
 		{% block css %}{% endblock %}
 		{% include "./scriptsHeader.html" %}
@@ -20,12 +14,7 @@
 		<div class="header">
 			<div class="contentBlock">
 				<div class="logo">
-					<h1 class="logoH1">
-					<a href="/civilr/" class="logoLink">
-						<img src="img/base/logo-mobile.svg" alt="Pacific Northwest Labor and Civil Rights Project" class="logoImage logoMobile" />
-						<img src="img/base/logo-mobile.svg" alt="Pacific Northwest Labor and Civil Rights Project" class="logoImage logoDesktop" />
-					</a>
-					</h1>
+					{% block logo %}{% endblock %}
 				</div>
 				<div class="search search--top">
 					<form method="get" action="http://www.google.com/search" _lpchecked="1" class="searchForm">
@@ -67,32 +56,24 @@
 				</div>
 			</div>
 		</div>
-		<div class="pageTitle pageTitle--subProject">
-			<div class="contentBlock">
-				<h1>{{ subProjectTitle }}</h1>
-				{% if subProjectSubtitle %}
-					<h2>{{ subProjectSubtitle }}</h2>
-				{% endif %}
-				{% block subProjectMenu %}{% endblock %}
-			</div>
-		</div>
+		{% block subProjectMenu %}{% endblock %}
 		{% if not subProjectLanding %}
 			{% if title %}
 				<div class="subProjectPageTitle">
-					<h1>{{ title }}</h1>
-					{% if subtitle %}
-						<h2>{{ subtitle }}</h2>
-					{% endif %}
-					{% if author %}
-						<div class="author">by Eleanor Mahoney</div>
-					{% endif %}
+					<div class="contentBlock">
+						<h1>{{ title }}</h1>
+						{% if subtitle %}
+							<h2>{{ subtitle }}</h2>
+						{% endif %}
+						{% if author %}
+							<div class="author">by Eleanor Mahoney</div>
+						{% endif %}
+					</div>
 				</div>
 			{% endif %}
 		{% endif %}
 		<div class="body contentBlock longForm" id="content">
-			{% block content %}
-				Content
-			{% endblock %}
+			{% block content %}{% endblock %}
 		</div>
 		<div class="footer">
 			<div class="contentBlock">

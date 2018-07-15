@@ -1,0 +1,29 @@
+.subProjectPageTitle {
+	margin: $spacing-larger 0;
+	.contentBlock {
+		position: relative;
+		padding-bottom: $spacing-normal;
+	}
+	.contentBlock:after {
+		display: block;
+		content: "";
+		position: absolute;
+		bottom: 0;
+		left: $spacing-normal;
+		right: 95%;
+		height: 1px;
+		background: rgba($color-foreground, .15);
+	}
+	h1 {
+		font-weight: 100;
+		font-size: $font-size-largest;
+	}
+	h2 {
+		font-size: $font-size-small;
+		font-family: $font-family-small;
+		text-transform: uppercase;
+		margin-top: 0;
+		font-weight: bold;
+    	color: rgba($color-foreground, .5);
+	}
+}

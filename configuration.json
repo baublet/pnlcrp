@@ -1,58 +1,5 @@
 {
     "directories": [
         "civilr"
-    ],
-    "projects": [{
-        "title": "Seattle Civil Rights and Labor History Project",
-        "url": "http://depts.washington.edu/civilr/",
-        "img": "http://depts.washington.edu/civilr/img/project-image.png"
-    }, {
-        "title": "Great Depression in Washington State Project",
-        "url": "http://depts.washington.edu/civilr/",
-        "img": "http://depts.washington.edu/civilr/img/project-image.png"
-    }, {
-        "title": "Data Mapping Washington Labor and Civil Rights History",
-        "url": "http://depts.washington.edu/civilr/",
-        "img": "http://depts.washington.edu/civilr/img/project-image.png"
-    }, {
-        "title": "Waterfront Workers History Project",
-        "url": "http://depts.washington.edu/civilr/",
-        "img": "http://depts.washington.edu/civilr/img/project-image.png"
-    }, {
-        "title": "Pacific Northwest Antiwar and Radical History Project",
-        "url": "http://depts.washington.edu/civilr/",
-        "img": "http://depts.washington.edu/civilr/img/project-image.png"
-    }, {
-        "title": "Seattle General Strike of 1919 Project",
-        "url": "http://depts.washington.edu/civilr/",
-        "img": "http://depts.washington.edu/civilr/img/project-image.png"
-    }, {
-        "title": "Mapping American Social Movements through the Twentieth Century",
-        "url": "http://depts.washington.edu/civilr/",
-        "img": "http://depts.washington.edu/civilr/img/project-image.png"
-    }, {
-        "title": "Communism in Washington State History and Memory Project",
-        "url": "http://depts.washington.edu/civilr/",
-        "img": "http://depts.washington.edu/civilr/img/project-image.png"
-    }, {
-        "title": "IWW History Project--The Industrial Workers of the World 1905-1935",
-        "url": "http://depts.washington.edu/civilr/",
-        "img": "http://depts.washington.edu/civilr/img/project-image.png"
-    }, {
-        "title": "Upton Sinclair's End Poverty in California Campaign",
-        "url": "http://depts.washington.edu/civilr/",
-        "img": "http://depts.washington.edu/civilr/img/project-image.png"
-    }, {
-        "title": "Strikes! Labor History Encyclopedia for the Pacific Northwest",
-        "url": "http://depts.washington.edu/civilr/",
-        "img": "http://depts.washington.edu/civilr/img/project-image.png"
-    }, {
-        "title": "Labor Press Project",
-        "url": "http://depts.washington.edu/civilr/",
-        "img": "http://depts.washington.edu/civilr/img/project-image.png"
-    }, {
-        "title": "America's Great Migrations",
-        "url": "http://depts.washington.edu/civilr/",
-        "img": "http://depts.washington.edu/civilr/img/project-image.png"
-    }]
+    ]
 }

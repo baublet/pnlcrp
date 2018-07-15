@@ -1,0 +1,38 @@
+.pagePreviewCard {
+	display: block;
+	vertical-align: top;
+	overflow: auto;
+	margin-bottom: $spacing-large;
+	font-size: $font-size-small;
+	p {
+		padding-left: calc(100px + #{$spacing-normal});
+	}
+	a {
+		font-size: $font-size-large;
+		text-decoration: none;
+		color: $color-foreground;
+		border-bottom: 1px solid rgba($color-foreground, .15);
+		&:hover,
+		&:active,
+		&:focus {
+			border-bottom-color: $color-primary;
+		}
+	}
+	img {
+		float: left;
+		margin-left: calc(-100px - #{$spacing-normal});
+		width: 100px;
+		height: auto;
+		max-width: 50%;
+		border-radius: 5px;
+	}
+	@include onDesktop() {
+		display: inline-block;
+		width: 40%;
+		margin-bottom: $spacing-normal;
+		&:nth-child(even) {
+			margin-left: $spacing-small;
+		}
+		@include card();
+	}
+}

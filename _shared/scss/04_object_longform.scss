@@ -1,4 +1,7 @@
 .longForm {
+	h2, h3, h4, h5, h6 {
+		margin-bottom: $spacing-normal;
+	}
 	h2 {
 		font-size: $font-size-large;
 	}
@@ -38,5 +41,13 @@
 	}
 	li {
 		max-width: $max-paragraph-line-width;
+	}
+	iframe[src*="youtube"] {
+		display: block;
+		border: 0;
+		width: 100%;
+		height: auto;
+		min-height: 600px;
+		max-height: 90vh;
 	}
 }

@@ -10,7 +10,7 @@ html {
 
 body {
   background: $color-background;
-  text: $color-foreground;
+  color: $color-foreground;
   font-family: $font-family;
   line-height: 1.6;
   margin: 0;
@@ -21,7 +21,6 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
-  font-family: $font-family-heading;
   line-height: 1;
   margin: 0;
   padding: 0;

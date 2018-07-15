@@ -1,0 +1,45 @@
+.rightCaption,
+.leftCaption,
+.centerCaption {
+	display: block;
+	width: 100%;
+	margin: $spacing-normal 0;
+	font-family: $font-family-small;
+	font-size: $font-size-small;
+	img {
+		border-radius: 5px;
+		margin-bottom: $spacing-normal;
+	}
+}
+
+.rightCaption,
+.leftCaption {
+	@include onDesktop() {
+		max-width: 33%;
+		padding: $spacing-normal;
+		width: auto;
+		float: right;
+		margin: $spacing-normal;
+		margin-right: 0;
+	}
+}
+
+.leftCaption {
+	@include onDesktop() {
+		margin: $spacing-normal;
+		margin-left: 0;
+	}
+}
+
+.caption--alwaysFloat {
+	&.rightCaption {
+		width: auto;
+		float: right;
+		margin: $spacing-normal;
+		margin-right: 0;
+	}
+	&:leftCaption {
+		margin: $spacing-normal;
+		margin-left: 0;
+	}
+}

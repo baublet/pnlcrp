@@ -21,3 +21,13 @@
 		display: none;
 	}
 }
+
+@mixin card() {
+	padding: $spacing-normal;
+	box-shadow: 0 3px 8px -3px rgba($color-foreground, .25);
+	border-radius: 5px;
+	border: 1px solid transparent;
+	&:hover {
+		border-color: rgba($color-foreground, .1);
+	}
+}

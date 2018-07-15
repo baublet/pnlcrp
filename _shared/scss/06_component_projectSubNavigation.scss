@@ -3,12 +3,16 @@
 }
 
 .projectSubNavigation {
-    margin: $spacing-normal 0 0;
+    margin: $spacing-normal -#{$spacing-normal} 0;
     font-size: $font-size-small;
+    font-family: $font-family-small;
     overflow-x: auto;
     overflow-y: hidden;
     white-space: nowrap;
     max-width: $max-body-width;
+    @include onDesktop() {
+        margin: $spacing-normal 0 0;
+    }
 }
 
 .projectSubNavigation a {
